@@ -1,0 +1,9190 @@
+t # 0
+v 0 paella
+v 1 bit
+v 2 everyth
+v 3 love
+v 4 rice
+v 5 seafood
+v 6 import
+v 7 socarrat
+v 8 crispi
+v 9 crunchi
+v 10 toast
+v 11 ever
+v 12 obsess
+v 13 dish
+v 14 even
+v 15 though
+v 16 youv
+v 17 never
+v 18 eaten
+v 19 one
+v 20 food
+v 21 bucket
+v 22 list
+v 23 item
+v 24 dont
+v 25 rememb
+v 26 becam
+v 27 birthplac
+v 28 valencia
+v 29 im
+v 30 pretti
+v 31 sure
+v 32 someth
+v 33 fact
+v 34 icon
+v 35 peopl
+v 36 around
+v 37 world
+v 38 think
+v 39 quintessenti
+v 40 spanish
+v 41 actual
+v 42 valencian
+v 43 mean
+v 44 spain
+v 45 good
+v 46 year
+v 47 ago
+v 48 mike
+v 49 went
+v 50 first
+v 51 thing
+v 52 ate
+v 53 liter
+v 54 got
+v 55 train
+v 56 restaur
+v 57 way
+v 58 bunch
+v 59 orang
+v 60 tree
+v 61 tempt
+v 62 look
+v 63 appar
+v 64 line
+v 65 street
+v 66 sweet
+v 67 use
+v 68 juic
+v 69 anyway
+v 70 imagin
+v 71 meal
+v 72 either
+v 73 churro
+v 74 dip
+v 75 chocol
+v 76 juici
+v 77 season
+v 78 meat
+v 79 tendercrisp
+v 80 bean
+v 81 best
+v 82 part
+v 83 saffron
+v 84 scent
+v 85 toasti
+v 86 dream
+v 87 come
+v 88 true
+v 89 pronounc
+v 90 payehyah
+v 91 made
+v 92 shallow
+v 93 wide
+v 94 pan
+v 95 open
+v 96 fire
+v 97 fri
+v 98 tradit
+v 99 includ
+v 100 short
+v 101 grain
+v 102 green
+v 103 rabbit
+v 104 chicken
+v 105 nowaday
+v 106 huge
+v 107 number
+v 108 variat
+v 109 vegetarian
+v 110 mixta
+v 111 essenti
+v 112 mix
+v 113 veget
+v 114 make
+v 115 soak
+v 116 releas
+v 117 color
+v 118 aroma
+v 119 pop
+v 120 small
+v 121 bowl
+v 122 hot
+v 123 water
+v 124 set
+v 125 asid
+v 126 sear
+v 127 protein
+v 128 heat
+v 129 oliv
+v 130 oil
+v 131 medium
+v 132 high
+v 133 give
+v 134 quick
+v 135 goe
+v 136 skin
+v 137 side
+v 138 chorizo
+v 139 get
+v 140 brown
+v 141 shrimp
+v 142 toss
+v 143 remov
+v 144 doesnt
+v 145 cook
+v 146 sweat
+v 147 aromat
+v 148 add
+v 149 onion
+v 150 garlic
+v 151 tomato
+v 152 paprika
+v 153 stir
+v 154 soft
+v 155 fragrant
+v 156 liquid
+v 157 care
+v 158 stock
+v 159 bring
+v 160 boil
+v 161 flip
+v 162 time
+v 163 sprinkl
+v 164 tri
+v 165 thin
+v 166 layer
+v 167 spoon
+v 168 spread
+v 169 need
+v 170 let
+v 171 simmer
+v 172 uncov
+v 173 absorb
+v 174 almost
+v 175 nestl
+v 176 clam
+v 177 back
+v 178 top
+v 179 low
+v 180 al
+v 181 denot
+v 182 turn
+v 183 12
+v 184 minut
+v 185 creat
+v 186 crust
+v 187 rest
+v 188 enjoy
+v 189 cover
+v 190 foil
+v 191 5
+v 192 ingredi
+v 193 truli
+v 194 bomba
+v 195 choic
+v 196 3
+v 197 much
+v 198 regular
+v 199 flavor
+v 200 plus
+v 201 right
+v 202 stay
+v 203 firm
+v 204 dent
+v 205 usual
+v 206 find
+v 207 whole
+v 208 onlin
+v 209 smoke
+v 210 bittersweet
+v 211 go
+v 212 smoki
+v 213 there
+v 214 lot
+v 215 controversi
+v 216 kind
+v 217 your
+v 218 super
+v 219 concern
+v 220 authent
+v 221 custom
+v 222 put
+v 223 anyth
+v 224 want
+v 225 dri
+v 226 cure
+v 227 mexican
+v 228 avail
+v 229 that
+v 230 okay
+v 231 purist
+v 232 say
+v 233 overwhelm
+v 234 weve
+v 235 multipl
+v 236 without
+v 237 person
+v 238 pork
+v 239 realli
+v 240 especi
+v 241 sort
+v 242 varieti
+v 243 isnt
+v 244 common
+v 245 north
+v 246 america
+v 247 sub
+v 248 pepper
+v 249 asparagus
+v 250 artichok
+v 251 pea
+v 252 chickpea
+v 253 like
+v 254 wild
+v 255 nice
+v 256 what
+v 257 insid
+v 258 said
+v 259 salt
+v 260 advers
+v 261 would
+v 262 sodium
+v 263 afterward
+v 264 homemad
+v 265 seafoodshellfish
+v 266 easier
+v 267 control
+v 268 gorgeous
+v 269 golden
+v 270 hue
+v 271 thread
+v 272 earthi
+v 273 floral
+v 274 distinct
+v 275 expens
+v 276 spice
+v 277 teaspoon
+v 278 definit
+v 279 overal
+v 280 skip
+v 281 deep
+v 282 redorang
+v 283 sold
+v 284 larg
+v 285 groceri
+v 286 store
+v 287 specialti
+v 288 cours
+v 289 width
+v 290 help
+v 291 distribut
+v 292 ensur
+v 293 feed
+v 294 two
+v 295 general
+v 296 1012
+v 297 inch
+v 298 serv
+v 299 eight
+v 300 18
+v 301 popular
+v 302 size
+e 0 1 2
+e 0 19 2
+e 0 27 2
+e 0 30 2
+e 0 53 2
+e 0 56 2
+e 0 44 2
+e 0 40 2
+e 0 51 2
+e 0 0 2
+e 0 89 2
+e 0 43 2
+e 0 99 2
+e 0 111 2
+e 0 78 2
+e 0 115 2
+e 0 94 2
+e 0 190 2
+e 0 192 2
+e 0 193 2
+e 0 217 2
+e 0 222 2
+e 0 28 2
+e 0 113 2
+e 0 268 2
+e 1 2 2
+e 1 11 2
+e 1 86 2
+e 1 7 2
+e 2 3 2
+e 2 160 2
+e 2 87 2
+e 3 4 2
+e 4 5 2
+e 4 1 2
+e 4 8 2
+e 4 13 2
+e 4 102 2
+e 4 162 2
+e 4 164 2
+e 4 173 2
+e 4 180 2
+e 4 186 2
+e 4 0 2
+e 4 4 2
+e 4 6 2
+e 4 44 2
+e 4 133 2
+e 4 207 2
+e 4 258 2
+e 4 291 2
+e 4 145 2
+e 5 6 2
+e 5 109 2
+e 5 113 2
+e 5 175 2
+e 5 239 2
+e 6 7 2
+e 6 192 2
+e 6 85 2
+e 7 8 2
+e 7 162 2
+e 7 217 2
+e 8 9 2
+e 8 85 2
+e 9 10 2
+e 9 4 2
+e 10 4 2
+e 11 12 2
+e 12 13 2
+e 12 0 2
+e 13 14 2
+e 13 0 2
+e 13 34 2
+e 13 91 2
+e 14 15 2
+e 14 166 2
+e 14 266 2
+e 14 117 2
+e 15 16 2
+e 15 41 2
+e 16 17 2
+e 17 18 2
+e 18 13 2
+e 19 20 2
+e 19 67 2
+e 19 275 2
+e 20 21 2
+e 20 208 2
+e 20 286 2
+e 21 22 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 24 280 2
+e 25 26 2
+e 26 12 2
+e 27 28 2
+e 28 29 2
+e 28 44 2
+e 28 50 2
+e 28 66 2
+e 28 72 2
+e 28 236 2
+e 28 205 2
+e 29 30 2
+e 30 31 2
+e 30 34 2
+e 30 61 2
+e 30 148 2
+e 31 32 2
+e 32 33 2
+e 33 0 2
+e 34 13 2
+e 34 35 2
+e 35 36 2
+e 36 37 2
+e 37 38 2
+e 37 169 2
+e 38 39 2
+e 38 229 2
+e 39 40 2
+e 40 13 2
+e 40 73 2
+e 40 152 2
+e 40 138 2
+e 41 42 2
+e 42 43 2
+e 42 59 2
+e 42 98 2
+e 43 28 2
+e 43 97 2
+e 44 45 2
+e 44 81 2
+e 45 46 2
+e 45 70 2
+e 45 71 2
+e 45 76 2
+e 46 47 2
+e 47 48 2
+e 48 49 2
+e 49 28 2
+e 49 0 2
+e 50 51 2
+e 51 52 2
+e 51 45 2
+e 52 0 2
+e 53 54 2
+e 54 55 2
+e 55 49 2
+e 56 57 2
+e 57 58 2
+e 58 42 2
+e 59 60 2
+e 59 63 2
+e 59 271 2
+e 60 30 2
+e 60 64 2
+e 61 62 2
+e 62 59 2
+e 62 83 2
+e 63 59 2
+e 64 65 2
+e 65 28 2
+e 66 19 2
+e 66 210 2
+e 66 209 2
+e 67 68 2
+e 67 167 2
+e 67 99 2
+e 68 69 2
+e 69 0 2
+e 70 45 2
+e 71 28 2
+e 72 0 2
+e 73 74 2
+e 74 75 2
+e 75 0 2
+e 76 77 2
+e 77 78 2
+e 77 158 2
+e 77 263 2
+e 77 199 2
+e 78 79 2
+e 78 5 2
+e 79 80 2
+e 80 81 2
+e 80 103 2
+e 80 242 2
+e 80 148 2
+e 80 252 2
+e 81 82 2
+e 81 195 2
+e 82 83 2
+e 83 84 2
+e 83 105 2
+e 83 116 2
+e 83 120 2
+e 83 123 2
+e 83 83 2
+e 83 133 2
+e 83 19 2
+e 83 271 2
+e 83 283 2
+e 84 4 2
+e 85 4 2
+e 85 9 2
+e 86 87 2
+e 86 113 2
+e 87 88 2
+e 87 171 2
+e 87 66 2
+e 88 0 2
+e 89 90 2
+e 90 4 2
+e 91 92 2
+e 91 110 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 94 42 2
+e 94 131 2
+e 94 224 2
+e 94 289 2
+e 94 290 2
+e 94 293 2
+e 94 298 2
+e 94 302 2
+e 95 96 2
+e 95 4 2
+e 96 0 2
+e 97 94 2
+e 98 0 2
+e 99 100 2
+e 99 104 2
+e 100 101 2
+e 101 4 2
+e 102 80 2
+e 103 104 2
+e 104 83 2
+e 104 135 2
+e 104 158 2
+e 104 136 2
+e 104 238 2
+e 105 106 2
+e 106 107 2
+e 107 108 2
+e 108 5 2
+e 109 91 2
+e 110 0 2
+e 111 112 2
+e 112 0 2
+e 113 114 2
+e 113 0 2
+e 113 240 2
+e 114 0 2
+e 114 264 2
+e 114 14 2
+e 115 83 2
+e 116 117 2
+e 117 118 2
+e 117 127 2
+e 117 83 2
+e 118 119 2
+e 118 117 2
+e 119 83 2
+e 120 121 2
+e 121 122 2
+e 122 123 2
+e 123 124 2
+e 123 159 2
+e 124 125 2
+e 125 126 2
+e 126 127 2
+e 126 104 2
+e 127 128 2
+e 127 134 2
+e 127 213 2
+e 127 135 2
+e 127 67 2
+e 127 211 2
+e 128 129 2
+e 128 133 2
+e 128 132 2
+e 129 130 2
+e 129 80 2
+e 130 0 2
+e 131 132 2
+e 132 128 2
+e 132 183 2
+e 133 127 2
+e 133 196 2
+e 133 0 2
+e 134 126 2
+e 134 142 2
+e 135 136 2
+e 135 0 2
+e 136 137 2
+e 137 138 2
+e 137 30 2
+e 138 139 2
+e 138 164 2
+e 138 225 2
+e 138 228 2
+e 138 233 2
+e 138 237 2
+e 139 140 2
+e 139 134 2
+e 139 40 2
+e 140 141 2
+e 141 139 2
+e 141 177 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 146 2
+e 145 153 2
+e 145 172 2
+e 145 179 2
+e 145 201 2
+e 145 165 2
+e 146 147 2
+e 147 148 2
+e 148 149 2
+e 148 156 2
+e 148 104 2
+e 148 4 2
+e 148 165 2
+e 148 5 2
+e 148 141 2
+e 148 212 2
+e 148 248 2
+e 148 199 2
+e 148 274 2
+e 148 279 2
+e 149 150 2
+e 150 151 2
+e 151 152 2
+e 152 145 2
+e 152 209 2
+e 152 87 2
+e 152 148 2
+e 153 154 2
+e 154 155 2
+e 155 148 2
+e 156 157 2
+e 156 148 2
+e 156 198 2
+e 156 173 2
+e 157 148 2
+e 158 83 2
+e 158 255 2
+e 158 256 2
+e 158 77 2
+e 158 114 2
+e 159 2 2
+e 160 161 2
+e 161 104 2
+e 162 163 2
+e 162 182 2
+e 162 197 2
+e 162 114 2
+e 163 4 2
+e 164 148 2
+e 164 139 2
+e 165 14 2
+e 165 166 2
+e 166 67 2
+e 166 94 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 169 183 2
+e 169 0 2
+e 170 2 2
+e 170 187 2
+e 171 145 2
+e 172 4 2
+e 173 174 2
+e 173 196 2
+e 173 200 2
+e 174 156 2
+e 175 176 2
+e 176 148 2
+e 176 95 2
+e 177 178 2
+e 178 145 2
+e 179 176 2
+e 179 262 2
+e 180 181 2
+e 180 204 2
+e 181 7 2
+e 182 128 2
+e 183 184 2
+e 183 277 2
+e 184 185 2
+e 184 188 2
+e 185 8 2
+e 186 187 2
+e 187 188 2
+e 187 191 2
+e 188 189 2
+e 188 0 2
+e 189 0 2
+e 190 170 2
+e 191 184 2
+e 192 4 2
+e 192 194 2
+e 193 4 2
+e 194 4 2
+e 195 173 2
+e 195 127 2
+e 196 162 2
+e 197 156 2
+e 197 199 2
+e 198 4 2
+e 199 156 2
+e 199 234 2
+e 199 257 2
+e 199 83 2
+e 199 24 2
+e 200 145 2
+e 201 202 2
+e 202 203 2
+e 203 180 2
+e 204 205 2
+e 205 206 2
+e 205 241 2
+e 206 194 2
+e 207 20 2
+e 208 209 2
+e 208 0 2
+e 209 40 2
+e 209 152 2
+e 210 211 2
+e 211 66 2
+e 211 138 2
+e 211 254 2
+e 211 148 2
+e 211 169 2
+e 212 118 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 216 127 2
+e 217 218 2
+e 217 211 2
+e 217 259 2
+e 218 219 2
+e 219 220 2
+e 220 221 2
+e 221 0 2
+e 222 223 2
+e 223 224 2
+e 223 86 2
+e 224 217 2
+e 224 6 2
+e 225 226 2
+e 226 227 2
+e 227 138 2
+e 228 38 2
+e 229 230 2
+e 230 231 2
+e 231 232 2
+e 232 138 2
+e 233 199 2
+e 234 235 2
+e 235 0 2
+e 236 138 2
+e 237 195 2
+e 238 5 2
+e 239 223 2
+e 239 253 2
+e 240 0 2
+e 241 102 2
+e 242 243 2
+e 243 244 2
+e 244 245 2
+e 245 246 2
+e 246 247 2
+e 247 102 2
+e 248 249 2
+e 249 250 2
+e 250 251 2
+e 251 129 2
+e 252 239 2
+e 253 127 2
+e 254 158 2
+e 255 77 2
+e 256 211 2
+e 257 194 2
+e 258 217 2
+e 259 260 2
+e 260 261 2
+e 261 179 2
+e 262 158 2
+e 263 162 2
+e 264 265 2
+e 265 104 2
+e 266 267 2
+e 267 77 2
+e 268 269 2
+e 269 270 2
+e 270 59 2
+e 271 272 2
+e 271 281 2
+e 272 273 2
+e 273 148 2
+e 274 199 2
+e 275 276 2
+e 276 37 2
+e 277 278 2
+e 278 148 2
+e 279 199 2
+e 280 62 2
+e 281 282 2
+e 282 14 2
+e 283 284 2
+e 284 285 2
+e 285 286 2
+e 286 287 2
+e 286 288 2
+e 287 20 2
+e 288 208 2
+e 289 0 2
+e 290 4 2
+e 291 292 2
+e 292 4 2
+e 293 294 2
+e 294 295 2
+e 295 296 2
+e 296 297 2
+e 297 94 2
+e 297 301 2
+e 298 299 2
+e 299 300 2
+e 300 297 2
+e 301 94 2
+t # 1
+v 0 your
+v 1 30
+v 2 minut
+v 3 away
+v 4 super
+v 5 easi
+v 6 air
+v 7 fryer
+v 8 oven
+v 9 bake
+v 10 korean
+v 11 fri
+v 12 chicken
+v 13 youv
+v 14 never
+v 15 tri
+v 16 extra
+v 17 crunchi
+v 18 doubl
+v 19 toss
+v 20 sweet
+v 21 spici
+v 22 sauc
+v 23 like
+v 24 best
+v 25 hot
+v 26 wing
+v 27 ever
+v 28 classic
+v 29 crispi
+v 30 drummett
+v 31 coat
+v 32 sticki
+v 33 buffalo
+v 34 amp
+v 35 power
+v 36 gochujang
+v 37 weve
+v 38 alway
+v 39 love
+v 40 idea
+v 41 make
+v 42 home
+v 43 even
+v 44 much
+v 45 cook
+v 46 deep
+v 47 fun
+v 48 done
+v 49 steph
+v 50 suggest
+v 51 use
+v 52 thought
+v 53 genius
+v 54 develop
+v 55 techniqu
+v 56 produc
+v 57 pretti
+v 58 darn
+v 59 think
+v 60 rival
+v 61 version
+v 62 way
+v 63 healthier
+v 64 secret
+v 65 work
+v 66 well
+v 67 easier
+v 68 first
+v 69 spraymist
+v 70 oil
+v 71 total
+v 72 necessari
+v 73 realli
+v 74 help
+v 75 heat
+v 76 transfer
+v 77 salt
+v 78 pepper
+v 79 corn
+v 80 potato
+v 81 starch
+v 82 asianstyl
+v 83 made
+v 84 lighter
+v 85 crispier
+v 86 outer
+v 87 shell
+v 88 400ºf
+v 89 15
+v 90 there
+v 91 need
+v 92 preheat
+v 93 combin
+v 94 ingredi
+v 95 slight
+v 96 boil
+v 97 microwav
+v 98 flip
+v 99 continu
+v 100 anoth
+v 101 5
+v 102 remov
+v 103 let
+v 104 cool
+v 105 spray
+v 106 final
+v 107 time
+v 108 enjoy
+v 109 immedi
+v 110 lot
+v 111 sometim
+v 112 multipl
+v 113 pound
+v 114 tend
+v 115 small
+v 116 basket
+v 117 fit
+v 118 one
+v 119 perfect
+v 120 could
+v 121 easili
+v 122 batch
+v 123 achiev
+v 124 desir
+v 125 quantiti
+v 126 coupl
+v 127 option
+v 128 level
+v 129 rack
+v 130 sure
+v 131 buy
+v 132 right
+v 133 size
+v 134 take
+v 135 littl
+v 136 swap
+v 137 posit
+v 138 halfway
+v 139 brown
+v 140 amaz
+v 141 tripl
+v 142 output
+v 143 sheet
+v 144 convect
+v 145 mode
+v 146 simul
+v 147 giant
+v 148 convent
+v 149 longer
+v 150 3050
+v 151 depend
+v 152 want
+v 153 still
+v 154 less
+v 155 labor
+v 156 stand
+v 157 magic
+v 158 goe
+v 159 mixtur
+v 160 honey
+v 161 sugar
+v 162 ketchup
+v 163 import
+v 164 keep
+v 165 thing
+v 166 authent
+v 167 note
+v 168 possibl
+v 169 america
+v 170 least
+v 171 icon
+v 172 ferment
+v 173 past
+v 174 great
+v 175 everyth
+v 176 also
+v 177 roast
+v 178 10
+v 179 beef
+v 180 weeknight
+v 181 stir
+v 182 udon
+v 183 kimchi
+v 184 stew
+v 185 mochi
+v 186 egg
+v 187 recip
+v 188 tradit
+v 189 come
+v 190 tub
+v 191 day
+v 192 find
+v 193 conveni
+v 194 squeez
+v 195 bottl
+v 196 asian
+v 197 aisl
+v 198 liter
+v 199 groceri
+v 200 store
+v 201 dont
+v 202 good
+v 203 cheap
+v 204 irreplac
+v 205 kitchen
+v 206 especi
+v 207 wors
+v 208 kind
+v 209 long
+v 210 know
+v 211 limit
+v 212 nice
+v 213 high
+v 214 smoke
+v 215 point
+v 216 propel
+v 217 free
+v 218 except
+v 219 oliv
+v 220 low
+v 221 deeppan
+v 222 theyr
+v 223 though
+v 224 golden
+v 225 bit
+v 226 drop
+v 227 back
+v 228 follow
+v 229 425ºf
+v 230 middl
+v 231 turn
+v 232 1020
+v 233 50
+v 234 enough
+v 235 handl
+v 236 yes
+v 237 feel
+v 238 lazi
+v 239 chain
+v 240 wont
+v 241 quit
+v 242 awesom
+v 243 compar
+v 244 deliveri
+v 245 avail
+v 246 ask
+v 247 cheaper
+v 248 believ
+v 249 go
+v 250 knock
+v 251 sock
+v 252 stuff
+v 253 mike
+v 254 greatest
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 90 2
+e 2 98 2
+e 2 102 2
+e 2 18 2
+e 2 151 2
+e 2 21 2
+e 2 19 2
+e 2 231 2
+e 2 233 2
+e 2 71 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 6 11 2
+e 7 8 2
+e 7 10 2
+e 7 52 2
+e 7 65 2
+e 7 31 2
+e 7 41 2
+e 7 114 2
+e 7 129 2
+e 7 26 2
+e 7 51 2
+e 7 136 2
+e 7 207 2
+e 7 222 2
+e 8 9 2
+e 8 144 2
+e 8 134 2
+e 8 229 2
+e 9 10 2
+e 9 143 2
+e 9 26 2
+e 10 11 2
+e 10 173 2
+e 11 12 2
+e 11 16 2
+e 11 14 2
+e 11 55 2
+e 11 61 2
+e 11 18 2
+e 11 6 2
+e 11 62 2
+e 11 51 2
+e 11 41 2
+e 11 100 2
+e 11 22 2
+e 11 106 2
+e 11 182 2
+e 11 10 2
+e 12 13 2
+e 12 19 2
+e 12 10 2
+e 12 28 2
+e 12 37 2
+e 12 42 2
+e 12 59 2
+e 12 64 2
+e 12 18 2
+e 12 68 2
+e 12 6 2
+e 12 31 2
+e 12 88 2
+e 12 89 2
+e 12 99 2
+e 12 104 2
+e 12 22 2
+e 12 159 2
+e 12 118 2
+e 12 80 2
+e 12 201 2
+e 12 224 2
+e 12 236 2
+e 12 240 2
+e 12 245 2
+e 12 249 2
+e 12 254 2
+e 13 14 2
+e 14 15 2
+e 14 47 2
+e 14 48 2
+e 15 16 2
+e 16 17 2
+e 16 29 2
+e 17 18 2
+e 18 11 2
+e 18 6 2
+e 18 141 2
+e 19 20 2
+e 19 22 2
+e 19 199 2
+e 20 21 2
+e 21 22 2
+e 21 172 2
+e 21 36 2
+e 21 179 2
+e 22 23 2
+e 22 12 2
+e 22 93 2
+e 22 94 2
+e 22 108 2
+e 22 157 2
+e 22 158 2
+e 22 22 2
+e 22 10 2
+e 22 8 2
+e 22 104 2
+e 22 65 2
+e 22 19 2
+e 23 24 2
+e 23 33 2
+e 23 212 2
+e 24 25 2
+e 24 24 2
+e 24 46 2
+e 24 136 2
+e 25 26 2
+e 26 27 2
+e 26 30 2
+e 26 34 2
+e 26 111 2
+e 26 6 2
+e 26 125 2
+e 26 142 2
+e 26 153 2
+e 26 10 2
+e 26 228 2
+e 26 230 2
+e 27 10 2
+e 28 18 2
+e 28 83 2
+e 28 62 2
+e 29 26 2
+e 29 12 2
+e 29 152 2
+e 30 31 2
+e 31 32 2
+e 31 12 2
+e 32 20 2
+e 33 26 2
+e 34 35 2
+e 35 36 2
+e 36 6 2
+e 36 162 2
+e 36 36 2
+e 36 95 2
+e 36 160 2
+e 37 38 2
+e 37 14 2
+e 38 39 2
+e 39 40 2
+e 39 134 2
+e 40 41 2
+e 40 54 2
+e 41 10 2
+e 41 22 2
+e 41 110 2
+e 41 112 2
+e 41 221 2
+e 42 43 2
+e 43 44 2
+e 43 97 2
+e 43 139 2
+e 43 41 2
+e 44 45 2
+e 44 193 2
+e 44 65 2
+e 45 46 2
+e 46 11 2
+e 47 37 2
+e 48 49 2
+e 49 50 2
+e 50 51 2
+e 51 6 2
+e 51 69 2
+e 51 9 2
+e 51 20 2
+e 51 211 2
+e 51 70 2
+e 51 8 2
+e 52 53 2
+e 53 40 2
+e 54 18 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 57 203 2
+e 57 242 2
+e 58 29 2
+e 59 60 2
+e 60 24 2
+e 61 62 2
+e 62 63 2
+e 62 67 2
+e 62 11 2
+e 63 41 2
+e 64 10 2
+e 64 31 2
+e 65 66 2
+e 65 208 2
+e 65 246 2
+e 65 247 2
+e 66 46 2
+e 67 64 2
+e 68 11 2
+e 68 70 2
+e 69 70 2
+e 70 71 2
+e 70 74 2
+e 70 6 2
+e 70 105 2
+e 70 73 2
+e 70 209 2
+e 70 51 2
+e 70 152 2
+e 71 72 2
+e 71 19 2
+e 72 73 2
+e 73 74 2
+e 73 162 2
+e 73 202 2
+e 73 44 2
+e 74 41 2
+e 74 75 2
+e 75 76 2
+e 75 95 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 79 80 2
+e 80 81 2
+e 80 178 2
+e 81 82 2
+e 82 12 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 6 2
+e 88 89 2
+e 88 101 2
+e 89 2 2
+e 90 91 2
+e 91 92 2
+e 91 41 2
+e 92 6 2
+e 92 8 2
+e 93 22 2
+e 94 75 2
+e 94 152 2
+e 95 96 2
+e 95 21 2
+e 96 43 2
+e 97 2 2
+e 98 12 2
+e 99 6 2
+e 99 100 2
+e 100 101 2
+e 100 232 2
+e 101 2 2
+e 102 103 2
+e 102 19 2
+e 103 104 2
+e 104 101 2
+e 104 105 2
+e 104 225 2
+e 104 234 2
+e 105 70 2
+e 106 107 2
+e 107 88 2
+e 107 24 2
+e 108 109 2
+e 109 41 2
+e 110 26 2
+e 110 154 2
+e 111 91 2
+e 112 113 2
+e 112 128 2
+e 113 26 2
+e 113 119 2
+e 114 115 2
+e 115 116 2
+e 115 122 2
+e 116 117 2
+e 116 39 2
+e 116 26 2
+e 117 118 2
+e 118 113 2
+e 118 168 2
+e 118 169 2
+e 118 36 2
+e 119 120 2
+e 120 121 2
+e 121 115 2
+e 121 28 2
+e 122 123 2
+e 123 124 2
+e 124 26 2
+e 125 126 2
+e 126 127 2
+e 127 41 2
+e 128 26 2
+e 129 130 2
+e 129 137 2
+e 129 8 2
+e 129 148 2
+e 129 1 2
+e 130 131 2
+e 131 132 2
+e 132 133 2
+e 133 116 2
+e 134 135 2
+e 134 149 2
+e 135 107 2
+e 136 129 2
+e 136 116 2
+e 137 138 2
+e 138 43 2
+e 139 140 2
+e 139 161 2
+e 139 102 2
+e 140 18 2
+e 141 6 2
+e 142 51 2
+e 143 129 2
+e 144 145 2
+e 145 146 2
+e 146 147 2
+e 147 6 2
+e 148 8 2
+e 149 150 2
+e 150 2 2
+e 151 29 2
+e 152 26 2
+e 152 164 2
+e 152 218 2
+e 153 110 2
+e 153 57 2
+e 154 155 2
+e 155 156 2
+e 156 6 2
+e 157 22 2
+e 158 10 2
+e 158 174 2
+e 159 160 2
+e 160 139 2
+e 160 177 2
+e 161 36 2
+e 162 73 2
+e 162 163 2
+e 163 94 2
+e 163 167 2
+e 164 165 2
+e 165 166 2
+e 166 163 2
+e 167 118 2
+e 168 22 2
+e 169 170 2
+e 170 171 2
+e 171 118 2
+e 172 10 2
+e 173 158 2
+e 174 175 2
+e 175 176 2
+e 176 51 2
+e 177 12 2
+e 178 2 2
+e 179 180 2
+e 180 181 2
+e 181 11 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 186 2
+e 186 187 2
+e 187 188 2
+e 187 92 2
+e 188 189 2
+e 189 190 2
+e 190 191 2
+e 191 192 2
+e 191 223 2
+e 192 44 2
+e 193 194 2
+e 194 195 2
+e 195 196 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 199 200 2
+e 200 201 2
+e 200 239 2
+e 201 105 2
+e 201 6 2
+e 202 203 2
+e 202 241 2
+e 203 204 2
+e 203 191 2
+e 204 205 2
+e 205 206 2
+e 206 6 2
+e 207 208 2
+e 208 70 2
+e 208 11 2
+e 209 210 2
+e 210 51 2
+e 211 23 2
+e 212 213 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 215 43 2
+e 216 217 2
+e 217 70 2
+e 218 219 2
+e 219 220 2
+e 220 214 2
+e 221 11 2
+e 222 57 2
+e 223 121 2
+e 224 139 2
+e 225 226 2
+e 226 227 2
+e 227 2 2
+e 228 187 2
+e 229 9 2
+e 230 129 2
+e 231 99 2
+e 232 2 2
+e 233 2 2
+e 234 235 2
+e 235 22 2
+e 236 237 2
+e 237 238 2
+e 238 41 2
+e 239 11 2
+e 240 202 2
+e 241 153 2
+e 242 243 2
+e 243 244 2
+e 244 10 2
+e 244 65 2
+e 244 252 2
+e 245 244 2
+e 246 73 2
+e 247 248 2
+e 248 12 2
+e 249 250 2
+e 250 251 2
+e 251 244 2
+e 252 253 2
+e 253 6 2
+e 254 11 2
+t # 2
+v 0 there
+v 1 salad
+v 2 place
+v 3 near
+v 4 hous
+v 5 make
+v 6 killer
+v 7 chicken
+v 8 caesar
+v 9 goto
+v 10 notsoguilti
+v 11 pleasur
+v 12 love
+v 13 much
+v 14 reason
+v 15 tast
+v 16 better
+v 17 home
+v 18 thing
+v 19 ridicul
+v 20 expens
+v 21 especi
+v 22 know
+v 23 price
+v 24 pay
+v 25 probabl
+v 26 least
+v 27 4
+v 28 save
+v 29 wallet
+v 30 recreat
+v 31 glorious
+v 32 crunchi
+v 33 crisp
+v 34 romain
+v 35 lettuc
+v 36 kale
+v 37 grate
+v 38 parmigiano
+v 39 reggiano
+v 40 garlicki
+v 41 crouton
+v 42 roast
+v 43 breast
+v 44 toast
+v 45 cashew
+v 46 ramen
+v 47 egg
+v 48 lemon
+v 49 wedg
+v 50 squeez
+v 51 homemad
+v 52 dress
+v 53 good
+v 54 ive
+v 55 eaten
+v 56 everi
+v 57 day
+v 58 twelv
+v 59 im
+v 60 still
+v 61 sick
+v 62 need
+v 63 introduct
+v 64 fanci
+v 65 tabl
+v 66 side
+v 67 steak
+v 68 fast
+v 69 food
+v 70 individu
+v 71 ingredi
+v 72 creami
+v 73 emulsifi
+v 74 anchovi
+v 75 worcestershir
+v 76 lot
+v 77 butteri
+v 78 outsid
+v 79 littl
+v 80 tender
+v 81 insid
+v 82 snow
+v 83 shower
+v 84 fresh
+v 85 parm
+v 86 finish
+v 87 touch
+v 88 labor
+v 89 compon
+v 90 take
+v 91 long
+v 92 time
+v 93 go
+v 94 lie
+v 95 worth
+v 96 person
+v 97 like
+v 98 meal
+v 99 pep
+v 100 size
+v 101 contain
+v 102 small
+v 103 pretend
+v 104 extra
+v 105 cafe
+v 106 often
+v 107 huge
+v 108 one
+v 109 dinner
+v 110 here
+v 111 medium
+v 112 boil
+v 113 peel
+v 114 pop
+v 115 rich
+v 116 umami
+v 117 fill
+v 118 marinad
+v 119 cook
+v 120 marin
+v 121 oven
+v 122 air
+v 123 fryer
+v 124 torn
+v 125 cube
+v 126 bread
+v 127 garlic
+v 128 butter
+v 129 stove
+v 130 heat
+v 131 prep
+v 132 wash
+v 133 tear
+v 134 destem
+v 135 piec
+v 136 mix
+v 137 togeth
+v 138 juic
+v 139 dijon
+v 140 minc
+v 141 past
+v 142 parmesan
+v 143 chees
+v 144 kewpi
+v 145 mayo
+v 146 step
+v 147 bring
+v 148 oil
+v 149 nutti
+v 150 dri
+v 151 pan
+v 152 low
+v 153 shake
+v 154 occasion
+v 155 assembl
+v 156 larg
+v 157 bowl
+v 158 largest
+v 159 combin
+v 160 toss
+v 161 top
+v 162 shave
+v 163 shortcut
+v 164 your
+v 165 crunch
+v 166 total
+v 167 alreadi
+v 168 made
+v 169 itll
+v 170 incred
+v 171 plus
+v 172 jammi
+v 173 amaz
+v 174 style
+v 175 big
+v 176 salt
+v 177 serv
+v 178 plenti
+v 179 best
+v 180 pretti
+v 181 goe
+v 182 well
+v 183 right
+v 184 rotisseri
+v 185 favorit
+v 186 method
+v 187 favor
+v 188 fri
+v 189 come
+v 190 juici
+v 191 perfect
+v 192 youv
+v 193 got
+v 194 crispest
+v 195 nonnegoti
+v 196 add
+v 197 bit
+v 198 earthi
+v 199 green
+v 200 flavor
+v 201 get
+v 202 stuff
+v 203 wont
+v 204 full
+v 205 cheesi
+v 206 bite
+v 207 genius
+v 208 insan
+v 209 even
+v 210 salti
+v 211 protein
+v 212 packag
+v 213 forward
+v 214 addict
+v 215 secret
+v 216 richer
+v 217 delici
+v 218 eat
+v 219 chef
+v 220 kiss
+v 221 use
+v 222 mayonnais
+v 223 instead
+v 224 mean
+v 225 batch
+v 226 keep
+v 227 around
+v 228 without
+v 229 worri
+v 230 1
+v 231 half
+v 232 cup
+v 233 whisk
+v 234 2
+v 235 tbsp
+v 236 tsp
+v 237 mustard
+v 238 clove
+v 239 stir
+v 240 scant
+v 241 12
+v 242 fine
+v 243 season
+v 244 pepper
+v 245 easiest
+v 246 store
+v 247 bought
+v 248 find
+v 249 powder
+v 250 1215
+v 251 minut
+v 252 400f
+v 253 run
+v 254 clear
+v 255 let
+v 256 rest
+v 257 slice
+v 258 way
+v 259 end
+v 260 soft
+v 261 rip
+v 262 cut
+v 263 craggili
+v 264 contrast
+v 265 generous
+v 266 amount
+v 267 skillet
+e 0 1 2
+e 1 2 2
+e 1 9 2
+e 1 17 2
+e 1 28 2
+e 1 8 2
+e 1 62 2
+e 1 68 2
+e 1 53 2
+e 1 88 2
+e 1 101 2
+e 1 105 2
+e 1 156 2
+e 1 164 2
+e 1 167 2
+e 1 180 2
+e 1 194 2
+e 1 196 2
+e 1 207 2
+e 1 204 2
+e 1 51 2
+e 2 3 2
+e 3 4 2
+e 4 5 2
+e 4 8 2
+e 5 6 2
+e 5 7 2
+e 5 26 2
+e 5 56 2
+e 5 107 2
+e 5 46 2
+e 5 41 2
+e 5 52 2
+e 5 1 2
+e 5 173 2
+e 5 8 2
+e 5 216 2
+e 5 230 2
+e 6 7 2
+e 7 8 2
+e 7 43 2
+e 7 46 2
+e 7 121 2
+e 7 18 2
+e 7 41 2
+e 7 185 2
+e 7 221 2
+e 7 209 2
+e 8 1 2
+e 8 52 2
+e 9 10 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 12 5 2
+e 13 14 2
+e 13 16 2
+e 13 217 2
+e 13 200 2
+e 14 15 2
+e 15 13 2
+e 15 161 2
+e 15 53 2
+e 15 208 2
+e 15 243 2
+e 16 5 2
+e 16 77 2
+e 17 18 2
+e 17 31 2
+e 17 90 2
+e 18 19 2
+e 18 44 2
+e 18 122 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 21 119 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 25 5 2
+e 26 27 2
+e 27 1 2
+e 28 29 2
+e 29 30 2
+e 30 17 2
+e 31 32 2
+e 32 33 2
+e 32 52 2
+e 32 78 2
+e 33 34 2
+e 33 32 2
+e 34 35 2
+e 34 36 2
+e 34 134 2
+e 34 164 2
+e 35 36 2
+e 35 33 2
+e 35 192 2
+e 35 195 2
+e 36 37 2
+e 36 132 2
+e 36 7 2
+e 36 171 2
+e 36 36 2
+e 36 1 2
+e 37 38 2
+e 37 85 2
+e 38 39 2
+e 39 40 2
+e 39 201 2
+e 39 15 2
+e 40 41 2
+e 40 72 2
+e 40 115 2
+e 41 42 2
+e 41 16 2
+e 41 7 2
+e 41 160 2
+e 41 52 2
+e 41 79 2
+e 41 185 2
+e 41 84 2
+e 41 100 2
+e 42 7 2
+e 42 45 2
+e 43 44 2
+e 43 7 2
+e 43 179 2
+e 43 189 2
+e 43 157 2
+e 44 45 2
+e 44 78 2
+e 44 124 2
+e 44 167 2
+e 45 46 2
+e 45 104 2
+e 45 44 2
+e 45 150 2
+e 45 48 2
+e 45 5 2
+e 45 172 2
+e 45 92 2
+e 46 47 2
+e 47 48 2
+e 47 111 2
+e 47 113 2
+e 47 120 2
+e 47 84 2
+e 47 45 2
+e 47 177 2
+e 47 46 2
+e 47 196 2
+e 47 224 2
+e 48 49 2
+e 48 41 2
+e 48 138 2
+e 49 50 2
+e 49 178 2
+e 49 84 2
+e 49 183 2
+e 50 51 2
+e 50 163 2
+e 50 48 2
+e 51 8 2
+e 51 44 2
+e 51 40 2
+e 52 53 2
+e 52 40 2
+e 52 74 2
+e 52 66 2
+e 52 136 2
+e 52 15 2
+e 52 52 2
+e 52 5 2
+e 52 97 2
+e 52 221 2
+e 52 157 2
+e 53 54 2
+e 53 70 2
+e 53 21 2
+e 53 202 2
+e 53 209 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 56 89 2
+e 56 92 2
+e 57 58 2
+e 57 59 2
+e 58 57 2
+e 59 60 2
+e 60 61 2
+e 60 170 2
+e 61 8 2
+e 62 63 2
+e 62 76 2
+e 63 64 2
+e 64 65 2
+e 64 1 2
+e 65 66 2
+e 66 67 2
+e 66 103 2
+e 67 4 2
+e 68 69 2
+e 69 8 2
+e 70 71 2
+e 70 100 2
+e 71 34 2
+e 71 169 2
+e 71 42 2
+e 71 40 2
+e 71 144 2
+e 72 73 2
+e 73 52 2
+e 74 75 2
+e 74 141 2
+e 75 76 2
+e 75 140 2
+e 75 234 2
+e 76 48 2
+e 76 204 2
+e 77 51 2
+e 78 79 2
+e 78 260 2
+e 79 80 2
+e 79 206 2
+e 79 212 2
+e 79 125 2
+e 80 81 2
+e 81 82 2
+e 81 261 2
+e 82 83 2
+e 83 84 2
+e 84 37 2
+e 84 162 2
+e 84 50 2
+e 84 126 2
+e 85 86 2
+e 85 44 2
+e 85 162 2
+e 86 87 2
+e 87 5 2
+e 88 12 2
+e 89 17 2
+e 90 91 2
+e 91 92 2
+e 92 93 2
+e 92 165 2
+e 92 34 2
+e 92 15 2
+e 92 160 2
+e 93 94 2
+e 93 184 2
+e 94 95 2
+e 95 96 2
+e 96 97 2
+e 97 98 2
+e 97 8 2
+e 97 261 2
+e 98 99 2
+e 98 131 2
+e 99 70 2
+e 100 1 2
+e 100 135 2
+e 101 102 2
+e 101 52 2
+e 102 101 2
+e 102 135 2
+e 103 104 2
+e 104 64 2
+e 104 146 2
+e 104 85 2
+e 104 211 2
+e 105 106 2
+e 106 5 2
+e 107 108 2
+e 108 109 2
+e 108 159 2
+e 109 110 2
+e 110 5 2
+e 110 163 2
+e 111 112 2
+e 111 130 2
+e 112 47 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 115 214 2
+e 115 13 2
+e 116 117 2
+e 116 205 2
+e 116 104 2
+e 116 213 2
+e 117 118 2
+e 118 119 2
+e 119 7 2
+e 119 183 2
+e 119 186 2
+e 119 56 2
+e 120 119 2
+e 121 122 2
+e 122 123 2
+e 122 188 2
+e 123 5 2
+e 124 125 2
+e 125 126 2
+e 125 127 2
+e 126 127 2
+e 126 1 2
+e 126 259 2
+e 126 32 2
+e 126 41 2
+e 127 128 2
+e 127 74 2
+e 127 126 2
+e 127 230 2
+e 127 249 2
+e 128 129 2
+e 128 267 2
+e 129 111 2
+e 130 131 2
+e 130 153 2
+e 130 265 2
+e 131 34 2
+e 131 175 2
+e 132 133 2
+e 133 34 2
+e 133 102 2
+e 134 36 2
+e 135 5 2
+e 135 97 2
+e 136 137 2
+e 137 48 2
+e 137 34 2
+e 137 234 2
+e 138 139 2
+e 138 234 2
+e 138 253 2
+e 139 75 2
+e 139 237 2
+e 140 127 2
+e 141 142 2
+e 141 239 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 44 2
+e 145 5 2
+e 145 196 2
+e 145 241 2
+e 146 147 2
+e 147 148 2
+e 148 149 2
+e 148 127 2
+e 148 128 2
+e 149 45 2
+e 150 151 2
+e 151 152 2
+e 152 130 2
+e 153 154 2
+e 154 155 2
+e 155 1 2
+e 156 157 2
+e 157 158 2
+e 157 160 2
+e 157 233 2
+e 157 197 2
+e 158 108 2
+e 159 34 2
+e 160 52 2
+e 160 137 2
+e 160 7 2
+e 161 46 2
+e 161 176 2
+e 161 71 2
+e 162 85 2
+e 162 161 2
+e 163 7 2
+e 163 174 2
+e 164 92 2
+e 164 8 2
+e 164 44 2
+e 165 166 2
+e 166 5 2
+e 167 168 2
+e 167 42 2
+e 168 71 2
+e 169 60 2
+e 170 159 2
+e 171 172 2
+e 172 47 2
+e 173 110 2
+e 174 175 2
+e 175 157 2
+e 175 225 2
+e 176 45 2
+e 176 244 2
+e 177 48 2
+e 178 104 2
+e 179 1 2
+e 180 181 2
+e 180 79 2
+e 181 182 2
+e 182 15 2
+e 183 93 2
+e 183 218 2
+e 184 7 2
+e 184 248 2
+e 185 119 2
+e 185 186 2
+e 185 258 2
+e 186 187 2
+e 186 119 2
+e 187 122 2
+e 188 7 2
+e 188 190 2
+e 188 250 2
+e 189 190 2
+e 190 191 2
+e 190 56 2
+e 191 119 2
+e 192 193 2
+e 193 34 2
+e 194 35 2
+e 195 36 2
+e 196 197 2
+e 196 210 2
+e 196 115 2
+e 197 198 2
+e 197 148 2
+e 197 264 2
+e 198 199 2
+e 199 200 2
+e 200 38 2
+e 200 5 2
+e 201 53 2
+e 202 203 2
+e 203 62 2
+e 204 116 2
+e 204 210 2
+e 205 40 2
+e 206 127 2
+e 207 44 2
+e 208 53 2
+e 209 164 2
+e 209 221 2
+e 210 116 2
+e 211 180 2
+e 212 8 2
+e 213 71 2
+e 214 215 2
+e 215 71 2
+e 216 13 2
+e 217 48 2
+e 218 219 2
+e 219 220 2
+e 220 8 2
+e 221 222 2
+e 221 185 2
+e 221 246 2
+e 222 223 2
+e 223 47 2
+e 224 98 2
+e 225 226 2
+e 226 227 2
+e 227 228 2
+e 228 229 2
+e 229 215 2
+e 230 231 2
+e 230 236 2
+e 231 232 2
+e 232 52 2
+e 232 144 2
+e 232 242 2
+e 233 137 2
+e 234 235 2
+e 234 236 2
+e 234 238 2
+e 235 84 2
+e 236 139 2
+e 236 75 2
+e 236 74 2
+e 237 230 2
+e 238 140 2
+e 239 240 2
+e 240 232 2
+e 241 232 2
+e 242 37 2
+e 243 176 2
+e 244 245 2
+e 244 122 2
+e 245 42 2
+e 245 18 2
+e 246 247 2
+e 247 184 2
+e 248 245 2
+e 249 176 2
+e 250 251 2
+e 251 252 2
+e 252 138 2
+e 253 254 2
+e 254 255 2
+e 255 256 2
+e 256 257 2
+e 257 1 2
+e 258 5 2
+e 259 79 2
+e 260 81 2
+e 261 262 2
+e 261 263 2
+e 262 126 2
+e 263 197 2
+e 264 130 2
+e 265 266 2
+e 266 148 2
+t # 3
+v 0 your
+v 1 look
+v 2 next
+v 3 handsoff
+v 4 delici
+v 5 one
+v 6 pot
+v 7 dinner
+v 8 hainanes
+v 9 chicken
+v 10 ever
+v 11 rice
+v 12 obsess
+v 13 im
+v 14 guess
+v 15 answer
+v 16 lifelong
+v 17 deep
+v 18 ultim
+v 19 comfort
+v 20 food
+v 21 alltimefavorit
+v 22 go
+v 23 meal
+v 24 version
+v 25 anton
+v 26 ego
+v 27 mom
+v 28 ratatouill
+v 29 know
+v 30 scene
+v 31 pixar
+v 32 movi
+v 33 taken
+v 34 back
+v 35 kitchen
+v 36 serv
+v 37 right
+v 38 world
+v 39 that
+v 40 cultur
+v 41 sort
+v 42 japanes
+v 43 oyakodon
+v 44 latin
+v 45 american
+v 46 arroz
+v 47 con
+v 48 pollo
+v 49 southeast
+v 50 asian
+v 51 peopl
+v 52 like
+v 53 dish
+v 54 simpl
+v 55 heart
+v 56 poach
+v 57 season
+v 58 varieti
+v 59 sauc
+v 60 lot
+v 61 immigr
+v 62 adapt
+v 63 actual
+v 64 bunch
+v 65 differ
+v 66 type
+v 67 singaporean
+v 68 malaysian
+v 69 vietnames
+v 70 thai
+v 71 grow
+v 72 stapl
+v 73 hous
+v 74 bring
+v 75 childhood
+v 76 transport
+v 77 favorit
+v 78 memori
+v 79 adult
+v 80 embarrass
+v 81 say
+v 82 everyth
+v 83 decept
+v 84 somehow
+v 85 complex
+v 86 origin
+v 87 hainan
+v 88 southern
+v 89 china
+v 90 spiritu
+v 91 home
+v 92 singapor
+v 93 youll
+v 94 find
+v 95 rendit
+v 96 popular
+v 97 everywher
+v 98 hawker
+v 99 stand
+v 100 high
+v 101 end
+v 102 hotel
+v 103 would
+v 104 fight
+v 105 death
+v 106 best
+v 107 humbl
+v 108 flavor
+v 109 pure
+v 110 yet
+v 111 broth
+v 112 scent
+v 113 ginger
+v 114 garlic
+v 115 scallion
+v 116 silki
+v 117 firm
+v 118 tast
+v 119 perfect
+v 120 come
+v 121 full
+v 122 slick
+v 123 fat
+v 124 savori
+v 125 fragrant
+v 126 what
+v 127 special
+v 128 youv
+v 129 got
+v 130 believ
+v 131 think
+v 132 secret
+v 133 good
+v 134 cook
+v 135 infus
+v 136 insid
+v 137 grain
+v 138 give
+v 139 extra
+v 140 mexican
+v 141 tomato
+v 142 onion
+v 143 goe
+v 144 step
+v 145 fri
+v 146 uncook
+v 147 shallot
+v 148 anoth
+v 149 layer
+v 150 toasti
+v 151 aromat
+v 152 glossi
+v 153 luscious
+v 154 make
+v 155 recip
+v 156 call
+v 157 24
+v 158 hour
+v 159 cure
+v 160 complic
+v 161 doesnt
+v 162 need
+v 163 way
+v 164 especi
+v 165 want
+v 166 compet
+v 167 dozen
+v 168 market
+v 169 pay
+v 170 care
+v 171 attent
+v 172 easi
+v 173 thing
+v 174 take
+v 175 much
+v 176 time
+v 177 person
+v 178 love
+v 179 therapeut
+v 180 sometim
+v 181 eat
+v 182 without
+v 183 whole
+v 184 skinon
+v 185 boneless
+v 186 thigh
+v 187 eas
+v 188 fewer
+v 189 wash
+v 190 winwin
+v 191 great
+v 192 basic
+v 193 none
+v 194 fuss
+v 195 start
+v 196 regular
+v 197 keep
+v 198 jar
+v 199 render
+v 200 fridg
+v 201 even
+v 202 dont
+v 203 everi
+v 204 day
+v 205 week
+v 206 part
+v 207 worri
+v 208 toast
+v 209 coat
+v 210 key
+v 211 releas
+v 212 add
+v 213 wont
+v 214 collect
+v 215 trim
+v 216 excess
+v 217 skin
+v 218 skinless
+v 219 buy
+v 220 bonein
+v 221 debon
+v 222 save
+v 223 bone
+v 224 stock
+v 225 freez
+v 226 sizabl
+v 227 amount
+v 228 big
+v 229 batch
+v 230 crispi
+v 231 chop
+v 232 use
+v 233 sharp
+v 234 knife
+v 235 small
+v 236 12
+v 237 inch
+v 238 piec
+v 239 pair
+v 240 scissor
+v 241 slowli
+v 242 put
+v 243 nonstick
+v 244 cast
+v 245 iron
+v 246 skillet
+v 247 pan
+v 248 splatter
+v 249 itll
+v 250 faster
+v 251 cover
+v 252 medium
+v 253 low
+v 254 15
+v 255 minut
+v 256 crisp
+v 257 pretti
+v 258 pool
+v 259 glisten
+v 260 uncov
+v 261 turn
+v 262 heat
+v 263 let
+v 264 stir
+v 265 break
+v 266 occasion
+v 267 brown
+v 268 strain
+v 269 remov
+v 270 fine
+v 271 mesh
+v 272 strainer
+v 273 proof
+v 274 liquid
+e 0 1 2
+e 0 166 2
+e 0 52 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 4 5 2
+e 4 11 2
+e 4 108 2
+e 5 6 2
+e 5 144 2
+e 5 52 2
+e 6 7 2
+e 6 187 2
+e 6 8 2
+e 6 247 2
+e 6 197 2
+e 7 8 2
+e 8 9 2
+e 8 51 2
+e 9 10 2
+e 9 11 2
+e 9 57 2
+e 9 83 2
+e 9 56 2
+e 9 93 2
+e 9 108 2
+e 9 123 2
+e 9 111 2
+e 9 172 2
+e 9 186 2
+e 9 221 2
+e 9 217 2
+e 10 8 2
+e 10 96 2
+e 10 11 2
+e 11 12 2
+e 11 18 2
+e 11 9 2
+e 11 40 2
+e 11 42 2
+e 11 52 2
+e 11 53 2
+e 11 36 2
+e 11 67 2
+e 11 20 2
+e 11 82 2
+e 11 8 2
+e 11 106 2
+e 11 107 2
+e 11 120 2
+e 11 128 2
+e 11 133 2
+e 11 132 2
+e 11 111 2
+e 11 134 2
+e 11 143 2
+e 11 148 2
+e 11 152 2
+e 11 5 2
+e 11 155 2
+e 11 0 2
+e 11 98 2
+e 11 162 2
+e 11 94 2
+e 11 182 2
+e 11 192 2
+e 11 108 2
+e 11 154 2
+e 11 203 2
+e 11 206 2
+e 11 118 2
+e 11 123 2
+e 11 199 2
+e 11 213 2
+e 12 13 2
+e 12 9 2
+e 13 14 2
+e 13 80 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 17 12 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 20 63 2
+e 20 74 2
+e 21 22 2
+e 22 23 2
+e 22 138 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 25 33 2
+e 26 27 2
+e 27 28 2
+e 27 35 2
+e 28 29 2
+e 28 37 2
+e 29 30 2
+e 29 134 2
+e 30 31 2
+e 31 32 2
+e 32 25 2
+e 33 34 2
+e 34 27 2
+e 34 75 2
+e 35 36 2
+e 36 28 2
+e 36 58 2
+e 37 38 2
+e 38 39 2
+e 39 8 2
+e 39 172 2
+e 40 41 2
+e 40 52 2
+e 41 9 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 46 47 2
+e 47 48 2
+e 48 49 2
+e 49 50 2
+e 50 8 2
+e 51 8 2
+e 52 9 2
+e 52 60 2
+e 52 119 2
+e 52 140 2
+e 52 154 2
+e 52 178 2
+e 52 202 2
+e 52 225 2
+e 52 232 2
+e 53 54 2
+e 53 97 2
+e 53 189 2
+e 54 55 2
+e 54 84 2
+e 54 110 2
+e 55 56 2
+e 55 8 2
+e 56 9 2
+e 56 54 2
+e 57 11 2
+e 58 59 2
+e 59 52 2
+e 60 61 2
+e 60 40 2
+e 60 8 2
+e 61 62 2
+e 62 20 2
+e 63 64 2
+e 64 65 2
+e 65 66 2
+e 66 8 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 72 73 2
+e 73 9 2
+e 74 34 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 79 13 2
+e 80 81 2
+e 81 9 2
+e 81 8 2
+e 82 8 2
+e 82 248 2
+e 83 54 2
+e 84 85 2
+e 84 180 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 90 91 2
+e 91 92 2
+e 92 93 2
+e 93 94 2
+e 93 10 2
+e 93 165 2
+e 94 95 2
+e 94 179 2
+e 95 10 2
+e 95 9 2
+e 96 53 2
+e 97 98 2
+e 98 99 2
+e 98 168 2
+e 99 100 2
+e 99 121 2
+e 100 101 2
+e 101 102 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 105 81 2
+e 106 95 2
+e 106 9 2
+e 107 108 2
+e 108 109 2
+e 108 111 2
+e 108 122 2
+e 108 60 2
+e 108 106 2
+e 108 193 2
+e 108 9 2
+e 108 209 2
+e 108 11 2
+e 109 55 2
+e 109 108 2
+e 110 108 2
+e 111 112 2
+e 111 111 2
+e 111 135 2
+e 111 138 2
+e 112 113 2
+e 113 114 2
+e 113 134 2
+e 114 115 2
+e 114 147 2
+e 115 116 2
+e 116 117 2
+e 117 118 2
+e 118 52 2
+e 118 130 2
+e 118 133 2
+e 119 9 2
+e 120 99 2
+e 121 9 2
+e 121 108 2
+e 122 123 2
+e 123 124 2
+e 123 133 2
+e 123 114 2
+e 123 0 2
+e 123 200 2
+e 123 109 2
+e 123 154 2
+e 123 202 2
+e 123 22 2
+e 123 151 2
+e 123 9 2
+e 123 210 2
+e 123 212 2
+e 123 230 2
+e 123 195 2
+e 123 260 2
+e 123 134 2
+e 124 125 2
+e 125 126 2
+e 126 127 2
+e 127 11 2
+e 128 129 2
+e 129 118 2
+e 130 131 2
+e 130 214 2
+e 131 132 2
+e 132 8 2
+e 132 11 2
+e 132 191 2
+e 133 11 2
+e 133 134 2
+e 133 9 2
+e 133 202 2
+e 133 8 2
+e 134 29 2
+e 134 11 2
+e 134 141 2
+e 134 9 2
+e 134 183 2
+e 134 5 2
+e 134 113 2
+e 134 252 2
+e 134 264 2
+e 135 136 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 138 11 2
+e 138 152 2
+e 139 108 2
+e 139 176 2
+e 140 11 2
+e 141 142 2
+e 142 9 2
+e 143 5 2
+e 144 145 2
+e 144 161 2
+e 145 146 2
+e 146 11 2
+e 147 113 2
+e 147 123 2
+e 148 149 2
+e 149 150 2
+e 150 151 2
+e 151 4 2
+e 151 211 2
+e 152 153 2
+e 152 4 2
+e 153 121 2
+e 154 60 2
+e 154 9 2
+e 154 196 2
+e 154 11 2
+e 154 228 2
+e 155 156 2
+e 155 176 2
+e 155 195 2
+e 156 157 2
+e 156 185 2
+e 157 158 2
+e 158 159 2
+e 159 160 2
+e 160 144 2
+e 161 162 2
+e 161 174 2
+e 162 163 2
+e 162 169 2
+e 163 164 2
+e 164 165 2
+e 165 133 2
+e 165 181 2
+e 165 197 2
+e 165 154 2
+e 166 167 2
+e 167 9 2
+e 168 11 2
+e 169 170 2
+e 170 171 2
+e 171 39 2
+e 172 173 2
+e 172 155 2
+e 173 161 2
+e 174 175 2
+e 175 139 2
+e 175 108 2
+e 176 177 2
+e 176 184 2
+e 176 155 2
+e 177 178 2
+e 178 154 2
+e 178 9 2
+e 179 84 2
+e 180 165 2
+e 181 9 2
+e 182 134 2
+e 183 9 2
+e 184 185 2
+e 184 220 2
+e 185 9 2
+e 185 218 2
+e 186 11 2
+e 186 203 2
+e 186 219 2
+e 187 188 2
+e 188 53 2
+e 189 190 2
+e 190 132 2
+e 191 8 2
+e 192 5 2
+e 193 194 2
+e 194 155 2
+e 195 9 2
+e 195 199 2
+e 195 256 2
+e 196 93 2
+e 197 198 2
+e 197 82 2
+e 198 199 2
+e 198 9 2
+e 199 9 2
+e 199 52 2
+e 199 242 2
+e 199 214 2
+e 200 201 2
+e 200 9 2
+e 201 0 2
+e 202 165 2
+e 202 9 2
+e 202 207 2
+e 203 204 2
+e 203 176 2
+e 204 205 2
+e 205 93 2
+e 206 9 2
+e 207 208 2
+e 208 11 2
+e 209 210 2
+e 210 134 2
+e 210 133 2
+e 211 4 2
+e 212 175 2
+e 213 130 2
+e 214 215 2
+e 214 256 2
+e 215 216 2
+e 216 217 2
+e 217 9 2
+e 217 199 2
+e 217 231 2
+e 217 235 2
+e 217 243 2
+e 217 123 2
+e 217 195 2
+e 217 267 2
+e 218 9 2
+e 219 184 2
+e 220 9 2
+e 221 222 2
+e 222 223 2
+e 222 217 2
+e 223 224 2
+e 224 222 2
+e 225 226 2
+e 226 227 2
+e 227 154 2
+e 228 229 2
+e 229 9 2
+e 230 9 2
+e 231 232 2
+e 231 9 2
+e 232 233 2
+e 232 239 2
+e 232 6 2
+e 232 270 2
+e 233 234 2
+e 234 231 2
+e 235 236 2
+e 236 237 2
+e 237 238 2
+e 238 232 2
+e 239 240 2
+e 240 241 2
+e 241 199 2
+e 242 9 2
+e 243 244 2
+e 244 245 2
+e 245 246 2
+e 246 6 2
+e 246 251 2
+e 246 261 2
+e 247 52 2
+e 247 246 2
+e 247 262 2
+e 248 249 2
+e 249 250 2
+e 250 247 2
+e 251 134 2
+e 252 253 2
+e 252 263 2
+e 253 254 2
+e 254 255 2
+e 255 123 2
+e 256 257 2
+e 256 267 2
+e 257 258 2
+e 258 259 2
+e 259 123 2
+e 260 246 2
+e 261 262 2
+e 262 252 2
+e 262 232 2
+e 262 273 2
+e 263 217 2
+e 264 265 2
+e 265 266 2
+e 266 9 2
+e 267 268 2
+e 267 269 2
+e 268 217 2
+e 269 247 2
+e 270 271 2
+e 271 272 2
+e 272 262 2
+e 273 274 2
+t # 4
+v 0 ultim
+v 1 guid
+v 2 juici
+v 3 crisp
+v 4 crunchi
+v 5 japanes
+v 6 fri
+v 7 chicken
+v 8 karaag
+v 9 ever
+v 10 watch
+v 11 food
+v 12 war
+v 13 shokugeki
+v 14 soma
+v 15 top
+v 16 hilari
+v 17 anim
+v 18 base
+v 19 manga
+v 20 revolv
+v 21 around
+v 22 cook
+v 23 battl
+v 24 coupl
+v 25 episod
+v 26 focus
+v 27 mike
+v 28 love
+v 29 make
+v 30 snack
+v 31 one
+v 32 latest
+v 33 guilti
+v 34 pleasur
+v 35 bite
+v 36 size
+v 37 super
+v 38 intens
+v 39 flavor
+v 40 crispi
+v 41 crackeri
+v 42 crunch
+v 43 cut
+v 44 start
+v 45 piec
+v 46 sure
+v 47 dont
+v 48 want
+v 49 thin
+v 50 tend
+v 51 drier
+v 52 tri
+v 53 kind
+v 54 chunki
+v 55 thick
+v 56 marin
+v 57 youll
+v 58 soy
+v 59 sauc
+v 60 sake
+v 61 sugar
+v 62 ginger
+v 63 garlic
+v 64 pretti
+v 65 dri
+v 66 marinad
+v 67 mix
+v 68 everyth
+v 69 even
+v 70 coat
+v 71 least
+v 72 30
+v 73 minut
+v 74 like
+v 75 leav
+v 76 cool
+v 77 spot
+v 78 kitchen
+v 79 come
+v 80 room
+v 81 temp
+v 82 help
+v 83 quick
+v 84 instead
+v 85 straight
+v 86 fridg
+v 87 potato
+v 88 starch
+v 89 need
+v 90 drain
+v 91 sinc
+v 92 much
+v 93 rub
+v 94 go
+v 95 ahead
+v 96 toss
+v 97 shake
+v 98 excess
+v 99 either
+v 100 deepfri
+v 101 airfri
+v 102 ovenbak
+v 103 choic
+v 104 ingredi
+v 105 main
+v 106 skin
+v 107 thigh
+v 108 best
+v 109 add
+v 110 extra
+v 111 bit
+v 112 delici
+v 113 fat
+v 114 tender
+v 115 light
+v 116 umami
+v 117 salt
+v 118 hint
+v 119 use
+v 120 authent
+v 121 yamasa
+v 122 balanc
+v 123 highlight
+v 124 warm
+v 125 earthi
+v 126 underton
+v 127 import
+v 128 techniqu
+v 129 deep
+v 130 common
+v 131 also
+v 132 thing
+v 133 ika
+v 134 squid
+v 135 geso
+v 136 tentacl
+v 137 serv
+v 138 stapl
+v 139 cuisin
+v 140 find
+v 141 anywher
+v 142 home
+v 143 lot
+v 144 peopl
+v 145 rice
+v 146 appet
+v 147 restaurantsizakaya
+v 148 popular
+v 149 restaur
+v 150 part
+v 151 set
+v 152 meal
+v 153 izakaya
+v 154 beer
+v 155 combini
+v 156 supermarket
+v 157 depachika
+v 158 alway
+v 159 conveni
+v 160 store
+v 161 hall
+v 162 bottom
+v 163 floor
+v 164 depart
+v 165 buy
+v 166 take
+v 167 bento
+v 168 dinner
+v 169 airfryingoven
+v 170 bake
+v 171 your
+v 172 oven
+v 173 spray
+v 174 oil
+v 175 simpl
+v 176 mister
+v 177 bottl
+v 178 got
+v 179 amazon
+v 180 whatev
+v 181 hand
+v 182 there
+v 183 good
+v 184 brown
+v 185 otherwis
+v 186 might
+v 187 end
+v 188 that
+v 189 golden
+v 190 doubl
+v 191 low
+v 192 temperatur
+v 193 higher
+v 194 get
+v 195 tip
+v 196 heavi
+v 197 pot
+v 198 headspac
+v 199 doesnt
+v 200 boil
+v 201 bubbl
+v 202 thermomet
+v 203 check
+v 204 put
+v 205 wooden
+v 206 chopstick
+v 207 bunch
+v 208 littl
+v 209 order
+v 210 perfect
+v 211 gentl
+v 212 crowd
+v 213 wire
+v 214 rack
+v 215 turn
+v 216 heat
+v 217 deepli
+v 218 type
+v 219 look
+v 220 close
+v 221 notic
+v 222 differ
+v 223 flour
+v 224 made
+v 225 katakuriko
+v 226 片栗粉
+v 227 crust
+v 228 powderi
+v 229 ball
+v 230 regular
+v 231 way
+v 232 give
+v 233 lighter
+v 234 yet
+v 235 crisper
+v 236 gluten
+v 237 coars
+v 238 slight
+v 239 bigger
+v 240 granul
+v 241 crunchier
+v 242 first
+v 243 white
+v 244 tasteless
+v 245 powder
+v 246 two
+v 247 molecul
+v 248 amylos
+v 249 amylopectin
+v 250 cross
+v 251 link
+v 252 form
+v 253 rigid
+v 254 brittl
+v 255 network
+v 256 hold
+v 257 shape
+v 258 translat
+v 259 feel
+v 260 eat
+v 261 bonus
+v 262 glutenfre
+v 263 fair
+v 264 high
+v 265 content
+v 266 2022
+v 267 crunchycrispi
+v 268 realli
+v 269 easi
+v 270 groceri
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 38 2
+e 2 39 2
+e 2 115 2
+e 3 4 2
+e 3 53 2
+e 3 217 2
+e 4 5 2
+e 4 112 2
+e 4 189 2
+e 4 7 2
+e 4 259 2
+e 5 6 2
+e 5 58 2
+e 5 22 2
+e 5 139 2
+e 6 7 2
+e 6 99 2
+e 6 130 2
+e 6 191 2
+e 6 115 2
+e 6 3 2
+e 7 8 2
+e 7 35 2
+e 7 44 2
+e 7 45 2
+e 7 79 2
+e 7 7 2
+e 7 56 2
+e 7 88 2
+e 7 105 2
+e 7 107 2
+e 7 122 2
+e 7 174 2
+e 7 184 2
+e 7 188 2
+e 7 193 2
+e 7 110 2
+e 7 197 2
+e 7 70 2
+e 7 237 2
+e 7 69 2
+e 8 9 2
+e 8 27 2
+e 8 30 2
+e 8 7 2
+e 8 5 2
+e 8 43 2
+e 8 104 2
+e 8 8 2
+e 8 128 2
+e 8 131 2
+e 8 134 2
+e 8 137 2
+e 8 138 2
+e 8 142 2
+e 8 159 2
+e 8 57 2
+e 8 224 2
+e 8 219 2
+e 9 10 2
+e 9 219 2
+e 10 11 2
+e 10 31 2
+e 11 12 2
+e 11 22 2
+e 11 161 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 15 7 2
+e 16 17 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 21 11 2
+e 22 23 2
+e 22 69 2
+e 22 85 2
+e 22 104 2
+e 22 7 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 26 7 2
+e 27 28 2
+e 28 29 2
+e 28 63 2
+e 29 7 2
+e 29 46 2
+e 29 8 2
+e 29 267 2
+e 30 10 2
+e 30 168 2
+e 31 32 2
+e 31 203 2
+e 31 79 2
+e 32 33 2
+e 33 34 2
+e 34 7 2
+e 35 36 2
+e 36 37 2
+e 36 45 2
+e 36 47 2
+e 37 2 2
+e 37 148 2
+e 38 39 2
+e 39 40 2
+e 39 106 2
+e 39 74 2
+e 39 58 2
+e 40 41 2
+e 40 189 2
+e 40 4 2
+e 41 42 2
+e 42 29 2
+e 43 7 2
+e 43 45 2
+e 44 43 2
+e 45 29 2
+e 45 36 2
+e 45 50 2
+e 45 70 2
+e 45 7 2
+e 46 43 2
+e 46 53 2
+e 46 67 2
+e 46 70 2
+e 46 182 2
+e 46 119 2
+e 46 212 2
+e 47 48 2
+e 47 89 2
+e 47 31 2
+e 47 184 2
+e 48 49 2
+e 48 56 2
+e 48 70 2
+e 48 118 2
+e 48 143 2
+e 49 45 2
+e 50 51 2
+e 50 232 2
+e 51 52 2
+e 52 29 2
+e 53 54 2
+e 53 88 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 56 58 2
+e 56 71 2
+e 56 48 2
+e 57 48 2
+e 57 140 2
+e 57 158 2
+e 57 89 2
+e 57 221 2
+e 58 59 2
+e 58 92 2
+e 59 60 2
+e 59 89 2
+e 59 116 2
+e 59 120 2
+e 59 61 2
+e 59 62 2
+e 60 61 2
+e 60 82 2
+e 61 62 2
+e 61 94 2
+e 61 123 2
+e 62 63 2
+e 62 109 2
+e 63 64 2
+e 63 28 2
+e 63 88 2
+e 64 65 2
+e 64 92 2
+e 64 127 2
+e 65 66 2
+e 66 46 2
+e 66 91 2
+e 67 68 2
+e 68 69 2
+e 69 7 2
+e 69 83 2
+e 69 97 2
+e 69 185 2
+e 69 241 2
+e 70 48 2
+e 70 7 2
+e 70 87 2
+e 70 69 2
+e 70 115 2
+e 70 64 2
+e 70 8 2
+e 70 129 2
+e 70 174 2
+e 70 219 2
+e 70 223 2
+e 70 182 2
+e 71 72 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 74 121 2
+e 74 119 2
+e 74 133 2
+e 74 6 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 7 2
+e 78 202 2
+e 79 80 2
+e 79 187 2
+e 79 166 2
+e 80 81 2
+e 81 82 2
+e 82 22 2
+e 82 114 2
+e 83 84 2
+e 84 22 2
+e 85 86 2
+e 86 70 2
+e 87 88 2
+e 87 87 2
+e 87 263 2
+e 88 47 2
+e 88 46 2
+e 88 74 2
+e 88 70 2
+e 88 119 2
+e 88 225 2
+e 88 50 2
+e 88 110 2
+e 88 238 2
+e 88 88 2
+e 88 243 2
+e 88 262 2
+e 88 87 2
+e 88 224 2
+e 89 90 2
+e 89 111 2
+e 89 173 2
+e 90 66 2
+e 90 213 2
+e 91 64 2
+e 92 93 2
+e 92 119 2
+e 93 94 2
+e 94 95 2
+e 94 109 2
+e 94 190 2
+e 95 96 2
+e 96 7 2
+e 97 98 2
+e 98 6 2
+e 99 100 2
+e 100 101 2
+e 100 100 2
+e 100 94 2
+e 100 48 2
+e 101 102 2
+e 101 172 2
+e 102 103 2
+e 103 7 2
+e 104 7 2
+e 104 106 2
+e 104 115 2
+e 105 104 2
+e 105 137 2
+e 106 7 2
+e 106 109 2
+e 107 108 2
+e 107 114 2
+e 108 2 2
+e 108 47 2
+e 108 218 2
+e 109 110 2
+e 109 118 2
+e 109 124 2
+e 109 45 2
+e 110 111 2
+e 110 40 2
+e 110 4 2
+e 111 4 2
+e 111 115 2
+e 111 228 2
+e 112 113 2
+e 113 7 2
+e 114 2 2
+e 114 7 2
+e 115 58 2
+e 115 5 2
+e 115 3 2
+e 115 70 2
+e 115 189 2
+e 116 117 2
+e 116 58 2
+e 117 48 2
+e 118 58 2
+e 118 61 2
+e 119 115 2
+e 119 87 2
+e 119 70 2
+e 119 175 2
+e 119 180 2
+e 119 196 2
+e 119 47 2
+e 120 39 2
+e 121 60 2
+e 122 39 2
+e 123 116 2
+e 124 125 2
+e 125 126 2
+e 126 63 2
+e 127 70 2
+e 128 5 2
+e 129 6 2
+e 129 197 2
+e 130 7 2
+e 131 132 2
+e 132 74 2
+e 133 8 2
+e 134 135 2
+e 134 136 2
+e 135 8 2
+e 136 7 2
+e 137 74 2
+e 137 145 2
+e 138 5 2
+e 139 57 2
+e 140 141 2
+e 140 7 2
+e 140 270 2
+e 141 142 2
+e 142 143 2
+e 142 105 2
+e 142 167 2
+e 143 144 2
+e 143 198 2
+e 144 29 2
+e 144 165 2
+e 145 146 2
+e 146 147 2
+e 147 37 2
+e 148 149 2
+e 149 150 2
+e 150 151 2
+e 151 152 2
+e 152 153 2
+e 153 154 2
+e 154 155 2
+e 155 156 2
+e 156 157 2
+e 156 11 2
+e 157 57 2
+e 158 140 2
+e 159 160 2
+e 160 156 2
+e 160 144 2
+e 161 162 2
+e 162 163 2
+e 162 129 2
+e 163 164 2
+e 164 160 2
+e 165 166 2
+e 166 142 2
+e 166 209 2
+e 167 30 2
+e 168 169 2
+e 169 170 2
+e 170 171 2
+e 170 57 2
+e 171 101 2
+e 172 170 2
+e 173 7 2
+e 174 74 2
+e 174 176 2
+e 174 181 2
+e 174 15 2
+e 174 199 2
+e 174 207 2
+e 175 174 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 119 2
+e 180 174 2
+e 181 29 2
+e 182 183 2
+e 182 236 2
+e 183 70 2
+e 184 69 2
+e 184 195 2
+e 184 231 2
+e 185 186 2
+e 186 187 2
+e 187 7 2
+e 187 31 2
+e 188 189 2
+e 189 100 2
+e 189 184 2
+e 189 90 2
+e 189 108 2
+e 189 230 2
+e 190 129 2
+e 191 192 2
+e 192 22 2
+e 192 194 2
+e 192 204 2
+e 193 192 2
+e 194 7 2
+e 195 29 2
+e 196 162 2
+e 197 100 2
+e 197 46 2
+e 198 174 2
+e 199 200 2
+e 200 201 2
+e 201 78 2
+e 201 79 2
+e 202 108 2
+e 203 192 2
+e 204 205 2
+e 205 206 2
+e 206 174 2
+e 207 208 2
+e 208 201 2
+e 208 229 2
+e 209 210 2
+e 210 211 2
+e 211 109 2
+e 212 6 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 216 129 2
+e 216 247 2
+e 217 189 2
+e 218 70 2
+e 219 220 2
+e 219 222 2
+e 219 111 2
+e 219 237 2
+e 220 7 2
+e 221 70 2
+e 222 6 2
+e 223 8 2
+e 224 119 2
+e 224 246 2
+e 224 87 2
+e 225 226 2
+e 226 227 2
+e 227 7 2
+e 228 208 2
+e 229 4 2
+e 230 6 2
+e 231 88 2
+e 232 233 2
+e 233 234 2
+e 234 235 2
+e 235 70 2
+e 236 219 2
+e 237 87 2
+e 237 88 2
+e 238 239 2
+e 239 240 2
+e 240 29 2
+e 241 242 2
+e 242 88 2
+e 243 244 2
+e 244 245 2
+e 245 224 2
+e 246 247 2
+e 247 248 2
+e 247 250 2
+e 248 249 2
+e 248 265 2
+e 249 216 2
+e 250 251 2
+e 251 252 2
+e 252 253 2
+e 253 254 2
+e 254 255 2
+e 255 256 2
+e 256 257 2
+e 257 258 2
+e 258 40 2
+e 259 260 2
+e 260 261 2
+e 261 88 2
+e 262 87 2
+e 263 264 2
+e 264 248 2
+e 265 266 2
+e 265 29 2
+e 266 248 2
+e 267 268 2
+e 268 269 2
+e 269 140 2
+t # 5
+v 0 teriyaki
+v 1 chicken
+v 2 ultim
+v 3 comfort
+v 4 food
+v 5 one
+v 6 fave
+v 7 bowl
+v 8 take
+v 9 tokyo
+v 10 there
+v 11 someth
+v 12 sweet
+v 13 savori
+v 14 sauc
+v 15 get
+v 16 everi
+v 17 time
+v 18 realli
+v 19 good
+v 20 remind
+v 21 eat
+v 22 skewer
+v 23 yakitori
+v 24 narrow
+v 25 back
+v 26 alley
+v 27 cook
+v 28 techniqu
+v 29 use
+v 30 japanes
+v 31 brush
+v 32 glaze
+v 33 sake
+v 34 marin
+v 35 soy
+v 36 sugar
+v 37 either
+v 38 grill
+v 39 broil
+v 40 mean
+v 41 teri
+v 42 shinyglaz
+v 43 yaki
+v 44 japan
+v 45 tradit
+v 46 isnt
+v 47 sauci
+v 48 know
+v 49 north
+v 50 america
+v 51 simpli
+v 52 make
+v 53 light
+v 54 pat
+v 55 dri
+v 56 pan
+v 57 medium
+v 58 heat
+v 59 slowli
+v 60 render
+v 61 fat
+v 62 skin
+v 63 confit
+v 64 incred
+v 65 juici
+v 66 moist
+v 67 crispi
+v 68 brown
+v 69 most
+v 70 flip
+v 71 side
+v 72 crisp
+v 73 combin
+v 74 mirin
+v 75 small
+v 76 pot
+v 77 simmer
+v 78 slight
+v 79 reduc
+v 80 whisk
+v 81 cornstarch
+v 82 slurri
+v 83 thicken
+v 84 set
+v 85 asid
+v 86 serv
+v 87 slice
+v 88 rain
+v 89 enjoy
+v 90 fluffi
+v 91 white
+v 92 rice
+v 93 cucumb
+v 94 toast
+v 95 sesam
+v 96 seed
+v 97 simpl
+v 98 made
+v 99 4
+v 100 ingredi
+v 101 thinner
+v 102 still
+v 103 thick
+v 104 enough
+v 105 classic
+v 106 natur
+v 107 caramel
+v 108 easi
+v 109 home
+v 110 youll
+v 111 never
+v 112 store
+v 113 bough
+v 114 stir
+v 115 fri
+v 116 cours
+v 117 need
+v 118 three
+v 119 backbon
+v 120 im
+v 121 pretti
+v 122 sure
+v 123 bottl
+v 124 pantri
+v 125 add
+v 126 umami
+v 127 glorious
+v 128 sheen
+v 129 delici
+v 130 tri
+v 131 dish
+v 132 ton
+v 133 differ
+v 134 general
+v 135 rule
+v 136 countri
+v 137 your
+v 138 salt
+v 139 content
+v 140 flavor
+v 141 brew
+v 142 kikkoman
+v 143 generationsold
+v 144 brand
+v 145 found
+v 146 groceri
+v 147 wine
+v 148 like
+v 149 french
+v 150 extra
+v 151 layer
+v 152 aroma
+v 153 almost
+v 154 sell
+v 155 asian
+v 156 feel
+v 157 flush
+v 158 nice
+v 159 drink
+v 160 buy
+v 161 wont
+v 162 regret
+v 163 itll
+v 164 anoth
+v 165 level
+v 166 key
+v 167 compar
+v 168 lower
+v 169 alcohol
+v 170 higher
+v 171 occur
+v 172 ferment
+v 173 season
+v 174 agent
+v 175 aisl
+v 176 lot
+v 177 peopl
+v 178 internet
+v 179 tell
+v 180 real
+v 181 theyr
+v 182 refer
+v 183 two
+v 184 type
+v 185 hon
+v 186 sticki
+v 187 koji
+v 188 sochu
+v 189 find
+v 190 kind
+v 191 import
+v 192 expens
+v 193 see
+v 194 regular
+v 195 usual
+v 196 ajimirin
+v 197 kotteri
+v 198 technic
+v 199 low
+v 200 instead
+v 201 end
+v 202 high
+v 203 think
+v 204 doesnt
+v 205 matter
+v 206 decent
+v 207 best
+v 208 onlin
+v 209 thigh
+v 210 vs
+v 211 breast
+v 212 boneless
+v 213 leg
+v 214 drumstick
+v 215 keep
+v 216 everyth
+v 217 eas
+v 218 go
+v 219 also
+v 220 leaner
+v 221 sear
+v 222 recommend
+v 223 cut
+v 224 bite
+v 225 size
+v 226 piec
+v 227 toss
+v 228 variat
+v 229 instant
+v 230 luck
+v 231 recip
+v 232 right
+v 233 load
+v 234 essenti
+v 235 pressur
+v 236 7
+v 237 minut
+v 238 quick
+v 239 releas
+v 240 done
+v 241 click
+v 242 detail
+v 243 golden
+v 244 remov
+v 245 ad
+v 246 bring
+v 247 gentl
+v 248 2
+v 249 teaspoon
+v 250 1
+v 251 tablespoon
+v 252 water
+e 0 1 2
+e 0 27 2
+e 0 40 2
+e 0 14 2
+e 0 116 2
+e 0 47 2
+e 1 2 2
+e 1 5 2
+e 1 7 2
+e 1 15 2
+e 1 20 2
+e 1 0 2
+e 1 46 2
+e 1 52 2
+e 1 27 2
+e 1 53 2
+e 1 55 2
+e 1 61 2
+e 1 69 2
+e 1 72 2
+e 1 100 2
+e 1 98 2
+e 1 213 2
+e 1 211 2
+e 1 137 2
+e 1 231 2
+e 1 38 2
+e 2 3 2
+e 3 4 2
+e 4 0 2
+e 4 4 2
+e 4 31 2
+e 5 6 2
+e 6 0 2
+e 7 8 2
+e 7 0 2
+e 8 9 2
+e 8 30 2
+e 9 10 2
+e 9 0 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 12 148 2
+e 12 92 2
+e 12 36 2
+e 13 14 2
+e 13 0 2
+e 14 1 2
+e 14 36 2
+e 14 73 2
+e 14 89 2
+e 14 0 2
+e 14 97 2
+e 14 98 2
+e 14 83 2
+e 14 64 2
+e 14 29 2
+e 14 110 2
+e 14 33 2
+e 14 120 2
+e 14 124 2
+e 14 131 2
+e 14 134 2
+e 14 136 2
+e 14 154 2
+e 14 228 2
+e 14 234 2
+e 14 100 2
+e 14 137 2
+e 14 56 2
+e 14 246 2
+e 15 16 2
+e 15 112 2
+e 15 12 2
+e 15 19 2
+e 16 17 2
+e 16 14 2
+e 17 18 2
+e 18 19 2
+e 18 205 2
+e 18 108 2
+e 19 7 2
+e 19 221 2
+e 19 233 2
+e 20 21 2
+e 21 22 2
+e 22 22 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 26 9 2
+e 27 28 2
+e 27 1 2
+e 27 55 2
+e 27 70 2
+e 27 71 2
+e 27 87 2
+e 27 35 2
+e 27 133 2
+e 27 125 2
+e 27 153 2
+e 27 33 2
+e 27 164 2
+e 27 167 2
+e 27 206 2
+e 27 181 2
+e 27 227 2
+e 28 29 2
+e 29 30 2
+e 29 114 2
+e 29 35 2
+e 29 149 2
+e 29 158 2
+e 29 173 2
+e 29 212 2
+e 29 1 2
+e 29 211 2
+e 30 4 2
+e 30 14 2
+e 30 27 2
+e 30 35 2
+e 30 144 2
+e 30 92 2
+e 30 12 2
+e 31 32 2
+e 32 33 2
+e 32 38 2
+e 32 1 2
+e 32 105 2
+e 32 174 2
+e 33 34 2
+e 33 74 2
+e 33 33 2
+e 33 30 2
+e 33 29 2
+e 33 155 2
+e 33 159 2
+e 33 168 2
+e 33 36 2
+e 34 35 2
+e 35 14 2
+e 35 36 2
+e 35 118 2
+e 35 74 2
+e 36 37 2
+e 36 75 2
+e 36 45 2
+e 36 107 2
+e 36 33 2
+e 36 139 2
+e 36 200 2
+e 36 246 2
+e 37 38 2
+e 38 39 2
+e 38 41 2
+e 38 44 2
+e 38 0 2
+e 38 209 2
+e 38 52 2
+e 39 0 2
+e 40 32 2
+e 40 42 2
+e 40 38 2
+e 41 40 2
+e 42 43 2
+e 43 40 2
+e 44 45 2
+e 45 0 2
+e 45 101 2
+e 46 47 2
+e 46 180 2
+e 47 48 2
+e 47 19 2
+e 48 49 2
+e 49 50 2
+e 50 51 2
+e 51 32 2
+e 52 0 2
+e 52 64 2
+e 52 14 2
+e 52 88 2
+e 52 109 2
+e 52 110 2
+e 52 202 2
+e 52 238 2
+e 53 54 2
+e 54 1 2
+e 55 27 2
+e 55 56 2
+e 55 15 2
+e 56 57 2
+e 56 245 2
+e 57 58 2
+e 58 57 2
+e 58 59 2
+e 58 243 2
+e 59 60 2
+e 60 1 2
+e 61 62 2
+e 62 63 2
+e 62 67 2
+e 62 1 2
+e 62 72 2
+e 62 209 2
+e 62 181 2
+e 62 71 2
+e 63 1 2
+e 64 65 2
+e 64 108 2
+e 65 66 2
+e 65 217 2
+e 66 62 2
+e 67 68 2
+e 67 190 2
+e 67 70 2
+e 68 1 2
+e 68 128 2
+e 69 27 2
+e 70 27 2
+e 71 52 2
+e 71 102 2
+e 71 74 2
+e 71 57 2
+e 71 244 2
+e 72 52 2
+e 72 158 2
+e 73 33 2
+e 74 35 2
+e 74 36 2
+e 74 74 2
+e 74 30 2
+e 74 155 2
+e 74 176 2
+e 74 160 2
+e 74 181 2
+e 74 185 2
+e 74 173 2
+e 74 180 2
+e 74 141 2
+e 74 191 2
+e 74 193 2
+e 74 198 2
+e 74 199 2
+e 74 33 2
+e 75 76 2
+e 76 77 2
+e 76 0 2
+e 76 84 2
+e 77 78 2
+e 77 80 2
+e 78 79 2
+e 79 80 2
+e 80 81 2
+e 80 248 2
+e 80 14 2
+e 81 82 2
+e 81 250 2
+e 82 83 2
+e 83 84 2
+e 83 106 2
+e 83 14 2
+e 84 85 2
+e 84 235 2
+e 85 86 2
+e 86 1 2
+e 87 52 2
+e 88 0 2
+e 89 90 2
+e 90 91 2
+e 91 92 2
+e 92 93 2
+e 92 147 2
+e 92 187 2
+e 93 94 2
+e 94 95 2
+e 95 96 2
+e 96 0 2
+e 97 30 2
+e 98 99 2
+e 98 212 2
+e 99 100 2
+e 100 33 2
+e 100 0 2
+e 100 30 2
+e 100 166 2
+e 100 209 2
+e 101 71 2
+e 102 103 2
+e 103 104 2
+e 103 137 2
+e 104 32 2
+e 105 0 2
+e 106 36 2
+e 106 141 2
+e 106 12 2
+e 106 172 2
+e 107 0 2
+e 108 52 2
+e 108 189 2
+e 109 52 2
+e 110 111 2
+e 110 117 2
+e 110 189 2
+e 111 15 2
+e 112 113 2
+e 112 106 2
+e 112 137 2
+e 112 74 2
+e 112 195 2
+e 112 209 2
+e 112 219 2
+e 113 0 2
+e 114 115 2
+e 115 1 2
+e 116 0 2
+e 117 35 2
+e 118 119 2
+e 119 100 2
+e 120 121 2
+e 121 122 2
+e 122 123 2
+e 123 35 2
+e 123 161 2
+e 123 196 2
+e 124 125 2
+e 125 126 2
+e 125 150 2
+e 125 14 2
+e 126 127 2
+e 126 106 2
+e 127 68 2
+e 128 129 2
+e 129 130 2
+e 130 29 2
+e 131 132 2
+e 131 203 2
+e 132 133 2
+e 133 35 2
+e 133 138 2
+e 133 184 2
+e 134 135 2
+e 135 29 2
+e 136 137 2
+e 137 27 2
+e 137 156 2
+e 137 52 2
+e 137 218 2
+e 137 230 2
+e 137 240 2
+e 138 139 2
+e 139 140 2
+e 139 170 2
+e 139 171 2
+e 139 15 2
+e 140 141 2
+e 140 33 2
+e 141 142 2
+e 141 33 2
+e 141 186 2
+e 141 201 2
+e 142 143 2
+e 143 30 2
+e 144 145 2
+e 145 146 2
+e 146 112 2
+e 147 125 2
+e 147 29 2
+e 147 100 2
+e 147 207 2
+e 147 160 2
+e 148 147 2
+e 148 179 2
+e 148 206 2
+e 148 55 2
+e 149 27 2
+e 150 151 2
+e 151 152 2
+e 152 140 2
+e 153 16 2
+e 154 27 2
+e 154 74 2
+e 155 146 2
+e 155 175 2
+e 156 157 2
+e 157 29 2
+e 158 33 2
+e 158 215 2
+e 159 160 2
+e 160 123 2
+e 160 46 2
+e 160 208 2
+e 161 162 2
+e 162 163 2
+e 163 8 2
+e 164 165 2
+e 165 74 2
+e 166 30 2
+e 167 33 2
+e 168 169 2
+e 169 139 2
+e 170 36 2
+e 171 106 2
+e 172 29 2
+e 173 32 2
+e 173 185 2
+e 174 154 2
+e 175 155 2
+e 175 146 2
+e 176 177 2
+e 176 220 2
+e 177 178 2
+e 178 179 2
+e 179 74 2
+e 179 27 2
+e 180 74 2
+e 181 182 2
+e 181 103 2
+e 181 27 2
+e 182 183 2
+e 183 133 2
+e 184 74 2
+e 185 74 2
+e 186 92 2
+e 187 188 2
+e 188 110 2
+e 189 190 2
+e 189 146 2
+e 190 74 2
+e 190 148 2
+e 190 1 2
+e 191 192 2
+e 192 71 2
+e 193 194 2
+e 194 146 2
+e 195 196 2
+e 196 197 2
+e 196 190 2
+e 197 74 2
+e 198 74 2
+e 199 169 2
+e 200 106 2
+e 201 137 2
+e 201 131 2
+e 202 201 2
+e 202 236 2
+e 203 204 2
+e 204 18 2
+e 205 190 2
+e 206 147 2
+e 207 123 2
+e 208 155 2
+e 209 210 2
+e 209 214 2
+e 209 18 2
+e 209 76 2
+e 209 62 2
+e 210 211 2
+e 211 45 2
+e 211 176 2
+e 211 222 2
+e 212 62 2
+e 213 209 2
+e 214 62 2
+e 215 216 2
+e 216 65 2
+e 217 218 2
+e 218 29 2
+e 219 29 2
+e 220 148 2
+e 221 62 2
+e 222 223 2
+e 223 224 2
+e 224 225 2
+e 225 226 2
+e 226 27 2
+e 227 0 2
+e 228 229 2
+e 229 76 2
+e 230 229 2
+e 231 232 2
+e 231 242 2
+e 232 67 2
+e 233 12 2
+e 234 125 2
+e 235 202 2
+e 236 237 2
+e 237 238 2
+e 238 239 2
+e 238 81 2
+e 239 52 2
+e 240 241 2
+e 241 231 2
+e 242 38 2
+e 243 67 2
+e 244 38 2
+e 245 35 2
+e 246 247 2
+e 247 77 2
+e 248 249 2
+e 249 81 2
+e 250 251 2
+e 251 252 2
+e 252 80 2
+t # 6
+v 0 chicken
+v 1 katsu
+v 2 got
+v 3 one
+v 4 time
+v 5 favorit
+v 6 thing
+v 7 make
+v 8 eat
+v 9 like
+v 10 shake
+v 11 bake
+v 12 holi
+v 13 heck
+v 14 much
+v 15 better
+v 16 juici
+v 17 tender
+v 18 crispi
+v 19 panko
+v 20 breadcrumb
+v 21 outsid
+v 22 fluffi
+v 23 rice
+v 24 crunchi
+v 25 cabbag
+v 26 dream
+v 27 meal
+v 28 almost
+v 29 everi
+v 30 cultur
+v 31 bread
+v 32 cutlet
+v 33 love
+v 34 special
+v 35 littl
+v 36 shape
+v 37 heart
+v 38 japanes
+v 39 transliter
+v 40 word
+v 41 mean
+v 42 come
+v 43 tonkatsu
+v 44 pictur
+v 45 pork
+v 46 also
+v 47 kind
+v 48 turn
+v 49 term
+v 50 item
+v 51 find
+v 52 tofu
+v 53 beef
+v 54 cours
+v 55 prep
+v 56 light
+v 57 pound
+v 58 12
+v 59 inch
+v 60 thick
+v 61 help
+v 62 cook
+v 63 even
+v 64 season
+v 65 side
+v 66 salt
+v 67 pepper
+v 68 flour
+v 69 dip
+v 70 excess
+v 71 egg
+v 72 coat
+v 73 press
+v 74 sure
+v 75 air
+v 76 fri
+v 77 deep
+v 78 enjoy
+v 79 slice
+v 80 serv
+v 81 sauc
+v 82 japan
+v 83 dedic
+v 84 restaur
+v 85 focus
+v 86 along
+v 87 seafood
+v 88 ebi
+v 89 shrimp
+v 90 kakifri
+v 91 oyster
+v 92 katsusando
+v 93 sandwich
+v 94 popular
+v 95 counterpart
+v 96 insan
+v 97 world
+v 98 probabl
+v 99 similar
+v 100 schnitzel
+v 101 part
+v 102 set
+v 103 teishoku
+v 104 bowl
+v 105 donburi
+v 106 curri
+v 107 common
+v 108 pickl
+v 109 best
+v 110 use
+v 111 either
+v 112 boneless
+v 113 skinless
+v 114 breast
+v 115 thigh
+v 116 way
+v 117 youll
+v 118 want
+v 119 isnt
+v 120 vs
+v 121 well
+v 122 tradit
+v 123 two
+v 124 get
+v 125 overcook
+v 126 pretti
+v 127 easili
+v 128 need
+v 129 sourc
+v 130 right
+v 131 fatti
+v 132 order
+v 133 authent
+v 134 tast
+v 135 katsuwherea
+v 136 alway
+v 137 end
+v 138 great
+v 139 book
+v 140 home
+v 141 clear
+v 142 choic
+v 143 theyr
+v 144 vast
+v 145 differ
+v 146 regular
+v 147 fluffier
+v 148 larger
+v 149 made
+v 150 crustless
+v 151 white
+v 152 irregular
+v 153 flake
+v 154 dryer
+v 155 flakier
+v 156 absorb
+v 157 less
+v 158 oil
+v 159 actual
+v 160 super
+v 161 interest
+v 162 big
+v 163 deal
+v 164 factori
+v 165 specif
+v 166 fresh
+v 167 dri
+v 168 size
+v 169 oven
+v 170 electr
+v 171 current
+v 172 lot
+v 173 deliv
+v 174 daili
+v 175 buy
+v 176 sold
+v 177 groceri
+v 178 store
+v 179 asian
+v 180 aisl
+v 181 cheaper
+v 182 onlin
+v 183 prefer
+v 184 brand
+v 185 sometim
+v 186 see
+v 187 someth
+v 188 label
+v 189 look
+v 190 take
+v 191 packag
+v 192 larg
+v 193 shard
+v 194 flat
+v 195 station
+v 196 three
+v 197 shallow
+v 198 dish
+v 199 abl
+v 200 fit
+v 201 put
+v 202 beaten
+v 203 next
+v 204 last
+v 205 hand
+v 206 place
+v 207 flip
+v 208 gentl
+v 209 adher
+v 210 your
+v 211 readi
+v 212 friedbak
+v 213 toast
+v 214 deepli
+v 215 golden
+v 216 signatur
+v 217 color
+v 218 appet
+v 219 wont
+v 220 fix
+v 221 add
+v 222 pan
+v 223 medium
+v 224 heat
+v 225 stir
+v 226 drizzl
+v 227 bit
+v 228 toasti
+v 229 brown
+v 230 remov
+v 231 cool
+v 232 complet
+v 233 ever
+v 234 prepar
+v 235 rack
+v 236 insid
+v 237 fryer
+v 238 400f
+v 239 1215
+v 240 minut
+v 241 intern
+v 242 temperatur
+v 243 reach
+v 244 165f
+v 245 2025
+v 246 give
+v 247 juiciest
+v 248 messiest
+v 249 23
+v 250 neutral
+v 251 high
+v 252 350f
+e 0 1 2
+e 0 12 2
+e 0 18 2
+e 0 32 2
+e 0 58 2
+e 0 68 2
+e 0 71 2
+e 0 19 2
+e 0 62 2
+e 0 17 2
+e 0 100 2
+e 0 110 2
+e 0 114 2
+e 0 115 2
+e 0 119 2
+e 0 120 2
+e 0 126 2
+e 0 140 2
+e 0 128 2
+e 0 201 2
+e 0 66 2
+e 0 207 2
+e 0 72 2
+e 0 214 2
+e 0 233 2
+e 0 243 2
+e 1 2 2
+e 1 34 2
+e 1 36 2
+e 1 1 2
+e 1 38 2
+e 1 48 2
+e 1 53 2
+e 1 54 2
+e 1 7 2
+e 1 55 2
+e 1 78 2
+e 1 82 2
+e 1 94 2
+e 1 80 2
+e 1 42 2
+e 1 93 2
+e 1 111 2
+e 1 24 2
+e 1 31 2
+e 1 75 2
+e 1 210 2
+e 1 117 2
+e 1 101 2
+e 1 235 2
+e 1 77 2
+e 1 246 2
+e 1 46 2
+e 1 158 2
+e 2 3 2
+e 3 4 2
+e 3 198 2
+e 3 205 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 0 2
+e 7 74 2
+e 7 1 2
+e 8 9 2
+e 9 10 2
+e 9 88 2
+e 9 146 2
+e 9 31 2
+e 10 11 2
+e 10 70 2
+e 11 0 2
+e 11 77 2
+e 11 31 2
+e 11 170 2
+e 11 110 2
+e 11 75 2
+e 11 224 2
+e 11 245 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 14 28 2
+e 15 16 2
+e 15 121 2
+e 16 17 2
+e 17 0 2
+e 18 19 2
+e 19 20 2
+e 19 31 2
+e 19 73 2
+e 19 7 2
+e 19 72 2
+e 19 77 2
+e 19 19 2
+e 19 38 2
+e 19 159 2
+e 19 164 2
+e 19 165 2
+e 19 167 2
+e 19 145 2
+e 19 173 2
+e 19 176 2
+e 19 185 2
+e 19 189 2
+e 19 192 2
+e 19 102 2
+e 19 204 2
+e 19 110 2
+e 19 74 2
+e 19 10 2
+e 19 210 2
+e 19 219 2
+e 19 222 2
+e 20 21 2
+e 20 143 2
+e 20 147 2
+e 20 190 2
+e 21 22 2
+e 22 23 2
+e 23 24 2
+e 23 25 2
+e 23 104 2
+e 24 25 2
+e 24 143 2
+e 25 26 2
+e 25 81 2
+e 25 108 2
+e 26 27 2
+e 27 28 2
+e 27 103 2
+e 28 29 2
+e 28 136 2
+e 29 30 2
+e 30 31 2
+e 31 0 2
+e 31 50 2
+e 31 152 2
+e 31 145 2
+e 31 111 2
+e 31 195 2
+e 31 146 2
+e 32 33 2
+e 32 42 2
+e 32 46 2
+e 32 56 2
+e 32 86 2
+e 32 93 2
+e 33 0 2
+e 34 35 2
+e 35 1 2
+e 36 37 2
+e 37 1 2
+e 38 39 2
+e 38 20 2
+e 38 184 2
+e 39 40 2
+e 40 41 2
+e 41 32 2
+e 42 43 2
+e 42 101 2
+e 43 44 2
+e 43 84 2
+e 44 45 2
+e 45 32 2
+e 45 95 2
+e 45 15 2
+e 45 122 2
+e 45 124 2
+e 45 84 2
+e 46 47 2
+e 46 92 2
+e 46 124 2
+e 46 248 2
+e 47 1 2
+e 48 49 2
+e 48 0 2
+e 49 19 2
+e 50 51 2
+e 51 52 2
+e 52 1 2
+e 53 1 2
+e 54 0 2
+e 55 0 2
+e 56 57 2
+e 56 202 2
+e 57 0 2
+e 58 59 2
+e 59 60 2
+e 59 250 2
+e 60 61 2
+e 60 0 2
+e 60 132 2
+e 61 62 2
+e 62 63 2
+e 62 75 2
+e 62 62 2
+e 62 0 2
+e 63 64 2
+e 63 145 2
+e 63 229 2
+e 64 65 2
+e 64 0 2
+e 65 66 2
+e 65 10 2
+e 66 67 2
+e 67 68 2
+e 67 110 2
+e 68 69 2
+e 68 10 2
+e 68 71 2
+e 68 3 2
+e 68 72 2
+e 68 206 2
+e 68 0 2
+e 69 0 2
+e 69 68 2
+e 70 71 2
+e 70 19 2
+e 70 68 2
+e 71 69 2
+e 71 72 2
+e 71 19 2
+e 71 203 2
+e 71 110 2
+e 71 7 2
+e 71 206 2
+e 72 65 2
+e 72 0 2
+e 72 10 2
+e 72 19 2
+e 73 0 2
+e 74 19 2
+e 74 72 2
+e 74 208 2
+e 75 76 2
+e 75 212 2
+e 75 237 2
+e 76 11 2
+e 76 0 2
+e 76 19 2
+e 76 89 2
+e 76 91 2
+e 76 219 2
+e 76 167 2
+e 76 206 2
+e 76 238 2
+e 76 224 2
+e 76 207 2
+e 77 76 2
+e 77 222 2
+e 78 79 2
+e 78 1 2
+e 79 80 2
+e 80 23 2
+e 80 1 2
+e 81 78 2
+e 81 109 2
+e 82 82 2
+e 82 83 2
+e 82 96 2
+e 83 43 2
+e 83 19 2
+e 84 85 2
+e 84 0 2
+e 84 124 2
+e 85 45 2
+e 86 87 2
+e 87 9 2
+e 88 76 2
+e 89 90 2
+e 90 19 2
+e 91 46 2
+e 92 45 2
+e 92 107 2
+e 93 0 2
+e 93 92 2
+e 94 45 2
+e 94 97 2
+e 95 82 2
+e 96 94 2
+e 97 98 2
+e 98 99 2
+e 99 0 2
+e 100 1 2
+e 101 102 2
+e 101 218 2
+e 102 27 2
+e 102 80 2
+e 102 1 2
+e 102 196 2
+e 103 23 2
+e 103 102 2
+e 104 105 2
+e 104 231 2
+e 105 106 2
+e 106 106 2
+e 106 1 2
+e 107 103 2
+e 108 81 2
+e 109 0 2
+e 110 7 2
+e 110 171 2
+e 110 3 2
+e 110 205 2
+e 110 68 2
+e 111 112 2
+e 111 116 2
+e 111 169 2
+e 112 113 2
+e 113 0 2
+e 114 112 2
+e 115 111 2
+e 116 117 2
+e 116 11 2
+e 117 118 2
+e 117 186 2
+e 117 128 2
+e 118 56 2
+e 119 60 2
+e 120 45 2
+e 121 45 2
+e 122 123 2
+e 123 45 2
+e 124 125 2
+e 124 133 2
+e 124 166 2
+e 124 182 2
+e 125 126 2
+e 126 127 2
+e 126 14 2
+e 127 128 2
+e 128 129 2
+e 128 68 2
+e 128 213 2
+e 128 221 2
+e 129 130 2
+e 130 131 2
+e 131 60 2
+e 132 124 2
+e 133 134 2
+e 134 135 2
+e 135 0 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 139 45 2
+e 140 141 2
+e 141 142 2
+e 142 19 2
+e 143 144 2
+e 143 154 2
+e 144 145 2
+e 145 146 2
+e 145 19 2
+e 145 168 2
+e 145 116 2
+e 146 20 2
+e 146 0 2
+e 147 148 2
+e 148 149 2
+e 149 150 2
+e 150 151 2
+e 151 31 2
+e 152 153 2
+e 152 193 2
+e 153 19 2
+e 153 63 2
+e 154 155 2
+e 155 156 2
+e 156 157 2
+e 157 158 2
+e 158 19 2
+e 158 225 2
+e 158 77 2
+e 158 76 2
+e 159 160 2
+e 160 161 2
+e 161 162 2
+e 162 163 2
+e 163 82 2
+e 164 11 2
+e 165 124 2
+e 166 19 2
+e 167 19 2
+e 167 213 2
+e 167 222 2
+e 168 153 2
+e 169 11 2
+e 169 238 2
+e 170 11 2
+e 171 172 2
+e 172 84 2
+e 172 217 2
+e 173 174 2
+e 174 175 2
+e 175 19 2
+e 175 179 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 178 46 2
+e 179 180 2
+e 179 177 2
+e 180 181 2
+e 181 175 2
+e 182 183 2
+e 183 38 2
+e 184 19 2
+e 185 117 2
+e 186 187 2
+e 187 188 2
+e 188 19 2
+e 189 9 2
+e 189 191 2
+e 190 189 2
+e 191 175 2
+e 192 152 2
+e 193 194 2
+e 194 102 2
+e 195 9 2
+e 196 197 2
+e 197 198 2
+e 197 104 2
+e 198 199 2
+e 198 56 2
+e 198 19 2
+e 198 64 2
+e 199 200 2
+e 200 0 2
+e 201 68 2
+e 202 71 2
+e 203 198 2
+e 204 198 2
+e 205 69 2
+e 205 48 2
+e 205 110 2
+e 205 220 2
+e 206 71 2
+e 206 0 2
+e 206 197 2
+e 206 234 2
+e 206 72 2
+e 207 73 2
+e 207 215 2
+e 208 209 2
+e 208 206 2
+e 209 19 2
+e 210 211 2
+e 210 75 2
+e 211 62 2
+e 212 0 2
+e 213 19 2
+e 213 205 2
+e 213 223 2
+e 214 215 2
+e 215 216 2
+e 215 228 2
+e 215 229 2
+e 216 217 2
+e 217 0 2
+e 217 19 2
+e 218 11 2
+e 219 172 2
+e 219 77 2
+e 220 128 2
+e 221 19 2
+e 222 213 2
+e 222 206 2
+e 222 223 2
+e 223 224 2
+e 223 251 2
+e 224 225 2
+e 224 169 2
+e 224 249 2
+e 224 243 2
+e 225 226 2
+e 225 215 2
+e 226 227 2
+e 227 158 2
+e 228 229 2
+e 229 230 2
+e 229 1 2
+e 229 62 2
+e 230 19 2
+e 231 232 2
+e 232 72 2
+e 233 75 2
+e 234 0 2
+e 235 236 2
+e 235 11 2
+e 236 75 2
+e 237 75 2
+e 238 239 2
+e 238 206 2
+e 239 240 2
+e 240 241 2
+e 241 242 2
+e 242 0 2
+e 243 244 2
+e 243 252 2
+e 244 11 2
+e 244 77 2
+e 245 240 2
+e 246 247 2
+e 247 63 2
+e 248 77 2
+e 249 59 2
+e 250 158 2
+e 251 224 2
+e 252 208 2
+t # 7
+v 0 air
+v 1 fryer
+v 2 chicken
+v 3 wing
+v 4 come
+v 5 hot
+v 6 love
+v 7 match
+v 8 made
+v 9 heaven
+v 10 faster
+v 11 go
+v 12 bar
+v 13 order
+v 14 wait
+v 15 fri
+v 16 even
+v 17 better
+v 18 theyr
+v 19 super
+v 20 juici
+v 21 tast
+v 22 amaz
+v 23 take
+v 24 20
+v 25 minut
+v 26 deep
+v 27 best
+v 28 option
+v 29 crispi
+v 30 circul
+v 31 oil
+v 32 around
+v 33 get
+v 34 perfect
+v 35 crisp
+v 36 shell
+v 37 keep
+v 38 insid
+v 39 extra
+v 40 bake
+v 41 oven
+v 42 hour
+v 43 start
+v 44 finish
+v 45 mean
+v 46 dont
+v 47 chanc
+v 48 dri
+v 49 make
+v 50 light
+v 51 pat
+v 52 moistur
+v 53 friend
+v 54 want
+v 55 sure
+v 56 paper
+v 57 towel
+v 58 toss
+v 59 spray
+v 60 promot
+v 61 brown
+v 62 coat
+v 63 magic
+v 64 happen
+v 65 larg
+v 66 bowl
+v 67 bit
+v 68 powder
+v 69 garlic
+v 70 onion
+v 71 salt
+v 72 pepper
+v 73 brush
+v 74 basket
+v 75 arrang
+v 76 singl
+v 77 layer
+v 78 space
+v 79 flip
+v 80 enjoy
+v 81 sauc
+v 82 long
+v 83 cook
+v 84 15
+v 85 400f
+v 86 anoth
+v 87 5
+v 88 let
+v 89 rest
+v 90 give
+v 91 blast
+v 92 400ºf
+v 93 crunchi
+v 94 base
+v 95 size
+v 96 pack
+v 97 big
+v 98 add
+v 99 time
+v 100 basic
+v 101 recip
+v 102 key
+v 103 realli
+v 104 tasti
+v 105 well
+v 106 season
+v 107 know
+v 108 good
+v 109 flavor
+v 110 restaur
+v 111 way
+v 112 never
+v 113 seem
+v 114 achiev
+v 115 home
+v 116 secret
+v 117 along
+v 118 result
+v 119 unbeliev
+v 120 mix
+v 121 sauci
+v 122 someth
+v 123 cling
+v 124 delici
+v 125 soda
+v 126 ph
+v 127 surfac
+v 128 easili
+v 129 draw
+v 130 skin
+v 131 end
+v 132 golden
+v 133 buffalo
+v 134 vs
+v 135 100
+v 136 enough
+v 137 eat
+v 138 nake
+v 139 varieti
+v 140 spice
+v 141 life
+v 142 amirit
+v 143 ever
+v 144 simpl
+v 145 equal
+v 146 part
+v 147 frank
+v 148 red
+v 149 melt
+v 150 butter
+v 151 like
+v 152 use
+v 153 sriracha
+v 154 crystal
+v 155 truth
+v 156 almost
+v 157 alway
+v 158 reduc
+v 159 amount
+v 160 leav
+v 161 entir
+v 162 healthier
+v 163 twist
+v 164 specif
+v 165 aardvark
+v 166 habanero
+v 167 phenomen
+v 168 also
+v 169 korean
+v 170 small
+v 171 pan
+v 172 heat
+v 173 1
+v 174 tablespoon
+v 175 ketchup
+v 176 gochujang
+v 177 honey
+v 178 sugar
+v 179 12
+v 180 soy
+v 181 toast
+v 182 sesam
+v 183 grate
+v 184 ginger
+v 185 2
+v 186 clove
+v 187 crush
+v 188 read
+v 189 pok
+v 190 fish
+v 191 combin
+v 192 lime
+v 193 juic
+v 194 slice
+v 195 thai
+v 196 bird
+v 197 eye
+v 198 chili
+v 199 sit
+v 200 10
+v 201 meld
+v 202 style
+v 203 medium
+v 204 8
+v 205 soft
+v 206 stir
+v 207 teaspoon
+v 208 water
+v 209 bring
+v 210 simmer
+v 211 ranch
+v 212 must
+v 213 dip
+v 214 tell
+v 215 pro
+v 216 move
+v 217 check
+v 218 whole
+v 219 post
+v 220 vietnames
+v 221 world
+v 222 believ
+v 223 ultim
+v 224 umami
+v 225 could
+v 226 pound
+v 227 tire
+v 228 inform
+v 229 frozen
+v 230 surpris
+v 231 youll
+v 232 need
+v 233 longer
+v 234 wont
+v 235 your
+v 236 hurri
+v 237 pretti
+v 238 parti
+v 239 trick
+v 240 lay
+v 241 set
+e 0 1 2
+e 0 31 2
+e 0 15 2
+e 1 2 2
+e 1 7 2
+e 1 18 2
+e 1 27 2
+e 1 30 2
+e 1 74 2
+e 1 23 2
+e 1 83 2
+e 1 3 2
+e 1 49 2
+e 1 230 2
+e 1 229 2
+e 1 85 2
+e 2 3 2
+e 2 48 2
+e 2 58 2
+e 2 63 2
+e 2 189 2
+e 3 4 2
+e 3 6 2
+e 3 0 2
+e 3 10 2
+e 3 16 2
+e 3 33 2
+e 3 41 2
+e 3 23 2
+e 3 46 2
+e 3 50 2
+e 3 55 2
+e 3 48 2
+e 3 65 2
+e 3 76 2
+e 3 79 2
+e 3 15 2
+e 3 58 2
+e 3 84 2
+e 3 88 2
+e 3 83 2
+e 3 95 2
+e 3 39 2
+e 3 101 2
+e 3 105 2
+e 3 21 2
+e 3 81 2
+e 3 62 2
+e 3 116 2
+e 3 40 2
+e 3 61 2
+e 3 131 2
+e 3 134 2
+e 3 135 2
+e 3 49 2
+e 3 133 2
+e 3 19 2
+e 3 169 2
+e 3 170 2
+e 3 191 2
+e 3 177 2
+e 3 149 2
+e 3 211 2
+e 3 220 2
+e 3 225 2
+e 3 112 2
+e 3 229 2
+e 3 67 2
+e 4 5 2
+e 4 29 2
+e 5 6 2
+e 5 0 2
+e 5 149 2
+e 5 81 2
+e 6 2 2
+e 6 0 2
+e 7 8 2
+e 8 9 2
+e 8 164 2
+e 9 0 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 15 3 2
+e 15 2 2
+e 15 50 2
+e 15 58 2
+e 16 17 2
+e 16 61 2
+e 17 18 2
+e 18 19 2
+e 18 26 2
+e 19 20 2
+e 19 108 2
+e 19 144 2
+e 20 21 2
+e 20 29 2
+e 20 40 2
+e 20 35 2
+e 21 22 2
+e 21 19 2
+e 22 23 2
+e 22 238 2
+e 23 24 2
+e 23 42 2
+e 24 25 2
+e 25 0 2
+e 25 43 2
+e 25 83 2
+e 25 85 2
+e 25 90 2
+e 25 91 2
+e 25 109 2
+e 25 79 2
+e 26 15 2
+e 27 28 2
+e 27 143 2
+e 27 5 2
+e 28 20 2
+e 29 2 2
+e 29 3 2
+e 29 0 2
+e 29 132 2
+e 29 235 2
+e 30 5 2
+e 31 32 2
+e 31 50 2
+e 31 2 2
+e 31 59 2
+e 31 60 2
+e 31 75 2
+e 31 183 2
+e 32 3 2
+e 33 34 2
+e 33 39 2
+e 33 227 2
+e 34 35 2
+e 34 94 2
+e 35 36 2
+e 35 109 2
+e 36 37 2
+e 37 38 2
+e 38 39 2
+e 39 20 2
+e 39 29 2
+e 39 93 2
+e 39 97 2
+e 39 87 2
+e 39 39 2
+e 39 109 2
+e 39 121 2
+e 39 124 2
+e 39 52 2
+e 40 3 2
+e 40 68 2
+e 40 125 2
+e 41 23 2
+e 42 0 2
+e 43 44 2
+e 44 45 2
+e 45 3 2
+e 46 47 2
+e 47 48 2
+e 48 49 2
+e 48 52 2
+e 48 56 2
+e 48 58 2
+e 49 0 2
+e 49 3 2
+e 49 127 2
+e 49 27 2
+e 49 229 2
+e 50 51 2
+e 50 31 2
+e 50 59 2
+e 51 2 2
+e 51 3 2
+e 52 53 2
+e 52 127 2
+e 53 54 2
+e 54 29 2
+e 54 39 2
+e 55 51 2
+e 56 57 2
+e 57 50 2
+e 58 31 2
+e 58 3 2
+e 58 80 2
+e 58 81 2
+e 58 188 2
+e 58 221 2
+e 59 59 2
+e 59 31 2
+e 59 73 2
+e 60 16 2
+e 61 62 2
+e 61 128 2
+e 61 178 2
+e 61 206 2
+e 62 2 2
+e 62 67 2
+e 63 64 2
+e 64 58 2
+e 65 66 2
+e 66 67 2
+e 67 40 2
+e 67 71 2
+e 67 233 2
+e 68 69 2
+e 68 70 2
+e 68 71 2
+e 68 117 2
+e 68 72 2
+e 68 40 2
+e 68 49 2
+e 68 215 2
+e 68 140 2
+e 69 68 2
+e 69 70 2
+e 69 188 2
+e 69 179 2
+e 69 3 2
+e 69 83 2
+e 70 68 2
+e 70 72 2
+e 71 72 2
+e 71 69 2
+e 71 100 2
+e 71 129 2
+e 72 0 2
+e 72 118 2
+e 72 34 2
+e 73 0 2
+e 74 31 2
+e 74 241 2
+e 75 3 2
+e 76 77 2
+e 77 78 2
+e 77 77 2
+e 77 109 2
+e 77 81 2
+e 77 0 2
+e 78 3 2
+e 79 79 2
+e 79 3 2
+e 79 83 2
+e 80 3 2
+e 81 82 2
+e 81 77 2
+e 81 49 2
+e 81 122 2
+e 81 3 2
+e 81 151 2
+e 81 27 2
+e 81 143 2
+e 81 181 2
+e 81 178 2
+e 81 2 2
+e 81 173 2
+e 82 83 2
+e 83 2 2
+e 83 3 2
+e 83 86 2
+e 83 94 2
+e 83 99 2
+e 83 205 2
+e 84 25 2
+e 85 79 2
+e 85 54 2
+e 85 84 2
+e 86 87 2
+e 87 25 2
+e 88 89 2
+e 88 199 2
+e 88 214 2
+e 89 87 2
+e 90 86 2
+e 91 92 2
+e 92 33 2
+e 93 3 2
+e 94 3 2
+e 94 107 2
+e 94 77 2
+e 95 96 2
+e 96 0 2
+e 97 98 2
+e 98 39 2
+e 98 204 2
+e 99 100 2
+e 100 0 2
+e 100 106 2
+e 100 126 2
+e 101 102 2
+e 101 217 2
+e 102 103 2
+e 103 104 2
+e 104 0 2
+e 105 106 2
+e 106 94 2
+e 106 3 2
+e 106 120 2
+e 107 3 2
+e 108 109 2
+e 108 136 2
+e 109 110 2
+e 109 111 2
+e 109 100 2
+e 109 39 2
+e 109 201 2
+e 110 111 2
+e 111 112 2
+e 111 3 2
+e 112 113 2
+e 112 33 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 116 106 2
+e 116 39 2
+e 116 165 2
+e 117 71 2
+e 117 185 2
+e 117 173 2
+e 118 119 2
+e 119 20 2
+e 120 71 2
+e 120 152 2
+e 120 240 2
+e 121 81 2
+e 122 123 2
+e 123 39 2
+e 124 39 2
+e 125 71 2
+e 126 40 2
+e 127 3 2
+e 127 130 2
+e 128 67 2
+e 129 39 2
+e 130 0 2
+e 131 29 2
+e 132 133 2
+e 133 3 2
+e 133 154 2
+e 133 155 2
+e 134 81 2
+e 135 108 2
+e 136 137 2
+e 137 138 2
+e 137 226 2
+e 138 139 2
+e 139 140 2
+e 140 141 2
+e 140 120 2
+e 141 142 2
+e 142 0 2
+e 143 133 2
+e 143 167 2
+e 144 145 2
+e 145 146 2
+e 146 147 2
+e 147 148 2
+e 148 5 2
+e 149 150 2
+e 149 173 2
+e 150 151 2
+e 150 160 2
+e 150 170 2
+e 151 120 2
+e 151 153 2
+e 152 5 2
+e 153 133 2
+e 154 133 2
+e 155 156 2
+e 156 157 2
+e 157 158 2
+e 158 159 2
+e 159 150 2
+e 160 161 2
+e 161 162 2
+e 162 163 2
+e 163 8 2
+e 164 3 2
+e 165 166 2
+e 166 81 2
+e 167 168 2
+e 168 49 2
+e 169 3 2
+e 169 15 2
+e 170 171 2
+e 171 172 2
+e 171 203 2
+e 172 173 2
+e 172 98 2
+e 173 174 2
+e 173 186 2
+e 174 175 2
+e 174 180 2
+e 174 192 2
+e 174 150 2
+e 174 177 2
+e 174 208 2
+e 175 176 2
+e 176 177 2
+e 177 61 2
+e 177 69 2
+e 177 185 2
+e 178 179 2
+e 178 117 2
+e 179 174 2
+e 179 194 2
+e 180 81 2
+e 181 182 2
+e 182 31 2
+e 183 184 2
+e 184 117 2
+e 185 186 2
+e 185 174 2
+e 185 207 2
+e 186 187 2
+e 187 69 2
+e 188 169 2
+e 188 189 2
+e 189 189 2
+e 189 190 2
+e 189 202 2
+e 190 81 2
+e 191 173 2
+e 192 193 2
+e 193 190 2
+e 194 195 2
+e 195 196 2
+e 196 197 2
+e 197 198 2
+e 198 88 2
+e 199 200 2
+e 200 25 2
+e 201 58 2
+e 202 190 2
+e 203 172 2
+e 204 186 2
+e 205 61 2
+e 206 185 2
+e 207 180 2
+e 208 209 2
+e 209 210 2
+e 210 58 2
+e 211 3 2
+e 211 212 2
+e 211 68 2
+e 212 213 2
+e 213 88 2
+e 214 58 2
+e 215 216 2
+e 216 101 2
+e 217 218 2
+e 217 219 2
+e 218 219 2
+e 219 211 2
+e 219 220 2
+e 220 3 2
+e 220 0 2
+e 221 222 2
+e 222 223 2
+e 223 224 2
+e 224 3 2
+e 225 137 2
+e 226 226 2
+e 226 3 2
+e 227 228 2
+e 228 217 2
+e 229 2 2
+e 230 231 2
+e 231 232 2
+e 232 83 2
+e 233 234 2
+e 234 4 2
+e 235 236 2
+e 236 237 2
+e 237 22 2
+e 238 239 2
+e 239 49 2
+e 240 3 2
+e 241 0 2
+t # 8
+v 0 stuf
+v 1 shell
+v 2 season
+v 3 chicken
+v 4 recip
+v 5 two
+v 6 favorit
+v 7 thing
+v 8 ever
+v 9 one
+v 10 dish
+v 11 pot
+v 12 pie
+v 13 love
+v 14 creami
+v 15 flavor
+v 16 honest
+v 17 hard
+v 18 make
+v 19 im
+v 20 greatest
+v 21 crust
+v 22 thought
+v 23 id
+v 24 combin
+v 25 pasta
+v 26 went
+v 27 littl
+v 28 took
+v 29 time
+v 30 stuff
+v 31 giant
+v 32 elit
+v 33 perfect
+v 34 peopl
+v 35 dont
+v 36 like
+v 37 tomato
+v 38 red
+v 39 sauc
+v 40 fill
+v 41 want
+v 42 pan
+v 43 comfort
+v 44 cozi
+v 45 ahead
+v 46 meal
+v 47 frozen
+v 48 gift
+v 49 realli
+v 50 anyon
+v 51 carbi
+v 52 food
+v 53 ultim
+v 54 casserol
+v 55 theyr
+v 56 call
+v 57 conchiglioni
+v 58 italian
+v 59 cook
+v 60 place
+v 61 bake
+v 62 top
+v 63 chees
+v 64 oven
+v 65 lasagna
+v 66 manicotti
+v 67 think
+v 68 common
+v 69 youll
+v 70 see
+v 71 ricotta
+v 72 marinara
+v 73 meat
+v 74 essenti
+v 75 onion
+v 76 garlic
+v 77 bit
+v 78 butter
+v 79 soft
+v 80 transluc
+v 81 add
+v 82 light
+v 83 sear
+v 84 doesnt
+v 85 need
+v 86 continu
+v 87 flour
+v 88 roux
+v 89 sprinkl
+v 90 stir
+v 91 coat
+v 92 everyth
+v 93 even
+v 94 stick
+v 95 give
+v 96 golden
+v 97 stream
+v 98 stock
+v 99 milk
+v 100 slowli
+v 101 whisk
+v 102 simmer
+v 103 thicken
+v 104 tast
+v 105 salt
+v 106 fresh
+v 107 ground
+v 108 pepper
+v 109 water
+v 110 23
+v 111 minut
+v 112 less
+v 113 al
+v 114 dent
+v 115 accord
+v 116 packag
+v 117 drain
+v 118 shock
+v 119 cold
+v 120 well
+v 121 cool
+v 122 spoon
+v 123 generous
+v 124 amount
+v 125 larg
+v 126 bakingcasserol
+v 127 pea
+v 128 remain
+v 129 ad
+v 130 right
+v 131 sure
+v 132 get
+v 133 mushi
+v 134 tuck
+v 135 neat
+v 136 next
+v 137 left
+v 138 mozzarella
+v 139 parmesan
+v 140 375f
+v 141 bubbl
+v 142 enjoy
+v 143 reward
+v 144 effort
+v 145 let
+v 146 slight
+v 147 dig
+v 148 could
+v 149 possibl
+v 150 best
+v 151 ingredi
+v 152 jumbo
+v 153 1
+v 154 box
+v 155 typic
+v 156 come
+v 157 12
+v 158 oz
+v 159 three
+v 160 size
+v 161 small
+v 162 medium
+v 163 togeth
+v 164 go
+v 165 classic
+v 166 savori
+v 167 aromat
+v 168 much
+v 169 background
+v 170 cant
+v 171 without
+v 172 use
+v 173 boneless
+v 174 skinless
+v 175 thigh
+v 176 leftov
+v 177 person
+v 178 pick
+v 179 peak
+v 180 last
+v 181 thaw
+v 182 warm
+v 183 hold
+v 184 shape
+v 185 textur
+v 186 mix
+v 187 full
+v 188 chickeni
+v 189 parm
+v 190 key
+v 191 cheesi
+v 192 unctuous
+v 193 stretch
+v 194 deep
+v 195 umami
+v 196 crunch
+v 197 flat
+v 198 leaf
+v 199 parsley
+v 200 might
+v 201 tempt
+v 202 skip
+v 203 chop
+v 204 herbac
+v 205 plus
+v 206 finish
+v 207 whole
+v 208 leav
+v 209 extra
+v 210 pretti
+v 211 buy
+v 212 usual
+v 213 hang
+v 214 near
+v 215 noodl
+v 216 big
+v 217 enough
+v 218 standard
+v 219 tip
+v 220 trick
+v 221 undercook
+v 222 firmer
+v 223 easier
+v 224 break
+v 225 becom
+v 226 tender
+v 227 sweat
+v 228 broken
+v 229 inevit
+v 230 mayb
+v 231 excit
+v 232 itll
+v 233 rip
+v 234 worri
+v 235 put
+e 0 1 2
+e 0 40 2
+e 0 71 2
+e 1 2 2
+e 1 4 2
+e 1 3 2
+e 1 16 2
+e 1 32 2
+e 1 35 2
+e 1 0 2
+e 1 53 2
+e 1 56 2
+e 1 39 2
+e 1 18 2
+e 1 59 2
+e 1 105 2
+e 1 122 2
+e 1 123 2
+e 1 137 2
+e 1 60 2
+e 1 121 2
+e 1 69 2
+e 1 151 2
+e 1 10 2
+e 1 156 2
+e 1 61 2
+e 1 211 2
+e 1 152 2
+e 1 1 2
+e 1 41 2
+e 1 40 2
+e 1 221 2
+e 1 212 2
+e 1 154 2
+e 1 110 2
+e 1 223 2
+e 1 86 2
+e 1 229 2
+e 1 168 2
+e 2 3 2
+e 2 104 2
+e 3 0 2
+e 3 11 2
+e 3 39 2
+e 3 81 2
+e 3 82 2
+e 3 75 2
+e 3 95 2
+e 3 98 2
+e 3 170 2
+e 3 172 2
+e 3 175 2
+e 4 5 2
+e 4 33 2
+e 5 6 2
+e 5 59 2
+e 6 7 2
+e 7 8 2
+e 8 9 2
+e 8 18 2
+e 9 10 2
+e 9 113 2
+e 9 61 2
+e 10 0 2
+e 10 62 2
+e 10 90 2
+e 10 134 2
+e 10 140 2
+e 10 155 2
+e 10 219 2
+e 11 12 2
+e 12 13 2
+e 12 16 2
+e 12 21 2
+e 12 25 2
+e 12 40 2
+e 12 74 2
+e 12 39 2
+e 12 171 2
+e 12 47 2
+e 13 14 2
+e 13 0 2
+e 13 3 2
+e 13 18 2
+e 13 51 2
+e 13 127 2
+e 14 15 2
+e 14 43 2
+e 14 3 2
+e 14 187 2
+e 15 3 2
+e 15 39 2
+e 15 138 2
+e 16 17 2
+e 16 0 2
+e 17 8 2
+e 18 19 2
+e 18 12 2
+e 18 45 2
+e 18 3 2
+e 18 88 2
+e 18 40 2
+e 18 131 2
+e 18 39 2
+e 19 20 2
+e 20 18 2
+e 21 22 2
+e 21 41 2
+e 22 23 2
+e 23 24 2
+e 24 3 2
+e 25 26 2
+e 25 1 2
+e 26 27 2
+e 26 14 2
+e 27 28 2
+e 27 96 2
+e 28 29 2
+e 29 30 2
+e 29 121 2
+e 29 25 2
+e 29 61 2
+e 29 18 2
+e 29 222 2
+e 30 31 2
+e 30 1 2
+e 30 25 2
+e 30 35 2
+e 31 25 2
+e 31 42 2
+e 32 4 2
+e 33 34 2
+e 33 0 2
+e 33 59 2
+e 34 13 2
+e 35 36 2
+e 35 13 2
+e 35 132 2
+e 35 224 2
+e 35 227 2
+e 35 234 2
+e 36 37 2
+e 36 65 2
+e 37 38 2
+e 38 39 2
+e 39 13 2
+e 39 63 2
+e 39 67 2
+e 39 33 2
+e 39 81 2
+e 39 103 2
+e 39 125 2
+e 39 129 2
+e 39 130 2
+e 39 10 2
+e 39 120 2
+e 39 141 2
+e 39 75 2
+e 39 3 2
+e 39 14 2
+e 39 191 2
+e 39 62 2
+e 40 35 2
+e 40 60 2
+e 40 3 2
+e 40 40 2
+e 40 29 2
+e 40 218 2
+e 41 31 2
+e 41 44 2
+e 41 152 2
+e 41 55 2
+e 42 43 2
+e 42 39 2
+e 43 41 2
+e 43 52 2
+e 44 18 2
+e 45 46 2
+e 46 47 2
+e 47 48 2
+e 47 127 2
+e 47 179 2
+e 48 49 2
+e 49 50 2
+e 49 145 2
+e 50 13 2
+e 51 14 2
+e 52 0 2
+e 53 54 2
+e 54 55 2
+e 54 61 2
+e 54 156 2
+e 54 10 2
+e 55 31 2
+e 55 178 2
+e 55 212 2
+e 56 57 2
+e 57 58 2
+e 58 59 2
+e 59 1 2
+e 59 75 2
+e 59 3 2
+e 59 86 2
+e 59 39 2
+e 59 94 2
+e 59 163 2
+e 59 29 2
+e 59 154 2
+e 59 64 2
+e 59 35 2
+e 60 54 2
+e 60 0 2
+e 60 61 2
+e 61 10 2
+e 61 64 2
+e 61 18 2
+e 61 1 2
+e 61 39 2
+e 61 3 2
+e 61 172 2
+e 61 29 2
+e 62 39 2
+e 62 72 2
+e 62 1 2
+e 62 205 2
+e 63 61 2
+e 63 26 2
+e 63 90 2
+e 63 2 2
+e 63 96 2
+e 63 195 2
+e 64 36 2
+e 64 61 2
+e 64 81 2
+e 64 207 2
+e 64 225 2
+e 65 66 2
+e 65 215 2
+e 66 30 2
+e 66 216 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 69 8 2
+e 69 85 2
+e 69 231 2
+e 70 0 2
+e 71 62 2
+e 72 73 2
+e 73 39 2
+e 74 14 2
+e 75 76 2
+e 76 59 2
+e 76 77 2
+e 76 90 2
+e 76 75 2
+e 76 165 2
+e 77 78 2
+e 78 79 2
+e 78 87 2
+e 79 80 2
+e 80 59 2
+e 81 3 2
+e 81 87 2
+e 81 168 2
+e 81 180 2
+e 81 194 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 84 156 2
+e 85 59 2
+e 85 153 2
+e 85 106 2
+e 86 59 2
+e 87 18 2
+e 87 3 2
+e 87 87 2
+e 87 59 2
+e 87 78 2
+e 88 89 2
+e 88 164 2
+e 89 87 2
+e 89 139 2
+e 90 91 2
+e 90 99 2
+e 90 63 2
+e 90 47 2
+e 91 92 2
+e 91 97 2
+e 92 93 2
+e 93 87 2
+e 94 3 2
+e 95 27 2
+e 95 39 2
+e 96 91 2
+e 96 142 2
+e 97 3 2
+e 98 99 2
+e 98 101 2
+e 99 100 2
+e 99 102 2
+e 99 186 2
+e 99 18 2
+e 100 97 2
+e 101 90 2
+e 102 39 2
+e 103 90 2
+e 103 3 2
+e 104 105 2
+e 105 106 2
+e 105 109 2
+e 106 107 2
+e 106 203 2
+e 106 204 2
+e 107 108 2
+e 108 59 2
+e 109 110 2
+e 109 117 2
+e 110 111 2
+e 111 112 2
+e 111 171 2
+e 111 59 2
+e 112 113 2
+e 113 114 2
+e 114 115 2
+e 114 9 2
+e 115 116 2
+e 116 117 2
+e 117 118 2
+e 117 120 2
+e 118 119 2
+e 119 109 2
+e 120 18 2
+e 120 138 2
+e 121 30 2
+e 121 146 2
+e 122 123 2
+e 123 124 2
+e 124 39 2
+e 124 40 2
+e 125 126 2
+e 126 10 2
+e 127 128 2
+e 127 39 2
+e 127 177 2
+e 127 3 2
+e 127 150 2
+e 127 55 2
+e 127 184 2
+e 128 39 2
+e 129 47 2
+e 130 61 2
+e 131 35 2
+e 131 59 2
+e 132 133 2
+e 132 182 2
+e 132 59 2
+e 133 30 2
+e 134 135 2
+e 135 136 2
+e 136 62 2
+e 137 39 2
+e 138 139 2
+e 138 189 2
+e 138 95 2
+e 139 61 2
+e 139 186 2
+e 139 62 2
+e 140 64 2
+e 141 63 2
+e 142 142 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 1 2
+e 145 132 2
+e 146 147 2
+e 146 196 2
+e 147 148 2
+e 148 149 2
+e 149 150 2
+e 150 0 2
+e 150 127 2
+e 151 152 2
+e 152 25 2
+e 152 41 2
+e 152 154 2
+e 152 1 2
+e 153 154 2
+e 154 152 2
+e 154 1 2
+e 154 78 2
+e 154 156 2
+e 154 153 2
+e 154 217 2
+e 154 9 2
+e 154 84 2
+e 154 228 2
+e 155 156 2
+e 156 157 2
+e 156 159 2
+e 156 64 2
+e 156 61 2
+e 157 158 2
+e 158 154 2
+e 159 160 2
+e 160 161 2
+e 161 162 2
+e 162 152 2
+e 163 18 2
+e 164 103 2
+e 165 166 2
+e 166 167 2
+e 167 81 2
+e 168 169 2
+e 168 85 2
+e 168 1 2
+e 168 232 2
+e 169 15 2
+e 170 3 2
+e 171 3 2
+e 171 181 2
+e 172 173 2
+e 172 127 2
+e 172 59 2
+e 173 174 2
+e 174 3 2
+e 175 176 2
+e 176 59 2
+e 177 13 2
+e 178 47 2
+e 179 81 2
+e 180 111 2
+e 181 49 2
+e 182 183 2
+e 183 127 2
+e 184 185 2
+e 185 61 2
+e 186 3 2
+e 186 138 2
+e 187 188 2
+e 188 15 2
+e 189 190 2
+e 190 138 2
+e 191 192 2
+e 192 193 2
+e 193 89 2
+e 194 63 2
+e 195 146 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 199 200 2
+e 199 81 2
+e 199 209 2
+e 200 201 2
+e 201 202 2
+e 202 106 2
+e 203 197 2
+e 204 205 2
+e 205 206 2
+e 206 54 2
+e 207 208 2
+e 208 199 2
+e 209 210 2
+e 210 1 2
+e 211 0 2
+e 212 213 2
+e 212 5 2
+e 213 214 2
+e 214 65 2
+e 215 66 2
+e 216 154 2
+e 217 1 2
+e 218 54 2
+e 219 220 2
+e 220 0 2
+e 221 1 2
+e 222 221 2
+e 223 30 2
+e 224 168 2
+e 225 226 2
+e 226 33 2
+e 227 228 2
+e 228 1 2
+e 228 230 2
+e 229 1 2
+e 230 69 2
+e 231 30 2
+e 232 233 2
+e 233 35 2
+e 234 235 2
+e 235 42 2
+t # 9
+v 0 taco
+v 1 tuesday
+v 2 forev
+v 3 amiright
+v 4 especi
+v 5 crispi
+v 6 air
+v 7 fryer
+v 8 stuf
+v 9 corn
+v 10 tortilla
+v 11 juici
+v 12 chicken
+v 13 chees
+v 14 crisp
+v 15 ultim
+v 16 crunch
+v 17 last
+v 18 summer
+v 19 mike
+v 20 lucki
+v 21 enough
+v 22 go
+v 23 road
+v 24 trip
+v 25 new
+v 26 mexico
+v 27 went
+v 28 camp
+v 29 white
+v 30 sand
+v 31 nation
+v 32 park
+v 33 spent
+v 34 thank
+v 35 condit
+v 36 afternoon
+v 37 insid
+v 38 meow
+v 39 wolf
+v 40 high
+v 41 recommend
+v 42 ate
+v 43 green
+v 44 chile
+v 45 cheeseburg
+v 46 truli
+v 47 land
+v 48 enchant
+v 49 never
+v 50 knew
+v 51 would
+v 52 touch
+v 53 deepli
+v 54 im
+v 55 chang
+v 56 stark
+v 57 beauti
+v 58 quiet
+v 59 sunset
+v 60 food
+v 61 cours
+v 62 vast
+v 63 appreci
+v 64 mexican
+v 65 southwestern
+v 66 highlight
+v 67 also
+v 68 lot
+v 69 specif
+v 70 guy
+v 71 ever
+v 72 get
+v 73 el
+v 74 parasol
+v 75 legit
+v 76 best
+v 77 ive
+v 78 guacamol
+v 79 perfect
+v 80 creami
+v 81 counterpoint
+v 82 inspir
+v 83 know
+v 84 make
+v 85 hard
+v 86 shell
+v 87 home
+v 88 like
+v 89 homemad
+v 90 chip
+v 91 super
+v 92 easi
+v 93 bare
+v 94 inconveni
+v 95 need
+v 96 could
+v 97 deepfri
+v 98 bake
+v 99 your
+v 100 look
+v 101 realli
+v 102 airfryer
+v 103 answer
+v 104 less
+v 105 oil
+v 106 mess
+v 107 everyth
+v 108 want
+v 109 technic
+v 110 dont
+v 111 tini
+v 112 convect
+v 113 oven
+v 114 heat
+v 115 quick
+v 116 mode
+v 117 mind
+v 118 wait
+v 119 love
+v 120 current
+v 121 though
+v 122 giant
+v 123 fri
+v 124 basket
+v 125 cleanup
+v 126 easier
+v 127 wash
+v 128 tray
+v 129 soft
+v 130 sometim
+v 131 hug
+v 132 plush
+v 133 flour
+v 134 hand
+v 135 add
+v 136 2
+v 137 minut
+v 138 cook
+v 139 time
+v 140 warm
+v 141 top
+v 142 shred
+v 143 hello
+v 144 season
+v 145 might
+v 146 notic
+v 147 spice
+v 148 ingredi
+v 149 list
+v 150 specifi
+v 151 instead
+v 152 reason
+v 153 unhealthi
+v 154 3
+v 155 kind
+v 156 salt
+v 157 tasti
+v 158 compar
+v 159 end
+v 160 good
+v 161 beef
+v 162 pork
+v 163 tri
+v 164 youll
+v 165 back
+v 166 store
+v 167 bought
+v 168 crunchi
+v 169 great
+v 170 way
+v 171 usual
+v 172 street
+v 173 size
+v 174 small
+v 175 4
+v 176 inch
+v 177 use
+v 178 slight
+v 179 bigger
+v 180 one
+v 181 6
+v 182 local
+v 183 tortilleria
+v 184 mission
+v 185 work
+v 186 well
+v 187 thigh
+v 188 extra
+v 189 plus
+v 190 fact
+v 191 made
+v 192 chop
+v 193 steak
+v 194 feel
+v 195 flavor
+v 196 marin
+v 197 orang
+v 198 juic
+v 199 vinegar
+v 200 garlic
+v 201 powder
+v 202 bunch
+v 203 kick
+v 204 tender
+v 205 option
+v 206 doesnt
+v 207 melti
+v 208 wild
+v 209 classic
+v 210 onion
+v 211 cilantro
+v 212 mayb
+v 213 lettuc
+v 214 avocado
+v 215 slice
+v 216 hot
+v 217 sauc
+v 218 lime
+v 219 squeez
+v 220 tartfresh
+v 221 boneless
+v 222 skinless
+v 223 marinad
+v 224 hour
+v 225 light
+v 226 flip
+v 227 undercook
+v 228 assembl
+v 229 piec
+v 230 key
+v 231 crack
+v 232 break
+v 233 wrap
+v 234 damp
+v 235 paper
+v 236 towel
+v 237 microwav
+v 238 briefli
+v 239 side
+v 240 fold
+v 241 care
+v 242 place
+v 243 tend
+v 244 bit
+v 245 crispier
+v 246 cool
+v 247 take
+v 248 finish
+v 249 choic
+v 250 enjoy
+v 251 hatch
+v 252 ad
+v 253 amaz
+v 254 share
+v 255 remov
+v 256 12
+v 257 cup
+v 258 lbs
+v 259 fresh
+v 260 fire
+v 261 roast
+v 262 clove
+v 263 minc
+v 264 1
+v 265 tbsp
+v 266 neutral
+v 267 tsp
+v 268 ground
+v 269 coriand
+v 270 smoke
+v 271 paprika
+v 272 dri
+v 273 oregano
+v 274 cumin
+v 275 black
+v 276 pepper
+v 277 kosher
+v 278 let
+e 0 1 2
+e 0 8 2
+e 0 46 2
+e 0 69 2
+e 0 70 2
+e 0 73 2
+e 0 77 2
+e 0 82 2
+e 0 6 2
+e 0 83 2
+e 0 87 2
+e 0 91 2
+e 0 95 2
+e 0 5 2
+e 0 130 2
+e 0 4 2
+e 0 135 2
+e 0 89 2
+e 0 144 2
+e 0 148 2
+e 0 173 2
+e 0 9 2
+e 0 196 2
+e 0 228 2
+e 0 141 2
+e 0 251 2
+e 0 253 2
+e 1 2 2
+e 2 3 2
+e 2 55 2
+e 3 4 2
+e 4 5 2
+e 4 132 2
+e 4 207 2
+e 5 6 2
+e 5 12 2
+e 5 85 2
+e 5 16 2
+e 5 168 2
+e 6 7 2
+e 6 35 2
+e 7 0 2
+e 7 15 2
+e 7 109 2
+e 7 6 2
+e 7 101 2
+e 7 121 2
+e 7 12 2
+e 7 171 2
+e 7 67 2
+e 7 124 2
+e 8 9 2
+e 9 10 2
+e 9 133 2
+e 10 11 2
+e 10 14 2
+e 10 90 2
+e 10 96 2
+e 10 5 2
+e 10 134 2
+e 10 141 2
+e 10 108 2
+e 10 99 2
+e 10 133 2
+e 10 169 2
+e 10 175 2
+e 10 180 2
+e 10 83 2
+e 10 185 2
+e 10 230 2
+e 10 239 2
+e 11 12 2
+e 11 10 2
+e 11 129 2
+e 11 189 2
+e 11 13 2
+e 11 188 2
+e 12 13 2
+e 12 0 2
+e 12 11 2
+e 12 6 2
+e 12 138 2
+e 12 143 2
+e 12 161 2
+e 12 187 2
+e 12 147 2
+e 12 196 2
+e 12 84 2
+e 12 226 2
+e 12 22 2
+e 13 14 2
+e 13 13 2
+e 13 205 2
+e 13 4 2
+e 13 240 2
+e 14 6 2
+e 14 78 2
+e 14 242 2
+e 14 226 2
+e 15 16 2
+e 16 17 2
+e 16 99 2
+e 16 107 2
+e 16 119 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 22 23 2
+e 22 165 2
+e 22 108 2
+e 22 162 2
+e 22 208 2
+e 22 72 2
+e 23 24 2
+e 24 25 2
+e 24 67 2
+e 25 26 2
+e 25 64 2
+e 26 27 2
+e 26 51 2
+e 26 72 2
+e 27 28 2
+e 27 213 2
+e 28 29 2
+e 29 30 2
+e 29 199 2
+e 30 31 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 34 6 2
+e 35 36 2
+e 36 37 2
+e 37 38 2
+e 38 39 2
+e 39 40 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 44 201 2
+e 44 12 2
+e 44 144 2
+e 44 196 2
+e 44 177 2
+e 44 154 2
+e 45 0 2
+e 45 66 2
+e 46 47 2
+e 47 48 2
+e 48 49 2
+e 49 50 2
+e 49 22 2
+e 50 25 2
+e 51 52 2
+e 52 53 2
+e 53 54 2
+e 53 153 2
+e 54 2 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 59 2
+e 59 60 2
+e 60 61 2
+e 60 43 2
+e 61 62 2
+e 61 212 2
+e 62 63 2
+e 63 25 2
+e 64 65 2
+e 65 60 2
+e 66 24 2
+e 67 68 2
+e 67 157 2
+e 67 177 2
+e 67 22 2
+e 68 0 2
+e 68 126 2
+e 68 147 2
+e 69 5 2
+e 70 71 2
+e 71 25 2
+e 71 12 2
+e 72 5 2
+e 72 10 2
+e 72 138 2
+e 72 244 2
+e 73 74 2
+e 74 75 2
+e 74 135 2
+e 75 76 2
+e 76 5 2
+e 77 71 2
+e 78 79 2
+e 78 27 2
+e 79 80 2
+e 80 81 2
+e 81 5 2
+e 82 0 2
+e 83 84 2
+e 83 184 2
+e 84 5 2
+e 84 160 2
+e 84 91 2
+e 84 12 2
+e 85 86 2
+e 86 0 2
+e 87 88 2
+e 88 89 2
+e 88 154 2
+e 88 172 2
+e 88 73 2
+e 88 178 2
+e 89 10 2
+e 89 85 2
+e 89 0 2
+e 90 89 2
+e 91 92 2
+e 91 115 2
+e 91 11 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 95 9 2
+e 95 6 2
+e 95 255 2
+e 96 97 2
+e 96 108 2
+e 96 150 2
+e 97 98 2
+e 98 10 2
+e 98 0 2
+e 98 128 2
+e 99 100 2
+e 99 22 2
+e 99 194 2
+e 100 101 2
+e 101 102 2
+e 101 111 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 104 106 2
+e 105 104 2
+e 105 6 2
+e 105 10 2
+e 105 264 2
+e 106 16 2
+e 107 96 2
+e 107 191 2
+e 108 89 2
+e 108 131 2
+e 108 5 2
+e 108 9 2
+e 109 110 2
+e 110 95 2
+e 110 117 2
+e 110 123 2
+e 110 231 2
+e 111 112 2
+e 112 113 2
+e 112 116 2
+e 113 114 2
+e 113 110 2
+e 114 91 2
+e 114 98 2
+e 115 112 2
+e 116 113 2
+e 117 118 2
+e 118 113 2
+e 119 120 2
+e 119 190 2
+e 119 13 2
+e 120 6 2
+e 121 122 2
+e 122 123 2
+e 123 124 2
+e 123 170 2
+e 124 125 2
+e 124 138 2
+e 124 14 2
+e 125 68 2
+e 126 127 2
+e 127 98 2
+e 128 129 2
+e 129 0 2
+e 129 12 2
+e 130 108 2
+e 131 129 2
+e 132 133 2
+e 133 10 2
+e 134 129 2
+e 135 136 2
+e 135 78 2
+e 135 256 2
+e 136 137 2
+e 136 224 2
+e 136 258 2
+e 136 267 2
+e 137 138 2
+e 138 139 2
+e 138 140 2
+e 138 225 2
+e 138 12 2
+e 138 0 2
+e 138 142 2
+e 139 12 2
+e 140 10 2
+e 141 142 2
+e 141 22 2
+e 141 12 2
+e 141 249 2
+e 142 12 2
+e 142 192 2
+e 143 91 2
+e 144 145 2
+e 144 151 2
+e 144 53 2
+e 144 159 2
+e 144 252 2
+e 145 146 2
+e 146 68 2
+e 147 148 2
+e 147 188 2
+e 147 136 2
+e 148 149 2
+e 148 9 2
+e 149 96 2
+e 150 0 2
+e 151 152 2
+e 151 135 2
+e 152 0 2
+e 153 88 2
+e 154 155 2
+e 154 262 2
+e 155 156 2
+e 156 67 2
+e 156 278 2
+e 157 158 2
+e 158 89 2
+e 159 84 2
+e 160 12 2
+e 161 162 2
+e 162 163 2
+e 162 192 2
+e 163 164 2
+e 164 49 2
+e 165 166 2
+e 166 167 2
+e 167 12 2
+e 168 10 2
+e 168 248 2
+e 169 110 2
+e 170 6 2
+e 171 88 2
+e 172 0 2
+e 173 174 2
+e 174 9 2
+e 174 229 2
+e 175 176 2
+e 176 67 2
+e 176 182 2
+e 177 178 2
+e 177 259 2
+e 178 179 2
+e 178 227 2
+e 179 9 2
+e 180 181 2
+e 181 176 2
+e 182 183 2
+e 183 72 2
+e 184 172 2
+e 185 186 2
+e 186 12 2
+e 187 188 2
+e 187 223 2
+e 187 256 2
+e 188 11 2
+e 188 195 2
+e 188 203 2
+e 188 160 2
+e 189 119 2
+e 190 107 2
+e 191 6 2
+e 191 197 2
+e 192 193 2
+e 192 174 2
+e 192 43 2
+e 193 99 2
+e 194 12 2
+e 194 168 2
+e 195 12 2
+e 196 197 2
+e 196 221 2
+e 196 136 2
+e 197 198 2
+e 198 199 2
+e 198 256 2
+e 199 200 2
+e 199 204 2
+e 199 147 2
+e 199 136 2
+e 200 44 2
+e 200 264 2
+e 201 202 2
+e 201 151 2
+e 202 147 2
+e 203 197 2
+e 204 12 2
+e 205 206 2
+e 206 119 2
+e 207 141 2
+e 208 209 2
+e 209 210 2
+e 210 211 2
+e 211 61 2
+e 212 88 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 216 217 2
+e 217 218 2
+e 218 219 2
+e 219 220 2
+e 220 84 2
+e 221 222 2
+e 222 12 2
+e 223 191 2
+e 224 138 2
+e 225 105 2
+e 226 88 2
+e 226 243 2
+e 227 12 2
+e 228 188 2
+e 228 140 2
+e 229 228 2
+e 230 110 2
+e 231 232 2
+e 232 233 2
+e 233 234 2
+e 234 235 2
+e 235 236 2
+e 236 237 2
+e 237 238 2
+e 238 105 2
+e 239 141 2
+e 240 241 2
+e 240 0 2
+e 241 14 2
+e 242 240 2
+e 243 72 2
+e 244 245 2
+e 245 246 2
+e 246 247 2
+e 247 194 2
+e 248 0 2
+e 249 250 2
+e 250 43 2
+e 251 43 2
+e 251 44 2
+e 252 43 2
+e 253 254 2
+e 254 95 2
+e 255 44 2
+e 256 257 2
+e 257 192 2
+e 257 197 2
+e 257 43 2
+e 258 221 2
+e 259 260 2
+e 260 261 2
+e 261 251 2
+e 262 263 2
+e 263 200 2
+e 264 265 2
+e 264 267 2
+e 265 266 2
+e 265 29 2
+e 266 105 2
+e 267 268 2
+e 267 275 2
+e 267 277 2
+e 268 269 2
+e 269 270 2
+e 270 271 2
+e 271 272 2
+e 272 273 2
+e 272 274 2
+e 273 272 2
+e 274 264 2
+e 275 276 2
+e 276 264 2
+e 277 156 2
+e 278 196 2
+t # 10
+v 0 your
+v 1 fan
+v 2 spici
+v 3 food
+v 4 buldak
+v 5 fieri
+v 6 hot
+v 7 red
+v 8 good
+v 9 think
+v 10 juici
+v 11 chunk
+v 12 tender
+v 13 grill
+v 14 chicken
+v 15 coat
+v 16 sauc
+v 17 incred
+v 18 addict
+v 19 one
+v 20 favorit
+v 21 thing
+v 22 korean
+v 23 restaur
+v 24 even
+v 25 though
+v 26 cant
+v 27 stand
+v 28 especi
+v 29 love
+v 30 smother
+v 31 chees
+v 32 aka
+v 33 fire
+v 34 barbecu
+v 35 dish
+v 36 bul
+v 37 mean
+v 38 dak
+v 39 bite
+v 40 size
+v 41 piec
+v 42 dous
+v 43 made
+v 44 gochugaru
+v 45 gochujang
+v 46 soy
+v 47 jocheong
+v 48 rice
+v 49 syrup
+v 50 garlic
+v 51 ginger
+v 52 pretti
+v 53 new
+v 54 becam
+v 55 popular
+v 56 earli
+v 57 2000s
+v 58 part
+v 59 samyang
+v 60 instant
+v 61 noodl
+v 62 darn
+v 63 everi
+v 64 spice
+v 65 toler
+v 66 differ
+v 67 say
+v 68 build
+v 69 want
+v 70 less
+v 71 decreas
+v 72 chili
+v 73 flake
+v 74 bring
+v 75 smoki
+v 76 bit
+v 77 heat
+v 78 crunch
+v 79 major
+v 80 come
+v 81 use
+v 82 extra
+v 83 add
+v 84 umami
+v 85 salti
+v 86 otherwis
+v 87 next
+v 88 best
+v 89 recip
+v 90 japanes
+v 91 black
+v 92 pepper
+v 93 fresh
+v 94 ground
+v 95 actual
+v 96 there
+v 97 lot
+v 98 hit
+v 99 note
+v 100 make
+v 101 sure
+v 102 preground
+v 103 loos
+v 104 pep
+v 105 sugar
+v 106 littl
+v 107 sweet
+v 108 accentu
+v 109 thick
+v 110 barley
+v 111 malt
+v 112 honey
+v 113 subtl
+v 114 malti
+v 115 flavor
+v 116 buy
+v 117 groceri
+v 118 store
+v 119 onlin
+v 120 dont
+v 121 home
+v 122 sub
+v 123 lover
+v 124 essenti
+v 125 mani
+v 126 clove
+v 127 handl
+v 128 warm
+v 129 cozi
+v 130 vs
+v 131 familiar
+v 132 might
+v 133 know
+v 134 savori
+v 135 ferment
+v 136 past
+v 137 powder
+v 138 sticki
+v 139 ton
+v 140 tradit
+v 141 tub
+v 142 day
+v 143 find
+v 144 conveni
+v 145 squeez
+v 146 bottl
+v 147 asian
+v 148 aisl
+v 149 liter
+v 150 cours
+v 151 hand
+v 152 fruiti
+v 153 sun
+v 154 dri
+v 155 bright
+v 156 theyr
+v 157 gentl
+v 158 delici
+v 159 alway
+v 160 coars
+v 161 look
+v 162 like
+v 163 flaki
+v 164 sea
+v 165 salt
+v 166 usual
+v 167 label
+v 168 mild
+v 169 medium
+v 170 accord
+v 171 prefer
+v 172 mix
+v 173 togeth
+v 174 oil
+v 175 marin
+v 176 cut
+v 177 1
+v 178 inch
+v 179 hour
+v 180 cook
+v 181 anyway
+v 182 stove
+v 183 bake
+v 184 air
+v 185 fryer
+v 186 pan
+v 187 fri
+v 188 cast
+v 189 iron
+v 190 char
+v 191 readi
+v 192 top
+v 193 toast
+v 194 sesam
+v 195 seed
+v 196 slice
+v 197 green
+v 198 onion
+v 199 option
+v 200 give
+v 201 blanket
+v 202 sprinkl
+v 203 generous
+v 204 amount
+v 205 shred
+v 206 mozzarella
+v 207 get
+v 208 kind
+v 209 either
+v 210 boneless
+v 211 thigh
+v 212 breast
+v 213 typic
+v 214 doesnt
+v 215 skin
+v 216 amaz
+v 217 need
+v 218 faster
+v 219 oven
+v 220 method
+v 221 authent
+v 222 kbbq
+v 223 feel
+v 224 simpl
+v 225 still
+v 226 allow
+v 227 easi
+v 228 brush
+v 229 flip
+v 230 slight
+v 231 non
+v 232 stick
+v 233 high
+v 234 touch
+v 235 neutral
+v 236 place
+v 237 light
+v 238 420f
+v 239 preheat
+v 240 1520
+v 241 minut
+v 242 2030
+v 243 intern
+v 244 temperatur
+v 245 reach
+v 246 165f
+v 247 juic
+v 248 run
+v 249 clear
+v 250 stir
+v 251 halfway
+v 252 basket
+v 253 lay
+v 254 singl
+v 255 layer
+v 256 400f
+v 257 1215
+v 258 cheesi
+v 259 greatest
+v 260 world
+v 261 creami
+v 262 counteract
+v 263 pull
+v 264 phenomen
+v 265 mozza
+v 266 super
+v 267 stretchi
+v 268 realli
+v 269 help
+v 270 simpli
+v 271 right
+v 272 residu
+v 273 melt
+v 274 perfect
+e 0 1 2
+e 0 131 2
+e 1 2 2
+e 2 3 2
+e 2 7 2
+e 2 16 2
+e 2 26 2
+e 2 34 2
+e 2 4 2
+e 2 63 2
+e 2 45 2
+e 2 28 2
+e 2 99 2
+e 2 77 2
+e 2 22 2
+e 2 109 2
+e 2 14 2
+e 3 4 2
+e 3 132 2
+e 4 5 2
+e 4 4 2
+e 4 32 2
+e 4 39 2
+e 4 23 2
+e 4 60 2
+e 4 52 2
+e 4 19 2
+e 4 71 2
+e 4 16 2
+e 4 14 2
+e 4 258 2
+e 4 270 2
+e 5 6 2
+e 5 7 2
+e 6 2 2
+e 6 116 2
+e 7 8 2
+e 7 16 2
+e 7 73 2
+e 8 9 2
+e 9 10 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 13 14 2
+e 13 130 2
+e 13 200 2
+e 13 228 2
+e 13 174 2
+e 13 175 2
+e 14 15 2
+e 14 2 2
+e 14 35 2
+e 14 4 2
+e 14 42 2
+e 14 43 2
+e 14 100 2
+e 14 176 2
+e 14 177 2
+e 14 180 2
+e 14 181 2
+e 14 191 2
+e 14 81 2
+e 14 211 2
+e 14 212 2
+e 14 214 2
+e 14 216 2
+e 14 24 2
+e 14 220 2
+e 14 169 2
+e 14 229 2
+e 14 237 2
+e 14 254 2
+e 14 271 2
+e 14 273 2
+e 15 2 2
+e 15 14 2
+e 16 17 2
+e 16 43 2
+e 16 47 2
+e 16 4 2
+e 16 5 2
+e 16 15 2
+e 16 46 2
+e 16 83 2
+e 16 81 2
+e 16 91 2
+e 16 134 2
+e 16 172 2
+e 16 48 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 19 64 2
+e 19 68 2
+e 19 259 2
+e 20 21 2
+e 21 22 2
+e 21 217 2
+e 21 260 2
+e 22 23 2
+e 22 14 2
+e 22 72 2
+e 22 46 2
+e 22 117 2
+e 22 3 2
+e 22 16 2
+e 23 24 2
+e 23 59 2
+e 24 25 2
+e 24 40 2
+e 24 13 2
+e 25 2 2
+e 26 27 2
+e 27 28 2
+e 28 29 2
+e 28 81 2
+e 28 96 2
+e 29 30 2
+e 29 265 2
+e 30 31 2
+e 31 4 2
+e 31 201 2
+e 31 262 2
+e 31 263 2
+e 31 192 2
+e 31 129 2
+e 32 33 2
+e 33 14 2
+e 33 38 2
+e 34 22 2
+e 35 36 2
+e 35 54 2
+e 35 180 2
+e 36 37 2
+e 37 33 2
+e 37 14 2
+e 38 37 2
+e 39 40 2
+e 40 41 2
+e 41 14 2
+e 41 175 2
+e 41 180 2
+e 42 2 2
+e 43 44 2
+e 43 48 2
+e 43 72 2
+e 44 45 2
+e 44 22 2
+e 44 0 2
+e 44 151 2
+e 44 161 2
+e 45 46 2
+e 45 4 2
+e 45 79 2
+e 45 100 2
+e 45 130 2
+e 45 44 2
+e 45 2 2
+e 46 16 2
+e 47 48 2
+e 47 107 2
+e 48 49 2
+e 48 110 2
+e 48 83 2
+e 49 50 2
+e 49 105 2
+e 49 43 2
+e 49 174 2
+e 50 51 2
+e 50 93 2
+e 50 83 2
+e 50 123 2
+e 50 124 2
+e 50 175 2
+e 51 52 2
+e 51 76 2
+e 51 83 2
+e 51 50 2
+e 52 53 2
+e 52 62 2
+e 53 35 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 4 2
+e 59 4 2
+e 60 61 2
+e 61 2 2
+e 62 2 2
+e 63 19 2
+e 64 65 2
+e 64 4 2
+e 64 80 2
+e 64 45 2
+e 64 171 2
+e 64 208 2
+e 64 31 2
+e 65 66 2
+e 66 67 2
+e 66 2 2
+e 67 64 2
+e 68 68 2
+e 68 69 2
+e 69 70 2
+e 69 31 2
+e 70 2 2
+e 70 107 2
+e 71 44 2
+e 72 73 2
+e 72 137 2
+e 73 74 2
+e 73 22 2
+e 73 152 2
+e 73 156 2
+e 74 75 2
+e 75 76 2
+e 75 153 2
+e 76 77 2
+e 76 107 2
+e 76 93 2
+e 77 78 2
+e 77 47 2
+e 77 50 2
+e 77 64 2
+e 77 139 2
+e 77 157 2
+e 77 229 2
+e 77 188 2
+e 77 83 2
+e 77 14 2
+e 78 45 2
+e 79 64 2
+e 80 28 2
+e 80 141 2
+e 80 167 2
+e 80 215 2
+e 80 186 2
+e 81 82 2
+e 81 86 2
+e 81 209 2
+e 82 2 2
+e 82 190 2
+e 83 84 2
+e 83 77 2
+e 83 125 2
+e 83 128 2
+e 83 107 2
+e 83 234 2
+e 84 85 2
+e 85 22 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 90 46 2
+e 91 92 2
+e 92 93 2
+e 92 95 2
+e 92 103 2
+e 92 51 2
+e 93 94 2
+e 93 102 2
+e 93 50 2
+e 93 51 2
+e 94 91 2
+e 95 2 2
+e 96 97 2
+e 97 98 2
+e 97 218 2
+e 98 66 2
+e 99 44 2
+e 99 14 2
+e 100 101 2
+e 100 4 2
+e 100 16 2
+e 100 31 2
+e 101 93 2
+e 101 176 2
+e 102 91 2
+e 103 104 2
+e 104 47 2
+e 105 106 2
+e 105 112 2
+e 106 76 2
+e 107 108 2
+e 107 109 2
+e 107 105 2
+e 107 2 2
+e 107 77 2
+e 107 75 2
+e 108 2 2
+e 109 49 2
+e 109 135 2
+e 110 111 2
+e 111 70 2
+e 112 113 2
+e 112 50 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 115 140 2
+e 116 22 2
+e 116 160 2
+e 116 170 2
+e 117 118 2
+e 118 119 2
+e 119 120 2
+e 119 150 2
+e 120 121 2
+e 121 122 2
+e 122 105 2
+e 123 50 2
+e 124 83 2
+e 125 126 2
+e 126 127 2
+e 127 51 2
+e 128 129 2
+e 129 77 2
+e 129 267 2
+e 130 44 2
+e 130 186 2
+e 130 219 2
+e 130 184 2
+e 131 22 2
+e 132 133 2
+e 133 45 2
+e 134 107 2
+e 135 136 2
+e 136 43 2
+e 137 138 2
+e 138 48 2
+e 139 115 2
+e 140 80 2
+e 141 142 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 146 2
+e 146 147 2
+e 147 148 2
+e 148 149 2
+e 149 117 2
+e 150 44 2
+e 151 22 2
+e 151 227 2
+e 152 107 2
+e 153 154 2
+e 154 155 2
+e 155 7 2
+e 156 2 2
+e 157 158 2
+e 158 159 2
+e 159 116 2
+e 160 44 2
+e 161 162 2
+e 162 163 2
+e 162 186 2
+e 163 164 2
+e 164 165 2
+e 165 166 2
+e 166 80 2
+e 167 168 2
+e 168 169 2
+e 168 268 2
+e 169 6 2
+e 169 77 2
+e 169 233 2
+e 170 64 2
+e 171 100 2
+e 171 182 2
+e 171 13 2
+e 171 169 2
+e 172 173 2
+e 173 44 2
+e 174 91 2
+e 174 13 2
+e 174 180 2
+e 174 183 2
+e 174 184 2
+e 175 14 2
+e 175 177 2
+e 176 14 2
+e 177 178 2
+e 177 179 2
+e 178 39 2
+e 179 180 2
+e 180 14 2
+e 180 97 2
+e 180 24 2
+e 180 230 2
+e 180 175 2
+e 180 190 2
+e 180 238 2
+e 181 171 2
+e 182 183 2
+e 183 184 2
+e 183 130 2
+e 183 236 2
+e 183 35 2
+e 184 185 2
+e 184 187 2
+e 185 162 2
+e 185 180 2
+e 185 252 2
+e 186 187 2
+e 186 82 2
+e 186 231 2
+e 186 272 2
+e 187 188 2
+e 187 130 2
+e 187 224 2
+e 187 151 2
+e 187 77 2
+e 187 174 2
+e 187 256 2
+e 188 189 2
+e 189 186 2
+e 190 14 2
+e 190 219 2
+e 190 186 2
+e 190 183 2
+e 191 192 2
+e 192 193 2
+e 192 14 2
+e 193 194 2
+e 194 195 2
+e 195 196 2
+e 196 197 2
+e 196 31 2
+e 197 198 2
+e 198 199 2
+e 199 200 2
+e 200 31 2
+e 200 221 2
+e 201 202 2
+e 201 69 2
+e 202 203 2
+e 203 204 2
+e 204 205 2
+e 205 206 2
+e 205 196 2
+e 206 207 2
+e 207 64 2
+e 208 14 2
+e 209 210 2
+e 210 14 2
+e 211 14 2
+e 211 100 2
+e 211 243 2
+e 212 213 2
+e 212 180 2
+e 212 242 2
+e 213 210 2
+e 214 80 2
+e 215 215 2
+e 215 14 2
+e 216 21 2
+e 217 99 2
+e 217 180 2
+e 218 211 2
+e 219 183 2
+e 219 240 2
+e 220 171 2
+e 221 222 2
+e 222 223 2
+e 223 186 2
+e 224 225 2
+e 225 226 2
+e 226 190 2
+e 227 13 2
+e 228 13 2
+e 229 217 2
+e 229 251 2
+e 230 190 2
+e 231 232 2
+e 232 171 2
+e 233 77 2
+e 234 235 2
+e 235 174 2
+e 236 14 2
+e 237 174 2
+e 238 239 2
+e 239 219 2
+e 240 241 2
+e 241 14 2
+e 241 243 2
+e 242 241 2
+e 243 244 2
+e 244 245 2
+e 245 246 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 250 2
+e 249 229 2
+e 250 251 2
+e 251 184 2
+e 251 31 2
+e 252 253 2
+e 253 175 2
+e 254 255 2
+e 255 184 2
+e 255 205 2
+e 256 257 2
+e 257 241 2
+e 258 4 2
+e 259 21 2
+e 260 261 2
+e 261 31 2
+e 262 64 2
+e 263 264 2
+e 263 201 2
+e 264 29 2
+e 265 266 2
+e 266 267 2
+e 267 168 2
+e 267 274 2
+e 268 269 2
+e 269 2 2
+e 270 255 2
+e 271 80 2
+e 272 77 2
+e 273 31 2
+e 274 31 2
+t # 11
+v 0 80s
+v 1 back
+v 2 im
+v 3 give
+v 4 hair
+v 5 scrunchi
+v 6 neon
+v 7 casserol
+v 8 dont
+v 9 know
+v 10 bad
+v 11 reput
+v 12 theyr
+v 13 one
+v 14 dish
+v 15 creami
+v 16 tast
+v 17 good
+v 18 there
+v 19 almost
+v 20 alway
+v 21 leftov
+v 22 chicken
+v 23 spaghetti
+v 24 need
+v 25 littl
+v 26 tiktok
+v 27 glow
+v 28 peopl
+v 29 make
+v 30 bake
+v 31 feta
+v 32 pasta
+v 33 fun
+v 34 havent
+v 35 pure
+v 36 comfort
+v 37 food
+v 38 tender
+v 39 piec
+v 40 mix
+v 41 tomato
+v 42 pepper
+v 43 cheesi
+v 44 sauc
+v 45 day
+v 46 made
+v 47 can
+v 48 soup
+v 49 better
+v 50 what
+v 51 pan
+v 52 minim
+v 53 clean
+v 54 american
+v 55 cream
+v 56 top
+v 57 chees
+v 58 bubbl
+v 59 broken
+v 60 small
+v 61 cook
+v 62 admit
+v 63 lot
+v 64 recip
+v 65 differ
+v 66 pot
+v 67 go
+v 68 straight
+v 69 stove
+v 70 oven
+v 71 dinner
+v 72 tabl
+v 73 sure
+v 74 larg
+v 75 salt
+v 76 water
+v 77 drain
+v 78 add
+v 79 use
+v 80 method
+v 81 right
+v 82 becom
+v 83 extra
+v 84 flavor
+v 85 instead
+v 86 result
+v 87 extrem
+v 88 delici
+v 89 perfect
+v 90 sauté
+v 91 aromat
+v 92 dutch
+v 93 melt
+v 94 butter
+v 95 onion
+v 96 dice
+v 97 red
+v 98 bell
+v 99 garlic
+v 100 soft
+v 101 fragrant
+v 102 slice
+v 103 golden
+v 104 stir
+v 105 liquid
+v 106 stock
+v 107 milk
+v 108 bring
+v 109 everyth
+v 110 boil
+v 111 turn
+v 112 heat
+v 113 simmer
+v 114 toss
+v 115 occasion
+v 116 get
+v 117 thick
+v 118 bit
+v 119 season
+v 120 shred
+v 121 enjoy
+v 122 popular
+v 123 martha
+v 124 stewart
+v 125 earli
+v 126 2000s
+v 127 way
+v 128 includ
+v 129 ingredi
+v 130 put
+v 131 wide
+v 132 along
+v 133 glossi
+v 134 coat
+v 135 love
+v 136 realli
+v 137 noodl
+v 138 your
+v 139 break
+v 140 want
+v 141 classic
+v 142 style
+v 143 opt
+v 144 keep
+v 145 long
+v 146 slurp
+v 147 either
+v 148 amaz
+v 149 isnt
+v 150 enough
+v 151 lay
+v 152 flat
+v 153 would
+v 154 fit
+v 155 shape
+v 156 feel
+v 157 free
+v 158 kind
+v 159 short
+v 160 pretti
+v 161 wasnt
+v 162 much
+v 163 varieti
+v 164 avail
+v 165 maximum
+v 166 sweet
+v 167 four
+v 168 clove
+v 169 huge
+v 170 garlicki
+v 171 hit
+v 172 boneless
+v 173 skinless
+v 174 breast
+v 175 prefer
+v 176 thigh
+v 177 youll
+v 178 cut
+v 179 bite
+v 180 size
+v 181 regular
+v 182 fanci
+v 183 stuff
+v 184 look
+v 185 bronz
+v 186 extrud
+v 187 rough
+v 188 surfac
+v 189 cling
+v 190 umami
+v 191 nice
+v 192 without
+v 193 broth
+v 194 help
+v 195 white
+v 196 cheddar
+v 197 mozzarella
+v 198 layer
+v 199 brown
+v 200 crust
+v 201 serv
+v 202 rich
+v 203 fill
+v 204 doesnt
+v 205 support
+v 206 side
+v 207 knot
+v 208 kale
+v 209 salad
+v 210 ham
+v 211 burrata
+v 212 faq
+v 213 precook
+v 214 absolut
+v 215 rotisseri
+v 216 chop
+v 217 4
+v 218 cup
+v 219 fan
+v 220 leav
+v 221 even
+v 222 substitut
+v 223 hearti
+v 224 veget
+v 225 like
+v 226 anoth
+v 227 sort
+v 228 dri
+v 229 work
+v 230 except
+v 231 perhap
+v 232 lasagna
+v 233 brasier
+v 234 bottom
+v 235 mean
+v 236 cours
+v 237 safe
+v 238 authent
+v 239 nope
+v 240 fact
+v 241 sometim
+v 242 eat
+v 243 unbak
+e 0 1 2
+e 1 2 2
+e 1 45 2
+e 1 125 2
+e 2 3 2
+e 2 73 2
+e 2 160 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 10 2
+e 7 24 2
+e 7 57 2
+e 7 204 2
+e 8 9 2
+e 8 24 2
+e 8 140 2
+e 9 7 2
+e 9 61 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 12 15 2
+e 13 14 2
+e 13 7 2
+e 13 51 2
+e 13 65 2
+e 13 66 2
+e 14 12 2
+e 14 46 2
+e 14 2 2
+e 14 138 2
+e 14 79 2
+e 15 16 2
+e 15 43 2
+e 15 89 2
+e 15 192 2
+e 15 22 2
+e 16 17 2
+e 16 148 2
+e 17 18 2
+e 17 28 2
+e 17 38 2
+e 18 19 2
+e 18 52 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 22 23 2
+e 22 40 2
+e 22 78 2
+e 22 61 2
+e 22 106 2
+e 22 102 2
+e 22 174 2
+e 22 176 2
+e 22 179 2
+e 22 193 2
+e 22 84 2
+e 22 214 2
+e 22 120 2
+e 23 13 2
+e 23 35 2
+e 23 41 2
+e 23 22 2
+e 23 54 2
+e 23 14 2
+e 23 59 2
+e 23 62 2
+e 23 64 2
+e 23 67 2
+e 23 87 2
+e 23 90 2
+e 23 108 2
+e 23 38 2
+e 23 8 2
+e 23 145 2
+e 23 154 2
+e 23 1 2
+e 23 181 2
+e 23 182 2
+e 23 61 2
+e 23 202 2
+e 23 236 2
+e 23 235 2
+e 23 16 2
+e 24 25 2
+e 24 29 2
+e 24 77 2
+e 24 139 2
+e 24 162 2
+e 24 217 2
+e 24 30 2
+e 25 26 2
+e 25 118 2
+e 26 27 2
+e 27 17 2
+e 28 24 2
+e 28 79 2
+e 29 30 2
+e 29 13 2
+e 29 22 2
+e 29 44 2
+e 29 51 2
+e 30 31 2
+e 30 23 2
+e 30 58 2
+e 30 30 2
+e 30 103 2
+e 30 14 2
+e 30 131 2
+e 30 239 2
+e 31 32 2
+e 32 33 2
+e 32 14 2
+e 32 74 2
+e 32 80 2
+e 32 61 2
+e 32 82 2
+e 32 78 2
+e 32 13 2
+e 32 32 2
+e 32 8 2
+e 32 76 2
+e 32 136 2
+e 32 143 2
+e 32 51 2
+e 32 155 2
+e 32 2 2
+e 32 163 2
+e 32 187 2
+e 32 227 2
+e 32 229 2
+e 32 30 2
+e 33 34 2
+e 34 22 2
+e 35 36 2
+e 36 37 2
+e 37 17 2
+e 38 39 2
+e 38 61 2
+e 39 22 2
+e 39 61 2
+e 39 23 2
+e 40 23 2
+e 41 42 2
+e 41 22 2
+e 41 96 2
+e 41 67 2
+e 42 15 2
+e 42 99 2
+e 42 104 2
+e 42 95 2
+e 42 78 2
+e 42 138 2
+e 42 220 2
+e 43 44 2
+e 43 200 2
+e 44 1 2
+e 44 56 2
+e 44 67 2
+e 44 32 2
+e 44 85 2
+e 44 130 2
+e 44 189 2
+e 44 191 2
+e 44 198 2
+e 45 46 2
+e 45 161 2
+e 46 47 2
+e 46 55 2
+e 47 48 2
+e 48 49 2
+e 49 50 2
+e 50 29 2
+e 50 67 2
+e 51 18 2
+e 51 78 2
+e 51 132 2
+e 51 151 2
+e 51 242 2
+e 52 53 2
+e 53 22 2
+e 54 30 2
+e 54 142 2
+e 55 44 2
+e 55 22 2
+e 56 57 2
+e 56 7 2
+e 56 30 2
+e 57 30 2
+e 57 119 2
+e 57 93 2
+e 57 120 2
+e 58 23 2
+e 58 103 2
+e 59 60 2
+e 59 159 2
+e 60 39 2
+e 61 22 2
+e 61 32 2
+e 61 81 2
+e 61 44 2
+e 61 29 2
+e 61 103 2
+e 61 114 2
+e 61 116 2
+e 61 80 2
+e 61 83 2
+e 62 63 2
+e 63 22 2
+e 63 84 2
+e 64 29 2
+e 64 230 2
+e 65 13 2
+e 66 22 2
+e 66 75 2
+e 66 32 2
+e 66 149 2
+e 66 229 2
+e 67 68 2
+e 67 79 2
+e 67 78 2
+e 67 29 2
+e 67 194 2
+e 67 201 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 70 93 2
+e 70 233 2
+e 70 237 2
+e 71 72 2
+e 72 32 2
+e 73 9 2
+e 73 28 2
+e 74 66 2
+e 74 131 2
+e 74 92 2
+e 75 76 2
+e 75 42 2
+e 76 77 2
+e 76 86 2
+e 76 109 2
+e 76 24 2
+e 76 25 2
+e 77 78 2
+e 77 32 2
+e 78 44 2
+e 78 102 2
+e 78 32 2
+e 78 23 2
+e 78 165 2
+e 78 118 2
+e 78 169 2
+e 78 190 2
+e 79 13 2
+e 79 158 2
+e 79 59 2
+e 79 95 2
+e 79 22 2
+e 79 76 2
+e 79 213 2
+e 79 215 2
+e 79 42 2
+e 79 226 2
+e 79 74 2
+e 80 32 2
+e 80 122 2
+e 81 44 2
+e 82 83 2
+e 83 84 2
+e 83 105 2
+e 83 22 2
+e 83 15 2
+e 84 61 2
+e 84 137 2
+e 84 67 2
+e 84 57 2
+e 85 76 2
+e 85 79 2
+e 86 22 2
+e 87 88 2
+e 88 15 2
+e 89 61 2
+e 89 29 2
+e 90 91 2
+e 90 95 2
+e 91 92 2
+e 91 78 2
+e 92 70 2
+e 93 94 2
+e 93 56 2
+e 94 90 2
+e 95 96 2
+e 95 99 2
+e 95 42 2
+e 96 97 2
+e 96 41 2
+e 97 98 2
+e 97 42 2
+e 98 42 2
+e 98 97 2
+e 99 100 2
+e 99 98 2
+e 99 78 2
+e 99 207 2
+e 100 101 2
+e 101 61 2
+e 102 22 2
+e 102 172 2
+e 103 104 2
+e 103 121 2
+e 103 199 2
+e 104 105 2
+e 104 96 2
+e 104 118 2
+e 104 120 2
+e 104 44 2
+e 105 104 2
+e 105 110 2
+e 106 107 2
+e 106 57 2
+e 107 51 2
+e 107 50 2
+e 108 109 2
+e 109 110 2
+e 109 128 2
+e 110 111 2
+e 110 61 2
+e 111 112 2
+e 112 113 2
+e 113 61 2
+e 114 115 2
+e 114 133 2
+e 115 23 2
+e 116 117 2
+e 116 63 2
+e 116 182 2
+e 117 104 2
+e 118 22 2
+e 118 166 2
+e 119 75 2
+e 120 57 2
+e 120 195 2
+e 120 216 2
+e 121 13 2
+e 122 123 2
+e 123 124 2
+e 124 1 2
+e 125 126 2
+e 126 127 2
+e 127 61 2
+e 127 16 2
+e 128 129 2
+e 129 44 2
+e 129 91 2
+e 130 74 2
+e 130 32 2
+e 131 51 2
+e 131 150 2
+e 131 234 2
+e 132 83 2
+e 133 134 2
+e 134 135 2
+e 135 13 2
+e 135 146 2
+e 136 116 2
+e 137 138 2
+e 137 147 2
+e 137 158 2
+e 138 61 2
+e 138 184 2
+e 138 67 2
+e 138 219 2
+e 139 23 2
+e 139 32 2
+e 140 141 2
+e 140 178 2
+e 140 116 2
+e 140 79 2
+e 141 54 2
+e 142 139 2
+e 143 144 2
+e 144 23 2
+e 145 135 2
+e 146 137 2
+e 147 127 2
+e 148 66 2
+e 148 243 2
+e 149 131 2
+e 150 130 2
+e 151 152 2
+e 152 153 2
+e 153 139 2
+e 154 32 2
+e 155 156 2
+e 156 157 2
+e 157 79 2
+e 158 159 2
+e 158 223 2
+e 158 32 2
+e 158 30 2
+e 159 32 2
+e 159 23 2
+e 160 73 2
+e 161 162 2
+e 162 32 2
+e 162 205 2
+e 163 164 2
+e 164 129 2
+e 165 84 2
+e 166 167 2
+e 167 168 2
+e 168 99 2
+e 169 170 2
+e 170 171 2
+e 171 22 2
+e 172 173 2
+e 173 22 2
+e 174 175 2
+e 175 79 2
+e 176 177 2
+e 177 140 2
+e 177 24 2
+e 178 22 2
+e 179 180 2
+e 180 39 2
+e 181 23 2
+e 182 183 2
+e 183 140 2
+e 183 138 2
+e 184 185 2
+e 185 186 2
+e 186 32 2
+e 187 188 2
+e 188 44 2
+e 189 41 2
+e 190 107 2
+e 191 15 2
+e 192 55 2
+e 193 85 2
+e 193 67 2
+e 194 23 2
+e 195 196 2
+e 196 197 2
+e 197 104 2
+e 198 56 2
+e 199 43 2
+e 200 201 2
+e 201 22 2
+e 201 99 2
+e 202 203 2
+e 203 7 2
+e 204 24 2
+e 205 206 2
+e 206 14 2
+e 207 208 2
+e 208 209 2
+e 209 210 2
+e 209 212 2
+e 210 211 2
+e 211 209 2
+e 212 79 2
+e 213 22 2
+e 214 140 2
+e 215 21 2
+e 216 177 2
+e 217 218 2
+e 218 79 2
+e 219 98 2
+e 220 221 2
+e 221 222 2
+e 222 158 2
+e 223 224 2
+e 224 225 2
+e 225 79 2
+e 225 83 2
+e 226 158 2
+e 227 228 2
+e 228 32 2
+e 229 64 2
+e 229 24 2
+e 230 231 2
+e 231 232 2
+e 232 137 2
+e 233 89 2
+e 234 235 2
+e 235 8 2
+e 235 238 2
+e 236 70 2
+e 237 66 2
+e 238 24 2
+e 239 240 2
+e 240 241 2
+e 241 29 2
+e 242 225 2
+t # -1
