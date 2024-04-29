@@ -1,0 +1,7704 @@
+t # 0
+v 0 shawn
+v 1 town
+v 2 holiday
+v 3 ground
+v 4 start
+v 5 thaw
+v 6 look
+v 7 like
+v 8 there
+v 9 warmth
+v 10 horizon
+v 11 excit
+v 12 time
+v 13 mani
+v 14 put
+v 15 away
+v 16 heavi
+v 17 coat
+v 18 sweater
+v 19 make
+v 20 room
+v 21 lighter
+v 22 fabric
+v 23 pastel
+v 24 tone
+v 25 noth
+v 26 better
+v 27 first
+v 28 warm
+v 29 day
+v 30 open
+v 31 window
+v 32 outsid
+v 33 see
+v 34 greeneri
+v 35 come
+v 36 transit
+v 37 winter
+v 38 spring
+v 39 love
+v 40 reevalu
+v 41 skincar
+v 42 makeup
+v 43 wardrob
+v 44 well
+v 45 experi
+v 46 new
+v 47 temperatur
+v 48 rise
+v 49 skin
+v 50 typic
+v 51 thing
+v 52 perspir
+v 53 higher
+v 54 sebum
+v 55 product
+v 56 greater
+v 57 need
+v 58 spf
+v 59 truth
+v 60 keep
+v 61 regimen
+v 62 sync
+v 63 season
+v 64 good
+v 65 sens
+v 66 let
+v 67 way
+v 68 prepar
+v 69 warmer
+v 70 weather
+v 71 clean
+v 72 swap
+v 73 remov
+v 74 cold
+v 75 month
+v 76 often
+v 77 switch
+v 78 creami
+v 79 cleanser
+v 80 balm
+v 81 peopl
+v 82 choos
+v 83 return
+v 84 soap
+v 85 foam
+v 86 chang
+v 87 cleans
+v 88 mind
+v 89 sometim
+v 90 strip
+v 91 even
+v 92 dri
+v 93 great
+v 94 moistur
+v 95 face
+v 96 duo
+v 97 jane
+v 98 iredal
+v 99 beauti
+v 100 prep
+v 101 cleanserand
+v 102 magic
+v 103 mitt
+v 104 excel
+v 105 altern
+v 106 tradit
+v 107 micellar
+v 108 water
+v 109 rather
+v 110 base
+v 111 made
+v 112 nourish
+v 113 ingredi
+v 114 cucumb
+v 115 alo
+v 116 wont
+v 117 yet
+v 118 youll
+v 119 find
+v 120 effect
+v 121 lift
+v 122 dirt
+v 123 impur
+v 124 gentl
+v 125 leav
+v 126 layer
+v 127 sooth
+v 128 hydrat
+v 129 absorb
+v 130 right
+v 131 microfib
+v 132 smaller
+v 133 human
+v 134 hair
+v 135 mimic
+v 136 action
+v 137 emulsif
+v 138 dissolv
+v 139 residu
+v 140 get
+v 141 incred
+v 142 without
+v 143 upset
+v 144 ph
+v 145 combin
+v 146 result
+v 147 amaz
+v 148 appli
+v 149 drop
+v 150 top
+v 151 scrub
+v 152 circular
+v 153 direct
+v 154 includ
+v 155 around
+v 156 eye
+v 157 lip
+v 158 wash
+v 159 use
+v 160 air
+v 161 prime
+v 162 paint
+v 163 finish
+v 164 want
+v 165 may
+v 166 one
+v 167 smooth
+v 168 affair
+v 169 primer
+v 170 isnt
+v 171 practic
+v 172 quit
+v 173 kind
+v 174 two
+v 175 high
+v 176 recommend
+v 177 brighten
+v 178 still
+v 179 popular
+v 180 famous
+v 181 give
+v 182 healthi
+v 183 appear
+v 184 ensur
+v 185 stay
+v 186 hydratedlook
+v 187 regardless
+v 188 mattifi
+v 189 compens
+v 190 tend
+v 191 easili
+v 192 shini
+v 193 perfect
+v 194 know
+v 195 though
+v 196 calibr
+v 197 balanc
+v 198 longev
+v 199 complexion
+v 200 built
+v 201 foundat
+v 202 go
+v 203 sheer
+v 204 coverag
+v 205 blotchi
+v 206 red
+v 207 breath
+v 208 breathabl
+v 209 known
+v 210 formula
+v 211 hydropur
+v 212 tint
+v 213 serum
+v 214 favorit
+v 215 take
+v 216 lightweight
+v 217 liposom
+v 218 technolog
+v 219 also
+v 220 help
+v 221 continu
+v 222 recov
+v 223 long
+v 224 dehydr
+v 225 might
+v 226 occur
+v 227 rememb
+v 228 protect
+v 229 dream
+v 230 longawait
+v 231 couldnt
+v 232 happen
+v 233 yes
+v 234 back
+v 235 readi
+v 236 summer
+v 237 broadspectrum
+v 238 skinlik
+v 239 everyon
+v 240 wear
+v 241 alon
+v 242 purepress
+v 243 extra
+v 244 cours
+v 245 cant
+v 246 bestsel
+v 247 carri
+v 248 us
+v 249 weightless
+v 250 4in1
+v 251 powder
+v 252 conceal
+v 253 stapl
+v 254 whether
+v 255 anoth
+v 256 morn
+v 257 touchup
+v 258 throughout
+v 259 addit
+v 260 sinc
+v 261 versatil
+v 262 kiss
+v 263 must
+v 264 have
+v 265 final
+v 266 step
+v 267 imper
+v 268 chap
+v 269 burn
+v 270 overlook
+v 271 care
+v 272 especi
+v 273 realli
+v 274 import
+v 275 consid
+v 276 move
+v 277 hyaluron
+v 278 treatment
+v 279 pure
+v 280 creat
+v 281 repair
+v 282 wonder
+v 283 padina
+v 284 alga
+v 285 shea
+v 286 butter
+v 287 retain
+v 288 restor
+v 289 natur
+v 290 textur
+v 291 youth
+v 292 lipdrink
+v 293 outdoor
+v 294 avail
+v 295 shade
+v 296 flirt
+v 297 crush
+v 298 buff
+v 299 15
+v 300 petroleumfre
+v 301 provid
+v 302 antioxidantrich
+v 303 shield
+v 304 feel
+v 305 howeasi
+v 306 littl
+v 307 nose
+v 308 relief
+v 309 recoveri
+v 310 colorlux
+v 311 hydratingcream
+v 312 lipstick
+v 313 newest
+v 314 collect
+v 315 rich
+v 316 lumin
+v 317 drench
+v 318 gorgeous
+v 319 color
+v 320 last
+v 321 doesnt
+v 322 traumat
+v 323 bodi
+v 324 goe
+v 325 plan
+v 326 accord
+v 327 deep
+v 328 enjoy
+v 329 weve
+v 330 got
+v 331 cover
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 4 5 2
+e 4 72 2
+e 5 6 2
+e 6 7 2
+e 6 32 2
+e 6 47 2
+e 6 67 2
+e 6 167 2
+e 6 194 2
+e 6 199 2
+e 6 66 2
+e 6 260 2
+e 6 291 2
+e 7 8 2
+e 7 52 2
+e 7 114 2
+e 7 283 2
+e 8 9 2
+e 8 25 2
+e 9 10 2
+e 9 49 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 12 40 2
+e 12 184 2
+e 12 202 2
+e 12 233 2
+e 13 14 2
+e 13 81 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 87 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 19 64 2
+e 19 193 2
+e 19 36 2
+e 19 6 2
+e 20 21 2
+e 21 22 2
+e 21 49 2
+e 22 23 2
+e 23 24 2
+e 24 8 2
+e 25 26 2
+e 26 27 2
+e 26 12 2
+e 27 28 2
+e 28 29 2
+e 28 102 2
+e 28 108 2
+e 28 60 2
+e 28 262 2
+e 28 273 2
+e 29 30 2
+e 29 242 2
+e 30 31 2
+e 31 6 2
+e 31 266 2
+e 32 33 2
+e 32 215 2
+e 33 34 2
+e 34 35 2
+e 35 36 2
+e 35 223 2
+e 35 74 2
+e 36 37 2
+e 36 167 2
+e 36 12 2
+e 36 69 2
+e 36 63 2
+e 37 38 2
+e 37 75 2
+e 37 165 2
+e 37 13 2
+e 37 81 2
+e 37 224 2
+e 37 269 2
+e 37 74 2
+e 38 39 2
+e 38 42 2
+e 38 74 2
+e 38 104 2
+e 38 236 2
+e 38 157 2
+e 39 12 2
+e 39 240 2
+e 39 67 2
+e 39 318 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 42 6 2
+e 42 73 2
+e 42 81 2
+e 42 139 2
+e 42 37 2
+e 42 185 2
+e 42 198 2
+e 42 49 2
+e 42 204 2
+e 42 110 2
+e 42 314 2
+e 42 326 2
+e 43 44 2
+e 43 267 2
+e 44 45 2
+e 44 69 2
+e 45 46 2
+e 45 51 2
+e 45 49 2
+e 46 38 2
+e 47 48 2
+e 47 167 2
+e 47 211 2
+e 48 49 2
+e 49 50 2
+e 49 61 2
+e 49 16 2
+e 49 93 2
+e 49 117 2
+e 49 124 2
+e 49 141 2
+e 49 145 2
+e 49 174 2
+e 49 182 2
+e 49 190 2
+e 49 109 2
+e 49 104 2
+e 49 207 2
+e 49 221 2
+e 49 228 2
+e 49 38 2
+e 49 60 2
+e 49 194 2
+e 50 45 2
+e 51 7 2
+e 52 53 2
+e 53 54 2
+e 54 55 2
+e 54 94 2
+e 55 56 2
+e 55 97 2
+e 55 159 2
+e 55 28 2
+e 55 275 2
+e 55 279 2
+e 55 220 2
+e 56 57 2
+e 57 58 2
+e 58 59 2
+e 58 60 2
+e 58 99 2
+e 58 253 2
+e 58 299 2
+e 59 60 2
+e 60 49 2
+e 60 88 2
+e 60 102 2
+e 60 42 2
+e 61 62 2
+e 62 63 2
+e 63 19 2
+e 63 36 2
+e 63 74 2
+e 63 86 2
+e 64 65 2
+e 65 66 2
+e 66 6 2
+e 66 160 2
+e 66 49 2
+e 67 68 2
+e 67 189 2
+e 67 304 2
+e 68 69 2
+e 69 70 2
+e 69 75 2
+e 69 47 2
+e 70 71 2
+e 70 140 2
+e 70 19 2
+e 70 28 2
+e 71 4 2
+e 71 142 2
+e 71 158 2
+e 72 42 2
+e 73 38 2
+e 73 42 2
+e 74 37 2
+e 74 292 2
+e 74 148 2
+e 74 321 2
+e 75 76 2
+e 75 86 2
+e 75 216 2
+e 75 142 2
+e 76 77 2
+e 76 270 2
+e 77 78 2
+e 78 79 2
+e 79 80 2
+e 79 69 2
+e 79 84 2
+e 79 96 2
+e 79 104 2
+e 79 107 2
+e 79 109 2
+e 79 146 2
+e 79 150 2
+e 80 73 2
+e 80 60 2
+e 80 202 2
+e 80 300 2
+e 81 82 2
+e 81 119 2
+e 82 83 2
+e 82 42 2
+e 83 84 2
+e 83 231 2
+e 84 85 2
+e 84 89 2
+e 84 110 2
+e 84 159 2
+e 85 79 2
+e 86 21 2
+e 86 325 2
+e 87 80 2
+e 88 85 2
+e 88 173 2
+e 88 323 2
+e 89 90 2
+e 90 91 2
+e 91 92 2
+e 91 195 2
+e 91 6 2
+e 92 49 2
+e 92 161 2
+e 93 94 2
+e 93 67 2
+e 93 259 2
+e 94 95 2
+e 94 197 2
+e 94 230 2
+e 94 288 2
+e 94 219 2
+e 94 118 2
+e 95 79 2
+e 95 101 2
+e 95 154 2
+e 95 169 2
+e 96 97 2
+e 96 147 2
+e 97 98 2
+e 98 99 2
+e 98 208 2
+e 98 246 2
+e 99 100 2
+e 99 238 2
+e 99 259 2
+e 100 95 2
+e 101 102 2
+e 102 103 2
+e 103 99 2
+e 103 111 2
+e 103 28 2
+e 103 71 2
+e 104 105 2
+e 104 42 2
+e 104 12 2
+e 105 106 2
+e 106 79 2
+e 107 108 2
+e 108 79 2
+e 108 121 2
+e 108 148 2
+e 109 84 2
+e 109 196 2
+e 110 111 2
+e 110 38 2
+e 110 242 2
+e 110 243 2
+e 110 244 2
+e 110 93 2
+e 111 112 2
+e 111 131 2
+e 111 282 2
+e 112 113 2
+e 113 7 2
+e 113 217 2
+e 114 115 2
+e 115 116 2
+e 116 92 2
+e 117 118 2
+e 118 119 2
+e 118 39 2
+e 119 120 2
+e 119 215 2
+e 120 107 2
+e 121 122 2
+e 122 123 2
+e 123 49 2
+e 124 125 2
+e 124 151 2
+e 125 126 2
+e 126 127 2
+e 127 128 2
+e 128 129 2
+e 128 170 2
+e 128 183 2
+e 128 201 2
+e 128 210 2
+e 129 130 2
+e 130 102 2
+e 130 201 2
+e 131 132 2
+e 132 133 2
+e 133 134 2
+e 134 135 2
+e 135 136 2
+e 136 137 2
+e 137 138 2
+e 138 42 2
+e 139 140 2
+e 140 49 2
+e 140 28 2
+e 140 192 2
+e 140 205 2
+e 140 268 2
+e 140 63 2
+e 141 71 2
+e 142 143 2
+e 142 214 2
+e 143 144 2
+e 144 92 2
+e 145 99 2
+e 146 95 2
+e 147 28 2
+e 148 149 2
+e 148 58 2
+e 148 306 2
+e 149 99 2
+e 150 124 2
+e 151 152 2
+e 152 153 2
+e 153 95 2
+e 154 155 2
+e 155 156 2
+e 156 157 2
+e 157 60 2
+e 157 263 2
+e 157 140 2
+e 157 278 2
+e 157 287 2
+e 157 290 2
+e 157 222 2
+e 157 80 2
+e 157 210 2
+e 157 94 2
+e 157 35 2
+e 158 84 2
+e 159 66 2
+e 159 166 2
+e 159 256 2
+e 160 92 2
+e 161 162 2
+e 162 163 2
+e 163 164 2
+e 163 237 2
+e 163 239 2
+e 163 315 2
+e 164 38 2
+e 164 49 2
+e 165 159 2
+e 166 167 2
+e 166 128 2
+e 167 168 2
+e 167 128 2
+e 167 186 2
+e 167 157 2
+e 168 169 2
+e 168 177 2
+e 168 188 2
+e 169 60 2
+e 169 175 2
+e 169 178 2
+e 169 180 2
+e 169 93 2
+e 170 171 2
+e 171 172 2
+e 172 70 2
+e 173 163 2
+e 174 95 2
+e 175 176 2
+e 176 63 2
+e 177 95 2
+e 178 179 2
+e 179 95 2
+e 179 210 2
+e 180 181 2
+e 181 49 2
+e 182 128 2
+e 183 36 2
+e 184 42 2
+e 185 167 2
+e 186 187 2
+e 187 47 2
+e 188 95 2
+e 188 116 2
+e 189 49 2
+e 190 191 2
+e 190 140 2
+e 191 140 2
+e 192 69 2
+e 193 110 2
+e 193 38 2
+e 193 55 2
+e 194 91 2
+e 194 329 2
+e 195 188 2
+e 195 166 2
+e 196 54 2
+e 197 49 2
+e 198 91 2
+e 199 200 2
+e 200 130 2
+e 201 202 2
+e 201 209 2
+e 201 214 2
+e 201 252 2
+e 202 203 2
+e 202 234 2
+e 203 204 2
+e 203 42 2
+e 203 58 2
+e 204 38 2
+e 204 242 2
+e 205 206 2
+e 206 37 2
+e 207 97 2
+e 207 328 2
+e 208 201 2
+e 209 179 2
+e 210 211 2
+e 210 301 2
+e 210 99 2
+e 210 317 2
+e 211 212 2
+e 211 277 2
+e 212 213 2
+e 212 212 2
+e 212 94 2
+e 212 234 2
+e 213 91 2
+e 214 37 2
+e 214 55 2
+e 215 44 2
+e 215 49 2
+e 215 257 2
+e 215 271 2
+e 215 327 2
+e 216 112 2
+e 216 163 2
+e 217 218 2
+e 218 219 2
+e 219 220 2
+e 219 167 2
+e 220 49 2
+e 220 157 2
+e 221 222 2
+e 222 223 2
+e 222 37 2
+e 223 37 2
+e 223 320 2
+e 224 225 2
+e 225 226 2
+e 226 227 2
+e 227 148 2
+e 228 229 2
+e 228 303 2
+e 229 212 2
+e 230 83 2
+e 231 232 2
+e 232 26 2
+e 233 229 2
+e 234 235 2
+e 234 293 2
+e 235 215 2
+e 236 216 2
+e 236 76 2
+e 237 58 2
+e 238 163 2
+e 239 39 2
+e 240 241 2
+e 240 140 2
+e 241 193 2
+e 241 255 2
+e 242 110 2
+e 243 204 2
+e 244 245 2
+e 245 19 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 250 2
+e 250 251 2
+e 251 201 2
+e 252 58 2
+e 253 254 2
+e 254 240 2
+e 255 55 2
+e 256 215 2
+e 257 258 2
+e 258 29 2
+e 259 38 2
+e 260 261 2
+e 261 55 2
+e 262 38 2
+e 263 264 2
+e 263 215 2
+e 263 294 2
+e 264 265 2
+e 265 266 2
+e 266 43 2
+e 266 32 2
+e 267 157 2
+e 268 37 2
+e 268 307 2
+e 269 236 2
+e 270 263 2
+e 271 272 2
+e 272 70 2
+e 273 274 2
+e 274 55 2
+e 275 276 2
+e 276 69 2
+e 277 157 2
+e 278 55 2
+e 279 280 2
+e 280 281 2
+e 281 111 2
+e 282 113 2
+e 283 284 2
+e 284 285 2
+e 285 286 2
+e 286 220 2
+e 287 94 2
+e 288 289 2
+e 289 94 2
+e 290 19 2
+e 291 193 2
+e 292 157 2
+e 292 263 2
+e 293 292 2
+e 294 295 2
+e 295 296 2
+e 296 297 2
+e 297 298 2
+e 298 203 2
+e 299 157 2
+e 300 128 2
+e 301 302 2
+e 302 228 2
+e 303 118 2
+e 304 305 2
+e 305 240 2
+e 306 268 2
+e 307 308 2
+e 308 309 2
+e 309 310 2
+e 310 311 2
+e 311 312 2
+e 312 313 2
+e 313 157 2
+e 314 163 2
+e 315 316 2
+e 316 210 2
+e 317 157 2
+e 318 319 2
+e 319 35 2
+e 320 157 2
+e 321 322 2
+e 322 45 2
+e 323 324 2
+e 324 36 2
+e 325 38 2
+e 326 30 2
+e 327 207 2
+e 328 9 2
+e 329 330 2
+e 330 331 2
+t # 1
+v 0 jane
+v 1 iredal
+v 2 thirti
+v 3 year
+v 4 ago
+v 5 would
+v 6 give
+v 7 class
+v 8 ask
+v 9 mani
+v 10 attende
+v 11 read
+v 12 ingredi
+v 13 label
+v 14 lucki
+v 15 two
+v 16 hand
+v 17 shot
+v 18 50
+v 19 peopl
+v 20 none
+v 21 knew
+v 22 put
+v 23 daili
+v 24 largest
+v 25 organ
+v 26 bodi
+v 27 differ
+v 28 consum
+v 29 care
+v 30 clean
+v 31 beauti
+v 32 conscious
+v 33 makeup
+v 34 brand
+v 35 ive
+v 36 alway
+v 37 interest
+v 38 natur
+v 39 investig
+v 40 decid
+v 41 leav
+v 42 entertain
+v 43 world
+v 44 explor
+v 45 possibl
+v 46 develop
+v 47 noncomedogen
+v 48 foundat
+v 49 good
+v 50 skin
+v 51 25year
+v 52 career
+v 53 cast
+v 54 director
+v 55 produc
+v 56 writer
+v 57 televis
+v 58 film
+v 59 saw
+v 60 multipl
+v 61 actor
+v 62 model
+v 63 struggl
+v 64 keep
+v 65 healthi
+v 66 bombard
+v 67 kind
+v 68 morn
+v 69 noon
+v 70 night
+v 71 rememb
+v 72 promin
+v 73 agent
+v 74 new
+v 75 york
+v 76 tell
+v 77 never
+v 78 hire
+v 79 bad
+v 80 struck
+v 81 chord
+v 82 impact
+v 83 selfesteem
+v 84 opportun
+v 85 enhanc
+v 86 live
+v 87 womenand
+v 88 becom
+v 89 mantra
+v 90 still
+v 91 start
+v 92 amaz
+v 93 base
+v 94 call
+v 95 everi
+v 96 time
+v 97 someon
+v 98 said
+v 99 conceal
+v 100 sunscreen
+v 101 one
+v 102 miner
+v 103 powder
+v 104 formul
+v 105 without
+v 106 talc
+v 107 synthet
+v 108 preserv
+v 109 dye
+v 110 also
+v 111 gave
+v 112 superb
+v 113 coverag
+v 114 look
+v 115 like
+v 116 broadspectrum
+v 117 sun
+v 118 protect
+v 119 sooth
+v 120 thank
+v 121 zinc
+v 122 oxid
+v 123 plus
+v 124 dermatologist
+v 125 plastic
+v 126 surgeon
+v 127 love
+v 128 wasnt
+v 129 long
+v 130 patient
+v 131 product
+v 132 go
+v 133 along
+v 134 relay
+v 135 request
+v 136 thought
+v 137 id
+v 138 lipstick
+v 139 alongsid
+v 140 scalpel
+v 141 gradual
+v 142 pencil
+v 143 underey
+v 144 came
+v 145 big
+v 146 press
+v 147 easi
+v 148 purepress
+v 149 immedi
+v 150 success
+v 151 bestsel
+v 152 ever
+v 153 sinc
+v 154 26
+v 155 shade
+v 156 avail
+v 157 worldwid
+v 158 intern
+v 159 growth
+v 160 meaning
+v 161 idea
+v 162 reach
+v 163 women
+v 164 ethnic
+v 165 improv
+v 166 sens
+v 167 fulfil
+v 168 life
+v 169 sure
+v 170 satisfi
+v 171 feel
+v 172 im
+v 173 confid
+v 174 continu
+v 175 direct
+v 176 known
+v 177 innov
+v 178 industri
+v 179 use
+v 180 newli
+v 181 creat
+v 182 select
+v 183 much
+v 184 larger
+v 185 back
+v 186 first
+v 187 began
+v 188 relat
+v 189 unknown
+v 190 laboratori
+v 191 grow
+v 192 increas
+v 193 environment
+v 194 sustain
+v 195 understood
+v 196 realli
+v 197 nurtur
+v 198 health
+v 199 skincar
+v 200 work
+v 201 tandem
+v 202 perfect
+v 203 exampl
+v 204 isnt
+v 205 effici
+v 206 layer
+v 207 inmakeup
+v 208 mean
+v 209 last
+v 210 therefor
+v 211 easiest
+v 212 maintain
+v 213 took
+v 214 get
+v 215 messag
+v 216 across
+v 217 segment
+v 218 marvel
+v 219 size
+v 220 help
+v 221 environ
+v 222 anim
+v 223 test
+v 224 import
+v 225 claim
+v 226 know
+v 227 weve
+v 228 substanti
+v 229 sleep
+v 230 integr
+v 231 garden
+v 232 fresh
+v 233 veget
+v 234 fruit
+v 235 flower
+v 236 tabl
+v 237 color
+v 238 fragranc
+v 239 line
+v 240 profound
+v 241 end
+v 242 blush
+v 243 spring
+v 244 collect
+v 245 readi
+v 246 bloom
+v 247 eye
+v 248 shadow
+v 249 tripl
+v 250 honeysuckleand
+v 251 wildflow
+v 252 luscious
+v 253 velvet
+v 254 petal
+v 255 flourish
+v 256 favorit
+v 257 forev
+v 258 peach
+v 259 kiss
+v 260 lip
+v 261 cheek
+v 262 stain
+v 263 honest
+v 264 wear
+v 265 redeveri
+v 266 day
+v 267 amberand
+v 268 copper
+v 269 wind
+v 270 trio
+v 271 let
+v 272 30
+v 273 wow
+v 274 chang
+v 275 seen
+v 276 hold
+v 277 compani
+v 278 account
+v 279 turn
+v 280 animalstranspar
+v 281 key
+v 282 cosmet
+v 283 list
+v 284 websit
+v 285 commonplac
+v 286 part
+v 287 movement
+v 288 empow
+v 289 proud
+v 290 grate
+v 291 loyalti
+v 292 support
+v 293 feedback
+v 294 joint
+v 295 effort
+v 296 least
+v 297 anoth
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 3 273 2
+e 3 291 2
+e 3 0 2
+e 4 5 2
+e 5 6 2
+e 5 77 2
+e 6 7 2
+e 6 166 2
+e 7 8 2
+e 8 9 2
+e 8 131 2
+e 9 10 2
+e 9 235 2
+e 10 11 2
+e 10 21 2
+e 11 12 2
+e 12 13 2
+e 12 40 2
+e 12 12 2
+e 12 182 2
+e 12 284 2
+e 13 14 2
+e 13 276 2
+e 14 15 2
+e 15 16 2
+e 15 31 2
+e 15 155 2
+e 16 17 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 20 10 2
+e 21 22 2
+e 22 23 2
+e 22 26 2
+e 22 97 2
+e 22 100 2
+e 22 210 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 26 27 2
+e 26 38 2
+e 26 230 2
+e 27 28 2
+e 28 29 2
+e 28 114 2
+e 28 11 2
+e 29 30 2
+e 30 31 2
+e 30 33 2
+e 31 32 2
+e 31 178 2
+e 31 188 2
+e 31 217 2
+e 31 220 2
+e 31 148 2
+e 32 30 2
+e 32 193 2
+e 33 34 2
+e 33 12 2
+e 33 67 2
+e 33 128 2
+e 33 200 2
+e 33 100 2
+e 33 239 2
+e 34 35 2
+e 34 160 2
+e 34 174 2
+e 34 223 2
+e 34 283 2
+e 34 294 2
+e 35 36 2
+e 36 37 2
+e 36 176 2
+e 37 22 2
+e 38 39 2
+e 39 33 2
+e 40 41 2
+e 40 146 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 46 47 2
+e 46 131 2
+e 47 48 2
+e 48 49 2
+e 48 99 2
+e 48 103 2
+e 48 101 2
+e 49 50 2
+e 50 51 2
+e 50 65 2
+e 50 80 2
+e 50 82 2
+e 50 90 2
+e 50 116 2
+e 50 120 2
+e 50 199 2
+e 51 52 2
+e 52 53 2
+e 52 84 2
+e 53 54 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 59 2
+e 59 60 2
+e 60 61 2
+e 61 62 2
+e 62 63 2
+e 62 79 2
+e 63 64 2
+e 64 50 2
+e 65 66 2
+e 66 33 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 70 37 2
+e 71 72 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 5 2
+e 77 78 2
+e 77 136 2
+e 77 271 2
+e 78 62 2
+e 79 50 2
+e 80 81 2
+e 81 79 2
+e 82 83 2
+e 82 194 2
+e 82 220 2
+e 82 33 2
+e 83 52 2
+e 83 6 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 88 192 2
+e 88 101 2
+e 89 90 2
+e 90 91 2
+e 90 114 2
+e 91 92 2
+e 91 141 2
+e 92 93 2
+e 92 92 2
+e 93 94 2
+e 93 47 2
+e 93 149 2
+e 93 267 2
+e 94 95 2
+e 95 96 2
+e 96 22 2
+e 97 98 2
+e 98 92 2
+e 98 77 2
+e 99 100 2
+e 99 144 2
+e 100 101 2
+e 100 202 2
+e 100 186 2
+e 100 207 2
+e 101 102 2
+e 101 125 2
+e 101 130 2
+e 101 40 2
+e 101 170 2
+e 101 224 2
+e 101 174 2
+e 102 48 2
+e 102 33 2
+e 102 128 2
+e 103 104 2
+e 104 105 2
+e 104 154 2
+e 105 106 2
+e 106 107 2
+e 107 108 2
+e 108 109 2
+e 109 110 2
+e 110 111 2
+e 110 195 2
+e 110 221 2
+e 111 112 2
+e 112 113 2
+e 113 50 2
+e 114 115 2
+e 114 30 2
+e 114 226 2
+e 115 50 2
+e 116 117 2
+e 117 118 2
+e 118 119 2
+e 118 163 2
+e 119 50 2
+e 120 121 2
+e 120 272 2
+e 121 122 2
+e 122 123 2
+e 123 124 2
+e 124 125 2
+e 125 126 2
+e 126 127 2
+e 126 134 2
+e 127 102 2
+e 127 231 2
+e 127 232 2
+e 128 129 2
+e 128 147 2
+e 129 130 2
+e 129 214 2
+e 130 8 2
+e 130 98 2
+e 131 132 2
+e 131 179 2
+e 132 133 2
+e 133 102 2
+e 133 148 2
+e 134 135 2
+e 135 101 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 138 143 2
+e 138 243 2
+e 139 140 2
+e 140 91 2
+e 141 142 2
+e 142 138 2
+e 143 99 2
+e 144 145 2
+e 145 101 2
+e 146 102 2
+e 147 148 2
+e 148 93 2
+e 148 247 2
+e 148 242 2
+e 149 150 2
+e 150 151 2
+e 150 34 2
+e 151 152 2
+e 152 153 2
+e 153 104 2
+e 154 155 2
+e 155 156 2
+e 155 252 2
+e 156 157 2
+e 157 158 2
+e 158 159 2
+e 159 30 2
+e 160 161 2
+e 161 162 2
+e 162 163 2
+e 163 164 2
+e 163 110 2
+e 163 289 2
+e 164 165 2
+e 165 83 2
+e 166 167 2
+e 167 167 2
+e 167 168 2
+e 168 169 2
+e 168 133 2
+e 169 101 2
+e 170 171 2
+e 171 172 2
+e 172 173 2
+e 173 34 2
+e 174 175 2
+e 174 46 2
+e 174 191 2
+e 174 296 2
+e 175 36 2
+e 176 177 2
+e 177 30 2
+e 177 88 2
+e 178 174 2
+e 178 218 2
+e 179 180 2
+e 180 181 2
+e 181 12 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 186 2
+e 186 187 2
+e 186 206 2
+e 186 282 2
+e 187 30 2
+e 188 189 2
+e 189 190 2
+e 190 174 2
+e 191 177 2
+e 192 32 2
+e 193 82 2
+e 194 110 2
+e 195 196 2
+e 196 197 2
+e 197 198 2
+e 198 50 2
+e 199 33 2
+e 200 201 2
+e 201 100 2
+e 202 203 2
+e 203 204 2
+e 203 245 2
+e 204 205 2
+e 205 22 2
+e 206 199 2
+e 206 22 2
+e 207 208 2
+e 208 209 2
+e 209 206 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 213 129 2
+e 214 215 2
+e 215 216 2
+e 216 114 2
+e 217 178 2
+e 218 219 2
+e 219 177 2
+e 220 163 2
+e 220 229 2
+e 220 101 2
+e 221 222 2
+e 222 222 2
+e 222 223 2
+e 223 88 2
+e 223 280 2
+e 224 225 2
+e 225 28 2
+e 226 227 2
+e 227 228 2
+e 227 275 2
+e 227 286 2
+e 228 82 2
+e 229 70 2
+e 230 127 2
+e 231 127 2
+e 232 233 2
+e 233 234 2
+e 234 235 2
+e 235 236 2
+e 235 237 2
+e 236 237 2
+e 237 238 2
+e 237 241 2
+e 238 82 2
+e 239 240 2
+e 240 9 2
+e 241 242 2
+e 242 138 2
+e 242 253 2
+e 242 270 2
+e 243 244 2
+e 244 202 2
+e 245 246 2
+e 246 15 2
+e 247 248 2
+e 248 249 2
+e 249 250 2
+e 250 251 2
+e 251 15 2
+e 252 148 2
+e 253 254 2
+e 254 255 2
+e 255 256 2
+e 256 257 2
+e 257 258 2
+e 257 265 2
+e 258 259 2
+e 258 257 2
+e 259 260 2
+e 260 261 2
+e 261 262 2
+e 262 263 2
+e 263 264 2
+e 264 257 2
+e 265 266 2
+e 266 168 2
+e 267 268 2
+e 268 269 2
+e 269 148 2
+e 270 77 2
+e 271 272 2
+e 272 3 2
+e 273 274 2
+e 274 227 2
+e 275 28 2
+e 276 277 2
+e 277 278 2
+e 278 279 2
+e 279 34 2
+e 280 281 2
+e 281 186 2
+e 282 34 2
+e 283 12 2
+e 284 285 2
+e 285 227 2
+e 286 287 2
+e 286 120 2
+e 287 288 2
+e 288 118 2
+e 289 290 2
+e 290 286 2
+e 291 292 2
+e 292 293 2
+e 293 150 2
+e 294 295 2
+e 295 220 2
+e 296 297 2
+e 297 272 2
+t # 2
+v 0 nechell
+v 1 turner
+v 2 purematch
+v 3 liquid
+v 4 conceal
+v 5 multitask
+v 6 weightless
+v 7 coverag
+v 8 soft
+v 9 matt
+v 10 finish
+v 11 use
+v 12 brighten
+v 13 defin
+v 14 nourish
+v 15 skin
+v 16 deliv
+v 17 naturallook
+v 18 underey
+v 19 blemish
+v 20 allov
+v 21 pack
+v 22 skinlov
+v 23 ingredi
+v 24 help
+v 25 sooth
+v 26 soften
+v 27 support
+v 28 hydrat
+v 29 indian
+v 30 dammar
+v 31 condit
+v 32 elast
+v 33 prick
+v 34 pear
+v 35 protect
+v 36 make
+v 37 perfect
+v 38 matur
+v 39 dri
+v 40 uniqu
+v 41 formula
+v 42 also
+v 43 contain
+v 44 proprietari
+v 45 blend
+v 46 oil
+v 47 wax
+v 48 prevent
+v 49 tran
+v 50 epiderm
+v 51 water
+v 52 loss
+v 53 16
+v 54 truetoskin
+v 55 shade
+v 56 imperfect
+v 57 high
+v 58 point
+v 59 face
+v 60 featur
+v 61 lift
+v 62 appear
+v 63 find
+v 64 match
+v 65 avail
+v 66 tricki
+v 67 tip
+v 68 global
+v 69 makeup
+v 70 artist
+v 71 educ
+v 72 simpl
+v 73 speed
+v 74 chart
+v 75 identifi
+v 76 tone
+v 77 depth
+v 78 categori
+v 79 fair
+v 80 light
+v 81 medium
+v 82 dark
+v 83 deep
+v 84 deeper
+v 85 pleas
+v 86 visit
+v 87 product
+v 88 page
+v 89 show
+v 90 differ
+v 91 youv
+v 92 determin
+v 93 simpli
+v 94 look
+v 95 column
+v 96 n
+v 97 neutral
+v 98 w
+v 99 warm
+v 100 number
+v 101 describ
+v 102 underton
+v 103 choos
+v 104 best
+v 105 readi
+v 106 slide
+v 107 would
+v 108 like
+v 109 contour
+v 110 problem
+v 111 suggest
+v 112 rememb
+v 113 go
+v 114 brighter
+v 115 easi
+v 116 tap
+v 117 inner
+v 118 funif
+v 119 youd
+v 120 prefer
+v 121 get
+v 122 handson
+v 123 dont
+v 124 hesit
+v 125 email
+v 126 beauti
+v 127 advisor
+v 128 beautyadvisorsjaneiredalecom
+v 129 partner
+v 130 locat
+v 131 person
+v 132 appli
+v 133 even
+v 134 mask
+v 135 discolor
+v 136 applic
+v 137 target
+v 138 small
+v 139 area
+v 140 larger
+v 141 want
+v 142 lay
+v 143 flat
+v 144 swipe
+v 145 precis
+v 146 camouflag
+v 147 brush
+v 148 blendingcontour
+v 149 highlight
+v 150 corner
+v 151 eye
+v 152 top
+v 153 cheekbon
+v 154 center
+v 155 forehead
+v 156 chin
+v 157 bridg
+v 158 nose
+v 159 key
+v 160 complexion
+v 161 sculpt
+v 162 creat
+v 163 definit
+v 164 templ
+v 165 side
+v 166 jawlin
+v 167 hope
+v 168 learn
+v 169 everyth
+v 170 need
+v 171 know
+v 172 new
+v 173 incorpor
+v 174 skincar
+v 175 system
+v 176 love
+v 177 much
+v 178 forget
+v 179 share
+v 180 social
+v 181 media
+v 182 tag
+v 183 janeiredal
+v 184 theskincaremakeup
+e 0 1 2
+e 1 2 2
+e 1 11 2
+e 2 3 2
+e 2 21 2
+e 2 86 2
+e 2 103 2
+e 3 4 2
+e 4 5 2
+e 4 6 2
+e 4 12 2
+e 4 19 2
+e 4 20 2
+e 4 2 2
+e 4 38 2
+e 4 56 2
+e 4 55 2
+e 4 95 2
+e 4 110 2
+e 4 142 2
+e 4 11 2
+e 4 149 2
+e 4 109 2
+e 4 105 2
+e 5 4 2
+e 6 7 2
+e 7 8 2
+e 7 11 2
+e 8 9 2
+e 9 10 2
+e 10 11 2
+e 11 4 2
+e 11 18 2
+e 11 72 2
+e 11 67 2
+e 11 146 2
+e 11 148 2
+e 11 2 2
+e 11 55 2
+e 11 184 2
+e 12 13 2
+e 12 57 2
+e 12 93 2
+e 12 95 2
+e 12 4 2
+e 12 55 2
+e 13 14 2
+e 13 60 2
+e 13 62 2
+e 13 109 2
+e 13 95 2
+e 14 15 2
+e 15 16 2
+e 15 28 2
+e 15 27 2
+e 15 32 2
+e 15 39 2
+e 15 40 2
+e 15 48 2
+e 15 76 2
+e 16 17 2
+e 16 28 2
+e 17 7 2
+e 18 4 2
+e 19 4 2
+e 19 138 2
+e 20 4 2
+e 21 22 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 24 4 2
+e 24 55 2
+e 25 26 2
+e 26 27 2
+e 26 35 2
+e 27 15 2
+e 28 29 2
+e 28 36 2
+e 29 30 2
+e 30 31 2
+e 31 15 2
+e 32 33 2
+e 33 34 2
+e 34 25 2
+e 35 16 2
+e 35 15 2
+e 36 37 2
+e 36 115 2
+e 37 4 2
+e 37 61 2
+e 37 55 2
+e 37 12 2
+e 38 15 2
+e 39 15 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 45 4 2
+e 45 146 2
+e 45 148 2
+e 46 47 2
+e 47 35 2
+e 48 49 2
+e 49 50 2
+e 50 51 2
+e 51 52 2
+e 52 53 2
+e 53 54 2
+e 53 55 2
+e 54 55 2
+e 55 24 2
+e 55 64 2
+e 55 65 2
+e 55 96 2
+e 55 104 2
+e 55 102 2
+e 55 107 2
+e 55 13 2
+e 55 36 2
+e 55 117 2
+e 55 84 2
+e 55 164 2
+e 56 12 2
+e 56 133 2
+e 57 58 2
+e 58 59 2
+e 59 13 2
+e 59 145 2
+e 60 37 2
+e 60 109 2
+e 61 13 2
+e 62 2 2
+e 62 63 2
+e 63 37 2
+e 64 53 2
+e 64 67 2
+e 64 73 2
+e 64 74 2
+e 64 15 2
+e 64 123 2
+e 64 131 2
+e 65 66 2
+e 66 63 2
+e 67 68 2
+e 67 136 2
+e 68 69 2
+e 69 70 2
+e 69 175 2
+e 70 71 2
+e 70 118 2
+e 71 0 2
+e 72 64 2
+e 73 64 2
+e 74 75 2
+e 74 89 2
+e 74 55 2
+e 75 15 2
+e 76 77 2
+e 76 78 2
+e 76 4 2
+e 76 134 2
+e 77 78 2
+e 77 93 2
+e 77 102 2
+e 78 79 2
+e 78 91 2
+e 78 54 2
+e 79 80 2
+e 80 80 2
+e 80 81 2
+e 81 81 2
+e 81 82 2
+e 82 82 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 84 78 2
+e 84 160 2
+e 85 86 2
+e 85 112 2
+e 86 87 2
+e 86 64 2
+e 86 129 2
+e 87 88 2
+e 87 59 2
+e 88 2 2
+e 89 90 2
+e 90 15 2
+e 91 92 2
+e 91 168 2
+e 92 15 2
+e 93 94 2
+e 93 106 2
+e 94 4 2
+e 94 113 2
+e 94 180 2
+e 95 74 2
+e 95 103 2
+e 95 85 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 101 102 2
+e 102 103 2
+e 102 105 2
+e 102 63 2
+e 103 4 2
+e 103 55 2
+e 103 2 2
+e 104 64 2
+e 105 12 2
+e 105 173 2
+e 106 12 2
+e 107 108 2
+e 108 13 2
+e 108 4 2
+e 109 4 2
+e 109 13 2
+e 109 11 2
+e 110 111 2
+e 111 55 2
+e 111 94 2
+e 112 111 2
+e 113 114 2
+e 114 84 2
+e 115 116 2
+e 116 117 2
+e 117 69 2
+e 117 150 2
+e 118 119 2
+e 119 120 2
+e 120 121 2
+e 121 122 2
+e 122 24 2
+e 123 124 2
+e 123 178 2
+e 124 125 2
+e 125 126 2
+e 126 127 2
+e 127 128 2
+e 128 86 2
+e 129 130 2
+e 130 55 2
+e 131 132 2
+e 132 2 2
+e 132 144 2
+e 132 12 2
+e 132 55 2
+e 133 15 2
+e 134 135 2
+e 135 11 2
+e 135 140 2
+e 136 137 2
+e 136 108 2
+e 136 143 2
+e 136 11 2
+e 137 136 2
+e 138 139 2
+e 139 135 2
+e 139 141 2
+e 140 139 2
+e 141 4 2
+e 142 136 2
+e 143 132 2
+e 144 87 2
+e 145 136 2
+e 146 147 2
+e 146 11 2
+e 147 45 2
+e 147 167 2
+e 148 147 2
+e 149 132 2
+e 150 151 2
+e 151 152 2
+e 152 153 2
+e 153 154 2
+e 153 166 2
+e 154 155 2
+e 154 156 2
+e 155 154 2
+e 156 157 2
+e 157 158 2
+e 158 159 2
+e 158 153 2
+e 159 11 2
+e 160 161 2
+e 161 162 2
+e 162 163 2
+e 163 132 2
+e 164 165 2
+e 165 158 2
+e 166 45 2
+e 167 91 2
+e 167 176 2
+e 168 169 2
+e 169 170 2
+e 170 171 2
+e 171 172 2
+e 172 2 2
+e 173 174 2
+e 174 69 2
+e 175 167 2
+e 176 177 2
+e 177 123 2
+e 178 179 2
+e 179 94 2
+e 180 181 2
+e 181 182 2
+e 182 183 2
+e 183 11 2
+t # 3
+v 0 keri
+v 1 segalla
+v 2 summer
+v 3 gradual
+v 4 come
+v 5 end
+v 6 im
+v 7 soak
+v 8 last
+v 9 moment
+v 10 fun
+v 11 bright
+v 12 lip
+v 13 color
+v 14 featur
+v 15 new
+v 16 colorlux
+v 17 hydrat
+v 18 cream
+v 19 lipstick
+v 20 tend
+v 21 wear
+v 22 lot
+v 23 black
+v 24 pink
+v 25 orang
+v 26 coral
+v 27 goto
+v 28 add
+v 29 play
+v 30 touch
+v 31 look
+v 32 also
+v 33 gear
+v 34 fall
+v 35 experi
+v 36 deeper
+v 37 bolder
+v 38 hue
+v 39 burgundi
+v 40 plum
+v 41 rich
+v 42 red
+v 43 bring
+v 44 sens
+v 45 warmth
+v 46 sophist
+v 47 makeup
+v 48 lookth
+v 49 tube
+v 50 feel
+v 51 soft
+v 52 sleek
+v 53 hand
+v 54 glide
+v 55 smooth
+v 56 cap
+v 57 snug
+v 58 secur
+v 59 swatch
+v 60 sticker
+v 61 bottom
+v 62 make
+v 63 easi
+v 64 grab
+v 65 right
+v 66 shade
+v 67 kit
+v 68 ive
+v 69 bit
+v 70 vermillion
+v 71 kick
+v 72 poppi
+v 73 match
+v 74 nail
+v 75 polish
+v 76 necklac
+v 77 took
+v 78 sign
+v 79 begin
+v 80 journey
+v 81 warm
+v 82 mediumdark
+v 83 melt
+v 84 onto
+v 85 felt
+v 86 super
+v 87 nourish
+v 88 impress
+v 89 much
+v 90 pigment
+v 91 still
+v 92 weightless
+v 93 absolut
+v 94 obsess
+v 95 second
+v 96 photo
+v 97 taken
+v 98 hour
+v 99 later
+v 100 coupl
+v 101 glass
+v 102 water
+v 103 snack
+v 104 go
+v 105 strong
+v 106 formula
+v 107 dri
+v 108 moistur
+v 109 next
+v 110 lineup
+v 111 peoni
+v 112 cool
+v 113 medium
+v 114 fuchsia
+v 115 cheer
+v 116 vibe
+v 117 cant
+v 118 help
+v 119 happi
+v 120 energ
+v 121 endofsumm
+v 122 parti
+v 123 candi
+v 124 appl
+v 125 gorgeous
+v 126 coolton
+v 127 invok
+v 128 thought
+v 129 sweet
+v 130 treat
+v 131 cozi
+v 132 sweater
+v 133 perfect
+v 134 festiv
+v 135 pumpkin
+v 136 patch
+v 137 passionfruit
+v 138 dark
+v 139 balanc
+v 140 bold
+v 141 ideal
+v 142 choic
+v 143 casual
+v 144 formal
+v 145 event
+v 146 definit
+v 147 one
+v 148 bordeaux
+v 149 surpris
+v 150 deep
+v 151 first
+v 152 glanc
+v 153 seem
+v 154 appli
+v 155 gave
+v 156 romant
+v 157 date
+v 158 night
+v 159 love
+v 160 overal
+v 161 light
+v 162 creami
+v 163 like
+v 164 balm
+v 165 stay
+v 166 power
+v 167 stain
+v 168 found
+v 169 would
+v 170 forget
+v 171 pleasant
+v 172 pretti
+v 173 catch
+v 174 mirror
+v 175 favorit
+v 176 part
+v 177 swipe
+v 178 need
+v 179 want
+v 180 lightweight
+v 181 yet
+v 182 high
+v 183 suggest
+v 184 give
+v 185 tri
+v 186 dont
+v 187 afraid
+v 188 your
+v 189 sure
+v 190 check
+v 191 quiz
+v 192 find
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 72 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 6 32 2
+e 6 88 2
+e 6 93 2
+e 6 104 2
+e 6 159 2
+e 7 8 2
+e 8 9 2
+e 8 148 2
+e 9 10 2
+e 10 11 2
+e 10 115 2
+e 11 12 2
+e 11 13 2
+e 12 13 2
+e 12 85 2
+e 12 91 2
+e 12 164 2
+e 12 167 2
+e 12 31 2
+e 13 14 2
+e 13 28 2
+e 13 59 2
+e 13 95 2
+e 13 91 2
+e 13 53 2
+e 13 8 2
+e 13 165 2
+e 13 178 2
+e 13 146 2
+e 13 188 2
+e 13 185 2
+e 13 191 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 49 2
+e 16 80 2
+e 16 108 2
+e 16 185 2
+e 17 18 2
+e 17 19 2
+e 18 19 2
+e 19 20 2
+e 19 54 2
+e 19 110 2
+e 19 21 2
+e 19 13 2
+e 19 50 2
+e 20 21 2
+e 21 22 2
+e 21 117 2
+e 21 134 2
+e 21 171 2
+e 22 23 2
+e 22 12 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 25 42 2
+e 26 27 2
+e 27 12 2
+e 27 34 2
+e 28 29 2
+e 29 30 2
+e 29 62 2
+e 30 31 2
+e 30 106 2
+e 31 6 2
+e 31 169 2
+e 32 33 2
+e 33 34 2
+e 34 35 2
+e 34 19 2
+e 34 66 2
+e 34 157 2
+e 35 36 2
+e 36 37 2
+e 37 38 2
+e 38 39 2
+e 39 40 2
+e 39 151 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 42 66 2
+e 42 127 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 46 47 2
+e 46 116 2
+e 47 48 2
+e 48 16 2
+e 49 50 2
+e 49 62 2
+e 50 51 2
+e 50 57 2
+e 50 92 2
+e 50 108 2
+e 50 119 2
+e 50 161 2
+e 51 52 2
+e 52 53 2
+e 53 19 2
+e 53 121 2
+e 54 55 2
+e 55 56 2
+e 56 50 2
+e 57 58 2
+e 58 13 2
+e 59 60 2
+e 60 61 2
+e 61 49 2
+e 62 63 2
+e 62 141 2
+e 63 64 2
+e 63 154 2
+e 64 65 2
+e 65 66 2
+e 66 67 2
+e 66 83 2
+e 66 111 2
+e 66 42 2
+e 66 133 2
+e 66 146 2
+e 66 149 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 71 2 2
+e 72 73 2
+e 72 81 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 79 16 2
+e 80 72 2
+e 81 82 2
+e 81 131 2
+e 82 25 2
+e 83 84 2
+e 84 12 2
+e 85 86 2
+e 86 87 2
+e 87 6 2
+e 87 163 2
+e 87 180 2
+e 88 89 2
+e 89 90 2
+e 90 91 2
+e 90 12 2
+e 91 50 2
+e 91 104 2
+e 92 6 2
+e 93 94 2
+e 94 12 2
+e 95 96 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 101 102 2
+e 102 103 2
+e 103 13 2
+e 104 105 2
+e 104 12 2
+e 104 147 2
+e 105 30 2
+e 106 107 2
+e 107 22 2
+e 108 109 2
+e 108 19 2
+e 109 17 2
+e 110 111 2
+e 111 112 2
+e 111 10 2
+e 112 113 2
+e 112 138 2
+e 113 114 2
+e 114 66 2
+e 115 116 2
+e 116 21 2
+e 116 133 2
+e 117 118 2
+e 118 50 2
+e 119 120 2
+e 120 6 2
+e 121 122 2
+e 122 123 2
+e 123 124 2
+e 124 125 2
+e 125 126 2
+e 126 66 2
+e 127 128 2
+e 128 129 2
+e 128 16 2
+e 129 130 2
+e 130 81 2
+e 131 132 2
+e 132 133 2
+e 133 34 2
+e 133 139 2
+e 133 66 2
+e 134 135 2
+e 135 136 2
+e 136 137 2
+e 137 112 2
+e 138 114 2
+e 138 154 2
+e 139 140 2
+e 140 29 2
+e 140 11 2
+e 141 142 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 34 2
+e 146 104 2
+e 146 183 2
+e 147 27 2
+e 147 177 2
+e 148 66 2
+e 149 150 2
+e 149 172 2
+e 150 39 2
+e 151 152 2
+e 151 190 2
+e 152 153 2
+e 152 174 2
+e 153 138 2
+e 154 155 2
+e 154 147 2
+e 155 156 2
+e 155 13 2
+e 156 46 2
+e 157 158 2
+e 158 6 2
+e 159 160 2
+e 160 128 2
+e 161 162 2
+e 162 87 2
+e 163 12 2
+e 164 13 2
+e 165 166 2
+e 166 12 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 169 173 2
+e 170 21 2
+e 171 149 2
+e 172 12 2
+e 173 152 2
+e 174 175 2
+e 175 176 2
+e 176 63 2
+e 177 155 2
+e 178 179 2
+e 179 87 2
+e 180 181 2
+e 181 182 2
+e 182 90 2
+e 183 184 2
+e 184 16 2
+e 185 186 2
+e 185 151 2
+e 186 187 2
+e 187 140 2
+e 188 189 2
+e 189 13 2
+e 190 12 2
+e 191 192 2
+e 192 133 2
+t # 4
+v 0 rebecca
+v 1 barrow
+v 2 first
+v 3 ask
+v 4 write
+v 5 blog
+v 6 post
+v 7 sculpt
+v 8 purebronz
+v 9 matt
+v 10 bronzer
+v 11 littl
+v 12 apprehens
+v 13 id
+v 14 never
+v 15 fulli
+v 16 master
+v 17 contour
+v 18 skill
+v 19 spent
+v 20 year
+v 21 tri
+v 22 shape
+v 23 round
+v 24 pale
+v 25 face
+v 26 alway
+v 27 orang
+v 28 skin
+v 29 tone
+v 30 luckili
+v 31 knew
+v 32 person
+v 33 turn
+v 34 expert
+v 35 guidanc
+v 36 shawn
+v 37 director
+v 38 artistri
+v 39 educ
+v 40 gracious
+v 41 offer
+v 42 give
+v 43 tutori
+v 44 creat
+v 45 natur
+v 46 look
+v 47 lesson
+v 48 recommend
+v 49 highlight
+v 50 make
+v 51 easier
+v 52 tell
+v 53 need
+v 54 add
+v 55 definit
+v 56 choos
+v 57 shade
+v 58 lighter
+v 59 use
+v 60 product
+v 61 luminos
+v 62 similar
+v 63 lift
+v 64 effect
+v 65 blend
+v 66 appli
+v 67 brush
+v 68 area
+v 69 want
+v 70 draw
+v 71 back
+v 72 common
+v 73 placement
+v 74 includ
+v 75 along
+v 76 hairlin
+v 77 hollow
+v 78 cheek
+v 79 nose
+v 80 jawlin
+v 81 pro
+v 82 tip
+v 83 jaw
+v 84 line
+v 85 rememb
+v 86 begin
+v 87 behind
+v 88 ear
+v 89 there
+v 90 obvious
+v 91 start
+v 92 youv
+v 93 achiev
+v 94 desir
+v 95 level
+v 96 key
+v 97 everyth
+v 98 thorough
+v 99 keep
+v 100 closer
+v 101 darker
+v 102 gradual
+v 103 color
+v 104 move
+v 105 toward
+v 106 middl
+v 107 makeup
+v 108 readi
+v 109 prime
+v 110 smooth
+v 111 affair
+v 112 brighten
+v 113 primer
+v 114 next
+v 115 dot
+v 116 glow
+v 117 time
+v 118 bb
+v 119 cream
+v 120 gt1
+v 121 forehead
+v 122 chin
+v 123 quick
+v 124 blendingcontour
+v 125 find
+v 126 goe
+v 127 long
+v 128 way
+v 129 dri
+v 130 asap
+v 131 come
+v 132 like
+v 133 go
+v 134 lumin
+v 135 vs
+v 136 activ
+v 137 light
+v 138 underey
+v 139 conceal
+v 140 1
+v 141 high
+v 142 point
+v 143 extra
+v 144 top
+v 145 stick
+v 146 solstic
+v 147 sweep
+v 148 lightshawn
+v 149 over
+v 150 warmton
+v 151 underneath
+v 152 cheekbon
+v 153 around
+v 154 sinc
+v 155 rounder
+v 156 skip
+v 157 ad
+v 158 blush
+v 159 appl
+v 160 instead
+v 161 balmi
+v 162 templ
+v 163 bone
+v 164 center
+v 165 purebrow
+v 166 precis
+v 167 pencil
+v 168 dark
+v 169 brown
+v 170 eyebrow
+v 171 shimmeri
+v 172 rose
+v 173 gold
+v 174 ravish
+v 175 purepress
+v 176 eye
+v 177 shadow
+v 178 trio
+v 179 across
+v 180 eyelid
+v 181 lengthen
+v 182 lash
+v 183 longest
+v 184 thicken
+v 185 mascara
+v 186 black
+v 187 ice
+v 188 finish
+v 189 swipe
+v 190 new
+v 191 colorlux
+v 192 hydrat
+v 193 lipstick
+v 194 sorbet
+v 195 subtl
+v 196 hint
+v 197 coral
+v 198 mirror
+v 199 im
+v 200 pleasant
+v 201 surpris
+v 202 see
+v 203 also
+v 204 big
+v 205 shoutout
+v 206 101
+v 207 guid
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 17 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 46 2
+e 7 25 2
+e 7 83 2
+e 7 96 2
+e 7 63 2
+e 7 206 2
+e 8 9 2
+e 9 10 2
+e 9 54 2
+e 10 11 2
+e 10 26 2
+e 10 73 2
+e 10 148 2
+e 10 151 2
+e 11 12 2
+e 11 60 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 17 50 2
+e 17 17 2
+e 17 67 2
+e 17 91 2
+e 17 207 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 25 10 2
+e 25 36 2
+e 25 69 2
+e 25 107 2
+e 25 113 2
+e 25 65 2
+e 25 156 2
+e 25 46 2
+e 26 27 2
+e 27 28 2
+e 27 204 2
+e 28 29 2
+e 28 110 2
+e 29 30 2
+e 29 59 2
+e 30 31 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 34 35 2
+e 35 36 2
+e 36 37 2
+e 36 48 2
+e 36 7 2
+e 37 38 2
+e 38 39 2
+e 39 40 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 44 62 2
+e 45 7 2
+e 45 65 2
+e 45 128 2
+e 46 47 2
+e 46 45 2
+e 46 189 2
+e 46 198 2
+e 46 7 2
+e 46 27 2
+e 47 7 2
+e 48 49 2
+e 48 149 2
+e 49 2 2
+e 49 56 2
+e 49 65 2
+e 49 132 2
+e 49 145 2
+e 50 51 2
+e 50 46 2
+e 51 52 2
+e 52 53 2
+e 53 54 2
+e 54 55 2
+e 54 136 2
+e 54 165 2
+e 55 49 2
+e 55 147 2
+e 56 57 2
+e 57 57 2
+e 57 58 2
+e 57 174 2
+e 58 28 2
+e 59 60 2
+e 60 61 2
+e 60 126 2
+e 61 44 2
+e 62 63 2
+e 63 64 2
+e 63 45 2
+e 64 49 2
+e 65 66 2
+e 65 97 2
+e 65 103 2
+e 65 124 2
+e 65 130 2
+e 66 17 2
+e 66 116 2
+e 67 68 2
+e 67 104 2
+e 67 125 2
+e 67 143 2
+e 67 154 2
+e 68 25 2
+e 68 74 2
+e 68 100 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 72 10 2
+e 73 68 2
+e 74 75 2
+e 75 76 2
+e 75 79 2
+e 75 80 2
+e 75 144 2
+e 76 77 2
+e 76 101 2
+e 77 78 2
+e 78 75 2
+e 78 121 2
+e 78 160 2
+e 78 163 2
+e 78 54 2
+e 79 75 2
+e 79 123 2
+e 80 81 2
+e 80 65 2
+e 81 82 2
+e 81 118 2
+e 82 7 2
+e 83 84 2
+e 84 85 2
+e 84 17 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 90 84 2
+e 91 92 2
+e 91 65 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 95 7 2
+e 96 50 2
+e 96 91 2
+e 97 98 2
+e 98 99 2
+e 99 68 2
+e 100 76 2
+e 101 102 2
+e 102 65 2
+e 103 17 2
+e 104 105 2
+e 105 106 2
+e 106 25 2
+e 107 108 2
+e 107 109 2
+e 108 25 2
+e 109 28 2
+e 110 111 2
+e 111 112 2
+e 112 25 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 116 117 2
+e 116 144 2
+e 117 81 2
+e 117 49 2
+e 117 158 2
+e 118 119 2
+e 119 120 2
+e 119 193 2
+e 120 78 2
+e 121 122 2
+e 121 80 2
+e 122 79 2
+e 123 65 2
+e 123 96 2
+e 124 67 2
+e 125 11 2
+e 126 127 2
+e 127 128 2
+e 128 129 2
+e 128 203 2
+e 129 123 2
+e 130 131 2
+e 131 49 2
+e 132 133 2
+e 133 134 2
+e 134 135 2
+e 135 9 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 139 140 2
+e 140 141 2
+e 141 142 2
+e 142 25 2
+e 143 116 2
+e 144 116 2
+e 144 78 2
+e 145 146 2
+e 145 161 2
+e 146 147 2
+e 147 8 2
+e 147 171 2
+e 148 48 2
+e 149 150 2
+e 150 10 2
+e 151 152 2
+e 152 153 2
+e 153 121 2
+e 154 155 2
+e 155 25 2
+e 156 157 2
+e 157 158 2
+e 158 159 2
+e 158 145 2
+e 159 78 2
+e 160 66 2
+e 161 162 2
+e 162 75 2
+e 163 164 2
+e 164 78 2
+e 165 166 2
+e 166 167 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 170 55 2
+e 171 172 2
+e 172 173 2
+e 173 57 2
+e 174 175 2
+e 175 176 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 180 2
+e 180 181 2
+e 181 182 2
+e 181 185 2
+e 182 183 2
+e 182 184 2
+e 183 182 2
+e 184 181 2
+e 185 186 2
+e 186 187 2
+e 187 188 2
+e 188 46 2
+e 189 190 2
+e 190 191 2
+e 191 192 2
+e 192 119 2
+e 193 194 2
+e 194 195 2
+e 195 196 2
+e 196 197 2
+e 197 46 2
+e 198 199 2
+e 199 200 2
+e 200 201 2
+e 201 202 2
+e 202 25 2
+e 203 46 2
+e 204 205 2
+e 205 36 2
+e 206 17 2
+t # 5
+v 0 jane
+v 1 iredal
+v 2 ive
+v 3 alway
+v 4 marvel
+v 5 ocean
+v 6 planet
+v 7 71
+v 8 percent
+v 9 earth
+v 10 surfac
+v 11 cover
+v 12 water
+v 13 965
+v 14 contain
+v 15 actual
+v 16 realli
+v 17 one
+v 18 bit
+v 19 land
+v 20 pop
+v 21 lucki
+v 22 capabl
+v 23 sustain
+v 24 abund
+v 25 life
+v 26 form
+v 27 sea
+v 28 come
+v 29 scientist
+v 30 theori
+v 31 noth
+v 32 certain
+v 33 evid
+v 34 point
+v 35 known
+v 36 consist
+v 37 stabl
+v 38 bodi
+v 39 liquid
+v 40 that
+v 41 habit
+v 42 zone
+v 43 mean
+v 44 isnt
+v 45 close
+v 46 sun
+v 47 heat
+v 48 evapor
+v 49 far
+v 50 freez
+v 51 there
+v 52 perfect
+v 53 amount
+v 54 graviti
+v 55 hold
+v 56 want
+v 57 know
+v 58 explor
+v 59 space
+v 60 excit
+v 61 get
+v 62 littl
+v 63 miracl
+v 64 live
+v 65 wonder
+v 66 arent
+v 67 curious
+v 68 nasa
+v 69 employe
+v 70 told
+v 71 money
+v 72 goe
+v 73 sourc
+v 74 mainten
+v 75 roundingerror
+v 76 spent
+v 77 boggl
+v 78 mind
+v 79 anyth
+v 80 beauti
+v 81 alreadi
+v 82 import
+v 83 coral
+v 84 reef
+v 85 think
+v 86 need
+v 87 protect
+v 88 nurtur
+v 89 way
+v 90 tri
+v 91 understand
+v 92 thing
+v 93 stress
+v 94 climat
+v 95 chang
+v 96 liter
+v 97 everyth
+v 98 take
+v 99 exampl
+v 100 barrier
+v 101 australia
+v 102 great
+v 103 huge
+v 104 seen
+v 105 stretch
+v 106 1400
+v 107 mile
+v 108 home
+v 109 billion
+v 110 marin
+v 111 speci
+v 112 world
+v 113 largest
+v 114 organ
+v 115 surviv
+v 116 cant
+v 117 overestim
+v 118 well
+v 119 selfish
+v 120 human
+v 121 view
+v 122 shorelin
+v 123 ravag
+v 124 storm
+v 125 becom
+v 126 frequent
+v 127 due
+v 128 extrem
+v 129 fluctuat
+v 130 temperatur
+v 131 erod
+v 132 coastlin
+v 133 livelihood
+v 134 half
+v 135 peopl
+v 136 depend
+v 137 food
+v 138 incom
+v 139 net
+v 140 econom
+v 141 valu
+v 142 estim
+v 143 ten
+v 144 dollar
+v 145 per
+v 146 year
+v 147 often
+v 148 call
+v 149 rainforest
+v 150 25
+v 151 fish
+v 152 healthi
+v 153 lot
+v 154 find
+v 155 shelter
+v 156 reproduc
+v 157 rear
+v 158 young
+v 159 nook
+v 160 cranni
+v 161 digress
+v 162 recommend
+v 163 documentari
+v 164 octopus
+v 165 teacher
+v 166 havent
+v 167 put
+v 168 top
+v 169 list
+v 170 wont
+v 171 disappoint
+v 172 fundament
+v 173 ecosystem
+v 174 sever
+v 175 threaten
+v 176 pollut
+v 177 sediment
+v 178 runoff
+v 179 unsustain
+v 180 practic
+v 181 lead
+v 182 bleach
+v 183 death
+v 184 2005
+v 185 us
+v 186 lost
+v 187 caribbean
+v 188 massiv
+v 189 event
+v 190 2014
+v 191 2017
+v 192 unusu
+v 193 warm
+v 194 affect
+v 195 70
+v 196 hundr
+v 197 help
+v 198 essenti
+v 199 even
+v 200 thousand
+v 201 weedkil
+v 202 fertil
+v 203 use
+v 204 eventu
+v 205 flow
+v 206 green
+v 207 altern
+v 208 harm
+v 209 research
+v 210 seafood
+v 211 caught
+v 212 overfish
+v 213 biggest
+v 214 threat
+v 215 probabl
+v 216 buy
+v 217 wildcaught
+v 218 shrimp
+v 219 better
+v 220 choic
+v 221 farm
+v 222 method
+v 223 catch
+v 224 devast
+v 225 long
+v 226 explain
+v 227 articl
+v 228 tell
+v 229 conscious
+v 230 aquarium
+v 231 obtain
+v 232 recycl
+v 233 dispos
+v 234 trash
+v 235 proper
+v 236 somehow
+v 237 much
+v 238 end
+v 239 whenev
+v 240 walk
+v 241 beach
+v 242 garbag
+v 243 bag
+v 244 im
+v 245 shock
+v 246 plastic
+v 247 pick
+v 248 wash
+v 249 ashor
+v 250 wrap
+v 251 around
+v 252 choke
+v 253 dont
+v 254 ornament
+v 255 jewelri
+v 256 love
+v 257 scuba
+v 258 snorkel
+v 259 avoid
+v 260 touch
+v 261 stand
+v 262 anchor
+v 263 boat
+v 264 damag
+v 265 potenti
+v 266 kill
+v 267 delic
+v 268 anim
+v 269 volunt
+v 270 near
+v 271 coast
+v 272 local
+v 273 cleanup
+v 274 involv
+v 275 watersh
+v 276 safe
+v 277 sunscreen
+v 278 go
+v 279 plea
+v 280 wear
+v 281 consid
+v 282 reefsaf
+v 283 common
+v 284 ingredi
+v 285 shown
+v 286 toxic
+v 287 whether
+v 288 million
+v 289 idea
+v 290 negat
+v 291 impact
+v 292 key
+v 293 oxybenzon
+v 294 octinox
+v 295 addit
+v 296 look
+v 297 benzophenone1
+v 298 benzophenone8
+v 299 odpaba
+v 300 4methylbenzyliden
+v 301 camphor
+v 302 3benzyliden
+v 303 octocrylen
+v 304 reproduct
+v 305 cycl
+v 306 dna
+v 307 worsen
+v 308 effect
+v 309 activ
+v 310 zinc
+v 311 oxid
+v 312 titanium
+v 313 dioxid
+v 314 quick
+v 315 word
+v 316 spf
+v 317 rate
+v 318 refer
+v 319 uvb
+v 320 15
+v 321 93
+v 322 ray
+v 323 30
+v 324 97
+v 325 afterthat
+v 326 differ
+v 327 small
+v 328 50
+v 329 block
+v 330 98
+v 331 100
+v 332 stop
+v 333 99
+v 334 reach
+v 335 skin
+v 336 achiev
+v 337 high
+v 338 disproportion
+v 339 chemic
+v 340 check
+v 341 guid
+v 342 learn
+v 343 miner
+v 344 powder
+v 345 highest
+v 346 powderm
+v 347 dri
+v 348 conveni
+v 349 brush
+v 350 make
+v 351 easi
+v 352 appli
+v 353 reappli
+v 354 handi
+v 355 refil
+v 356 canist
+v 357 see
+v 358 reason
+v 359 though
+v 360 day
+v 361 behind
+v 362 sorri
+e 0 1 2
+e 1 2 2
+e 1 203 2
+e 2 3 2
+e 2 104 2
+e 2 280 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 5 15 2
+e 5 18 2
+e 5 22 2
+e 5 75 2
+e 5 93 2
+e 5 130 2
+e 5 151 2
+e 5 83 2
+e 5 84 2
+e 5 201 2
+e 5 154 2
+e 5 225 2
+e 5 239 2
+e 5 280 2
+e 6 7 2
+e 6 5 2
+e 6 12 2
+e 6 9 2
+e 6 36 2
+e 6 64 2
+e 7 8 2
+e 8 9 2
+e 8 14 2
+e 9 10 2
+e 9 35 2
+e 9 41 2
+e 9 5 2
+e 9 89 2
+e 10 11 2
+e 10 40 2
+e 11 12 2
+e 12 13 2
+e 12 28 2
+e 12 33 2
+e 12 10 2
+e 12 49 2
+e 12 56 2
+e 12 194 2
+e 13 8 2
+e 14 5 2
+e 15 16 2
+e 16 17 2
+e 17 5 2
+e 17 92 2
+e 17 146 2
+e 17 213 2
+e 17 281 2
+e 18 19 2
+e 19 20 2
+e 19 27 2
+e 20 21 2
+e 21 6 2
+e 22 23 2
+e 23 24 2
+e 23 212 2
+e 24 25 2
+e 25 26 2
+e 25 9 2
+e 25 209 2
+e 26 19 2
+e 26 83 2
+e 27 12 2
+e 27 150 2
+e 28 29 2
+e 28 211 2
+e 28 354 2
+e 29 30 2
+e 30 31 2
+e 31 32 2
+e 32 6 2
+e 33 34 2
+e 34 5 2
+e 34 121 2
+e 35 6 2
+e 36 37 2
+e 37 38 2
+e 38 39 2
+e 39 12 2
+e 40 9 2
+e 40 153 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 46 47 2
+e 46 87 2
+e 46 49 2
+e 47 48 2
+e 48 12 2
+e 49 50 2
+e 49 361 2
+e 50 51 2
+e 51 52 2
+e 52 53 2
+e 53 54 2
+e 53 71 2
+e 53 87 2
+e 54 55 2
+e 55 12 2
+e 56 57 2
+e 57 58 2
+e 57 62 2
+e 57 5 2
+e 57 229 2
+e 58 59 2
+e 58 73 2
+e 58 77 2
+e 59 60 2
+e 59 58 2
+e 59 105 2
+e 60 61 2
+e 61 57 2
+e 61 274 2
+e 62 63 2
+e 63 6 2
+e 64 65 2
+e 64 82 2
+e 64 114 2
+e 64 200 2
+e 64 270 2
+e 65 66 2
+e 66 67 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 70 53 2
+e 71 72 2
+e 71 76 2
+e 72 58 2
+e 73 74 2
+e 74 25 2
+e 75 53 2
+e 76 59 2
+e 77 78 2
+e 78 79 2
+e 79 80 2
+e 80 81 2
+e 80 198 2
+e 81 64 2
+e 82 83 2
+e 82 115 2
+e 83 84 2
+e 83 161 2
+e 83 182 2
+e 83 252 2
+e 83 254 2
+e 83 268 2
+e 83 304 2
+e 84 85 2
+e 84 101 2
+e 84 103 2
+e 84 82 2
+e 84 137 2
+e 84 142 2
+e 84 147 2
+e 84 40 2
+e 84 172 2
+e 84 173 2
+e 84 187 2
+e 84 102 2
+e 84 186 2
+e 84 199 2
+e 84 110 2
+e 84 215 2
+e 84 262 2
+e 84 264 2
+e 84 273 2
+e 84 276 2
+e 84 287 2
+e 84 277 2
+e 85 86 2
+e 85 216 2
+e 86 87 2
+e 86 57 2
+e 87 88 2
+e 87 122 2
+e 87 139 2
+e 87 272 2
+e 87 316 2
+e 87 321 2
+e 87 324 2
+e 87 327 2
+e 87 341 2
+e 87 343 2
+e 88 6 2
+e 89 90 2
+e 89 316 2
+e 90 91 2
+e 91 17 2
+e 92 57 2
+e 93 94 2
+e 94 95 2
+e 95 96 2
+e 95 97 2
+e 95 181 2
+e 95 199 2
+e 96 95 2
+e 97 98 2
+e 97 86 2
+e 98 99 2
+e 98 108 2
+e 98 242 2
+e 99 100 2
+e 100 84 2
+e 101 102 2
+e 102 100 2
+e 103 104 2
+e 104 59 2
+e 104 167 2
+e 104 246 2
+e 105 106 2
+e 106 107 2
+e 107 108 2
+e 107 182 2
+e 107 5 2
+e 108 109 2
+e 108 133 2
+e 109 110 2
+e 109 135 2
+e 109 144 2
+e 110 111 2
+e 110 25 2
+e 111 112 2
+e 112 113 2
+e 112 83 2
+e 113 64 2
+e 114 82 2
+e 115 116 2
+e 115 118 2
+e 116 117 2
+e 117 84 2
+e 118 119 2
+e 119 120 2
+e 120 34 2
+e 121 87 2
+e 122 123 2
+e 123 124 2
+e 124 125 2
+e 124 131 2
+e 125 126 2
+e 126 127 2
+e 127 128 2
+e 127 188 2
+e 128 129 2
+e 129 5 2
+e 130 124 2
+e 131 132 2
+e 132 98 2
+e 133 134 2
+e 134 109 2
+e 134 83 2
+e 135 136 2
+e 135 280 2
+e 136 84 2
+e 136 152 2
+e 137 138 2
+e 137 156 2
+e 138 87 2
+e 139 140 2
+e 140 141 2
+e 141 112 2
+e 142 143 2
+e 143 109 2
+e 144 145 2
+e 145 146 2
+e 146 84 2
+e 146 127 2
+e 146 253 2
+e 147 148 2
+e 148 149 2
+e 148 164 2
+e 149 27 2
+e 150 5 2
+e 151 136 2
+e 151 154 2
+e 151 180 2
+e 151 231 2
+e 152 83 2
+e 152 5 2
+e 153 151 2
+e 154 155 2
+e 154 206 2
+e 155 137 2
+e 156 157 2
+e 157 158 2
+e 158 159 2
+e 159 160 2
+e 160 26 2
+e 161 162 2
+e 162 163 2
+e 163 148 2
+e 164 165 2
+e 165 166 2
+e 166 104 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 170 171 2
+e 170 208 2
+e 171 84 2
+e 172 152 2
+e 173 174 2
+e 174 175 2
+e 174 283 2
+e 175 176 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 151 2
+e 180 94 2
+e 181 83 2
+e 182 183 2
+e 182 189 2
+e 182 197 2
+e 182 309 2
+e 183 184 2
+e 183 253 2
+e 184 185 2
+e 185 186 2
+e 186 134 2
+e 186 196 2
+e 187 17 2
+e 188 182 2
+e 189 190 2
+e 190 191 2
+e 191 192 2
+e 192 193 2
+e 193 12 2
+e 194 195 2
+e 194 83 2
+e 195 83 2
+e 196 107 2
+e 197 80 2
+e 198 5 2
+e 199 64 2
+e 199 359 2
+e 200 107 2
+e 201 202 2
+e 202 203 2
+e 203 204 2
+e 203 84 2
+e 203 340 2
+e 203 282 2
+e 203 312 2
+e 204 205 2
+e 204 248 2
+e 205 5 2
+e 206 207 2
+e 207 170 2
+e 208 83 2
+e 209 210 2
+e 210 28 2
+e 211 23 2
+e 212 17 2
+e 213 214 2
+e 214 83 2
+e 215 85 2
+e 216 217 2
+e 216 230 2
+e 216 83 2
+e 217 218 2
+e 218 219 2
+e 218 224 2
+e 219 220 2
+e 219 276 2
+e 220 221 2
+e 221 222 2
+e 222 223 2
+e 223 218 2
+e 224 5 2
+e 225 226 2
+e 226 227 2
+e 227 228 2
+e 228 97 2
+e 229 216 2
+e 230 151 2
+e 231 232 2
+e 232 233 2
+e 233 234 2
+e 234 235 2
+e 234 238 2
+e 235 236 2
+e 236 237 2
+e 237 234 2
+e 237 246 2
+e 238 5 2
+e 238 279 2
+e 238 288 2
+e 239 240 2
+e 240 241 2
+e 241 98 2
+e 241 84 2
+e 242 243 2
+e 243 244 2
+e 243 250 2
+e 244 245 2
+e 244 278 2
+e 245 237 2
+e 246 247 2
+e 246 243 2
+e 247 248 2
+e 248 249 2
+e 248 238 2
+e 249 2 2
+e 250 251 2
+e 251 83 2
+e 252 183 2
+e 253 216 2
+e 253 64 2
+e 253 357 2
+e 254 255 2
+e 255 256 2
+e 256 257 2
+e 257 258 2
+e 258 259 2
+e 259 260 2
+e 259 293 2
+e 260 261 2
+e 261 84 2
+e 262 263 2
+e 263 84 2
+e 264 265 2
+e 264 306 2
+e 265 266 2
+e 266 267 2
+e 267 83 2
+e 268 269 2
+e 269 64 2
+e 269 272 2
+e 270 271 2
+e 271 269 2
+e 271 61 2
+e 272 241 2
+e 272 275 2
+e 273 253 2
+e 274 87 2
+e 275 203 2
+e 276 277 2
+e 276 292 2
+e 276 0 2
+e 276 362 2
+e 277 244 2
+e 277 280 2
+e 277 284 2
+e 277 289 2
+e 277 84 2
+e 277 87 2
+e 277 316 2
+e 278 238 2
+e 279 277 2
+e 280 17 2
+e 280 204 2
+e 280 277 2
+e 280 146 2
+e 281 282 2
+e 282 174 2
+e 282 310 2
+e 282 277 2
+e 283 277 2
+e 284 285 2
+e 284 84 2
+e 284 259 2
+e 284 281 2
+e 284 348 2
+e 285 286 2
+e 286 83 2
+e 287 5 2
+e 288 135 2
+e 289 290 2
+e 290 291 2
+e 291 83 2
+e 292 284 2
+e 293 294 2
+e 294 295 2
+e 295 296 2
+e 296 297 2
+e 297 298 2
+e 298 299 2
+e 299 300 2
+e 300 301 2
+e 301 302 2
+e 301 303 2
+e 302 301 2
+e 303 194 2
+e 304 305 2
+e 305 264 2
+e 306 307 2
+e 307 308 2
+e 308 83 2
+e 309 277 2
+e 309 284 2
+e 310 311 2
+e 311 312 2
+e 312 313 2
+e 313 314 2
+e 313 309 2
+e 314 315 2
+e 315 53 2
+e 316 317 2
+e 316 318 2
+e 316 320 2
+e 316 323 2
+e 316 328 2
+e 316 331 2
+e 317 89 2
+e 317 338 2
+e 317 346 2
+e 318 319 2
+e 319 87 2
+e 319 322 2
+e 320 87 2
+e 321 319 2
+e 322 316 2
+e 322 334 2
+e 323 87 2
+e 323 347 2
+e 323 203 2
+e 324 325 2
+e 325 326 2
+e 326 87 2
+e 327 316 2
+e 328 329 2
+e 329 330 2
+e 330 316 2
+e 331 332 2
+e 332 333 2
+e 333 319 2
+e 334 335 2
+e 335 336 2
+e 336 337 2
+e 337 316 2
+e 338 339 2
+e 339 203 2
+e 340 46 2
+e 341 342 2
+e 342 277 2
+e 343 344 2
+e 344 345 2
+e 345 317 2
+e 346 316 2
+e 347 277 2
+e 348 349 2
+e 349 350 2
+e 350 351 2
+e 351 352 2
+e 352 353 2
+e 353 28 2
+e 354 355 2
+e 355 356 2
+e 356 2 2
+e 357 358 2
+e 358 95 2
+e 359 360 2
+e 360 46 2
+e 361 219 2
+t # 6
+v 0 nechell
+v 1 turner
+v 2 time
+v 3 sun
+v 4 shine
+v 5 bright
+v 6 day
+v 7 longer
+v 8 look
+v 9 sunkiss
+v 10 skin
+v 11 summertim
+v 12 ideal
+v 13 explor
+v 14 world
+v 15 bronzer
+v 16 misconcept
+v 17 bronz
+v 18 contour
+v 19 one
+v 20 couldnt
+v 21 truth
+v 22 meant
+v 23 bring
+v 24 dimens
+v 25 depth
+v 26 face
+v 27 subtl
+v 28 sculpt
+v 29 warmth
+v 30 glow
+v 31 also
+v 32 distinct
+v 33 differ
+v 34 shade
+v 35 product
+v 36 add
+v 37 often
+v 38 notic
+v 39 cooler
+v 40 underton
+v 41 skinlik
+v 42 cream
+v 43 vs
+v 44 powder
+v 45 mani
+v 46 option
+v 47 may
+v 48 find
+v 49 ask
+v 50 choos
+v 51 great
+v 52 choic
+v 53 drier
+v 54 emolli
+v 55 natur
+v 56 make
+v 57 easi
+v 58 get
+v 59 softer
+v 60 blend
+v 61 howev
+v 62 new
+v 63 purebronz
+v 64 collect
+v 65 despit
+v 66 give
+v 67 soft
+v 68 touch
+v 69 easili
+v 70 even
+v 71 equal
+v 72 import
+v 73 oili
+v 74 correct
+v 75 textur
+v 76 avoid
+v 77 heavili
+v 78 shimmer
+v 79 caus
+v 80 shini
+v 81 like
+v 82 complexion
+v 83 play
+v 84 role
+v 85 general
+v 86 rule
+v 87 thumb
+v 88 opt
+v 89 two
+v 90 darker
+v 91 tone
+v 92 whether
+v 93 fair
+v 94 light
+v 95 medium
+v 96 deep
+v 97 somewher
+v 98 know
+v 99 unsur
+v 100 quick
+v 101 review
+v 102 fall
+v 103 three
+v 104 basic
+v 105 categori
+v 106 warm
+v 107 cool
+v 108 neutral
+v 109 peachi
+v 110 golden
+v 111 yellow
+v 112 associ
+v 113 hint
+v 114 blue
+v 115 pink
+v 116 mix
+v 117 affect
+v 118 appear
+v 119 tan
+v 120 lighter
+v 121 peach
+v 122 base
+v 123 copper
+v 124 deeper
+v 125 rich
+v 126 chocol
+v 127 rosier
+v 128 cinnamon
+v 129 hue
+v 130 richer
+v 131 reddish
+v 132 brown
+v 133 red
+v 134 last
+v 135 detect
+v 136 promin
+v 137 burn
+v 138 beig
+v 139 orang
+v 140 discuss
+v 141 applic
+v 142 essenti
+v 143 element
+v 144 ultim
+v 145 use
+v 146 conjunct
+v 147 foundat
+v 148 sure
+v 149 appli
+v 150 dust
+v 151 prevent
+v 152 uneven
+v 153 bronzeri
+v 154 prefer
+v 155 direct
+v 156 onto
+v 157 tint
+v 158 moistur
+v 159 specif
+v 160 placement
+v 161 hit
+v 162 key
+v 163 proper
+v 164 placementinclud
+v 165 side
+v 166 forehead
+v 167 around
+v 168 templ
+v 169 c
+v 170 format
+v 171 tip
+v 172 nose
+v 173 chin
+v 174 fan
+v 175 brush
+v 176 best
+v 177 tool
+v 178 rememb
+v 179 coverag
+v 180 keep
+v 181 dont
+v 182 forget
+v 183 neck
+v 184 decol
+v 185 ad
+v 186 high
+v 187 point
+v 188 cheekbon
+v 189 bridg
+v 190 your
+v 191 wear
+v 192 lot
+v 193 makeup
+v 194 take
+v 195 photo
+v 196 way
+v 197 welcom
+v 198 celebr
+v 199 summer
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 13 2
+e 3 4 2
+e 3 55 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 6 190 2
+e 7 8 2
+e 8 9 2
+e 8 75 2
+e 8 133 2
+e 8 145 2
+e 9 10 2
+e 9 8 2
+e 10 11 2
+e 10 54 2
+e 10 71 2
+e 10 50 2
+e 10 76 2
+e 10 8 2
+e 10 40 2
+e 10 91 2
+e 10 99 2
+e 10 113 2
+e 10 118 2
+e 10 147 2
+e 11 12 2
+e 12 2 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 15 22 2
+e 15 18 2
+e 15 41 2
+e 15 37 2
+e 15 73 2
+e 15 77 2
+e 15 85 2
+e 15 19 2
+e 15 109 2
+e 15 123 2
+e 15 96 2
+e 15 127 2
+e 15 113 2
+e 15 149 2
+e 15 164 2
+e 15 186 2
+e 15 31 2
+e 15 51 2
+e 16 17 2
+e 17 18 2
+e 17 50 2
+e 18 19 2
+e 18 22 2
+e 18 35 2
+e 18 159 2
+e 19 20 2
+e 19 89 2
+e 20 21 2
+e 21 18 2
+e 22 23 2
+e 22 36 2
+e 23 24 2
+e 23 29 2
+e 24 25 2
+e 24 34 2
+e 25 26 2
+e 25 24 2
+e 25 10 2
+e 25 141 2
+e 26 27 2
+e 26 162 2
+e 26 188 2
+e 27 28 2
+e 28 15 2
+e 29 30 2
+e 29 179 2
+e 30 31 2
+e 30 145 2
+e 31 32 2
+e 31 142 2
+e 31 51 2
+e 32 33 2
+e 33 34 2
+e 34 18 2
+e 34 37 2
+e 34 90 2
+e 34 15 2
+e 34 47 2
+e 35 15 2
+e 35 25 2
+e 35 147 2
+e 36 25 2
+e 36 29 2
+e 37 38 2
+e 37 51 2
+e 38 39 2
+e 39 40 2
+e 40 15 2
+e 40 42 2
+e 40 81 2
+e 40 83 2
+e 40 72 2
+e 40 100 2
+e 40 102 2
+e 40 109 2
+e 40 85 2
+e 40 116 2
+e 40 40 2
+e 40 117 2
+e 40 119 2
+e 40 135 2
+e 40 25 2
+e 41 40 2
+e 42 43 2
+e 42 44 2
+e 42 15 2
+e 42 153 2
+e 43 44 2
+e 44 45 2
+e 44 42 2
+e 44 66 2
+e 44 151 2
+e 44 15 2
+e 45 46 2
+e 46 47 2
+e 47 48 2
+e 47 137 2
+e 48 49 2
+e 48 40 2
+e 49 50 2
+e 50 42 2
+e 50 74 2
+e 50 15 2
+e 50 119 2
+e 50 96 2
+e 51 52 2
+e 51 6 2
+e 51 196 2
+e 52 53 2
+e 53 10 2
+e 54 55 2
+e 55 56 2
+e 55 10 2
+e 55 9 2
+e 55 161 2
+e 55 181 2
+e 56 57 2
+e 56 148 2
+e 57 58 2
+e 58 59 2
+e 58 144 2
+e 59 60 2
+e 60 61 2
+e 60 69 2
+e 60 155 2
+e 61 62 2
+e 62 63 2
+e 63 64 2
+e 64 65 2
+e 65 44 2
+e 66 67 2
+e 67 68 2
+e 68 60 2
+e 69 70 2
+e 70 53 2
+e 71 72 2
+e 72 73 2
+e 72 84 2
+e 72 98 2
+e 73 10 2
+e 74 75 2
+e 75 15 2
+e 75 80 2
+e 76 50 2
+e 77 78 2
+e 78 79 2
+e 78 15 2
+e 79 10 2
+e 80 48 2
+e 81 82 2
+e 82 35 2
+e 83 72 2
+e 84 50 2
+e 85 86 2
+e 85 112 2
+e 86 87 2
+e 86 160 2
+e 87 88 2
+e 88 15 2
+e 88 138 2
+e 89 34 2
+e 90 55 2
+e 91 92 2
+e 91 106 2
+e 91 124 2
+e 91 119 2
+e 91 107 2
+e 91 94 2
+e 91 79 2
+e 92 93 2
+e 92 50 2
+e 93 94 2
+e 94 95 2
+e 94 55 2
+e 95 96 2
+e 95 10 2
+e 96 97 2
+e 96 17 2
+e 96 125 2
+e 96 128 2
+e 96 132 2
+e 97 98 2
+e 98 10 2
+e 98 25 2
+e 99 40 2
+e 100 101 2
+e 101 40 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 105 106 2
+e 106 107 2
+e 106 40 2
+e 107 108 2
+e 107 40 2
+e 107 106 2
+e 108 106 2
+e 108 40 2
+e 108 119 2
+e 109 110 2
+e 109 122 2
+e 110 111 2
+e 110 50 2
+e 111 107 2
+e 112 10 2
+e 113 114 2
+e 113 128 2
+e 113 133 2
+e 114 115 2
+e 115 108 2
+e 116 107 2
+e 117 10 2
+e 118 119 2
+e 119 120 2
+e 119 121 2
+e 119 94 2
+e 119 110 2
+e 119 106 2
+e 119 96 2
+e 119 127 2
+e 119 34 2
+e 119 131 2
+e 119 88 2
+e 120 10 2
+e 121 50 2
+e 122 108 2
+e 123 91 2
+e 124 10 2
+e 124 130 2
+e 125 126 2
+e 126 120 2
+e 127 50 2
+e 127 91 2
+e 128 50 2
+e 128 129 2
+e 129 124 2
+e 130 10 2
+e 131 50 2
+e 132 113 2
+e 133 134 2
+e 133 139 2
+e 134 108 2
+e 135 136 2
+e 136 34 2
+e 137 119 2
+e 138 91 2
+e 139 140 2
+e 140 40 2
+e 141 31 2
+e 141 42 2
+e 141 94 2
+e 142 143 2
+e 143 58 2
+e 144 55 2
+e 145 146 2
+e 145 178 2
+e 145 78 2
+e 146 82 2
+e 147 56 2
+e 147 157 2
+e 148 149 2
+e 149 150 2
+e 149 3 2
+e 150 44 2
+e 151 152 2
+e 152 141 2
+e 153 154 2
+e 154 60 2
+e 155 156 2
+e 156 10 2
+e 157 158 2
+e 158 18 2
+e 159 86 2
+e 160 15 2
+e 161 26 2
+e 162 163 2
+e 163 15 2
+e 164 165 2
+e 165 166 2
+e 166 167 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 170 171 2
+e 171 172 2
+e 172 173 2
+e 172 15 2
+e 173 174 2
+e 174 175 2
+e 175 176 2
+e 175 180 2
+e 176 177 2
+e 177 145 2
+e 178 36 2
+e 179 174 2
+e 180 141 2
+e 181 182 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 30 2
+e 186 187 2
+e 187 26 2
+e 188 189 2
+e 189 172 2
+e 190 191 2
+e 191 192 2
+e 192 193 2
+e 193 194 2
+e 194 195 2
+e 195 92 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+t # 7
+v 0 felicia
+v 1 ritz
+v 2 like
+v 3 call
+v 4 hydrat
+v 5 spray
+v 6 true
+v 7 multitask
+v 8 esthetician
+v 9 know
+v 10 benefit
+v 11 give
+v 12 skin
+v 13 thank
+v 14 clean
+v 15 skinlov
+v 16 ingredi
+v 17 im
+v 18 makeup
+v 19 artist
+v 20 see
+v 21 well
+v 22 work
+v 23 event
+v 24 photoshoot
+v 25 deliv
+v 26 boost
+v 27 set
+v 28 foundat
+v 29 help
+v 30 calm
+v 31 irrit
+v 32 balanc
+v 33 oili
+v 34 mist
+v 35 truli
+v 36 gamechang
+v 37 daili
+v 38 routin
+v 39 buzzword
+v 40 dewi
+v 41 glass
+v 42 use
+v 43 nowaday
+v 44 perfect
+v 45 item
+v 46 throughout
+v 47 day
+v 48 keep
+v 49 glow
+v 50 let
+v 51 take
+v 52 deeper
+v 53 dive
+v 54 pommisst
+v 55 bestsel
+v 56 smell
+v 57 divin
+v 58 botan
+v 59 pomegran
+v 60 rosemari
+v 61 white
+v 62 tea
+v 63 extract
+v 64 make
+v 65 powerhous
+v 66 antioxid
+v 67 ideal
+v 68 type
+v 69 facial
+v 70 hand
+v 71 spf
+v 72 repair
+v 73 recov
+v 74 quick
+v 75 sun
+v 76 damag
+v 77 talk
+v 78 rememb
+v 79 protect
+v 80 free
+v 81 radic
+v 82 caus
+v 83 hyperpigment
+v 84 invest
+v 85 treatment
+v 86 address
+v 87 last
+v 88 step
+v 89 prevent
+v 90 pro
+v 91 tip
+v 92 color
+v 93 treat
+v 94 hair
+v 95 combat
+v 96 brassi
+v 97 oilyskin
+v 98 acnepron
+v 99 women
+v 100 fear
+v 101 mani
+v 102 stay
+v 103 away
+v 104 product
+v 105 say
+v 106 moistur
+v 107 dont
+v 108 need
+v 109 extra
+v 110 oil
+v 111 waterbas
+v 112 thirst
+v 113 grapefruit
+v 114 orang
+v 115 peel
+v 116 sebum
+v 117 natur
+v 118 mix
+v 119 sweat
+v 120 humid
+v 121 creat
+v 122 breed
+v 123 ground
+v 124 bacteria
+v 125 blemish
+v 126 usual
+v 127 follow
+v 128 bay
+v 129 best
+v 130 travel
+v 131 lot
+v 132 doubl
+v 133 toner
+v 134 oilycombin
+v 135 satur
+v 136 cotton
+v 137 pad
+v 138 swipe
+v 139 face
+v 140 one
+v 141 less
+v 142 pack
+v 143 d2o
+v 144 moisturepack
+v 145 dri
+v 146 alga
+v 147 power
+v 148 humect
+v 149 draw
+v 150 also
+v 151 contain
+v 152 ylang
+v 153 sooth
+v 154 love
+v 155 fridg
+v 156 hot
+v 157 summer
+v 158 invigor
+v 159 pickmeup
+v 160 wonder
+v 161 postlas
+v 162 red
+v 163 liber
+v 164 brush
+v 165 liner
+v 166 powder
+v 167 eye
+v 168 shadow
+v 169 lavend
+v 170 feel
+v 171 aromatherapi
+v 172 mind
+v 173 chamomil
+v 174 sensit
+v 175 real
+v 176 star
+v 177 myramaz
+v 178 provid
+v 179 deep
+v 180 minim
+v 181 appear
+v 182 fine
+v 183 line
+v 184 anyon
+v 185 moment
+v 186 night
+v 187 person
+v 188 nighttim
+v 189 ritual
+v 190 includ
+v 191 nightstand
+v 192 care
+v 193 pillowcas
+v 194 signal
+v 195 bodi
+v 196 end
+v 197 time
+v 198 regener
+v 199 hope
+v 200 inspir
+v 201 sure
+v 202 incorpor
+v 203 upon
+v 204 us
+v 205 mean
+v 206 plan
+v 207 invit
+v 208 get
+v 209 full
+v 210 size
+v 211 34
+v 212 oz
+v 213 mini
+v 214 4
+v 215 carri
+v 216 tsa
+v 217 approv
+v 218 refil
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 40 2
+e 2 59 2
+e 2 4 2
+e 3 4 2
+e 4 5 2
+e 4 27 2
+e 4 34 2
+e 4 6 2
+e 4 111 2
+e 4 29 2
+e 5 6 2
+e 5 44 2
+e 5 10 2
+e 5 55 2
+e 5 27 2
+e 5 97 2
+e 5 67 2
+e 5 129 2
+e 5 132 2
+e 5 144 2
+e 5 155 2
+e 5 163 2
+e 5 170 2
+e 5 139 2
+e 5 38 2
+e 5 214 2
+e 5 218 2
+e 6 7 2
+e 6 107 2
+e 7 8 2
+e 8 9 2
+e 9 10 2
+e 9 101 2
+e 10 11 2
+e 10 54 2
+e 11 12 2
+e 12 13 2
+e 12 32 2
+e 12 4 2
+e 12 42 2
+e 12 68 2
+e 12 72 2
+e 12 80 2
+e 12 112 2
+e 12 117 2
+e 12 135 2
+e 12 146 2
+e 12 143 2
+e 12 154 2
+e 12 29 2
+e 12 175 2
+e 12 184 2
+e 12 192 2
+e 12 195 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 177 2
+e 17 18 2
+e 17 22 2
+e 18 19 2
+e 18 17 2
+e 18 54 2
+e 18 38 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 22 18 2
+e 22 23 2
+e 22 70 2
+e 22 160 2
+e 23 24 2
+e 24 25 2
+e 25 26 2
+e 25 4 2
+e 25 170 2
+e 26 4 2
+e 27 28 2
+e 27 18 2
+e 28 29 2
+e 29 30 2
+e 29 12 2
+e 29 89 2
+e 29 95 2
+e 29 32 2
+e 29 153 2
+e 29 180 2
+e 30 31 2
+e 30 162 2
+e 30 169 2
+e 30 172 2
+e 30 174 2
+e 30 42 2
+e 31 12 2
+e 31 90 2
+e 32 33 2
+e 32 4 2
+e 32 116 2
+e 33 12 2
+e 34 35 2
+e 34 22 2
+e 34 42 2
+e 34 29 2
+e 34 44 2
+e 34 48 2
+e 35 36 2
+e 36 37 2
+e 36 78 2
+e 37 38 2
+e 38 39 2
+e 38 29 2
+e 38 157 2
+e 39 2 2
+e 40 41 2
+e 41 12 2
+e 42 43 2
+e 42 46 2
+e 42 4 2
+e 42 92 2
+e 42 30 2
+e 43 4 2
+e 44 45 2
+e 44 145 2
+e 45 42 2
+e 45 142 2
+e 46 47 2
+e 47 48 2
+e 47 158 2
+e 47 197 2
+e 48 49 2
+e 48 124 2
+e 48 4 2
+e 48 191 2
+e 49 50 2
+e 50 51 2
+e 51 52 2
+e 52 53 2
+e 53 4 2
+e 54 4 2
+e 54 69 2
+e 54 87 2
+e 54 42 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 2 2
+e 59 60 2
+e 59 63 2
+e 60 61 2
+e 61 62 2
+e 62 63 2
+e 63 64 2
+e 63 79 2
+e 63 113 2
+e 63 147 2
+e 63 178 2
+e 64 65 2
+e 64 201 2
+e 65 66 2
+e 66 67 2
+e 67 12 2
+e 67 9 2
+e 67 145 2
+e 68 5 2
+e 69 34 2
+e 70 70 2
+e 70 71 2
+e 71 29 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 77 36 2
+e 78 59 2
+e 79 12 2
+e 80 81 2
+e 81 82 2
+e 82 83 2
+e 83 84 2
+e 83 54 2
+e 83 90 2
+e 84 85 2
+e 85 86 2
+e 86 83 2
+e 87 88 2
+e 88 18 2
+e 89 83 2
+e 90 91 2
+e 91 54 2
+e 91 5 2
+e 91 42 2
+e 92 93 2
+e 93 94 2
+e 94 29 2
+e 95 96 2
+e 96 32 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 5 2
+e 101 102 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 104 12 2
+e 105 106 2
+e 106 4 2
+e 106 12 2
+e 107 108 2
+e 108 109 2
+e 108 121 2
+e 109 110 2
+e 110 12 2
+e 110 118 2
+e 111 12 2
+e 112 63 2
+e 113 114 2
+e 114 115 2
+e 115 4 2
+e 116 104 2
+e 116 48 2
+e 117 110 2
+e 118 119 2
+e 119 120 2
+e 120 121 2
+e 120 157 2
+e 121 122 2
+e 121 165 2
+e 121 185 2
+e 122 123 2
+e 123 124 2
+e 124 125 2
+e 124 128 2
+e 125 126 2
+e 126 127 2
+e 127 32 2
+e 128 25 2
+e 129 130 2
+e 130 131 2
+e 130 206 2
+e 131 5 2
+e 132 133 2
+e 132 171 2
+e 133 134 2
+e 134 12 2
+e 135 136 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 139 140 2
+e 139 193 2
+e 140 141 2
+e 141 45 2
+e 142 143 2
+e 143 4 2
+e 143 150 2
+e 144 69 2
+e 145 12 2
+e 145 174 2
+e 146 63 2
+e 147 148 2
+e 148 149 2
+e 149 106 2
+e 150 151 2
+e 150 22 2
+e 151 152 2
+e 152 152 2
+e 152 29 2
+e 153 12 2
+e 153 30 2
+e 154 48 2
+e 155 156 2
+e 156 120 2
+e 157 47 2
+e 157 203 2
+e 158 159 2
+e 159 143 2
+e 160 161 2
+e 161 12 2
+e 162 31 2
+e 163 164 2
+e 164 121 2
+e 165 166 2
+e 166 167 2
+e 167 168 2
+e 168 30 2
+e 169 4 2
+e 169 25 2
+e 169 90 2
+e 169 186 2
+e 170 2 2
+e 170 30 2
+e 171 169 2
+e 172 173 2
+e 172 195 2
+e 172 199 2
+e 173 29 2
+e 174 162 2
+e 174 12 2
+e 175 176 2
+e 176 16 2
+e 177 63 2
+e 178 179 2
+e 179 4 2
+e 180 181 2
+e 181 182 2
+e 182 183 2
+e 183 67 2
+e 184 108 2
+e 185 153 2
+e 186 187 2
+e 187 188 2
+e 188 189 2
+e 188 12 2
+e 189 190 2
+e 189 5 2
+e 190 4 2
+e 191 188 2
+e 192 189 2
+e 193 194 2
+e 194 172 2
+e 195 196 2
+e 195 172 2
+e 196 47 2
+e 197 198 2
+e 198 12 2
+e 199 200 2
+e 200 64 2
+e 201 202 2
+e 202 4 2
+e 203 204 2
+e 204 205 2
+e 205 130 2
+e 206 207 2
+e 207 208 2
+e 208 209 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 212 215 2
+e 213 4 2
+e 214 212 2
+e 215 216 2
+e 216 217 2
+e 217 5 2
+t # 8
+v 0 shawn
+v 1 town
+v 2 summer
+v 3 approach
+v 4 excit
+v 5 start
+v 6 fill
+v 7 air
+v 8 vision
+v 9 longer
+v 10 day
+v 11 shortsleevedtop
+v 12 leisur
+v 13 beach
+v 14 unfortun
+v 15 that
+v 16 come
+v 17 warmest
+v 18 time
+v 19 year
+v 20 warmer
+v 21 weather
+v 22 beckon
+v 23 us
+v 24 shed
+v 25 heavi
+v 26 cloth
+v 27 show
+v 28 skin
+v 29 invis
+v 30 uv
+v 31 ray
+v 32 aremask
+v 33 warmth
+v 34 sun
+v 35 spf
+v 36 crucial
+v 37 step
+v 38 skincar
+v 39 regimen
+v 40 mani
+v 41 may
+v 42 think
+v 43 someth
+v 44 wear
+v 45 go
+v 46 long
+v 47 period
+v 48 import
+v 49 circumst
+v 50 daili
+v 51 use
+v 52 even
+v 53 car
+v 54 subject
+v 55 face
+v 56 neck
+v 57 arm
+v 58 world
+v 59 damag
+v 60 thing
+v 61 rememb
+v 62 choos
+v 63 let
+v 64 cover
+v 65 base
+v 66 physic
+v 67 vs
+v 68 chemic
+v 69 sunscreen
+v 70 protect
+v 71 quit
+v 72 popular
+v 73 surpris
+v 74 consid
+v 75 easili
+v 76 access
+v 77 groceri
+v 78 store
+v 79 drug
+v 80 aisl
+v 81 domin
+v 82 product
+v 83 would
+v 84 lead
+v 85 one
+v 86 believ
+v 87 best
+v 88 option
+v 89 dont
+v 90 fool
+v 91 aremuch
+v 92 better
+v 93 bodi
+v 94 environ
+v 95 here
+v 96 mechan
+v 97 absorb
+v 98 reaction
+v 99 turn
+v 100 heat
+v 101 dispers
+v 102 dermi
+v 103 caus
+v 104 irrit
+v 105 red
+v 106 discomfort
+v 107 bounc
+v 108 light
+v 109 like
+v 110 mirror
+v 111 whichi
+v 112 much
+v 113 effectiveuv
+v 114 never
+v 115 ingredi
+v 116 typic
+v 117 sooth
+v 118 calm
+v 119 work
+v 120 great
+v 121 first
+v 122 appli
+v 123 must
+v 124 wash
+v 125 reappli
+v 126 want
+v 127 get
+v 128 compound
+v 129 abl
+v 130 residu
+v 131 expir
+v 132 way
+v 133 new
+v 134 prevent
+v 135 effect
+v 136 layer
+v 137 without
+v 138 uva
+v 139 uvb
+v 140 alway
+v 141 broad
+v 142 spectrum
+v 143 differ
+v 144 threat
+v 145 common
+v 146 creat
+v 147 promin
+v 148 hottest
+v 149 month
+v 150 brightest
+v 151 hour
+v 152 respons
+v 153 burn
+v 154 insidi
+v 155 present
+v 156 yearround
+v 157 daylight
+v 158 penetr
+v 159 glass
+v 160 cloud
+v 161 areknown
+v 162 degrad
+v 163 skinscollagen
+v 164 elastin
+v 165 also
+v 166 sever
+v 167 kind
+v 168 cancer
+v 169 make
+v 170 sure
+v 171 jane
+v 172 iredal
+v 173 wonder
+v 174 assort
+v 175 makeup
+v 176 meet
+v 177 need
+v 178 powder
+v 179 30
+v 180 dri
+v 181 sheer
+v 182 coverag
+v 183 highest
+v 184 purepress
+v 185 miner
+v 186 foundat
+v 187 semimatt
+v 188 finish
+v 189 sheertofullcoverag
+v 190 2015
+v 191 amaz
+v 192 loos
+v 193 lumin
+v 194 sheertoful
+v 195 glow
+v 196 pro
+v 197 bb
+v 198 cream
+v 199 radiantsatin
+v 200 finishand
+v 201 medium
+v 202 25
+v 203 enlighten
+v 204 plus
+v 205 fullcoverag
+v 206 underey
+v 207 conceal
+v 208 full
+v 209 3020
+v 210 lipdrink
+v 211 lip
+v 212 balm
+v 213 hydrat
+v 214 15
+v 215 know
+v 216 youll
+v 217 enjoy
+v 218 favorit
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 38 2
+e 2 35 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 8 9 2
+e 9 10 2
+e 10 11 2
+e 10 13 2
+e 10 152 2
+e 11 12 2
+e 12 10 2
+e 13 14 2
+e 13 45 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 18 19 2
+e 18 48 2
+e 18 122 2
+e 18 157 2
+e 18 196 2
+e 19 20 2
+e 19 150 2
+e 20 21 2
+e 21 22 2
+e 22 23 2
+e 23 24 2
+e 23 41 2
+e 23 73 2
+e 23 215 2
+e 24 25 2
+e 25 26 2
+e 26 27 2
+e 27 28 2
+e 28 29 2
+e 28 55 2
+e 28 93 2
+e 28 68 2
+e 28 109 2
+e 28 66 2
+e 28 119 2
+e 28 138 2
+e 28 168 2
+e 29 30 2
+e 30 31 2
+e 31 32 2
+e 31 28 2
+e 31 114 2
+e 31 143 2
+e 31 144 2
+e 31 145 2
+e 31 35 2
+e 31 112 2
+e 32 33 2
+e 33 34 2
+e 34 35 2
+e 34 46 2
+e 34 70 2
+e 35 36 2
+e 35 43 2
+e 35 49 2
+e 35 63 2
+e 35 82 2
+e 35 38 2
+e 35 97 2
+e 35 107 2
+e 35 115 2
+e 35 116 2
+e 35 119 2
+e 35 68 2
+e 35 123 2
+e 35 127 2
+e 35 134 2
+e 35 136 2
+e 35 30 2
+e 35 70 2
+e 35 179 2
+e 35 190 2
+e 35 202 2
+e 35 209 2
+e 35 214 2
+e 36 37 2
+e 37 2 2
+e 38 39 2
+e 38 82 2
+e 38 35 2
+e 39 40 2
+e 40 23 2
+e 41 42 2
+e 42 35 2
+e 43 44 2
+e 44 13 2
+e 45 34 2
+e 45 53 2
+e 46 47 2
+e 47 18 2
+e 48 35 2
+e 48 50 2
+e 48 60 2
+e 49 48 2
+e 50 51 2
+e 51 52 2
+e 51 141 2
+e 51 35 2
+e 52 45 2
+e 53 54 2
+e 54 28 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 59 2
+e 59 48 2
+e 60 61 2
+e 61 62 2
+e 62 2 2
+e 63 64 2
+e 63 90 2
+e 63 23 2
+e 64 65 2
+e 65 66 2
+e 65 185 2
+e 65 192 2
+e 66 67 2
+e 66 35 2
+e 67 68 2
+e 68 69 2
+e 68 34 2
+e 68 35 2
+e 68 98 2
+e 68 128 2
+e 69 68 2
+e 69 181 2
+e 70 71 2
+e 70 35 2
+e 70 147 2
+e 70 171 2
+e 71 72 2
+e 72 23 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 78 80 2
+e 79 78 2
+e 80 81 2
+e 81 68 2
+e 82 83 2
+e 82 91 2
+e 82 140 2
+e 82 146 2
+e 82 176 2
+e 82 63 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 63 2
+e 90 66 2
+e 91 92 2
+e 92 28 2
+e 93 94 2
+e 94 95 2
+e 95 96 2
+e 96 68 2
+e 96 100 2
+e 97 30 2
+e 97 28 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 100 102 2
+e 101 96 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 104 28 2
+e 105 106 2
+e 106 66 2
+e 107 108 2
+e 108 28 2
+e 109 110 2
+e 110 111 2
+e 111 112 2
+e 112 113 2
+e 112 154 2
+e 113 31 2
+e 114 97 2
+e 115 104 2
+e 116 117 2
+e 117 118 2
+e 118 68 2
+e 119 120 2
+e 119 130 2
+e 119 135 2
+e 120 121 2
+e 121 18 2
+e 122 123 2
+e 123 124 2
+e 123 129 2
+e 124 125 2
+e 124 138 2
+e 125 126 2
+e 126 127 2
+e 126 51 2
+e 126 169 2
+e 127 35 2
+e 127 28 2
+e 127 132 2
+e 128 35 2
+e 129 127 2
+e 130 131 2
+e 131 35 2
+e 132 133 2
+e 133 35 2
+e 134 119 2
+e 135 66 2
+e 136 137 2
+e 137 124 2
+e 138 139 2
+e 138 31 2
+e 139 70 2
+e 139 31 2
+e 140 126 2
+e 141 142 2
+e 142 35 2
+e 143 138 2
+e 143 167 2
+e 144 139 2
+e 145 31 2
+e 146 70 2
+e 147 148 2
+e 148 149 2
+e 149 19 2
+e 150 151 2
+e 151 10 2
+e 152 153 2
+e 152 166 2
+e 153 28 2
+e 154 155 2
+e 155 156 2
+e 156 18 2
+e 157 158 2
+e 158 159 2
+e 159 160 2
+e 160 161 2
+e 161 162 2
+e 162 163 2
+e 163 164 2
+e 164 165 2
+e 165 152 2
+e 166 143 2
+e 167 28 2
+e 168 140 2
+e 169 170 2
+e 169 173 2
+e 170 35 2
+e 171 172 2
+e 172 169 2
+e 173 174 2
+e 174 175 2
+e 175 38 2
+e 176 177 2
+e 177 178 2
+e 178 35 2
+e 178 193 2
+e 179 180 2
+e 179 184 2
+e 180 69 2
+e 181 182 2
+e 182 183 2
+e 182 35 2
+e 183 35 2
+e 184 65 2
+e 185 186 2
+e 185 178 2
+e 186 187 2
+e 187 188 2
+e 188 189 2
+e 188 194 2
+e 188 208 2
+e 189 35 2
+e 190 191 2
+e 190 195 2
+e 191 65 2
+e 192 185 2
+e 193 188 2
+e 194 182 2
+e 195 18 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 199 200 2
+e 200 201 2
+e 201 182 2
+e 202 203 2
+e 203 204 2
+e 204 205 2
+e 205 206 2
+e 206 207 2
+e 207 187 2
+e 208 182 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 212 35 2
+e 213 211 2
+e 214 215 2
+e 215 216 2
+e 215 218 2
+e 216 217 2
+e 217 51 2
+t # 9
+v 0 emma
+v 1 robert
+v 2 ask
+v 3 employe
+v 4 use
+v 5 skincar
+v 6 makeup
+v 7 system
+v 8 fit
+v 9 routin
+v 10 3step
+v 11 design
+v 12 creat
+v 13 flawless
+v 14 longlast
+v 15 goodfortheskin
+v 16 foundat
+v 17 base
+v 18 first
+v 19 start
+v 20 smooth
+v 21 affair
+v 22 brighten
+v 23 face
+v 24 primer
+v 25 help
+v 26 last
+v 27 longer
+v 28 go
+v 29 smoother
+v 30 add
+v 31 coverag
+v 32 sun
+v 33 protect
+v 34 1
+v 35 bestsel
+v 36 purepress
+v 37 miner
+v 38 final
+v 39 spritz
+v 40 complexion
+v 41 pommisst
+v 42 hydrat
+v 43 spray
+v 44 set
+v 45 deliv
+v 46 antioxid
+v 47 sami
+v 48 sale
+v 49 oper
+v 50 coordin
+v 51 share
+v 52 ive
+v 53 user
+v 54 sinc
+v 55 2015
+v 56 dont
+v 57 see
+v 58 stray
+v 59 anytim
+v 60 soon
+v 61 ever
+v 62 whether
+v 63 get
+v 64 readi
+v 65 work
+v 66 date
+v 67 night
+v 68 fun
+v 69 leav
+v 70 hous
+v 71 without
+v 72 appli
+v 73 love
+v 74 4in1
+v 75 product
+v 76 conceal
+v 77 sunscreen
+v 78 mention
+v 79 easi
+v 80 quick
+v 81 everi
+v 82 morn
+v 83 complet
+v 84 daili
+v 85 prime
+v 86 skin
+v 87 asid
+v 88 minim
+v 89 appear
+v 90 pore
+v 91 fine
+v 92 line
+v 93 truli
+v 94 best
+v 95 press
+v 96 powder
+v 97 allow
+v 98 throughout
+v 99 day
+v 100 alway
+v 101 handi
+v 102 brush
+v 103 radiant
+v 104 fullfac
+v 105 applic
+v 106 follow
+v 107 sculpt
+v 108 target
+v 109 camouflag
+v 110 flock
+v 111 spong
+v 112 ad
+v 113 eye
+v 114 cours
+v 115 must
+v 116 end
+v 117 five
+v 118 favorit
+v 119 scent
+v 120 refresh
+v 121 provid
+v 122 skinlik
+v 123 finish
+v 124 like
+v 125 littl
+v 126 color
+v 127 back
+v 128 late
+v 129 goto
+v 130 combo
+v 131 glow
+v 132 time
+v 133 bronzer
+v 134 blush
+v 135 stick
+v 136 fervor
+v 137 perfect
+v 138 amount
+v 139 appl
+v 140 cheek
+v 141 scorch
+v 142 beauti
+v 143 light
+v 144 contour
+v 145 find
+v 146 reach
+v 147 purebrow
+v 148 precis
+v 149 pencil
+v 150 dark
+v 151 brown
+v 152 brow
+v 153 draw
+v 154 hairlik
+v 155 stroke
+v 156 spars
+v 157 area
+v 158 continu
+v 159 swipe
+v 160 beyond
+v 161 lash
+v 162 mascara
+v 163 grab
+v 164 hydropur
+v 165 hyaluron
+v 166 acid
+v 167 lip
+v 168 gloss
+v 169 kir
+v 170 royal
+v 171 entir
+v 172 look
+v 173 take
+v 174 5
+v 175 minut
+v 176 feel
+v 177 elev
+v 178 version
+v 179 erica
+v 180 next
+v 181 sr
+v 182 manag
+v 183 brand
+v 184 market
+v 185 ecommerc
+v 186 part
+v 187 everyday
+v 188 year
+v 189 togeth
+v 190 found
+v 191 combin
+v 192 give
+v 193 healthi
+v 194 natur
+v 195 cleans
+v 196 moistur
+v 197 begin
+v 198 illumin
+v 199 subtl
+v 200 also
+v 201 honest
+v 202 nomakeup
+v 203 tint
+v 204 serum
+v 205 shade
+v 206 medium
+v 207 4
+v 208 bridg
+v 209 blur
+v 210 toneeven
+v 211 dewi
+v 212 skincareinfus
+v 213 lightweight
+v 214 glowi
+v 215 shini
+v 216 magic
+v 217 sound
+v 218 dramat
+v 219 yes
+v 220 true
+v 221 way
+v 222 possibl
+v 223 whole
+v 224 bring
+v 225 even
+v 226 radianc
+v 227 make
+v 228 match
+v 229 long
+v 230 tone
+v 231 type
+v 232 prefer
+v 233 holi
+v 234 grail
+v 235 mani
+v 236 peopl
+v 237 tri
+v 238 yet
+v 239 learn
+v 240 origin
+v 241 founder
+v 242 jane
+v 243 iredal
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 2 179 2
+e 3 4 2
+e 4 5 2
+e 4 101 2
+e 4 75 2
+e 4 93 2
+e 4 41 2
+e 5 6 2
+e 5 78 2
+e 5 9 2
+e 6 7 2
+e 6 9 2
+e 6 26 2
+e 6 99 2
+e 6 42 2
+e 6 94 2
+e 7 8 2
+e 7 11 2
+e 7 47 2
+e 7 52 2
+e 7 179 2
+e 7 9 2
+e 7 186 2
+e 7 238 2
+e 7 240 2
+e 8 6 2
+e 9 10 2
+e 9 47 2
+e 9 85 2
+e 9 180 2
+e 9 5 2
+e 9 98 2
+e 9 191 2
+e 10 7 2
+e 11 12 2
+e 11 44 2
+e 12 13 2
+e 12 94 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 38 2
+e 16 77 2
+e 16 124 2
+e 16 180 2
+e 16 191 2
+e 17 18 2
+e 17 37 2
+e 17 53 2
+e 17 74 2
+e 17 95 2
+e 17 103 2
+e 17 16 2
+e 17 121 2
+e 17 93 2
+e 17 228 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 20 122 2
+e 20 89 2
+e 21 22 2
+e 21 198 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 24 87 2
+e 24 94 2
+e 24 132 2
+e 25 6 2
+e 25 44 2
+e 26 27 2
+e 26 98 2
+e 26 110 2
+e 26 163 2
+e 26 99 2
+e 27 28 2
+e 27 174 2
+e 28 29 2
+e 29 30 2
+e 30 31 2
+e 30 125 2
+e 30 142 2
+e 31 32 2
+e 31 113 2
+e 32 33 2
+e 32 56 2
+e 33 34 2
+e 33 4 2
+e 34 35 2
+e 35 36 2
+e 36 17 2
+e 37 16 2
+e 37 45 2
+e 37 121 2
+e 37 96 2
+e 38 39 2
+e 39 40 2
+e 39 118 2
+e 40 41 2
+e 40 4 2
+e 41 42 2
+e 41 119 2
+e 42 43 2
+e 42 86 2
+e 42 226 2
+e 43 25 2
+e 43 41 2
+e 43 42 2
+e 43 227 2
+e 44 37 2
+e 44 223 2
+e 45 46 2
+e 46 33 2
+e 47 9 2
+e 47 48 2
+e 48 49 2
+e 49 50 2
+e 50 51 2
+e 51 4 2
+e 51 235 2
+e 52 36 2
+e 53 54 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 56 69 2
+e 57 58 2
+e 58 59 2
+e 59 60 2
+e 60 61 2
+e 61 62 2
+e 62 63 2
+e 63 64 2
+e 64 65 2
+e 65 66 2
+e 65 86 2
+e 66 67 2
+e 67 68 2
+e 68 32 2
+e 69 70 2
+e 69 176 2
+e 70 71 2
+e 71 72 2
+e 72 73 2
+e 72 81 2
+e 72 16 2
+e 72 159 2
+e 72 167 2
+e 72 164 2
+e 72 34 2
+e 73 36 2
+e 73 152 2
+e 73 51 2
+e 74 75 2
+e 75 76 2
+e 75 189 2
+e 75 65 2
+e 76 16 2
+e 77 5 2
+e 78 79 2
+e 79 80 2
+e 80 72 2
+e 81 82 2
+e 82 83 2
+e 82 69 2
+e 83 84 2
+e 83 82 2
+e 84 5 2
+e 85 86 2
+e 86 20 2
+e 86 128 2
+e 86 12 2
+e 86 210 2
+e 86 225 2
+e 86 230 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 90 91 2
+e 90 201 2
+e 91 92 2
+e 92 93 2
+e 93 94 2
+e 93 202 2
+e 93 216 2
+e 94 17 2
+e 94 24 2
+e 94 209 2
+e 94 221 2
+e 95 96 2
+e 96 97 2
+e 96 36 2
+e 97 6 2
+e 97 153 2
+e 98 99 2
+e 98 188 2
+e 99 100 2
+e 99 72 2
+e 99 229 2
+e 100 4 2
+e 100 145 2
+e 101 102 2
+e 102 36 2
+e 102 108 2
+e 103 104 2
+e 104 105 2
+e 105 106 2
+e 106 107 2
+e 107 102 2
+e 108 109 2
+e 109 26 2
+e 110 111 2
+e 111 112 2
+e 112 31 2
+e 113 114 2
+e 113 72 2
+e 114 115 2
+e 115 116 2
+e 116 117 2
+e 117 39 2
+e 118 42 2
+e 118 164 2
+e 119 120 2
+e 120 11 2
+e 121 20 2
+e 121 137 2
+e 121 194 2
+e 122 123 2
+e 123 72 2
+e 124 30 2
+e 124 177 2
+e 124 6 2
+e 125 126 2
+e 126 127 2
+e 126 139 2
+e 127 86 2
+e 128 129 2
+e 129 130 2
+e 130 131 2
+e 131 132 2
+e 131 195 2
+e 131 23 2
+e 131 200 2
+e 132 133 2
+e 132 192 2
+e 133 134 2
+e 134 135 2
+e 135 136 2
+e 136 121 2
+e 137 138 2
+e 137 191 2
+e 137 208 2
+e 137 227 2
+e 138 126 2
+e 139 140 2
+e 140 141 2
+e 141 30 2
+e 142 143 2
+e 143 144 2
+e 144 100 2
+e 145 146 2
+e 146 147 2
+e 147 148 2
+e 148 149 2
+e 149 150 2
+e 149 97 2
+e 150 151 2
+e 151 73 2
+e 152 149 2
+e 153 154 2
+e 154 155 2
+e 155 156 2
+e 156 157 2
+e 157 158 2
+e 158 113 2
+e 159 160 2
+e 160 161 2
+e 161 162 2
+e 162 26 2
+e 163 118 2
+e 164 165 2
+e 164 203 2
+e 165 166 2
+e 166 167 2
+e 167 168 2
+e 167 171 2
+e 168 169 2
+e 169 170 2
+e 170 72 2
+e 171 172 2
+e 172 173 2
+e 172 191 2
+e 172 124 2
+e 172 224 2
+e 173 27 2
+e 174 175 2
+e 175 83 2
+e 176 124 2
+e 177 178 2
+e 178 4 2
+e 179 9 2
+e 179 181 2
+e 180 2 2
+e 180 72 2
+e 181 182 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 51 2
+e 186 187 2
+e 187 6 2
+e 188 4 2
+e 189 190 2
+e 190 137 2
+e 191 192 2
+e 191 211 2
+e 191 164 2
+e 191 75 2
+e 192 193 2
+e 192 194 2
+e 193 194 2
+e 193 172 2
+e 194 131 2
+e 194 199 2
+e 194 214 2
+e 195 196 2
+e 196 197 2
+e 197 20 2
+e 198 131 2
+e 199 131 2
+e 200 20 2
+e 201 4 2
+e 202 6 2
+e 203 204 2
+e 204 205 2
+e 204 213 2
+e 204 36 2
+e 205 206 2
+e 206 207 2
+e 207 137 2
+e 208 5 2
+e 209 86 2
+e 210 17 2
+e 211 212 2
+e 212 164 2
+e 213 37 2
+e 214 215 2
+e 215 193 2
+e 216 217 2
+e 217 218 2
+e 218 219 2
+e 219 220 2
+e 220 172 2
+e 221 222 2
+e 222 44 2
+e 222 237 2
+e 223 172 2
+e 224 225 2
+e 225 42 2
+e 225 137 2
+e 226 40 2
+e 227 36 2
+e 227 6 2
+e 228 86 2
+e 229 9 2
+e 230 231 2
+e 231 232 2
+e 232 233 2
+e 233 234 2
+e 234 73 2
+e 235 236 2
+e 236 222 2
+e 237 5 2
+e 238 239 2
+e 239 5 2
+e 240 241 2
+e 241 242 2
+e 242 243 2
+t # 10
+v 0 jane
+v 1 iredal
+v 2 skin
+v 3 largest
+v 4 organ
+v 5 studi
+v 6 believ
+v 7 also
+v 8 one
+v 9 thing
+v 10 notic
+v 11 first
+v 12 accord
+v 13 research
+v 14 still
+v 15 live
+v 16 cave
+v 17 need
+v 18 sign
+v 19 pick
+v 20 healthi
+v 21 mate
+v 22 could
+v 23 bring
+v 24 children
+v 25 world
+v 26 good
+v 27 import
+v 28 signal
+v 29 noth
+v 30 much
+v 31 chang
+v 32 look
+v 33 clear
+v 34 moist
+v 35 matt
+v 36 shimmer
+v 37 would
+v 38 descript
+v 39 ask
+v 40 husband
+v 41 come
+v 42 say
+v 43 glad
+v 44 didnt
+v 45 anyth
+v 46 wrinkl
+v 47 fortun
+v 48 us
+v 49 unlik
+v 50 prehistor
+v 51 ancestor
+v 52 dont
+v 53 born
+v 54 creat
+v 55 use
+v 56 makeup
+v 57 skincar
+v 58 benefit
+v 59 system
+v 60 origin
+v 61 perfect
+v 62 trio
+v 63 purepress
+v 64 base
+v 65 miner
+v 66 foundat
+v 67 happen
+v 68 product
+v 69 put
+v 70 women
+v 71 face
+v 72 medic
+v 73 offic
+v 74 spas
+v 75 trade
+v 76 show
+v 77 everyth
+v 78 icon
+v 79 powder
+v 80 conceal
+v 81 sunscreen
+v 82 counsel
+v 83 moistur
+v 84 adher
+v 85 better
+v 86 give
+v 87 even
+v 88 coverag
+v 89 often
+v 90 later
+v 91 learn
+v 92 potenti
+v 93 formul
+v 94 without
+v 95 filler
+v 96 synthet
+v 97 paid
+v 98 care
+v 99 attent
+v 100 stage
+v 101 wear
+v 102 concentr
+v 103 pigment
+v 104 take
+v 105 achiev
+v 106 brush
+v 107 flawless
+v 108 like
+v 109 matter
+v 110 appli
+v 111 shape
+v 112 overlap
+v 113 natur
+v 114 particl
+v 115 transfer
+v 116 far
+v 117 less
+v 118 normal
+v 119 stay
+v 120 longer
+v 121 dramat
+v 122 exampl
+v 123 visit
+v 124 soap
+v 125 opera
+v 126 set
+v 127 actor
+v 128 artist
+v 129 sit
+v 130 feet
+v 131 control
+v 132 room
+v 133 happili
+v 134 relax
+v 135 werent
+v 136 dart
+v 137 onto
+v 138 touchup
+v 139 everi
+v 140 minut
+v 141 liter
+v 142 applaud
+v 143 walk
+v 144 pommisst
+v 145 hydrat
+v 146 spray
+v 147 mean
+v 148 mix
+v 149 powderi
+v 150 applic
+v 151 want
+v 152 wait
+v 153 that
+v 154 quick
+v 155 spritz
+v 156 well
+v 157 covet
+v 158 brought
+v 159 smile
+v 160 woman
+v 161 beauti
+v 162 fragranc
+v 163 pomegran
+v 164 moment
+v 165 bottl
+v 166 never
+v 167 ceas
+v 168 top
+v 169 seller
+v 170 smooth
+v 171 affair
+v 172 brighten
+v 173 primer
+v 174 bit
+v 175 mascara
+v 176 differ
+v 177 point
+v 178 view
+v 179 definit
+v 180 onesizefitsal
+v 181 perhap
+v 182 best
+v 183 develop
+v 184 lash
+v 185 condition
+v 186 prime
+v 187 choic
+v 188 worn
+v 189 cours
+v 190 benefici
+v 191 allow
+v 192 breath
+v 193 function
+v 194 feel
+v 195 light
+v 196 sticki
+v 197 prevent
+v 198 loss
+v 199 provid
+v 200 surfac
+v 201 challeng
+v 202 solv
+v 203 love
+v 204 way
+v 205 smell
+v 206 fact
+v 207 calm
+v 208 effect
+v 209 fail
+v 210 work
+v 211 power
+v 212 introduc
+v 213 million
+v 214 joy
+v 215 youth
+v 216 proud
+e 0 1 2
+e 1 2 2
+e 1 57 2
+e 2 3 2
+e 2 27 2
+e 2 32 2
+e 2 35 2
+e 2 85 2
+e 2 106 2
+e 2 107 2
+e 2 109 2
+e 2 120 2
+e 2 113 2
+e 2 150 2
+e 2 157 2
+e 2 191 2
+e 2 166 2
+e 2 215 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 111 2
+e 7 10 2
+e 7 158 2
+e 7 194 2
+e 8 9 2
+e 8 55 2
+e 8 168 2
+e 8 202 2
+e 9 10 2
+e 9 183 2
+e 10 11 2
+e 10 65 2
+e 10 146 2
+e 11 12 2
+e 11 68 2
+e 11 65 2
+e 11 165 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 14 91 2
+e 14 32 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 17 176 2
+e 18 19 2
+e 18 149 2
+e 19 20 2
+e 20 21 2
+e 20 24 2
+e 20 2 2
+e 21 22 2
+e 22 23 2
+e 22 42 2
+e 22 188 2
+e 22 84 2
+e 23 20 2
+e 24 25 2
+e 25 26 2
+e 25 214 2
+e 26 2 2
+e 27 28 2
+e 28 29 2
+e 29 30 2
+e 30 31 2
+e 30 105 2
+e 30 110 2
+e 31 20 2
+e 32 33 2
+e 32 100 2
+e 32 108 2
+e 32 85 2
+e 32 94 2
+e 32 10 2
+e 33 34 2
+e 33 2 2
+e 34 35 2
+e 34 43 2
+e 34 2 2
+e 34 32 2
+e 35 36 2
+e 36 37 2
+e 36 54 2
+e 36 51 2
+e 37 38 2
+e 37 84 2
+e 37 126 2
+e 37 216 2
+e 38 39 2
+e 39 40 2
+e 39 83 2
+e 40 41 2
+e 41 22 2
+e 42 34 2
+e 42 45 2
+e 43 44 2
+e 44 42 2
+e 44 67 2
+e 44 104 2
+e 45 46 2
+e 46 47 2
+e 47 48 2
+e 48 49 2
+e 49 50 2
+e 50 51 2
+e 51 52 2
+e 51 37 2
+e 52 53 2
+e 53 33 2
+e 53 57 2
+e 53 154 2
+e 54 55 2
+e 55 56 2
+e 55 82 2
+e 56 57 2
+e 56 59 2
+e 56 119 2
+e 56 127 2
+e 56 128 2
+e 56 139 2
+e 57 58 2
+e 57 56 2
+e 58 0 2
+e 58 63 2
+e 59 53 2
+e 59 60 2
+e 59 211 2
+e 60 61 2
+e 61 62 2
+e 61 156 2
+e 62 63 2
+e 62 212 2
+e 63 64 2
+e 64 65 2
+e 64 78 2
+e 64 93 2
+e 64 144 2
+e 65 66 2
+e 65 79 2
+e 65 37 2
+e 65 102 2
+e 65 114 2
+e 65 126 2
+e 65 22 2
+e 66 44 2
+e 66 79 2
+e 67 11 2
+e 67 113 2
+e 68 69 2
+e 68 181 2
+e 68 173 2
+e 68 203 2
+e 69 70 2
+e 69 83 2
+e 70 71 2
+e 70 69 2
+e 70 32 2
+e 70 25 2
+e 71 72 2
+e 71 161 2
+e 71 173 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 76 70 2
+e 77 63 2
+e 78 65 2
+e 79 66 2
+e 79 80 2
+e 80 81 2
+e 81 8 2
+e 82 70 2
+e 83 11 2
+e 83 90 2
+e 83 32 2
+e 83 83 2
+e 83 174 2
+e 83 189 2
+e 83 198 2
+e 84 2 2
+e 84 93 2
+e 85 86 2
+e 85 85 2
+e 85 18 2
+e 86 87 2
+e 86 2 2
+e 87 88 2
+e 88 89 2
+e 89 39 2
+e 89 207 2
+e 90 14 2
+e 91 92 2
+e 92 58 2
+e 93 94 2
+e 93 201 2
+e 94 95 2
+e 94 152 2
+e 94 83 2
+e 95 96 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 99 2 2
+e 100 101 2
+e 101 65 2
+e 101 89 2
+e 102 103 2
+e 103 44 2
+e 104 30 2
+e 105 32 2
+e 106 2 2
+e 107 14 2
+e 107 2 2
+e 108 2 2
+e 108 107 2
+e 108 175 2
+e 108 184 2
+e 109 30 2
+e 110 7 2
+e 110 173 2
+e 111 112 2
+e 112 113 2
+e 113 65 2
+e 113 83 2
+e 113 153 2
+e 114 115 2
+e 115 116 2
+e 116 117 2
+e 117 118 2
+e 118 56 2
+e 118 7 2
+e 119 2 2
+e 120 121 2
+e 121 122 2
+e 122 123 2
+e 123 124 2
+e 124 125 2
+e 125 126 2
+e 126 55 2
+e 126 138 2
+e 126 147 2
+e 126 61 2
+e 127 56 2
+e 128 129 2
+e 129 130 2
+e 130 131 2
+e 131 132 2
+e 132 133 2
+e 133 134 2
+e 134 135 2
+e 135 136 2
+e 136 137 2
+e 137 126 2
+e 138 56 2
+e 139 140 2
+e 139 160 2
+e 140 141 2
+e 141 142 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 144 83 2
+e 145 146 2
+e 146 7 2
+e 146 53 2
+e 146 166 2
+e 147 148 2
+e 148 2 2
+e 149 32 2
+e 150 151 2
+e 151 76 2
+e 152 67 2
+e 153 145 2
+e 154 155 2
+e 155 65 2
+e 156 86 2
+e 157 34 2
+e 158 159 2
+e 158 11 2
+e 159 160 2
+e 160 71 2
+e 160 176 2
+e 161 162 2
+e 162 163 2
+e 163 164 2
+e 164 158 2
+e 165 144 2
+e 166 167 2
+e 166 209 2
+e 167 8 2
+e 168 169 2
+e 169 170 2
+e 170 171 2
+e 170 200 2
+e 171 172 2
+e 172 71 2
+e 173 63 2
+e 173 174 2
+e 173 22 2
+e 173 203 2
+e 174 108 2
+e 175 139 2
+e 175 187 2
+e 176 17 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 180 2
+e 180 68 2
+e 181 182 2
+e 182 9 2
+e 183 68 2
+e 184 185 2
+e 184 175 2
+e 185 186 2
+e 186 184 2
+e 187 110 2
+e 188 94 2
+e 189 190 2
+e 190 2 2
+e 191 192 2
+e 192 193 2
+e 193 118 2
+e 194 195 2
+e 194 204 2
+e 195 196 2
+e 196 197 2
+e 197 83 2
+e 198 199 2
+e 199 170 2
+e 200 65 2
+e 201 8 2
+e 202 170 2
+e 203 68 2
+e 203 204 2
+e 204 194 2
+e 204 205 2
+e 205 206 2
+e 206 101 2
+e 207 208 2
+e 208 2 2
+e 209 210 2
+e 210 57 2
+e 211 62 2
+e 212 213 2
+e 213 70 2
+e 214 33 2
+e 215 35 2
+t # 11
+v 0 shawn
+v 1 town
+v 2 coldest
+v 3 time
+v 4 year
+v 5 mani
+v 6 us
+v 7 experienc
+v 8 typic
+v 9 winter
+v 10 skin
+v 11 issu
+v 12 dryness
+v 13 dehydr
+v 14 red
+v 15 itch
+v 16 isnt
+v 17 surpris
+v 18 heater
+v 19 radiat
+v 20 dri
+v 21 everyth
+v 22 extra
+v 23 coffeedrink
+v 24 feel
+v 25 warm
+v 26 wonder
+v 27 often
+v 28 full
+v 29 crisi
+v 30 mode
+v 31 februari
+v 32 make
+v 33 matter
+v 34 wors
+v 35 look
+v 36 older
+v 37 becom
+v 38 textur
+v 39 color
+v 40 blotchier
+v 41 immedi
+v 42 instinct
+v 43 wear
+v 44 makeup
+v 45 even
+v 46 peopl
+v 47 may
+v 48 reluct
+v 49 appli
+v 50 foundat
+v 51 concern
+v 52 irrit
+v 53 cant
+v 54 blame
+v 55 think
+v 56 way
+v 57 lot
+v 58 dont
+v 59 perform
+v 60 well
+v 61 cold
+v 62 weather
+v 63 youll
+v 64 pleas
+v 65 know
+v 66 jane
+v 67 iredal
+v 68 excel
+v 69 delight
+v 70 best
+v 71 top
+v 72 list
+v 73 hydropur
+v 74 tint
+v 75 serum
+v 76 hyaluron
+v 77 acid
+v 78 coq10
+v 79 ever
+v 80 made
+v 81 repair
+v 82 tell
+v 83 first
+v 84 two
+v 85 key
+v 86 ingredi
+v 87 theyr
+v 88 name
+v 89 let
+v 90 talk
+v 91 extraordinari
+v 92 abil
+v 93 help
+v 94 hold
+v 95 water
+v 96 fact
+v 97 enabl
+v 98 epidermi
+v 99 retain
+v 100 1000
+v 101 weight
+v 102 news
+v 103 friend
+v 104 next
+v 105 address
+v 106 free
+v 107 radic
+v 108 damag
+v 109 power
+v 110 tool
+v 111 collagen
+v 112 elastin
+v 113 support
+v 114 your
+v 115 unwant
+v 116 definit
+v 117 there
+v 118 also
+v 119 allantoin
+v 120 tone
+v 121 worn
+v 122 primer
+v 123 powder
+v 124 one
+v 125 smooth
+v 126 affair
+v 127 glow
+v 128 love
+v 129 melt
+v 130 creat
+v 131 dewi
+v 132 finish
+v 133 last
+v 134 day
+v 135 long
+v 136 learn
+v 137 use
+v 138 keep
+v 139 mind
+v 140 sun
+v 141 protect
+v 142 combin
+v 143 spf
+v 144 product
+v 145 optim
+v 146 result
+v 147 solut
+v 148 featur
+v 149 actual
+v 150 system
+v 151 contain
+v 152 misconcept
+v 153 purepress
+v 154 base
+v 155 miner
+v 156 cover
+v 157 like
+v 158 liquid
+v 159 agent
+v 160 skinsooth
+v 161 formula
+v 162 pack
+v 163 antioxid
+v 164 recommend
+v 165 skincar
+v 166 consist
+v 167 brighten
+v 168 face
+v 169 pommisst
+v 170 hydrat
+v 171 spray
+v 172 give
+v 173 layer
+v 174 sooth
+v 175 calm
+v 176 provid
+v 177 broadspectrum
+v 178 titanium
+v 179 dioxid
+v 180 zinc
+v 181 oxid
+v 182 driest
+v 183 guid
+v 184 set
+v 185 longlast
+v 186 pomegran
+v 187 environment
+v 188 work
+v 189 hand
+v 190 care
+v 191 routin
+v 192 along
+v 193 possibl
+v 194 follow
+v 195 daili
+v 196 practic
+v 197 regimen
+v 198 morn
+v 199 never
+v 200 get
+v 201 complet
+v 202 treatment
+v 203 still
+v 204 damp
+v 205 cleans
+v 206 moistur
+v 207 build
+v 208 complexion
+v 209 alway
+v 210 applic
+v 211 spritz
+v 212 lavend
+v 213 d20
+v 214 ad
+v 215 take
+v 216 throughout
+v 217 add
+v 218 omega
+v 219 supplement
+v 220 cell
+v 221 effect
+v 222 advanc
+v 223 nutrit
+v 224 programm
+v 225 3
+v 226 6
+v 227 inflamm
+v 228 see
+v 229 within
+v 230 week
+v 231 start
+v 232 sugar
+v 233 caffein
+v 234 intak
+v 235 inflammatori
+v 236 substanc
+v 237 put
+v 238 bodi
+v 239 tri
+v 240 limit
+v 241 coffe
+v 242 cup
+v 243 per
+v 244 replac
+v 245 refin
+v 246 snack
+v 247 fruit
+v 248 healthier
+v 249 option
+v 250 thank
+v 251 later
+v 252 right
+v 253 shouldnt
+v 254 challeng
+v 255 pride
+v 256 tradit
+v 257 offer
+v 258 rememb
+v 259 without
+v 260 sensit
+v 261 includ
+v 262 talc
+v 263 oil
+v 264 paraben
+v 265 phthalat
+v 266 synthet
+v 267 perfum
+v 268 chemic
+v 269 what
+v 270 left
+v 271 behind
+v 272 high
+v 273 good
+v 274 sure
+v 275 choos
+v 276 finder
+v 277 quiz
+v 278 find
+v 279 shade
+v 280 forward
+v 281 hear
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 3 101 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 6 35 2
+e 7 8 2
+e 8 9 2
+e 8 142 2
+e 9 10 2
+e 9 118 2
+e 9 253 2
+e 10 11 2
+e 10 27 2
+e 10 32 2
+e 10 37 2
+e 10 46 2
+e 10 50 2
+e 10 71 2
+e 10 58 2
+e 10 94 2
+e 10 130 2
+e 10 47 2
+e 10 124 2
+e 10 153 2
+e 10 176 2
+e 10 136 2
+e 10 187 2
+e 10 190 2
+e 10 192 2
+e 10 170 2
+e 10 203 2
+e 10 220 2
+e 10 218 2
+e 11 12 2
+e 12 13 2
+e 12 38 2
+e 13 14 2
+e 13 9 2
+e 13 103 2
+e 14 15 2
+e 14 52 2
+e 14 208 2
+e 14 164 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 17 149 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 20 10 2
+e 20 13 2
+e 20 159 2
+e 20 49 2
+e 20 236 2
+e 21 22 2
+e 22 23 2
+e 22 127 2
+e 23 24 2
+e 24 25 2
+e 24 114 2
+e 25 26 2
+e 26 10 2
+e 27 28 2
+e 28 29 2
+e 29 30 2
+e 30 31 2
+e 31 32 2
+e 32 33 2
+e 32 6 2
+e 33 34 2
+e 33 96 2
+e 34 9 2
+e 35 36 2
+e 35 273 2
+e 35 280 2
+e 36 10 2
+e 37 38 2
+e 37 40 2
+e 38 39 2
+e 38 116 2
+e 38 10 2
+e 38 218 2
+e 39 37 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 43 252 2
+e 44 45 2
+e 44 150 2
+e 44 185 2
+e 44 191 2
+e 44 197 2
+e 44 210 2
+e 44 257 2
+e 44 261 2
+e 44 35 2
+e 45 10 2
+e 45 182 2
+e 45 170 2
+e 45 165 2
+e 46 47 2
+e 47 48 2
+e 47 17 2
+e 48 49 2
+e 49 50 2
+e 49 202 2
+e 49 206 2
+e 49 122 2
+e 50 51 2
+e 50 58 2
+e 50 63 2
+e 50 70 2
+e 50 80 2
+e 50 123 2
+e 50 156 2
+e 50 169 2
+e 50 9 2
+e 50 142 2
+e 50 276 2
+e 51 52 2
+e 51 115 2
+e 52 53 2
+e 52 73 2
+e 53 54 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 56 129 2
+e 57 50 2
+e 58 59 2
+e 58 82 2
+e 59 60 2
+e 59 165 2
+e 60 61 2
+e 60 63 2
+e 61 62 2
+e 62 60 2
+e 63 64 2
+e 63 69 2
+e 63 128 2
+e 63 228 2
+e 63 250 2
+e 64 65 2
+e 65 66 2
+e 66 67 2
+e 67 68 2
+e 67 161 2
+e 68 9 2
+e 68 102 2
+e 69 50 2
+e 70 20 2
+e 70 164 2
+e 70 193 2
+e 70 279 2
+e 71 72 2
+e 71 173 2
+e 71 260 2
+e 72 73 2
+e 73 74 2
+e 73 121 2
+e 73 8 2
+e 74 75 2
+e 75 76 2
+e 75 138 2
+e 75 10 2
+e 76 77 2
+e 77 78 2
+e 77 91 2
+e 78 79 2
+e 78 105 2
+e 78 109 2
+e 79 50 2
+e 80 81 2
+e 80 259 2
+e 81 13 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 84 134 2
+e 84 235 2
+e 85 86 2
+e 86 87 2
+e 86 78 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 89 168 2
+e 90 76 2
+e 91 92 2
+e 92 93 2
+e 93 10 2
+e 93 117 2
+e 93 120 2
+e 93 138 2
+e 93 215 2
+e 94 95 2
+e 95 33 2
+e 95 68 2
+e 95 221 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 3 2
+e 101 95 2
+e 102 20 2
+e 103 104 2
+e 104 86 2
+e 104 147 2
+e 105 106 2
+e 106 107 2
+e 107 108 2
+e 108 78 2
+e 108 188 2
+e 109 110 2
+e 109 163 2
+e 110 111 2
+e 111 112 2
+e 112 113 2
+e 113 114 2
+e 114 51 2
+e 114 274 2
+e 115 38 2
+e 116 93 2
+e 117 118 2
+e 117 140 2
+e 117 152 2
+e 118 119 2
+e 118 195 2
+e 119 93 2
+e 120 14 2
+e 121 122 2
+e 122 123 2
+e 122 22 2
+e 122 153 2
+e 122 172 2
+e 122 10 2
+e 123 124 2
+e 123 117 2
+e 123 20 2
+e 123 50 2
+e 124 125 2
+e 124 153 2
+e 124 242 2
+e 125 126 2
+e 125 63 2
+e 125 38 2
+e 126 122 2
+e 126 167 2
+e 127 125 2
+e 128 56 2
+e 129 10 2
+e 130 131 2
+e 130 170 2
+e 131 132 2
+e 132 133 2
+e 132 125 2
+e 132 172 2
+e 133 134 2
+e 134 135 2
+e 134 209 2
+e 134 217 2
+e 134 63 2
+e 134 244 2
+e 135 136 2
+e 136 137 2
+e 136 183 2
+e 137 73 2
+e 137 165 2
+e 137 70 2
+e 137 170 2
+e 137 216 2
+e 138 139 2
+e 138 10 2
+e 139 117 2
+e 139 232 2
+e 140 141 2
+e 141 73 2
+e 141 10 2
+e 142 143 2
+e 142 218 2
+e 142 275 2
+e 143 144 2
+e 143 151 2
+e 143 10 2
+e 143 269 2
+e 144 145 2
+e 144 194 2
+e 145 146 2
+e 145 165 2
+e 146 104 2
+e 146 229 2
+e 147 148 2
+e 148 9 2
+e 148 160 2
+e 149 150 2
+e 150 151 2
+e 150 166 2
+e 151 123 2
+e 151 178 2
+e 152 123 2
+e 153 154 2
+e 154 155 2
+e 154 174 2
+e 155 50 2
+e 155 163 2
+e 155 263 2
+e 156 157 2
+e 157 158 2
+e 157 255 2
+e 158 20 2
+e 159 148 2
+e 160 161 2
+e 161 162 2
+e 161 80 2
+e 161 35 2
+e 162 155 2
+e 163 70 2
+e 163 141 2
+e 164 137 2
+e 164 84 2
+e 165 44 2
+e 165 199 2
+e 166 125 2
+e 167 168 2
+e 168 122 2
+e 168 200 2
+e 169 170 2
+e 169 175 2
+e 170 171 2
+e 170 130 2
+e 170 132 2
+e 170 186 2
+e 170 144 2
+e 170 44 2
+e 170 134 2
+e 171 125 2
+e 171 184 2
+e 171 44 2
+e 171 214 2
+e 171 137 2
+e 172 173 2
+e 172 45 2
+e 172 248 2
+e 173 170 2
+e 173 206 2
+e 174 175 2
+e 175 10 2
+e 175 45 2
+e 175 212 2
+e 176 177 2
+e 177 143 2
+e 178 179 2
+e 179 180 2
+e 180 181 2
+e 181 174 2
+e 182 10 2
+e 183 153 2
+e 184 44 2
+e 185 132 2
+e 186 109 2
+e 187 108 2
+e 188 189 2
+e 189 189 2
+e 189 143 2
+e 190 191 2
+e 191 20 2
+e 191 9 2
+e 192 137 2
+e 193 10 2
+e 194 170 2
+e 195 196 2
+e 195 219 2
+e 196 145 2
+e 197 198 2
+e 197 218 2
+e 198 45 2
+e 199 89 2
+e 200 201 2
+e 201 20 2
+e 202 75 2
+e 202 49 2
+e 203 204 2
+e 204 205 2
+e 204 202 2
+e 204 206 2
+e 205 49 2
+e 206 10 2
+e 206 207 2
+e 206 93 2
+e 206 215 2
+e 207 208 2
+e 208 71 2
+e 208 10 2
+e 209 137 2
+e 210 211 2
+e 211 169 2
+e 212 213 2
+e 213 170 2
+e 214 206 2
+e 215 170 2
+e 215 50 2
+e 216 134 2
+e 217 218 2
+e 218 195 2
+e 218 93 2
+e 218 222 2
+e 218 225 2
+e 218 226 2
+e 219 197 2
+e 220 94 2
+e 221 120 2
+e 222 223 2
+e 223 224 2
+e 224 142 2
+e 225 12 2
+e 226 227 2
+e 227 14 2
+e 228 146 2
+e 229 230 2
+e 230 231 2
+e 231 139 2
+e 232 233 2
+e 232 246 2
+e 233 234 2
+e 233 84 2
+e 234 232 2
+e 234 124 2
+e 235 20 2
+e 236 237 2
+e 237 238 2
+e 238 239 2
+e 239 240 2
+e 240 241 2
+e 241 234 2
+e 242 243 2
+e 243 134 2
+e 244 245 2
+e 245 232 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 63 2
+e 249 256 2
+e 250 251 2
+e 251 43 2
+e 252 50 2
+e 253 254 2
+e 254 157 2
+e 255 172 2
+e 256 44 2
+e 257 258 2
+e 258 66 2
+e 258 93 2
+e 259 71 2
+e 260 256 2
+e 261 262 2
+e 262 155 2
+e 263 264 2
+e 264 265 2
+e 265 266 2
+e 266 267 2
+e 267 268 2
+e 268 143 2
+e 269 270 2
+e 270 271 2
+e 271 272 2
+e 272 59 2
+e 273 24 2
+e 274 50 2
+e 275 258 2
+e 276 277 2
+e 277 278 2
+e 278 70 2
+e 279 161 2
+e 280 281 2
+t # -1

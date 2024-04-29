@@ -1,0 +1,9706 @@
+t # 0
+v 0 suffer
+v 1 typhoid
+v 2 fever
+v 3 attack
+v 4 salmonella
+v 5 typhi
+v 6 bacteria
+v 7 kind
+v 8 rare
+v 9 develop
+v 10 countri
+v 11 sever
+v 12 threat
+v 13 world
+v 14 like
+v 15 india
+v 16 main
+v 17 among
+v 18 children
+v 19 eat
+v 20 contamin
+v 21 water
+v 22 food
+v 23 even
+v 24 get
+v 25 close
+v 26 contact
+v 27 infect
+v 28 person
+v 29 reason
+v 30 behind
+v 31 common
+v 32 symptom
+v 33 headach
+v 34 high
+v 35 stomach
+v 36 pain
+v 37 ever
+v 38 feel
+v 39 first
+v 40 thing
+v 41 need
+v 42 done
+v 43 opt
+v 44 test
+v 45 team
+v 46 remedi
+v 47 lab
+v 48 alway
+v 49 readi
+v 50 help
+v 51 explor
+v 52 option
+v 53 choos
+v 54 anyon
+v 55 depend
+v 56 doctor
+v 57 recommend
+v 58 follow
+v 59 suggest
+v 60 focus
+v 61 quick
+v 62 catch
+v 63 chanc
+v 64 start
+v 65 treatment
+v 66 asap
+v 67 sign
+v 68 design
+v 69 gradual
+v 70 most
+v 71 appear
+v 72 1
+v 73 3
+v 74 week
+v 75 exposur
+v 76 diseas
+v 77 earli
+v 78 ill
+v 79 low
+v 80 slowli
+v 81 reach
+v 82 markweak
+v 83 fatigueheadachesweatingmuscl
+v 84 achesdri
+v 85 coughstomach
+v 86 painweight
+v 87 lossloss
+v 88 appetiterashdiarrhoea
+v 89 constipationswollen
+v 90 fail
+v 91 proper
+v 92 issu
+v 93 subject
+v 94 grow
+v 95 becom
+v 96 deliri
+v 97 motionless
+v 98 exhaust
+v 99 eye
+v 100 halfclos
+v 101 check
+v 102 essenti
+v 103 lifethreaten
+v 104 complic
+v 105 time
+v 106 sometim
+v 107 return
+v 108 around
+v 109 two
+v 110 subsid
+v 111 see
+v 112 one
+v 113 us
+v 114 right
+v 115 visit
+v 116 along
+v 117 mandatori
+v 118 without
+v 119 wast
+v 120 immedi
+v 121 think
+v 122 ask
+v 123 go
+v 124 enjoy
+v 125 accur
+v 126 report
+v 127 everi
+v 128 rescu
+v 129 process
+v 130 reli
+v 131 busi
+v 132 long
+v 133 present
+v 134 patient
+v 135 difficult
+v 136 anymor
+v 137 caus
+v 138 diagnos
+v 139 danger
+v 140 refer
+v 141 list
+v 142 faecal
+v 143 oral
+v 144 transmiss
+v 145 rout
+v 146 peopl
+v 147 spread
+v 148 rest
+v 149 faecalor
+v 150 mean
+v 151 bacterium
+v 152 pass
+v 153 faec
+v 154 urin
+v 155 consum
+v 156 handl
+v 157 yet
+v 158 anoth
+v 159 mani
+v 160 victim
+v 161 drink
+v 162 item
+v 163 alreadi
+v 164 awar
+v 165 plan
+v 166 point
+v 167 stay
+v 168 hundr
+v 169 feet
+v 170 away
+v 171 prevent
+v 172 measur
+v 173 learn
+v 174 crucial
+v 175 dont
+v 176 want
+v 177 associ
+v 178 dead
+v 179 save
+v 180 money
+v 181 fee
+v 182 medicin
+v 183 accord
+v 184 safe
+v 185 improv
+v 186 sanit
+v 187 control
+v 188 feverprop
+v 189 medic
+v 190 care
+v 191 come
+v 192 also
+v 193 followin
+v 194 nation
+v 195 achiev
+v 196 expert
+v 197 work
+v 198 vaccin
+v 199 part
+v 200 feverther
+v 201 type
+v 202 avail
+v 203 singl
+v 204 shot
+v 205 travel
+v 206 capsul
+v 207 taken
+v 208 daili
+v 209 troubl
+v 210 furthermor
+v 211 would
+v 212 went
+v 213 stand
+v 214 health
+v 215 relev
+v 216 result
+v 217 way
+v 218 call
+v 219 blood
+v 220 sampl
+v 221 analysi
+v 222 examin
+v 223 condit
+v 224 microscop
+v 225 presenc
+v 226 instanc
+v 227 detect
+v 228 within
+v 229 trial
+v 230 case
+v 231 must
+v 232 undergo
+v 233 seri
+v 234 method
+v 235 use
+v 236 widal
+v 237 teststool
+v 238 culturesblood
+v 239 culturestyphi
+v 240 igm
+v 241 whenev
+v 242 confirm
+v 243 famili
+v 244 member
+v 245 side
+v 246 effect
+v 247 antibiot
+v 248 therapi
+v 249 proven
+v 250 take
+v 251 prescrib
+v 252 ciprofloxacin
+v 253 azithromycin
+v 254 ceftriaxon
+v 255 howev
+v 256 drug
+v 257 longterm
+v 258 antibioticresist
+v 259 correct
+v 260 dosag
+v 261 tri
+v 262 avoid
+v 263 getgo
+v 264 next
+v 265 offer
+v 266 instant
+v 267 know
+v 268 signific
+v 269 involv
+v 270 websit
+v 271 917799
+v 272 721
+v 273 212
+v 274 send
+v 275 queri
+v 276 inforemedieslabscom
+v 277 faq
+v 278 individu
+v 279 end
+v 280 wash
+v 281 toilet
+v 282 touch
+v 283 mouth
+v 284 hand
+v 285 day
+v 286 last
+v 287 period
+v 288 7
+v 289 10
+v 290 soon
+v 291 enough
+v 292 left
+v 293 untreat
+v 294 best
+v 295 treat
+v 296 good
+e 0 1 2
+e 1 2 2
+e 1 44 2
+e 1 188 2
+e 1 17 2
+e 2 3 2
+e 2 8 2
+e 2 31 2
+e 2 35 2
+e 2 32 2
+e 2 64 2
+e 2 110 2
+e 2 65 2
+e 2 39 2
+e 2 120 2
+e 2 1 2
+e 2 138 2
+e 2 137 2
+e 2 148 2
+e 2 161 2
+e 2 105 2
+e 2 44 2
+e 2 34 2
+e 2 102 2
+e 2 24 2
+e 2 236 2
+e 2 262 2
+e 2 46 2
+e 2 217 2
+e 2 286 2
+e 2 235 2
+e 3 4 2
+e 4 5 2
+e 5 6 2
+e 5 226 2
+e 6 7 2
+e 6 140 2
+e 6 24 2
+e 6 62 2
+e 7 2 2
+e 7 200 2
+e 8 9 2
+e 9 10 2
+e 9 13 2
+e 9 69 2
+e 9 105 2
+e 9 194 2
+e 9 258 2
+e 9 1 2
+e 10 11 2
+e 11 12 2
+e 11 44 2
+e 12 9 2
+e 13 14 2
+e 14 15 2
+e 14 55 2
+e 15 16 2
+e 15 146 2
+e 16 17 2
+e 16 139 2
+e 17 18 2
+e 17 278 2
+e 18 19 2
+e 19 20 2
+e 19 22 2
+e 20 21 2
+e 20 22 2
+e 20 281 2
+e 21 22 2
+e 21 151 2
+e 21 185 2
+e 21 19 2
+e 21 9 2
+e 22 23 2
+e 22 27 2
+e 22 162 2
+e 22 280 2
+e 23 24 2
+e 23 2 2
+e 23 27 2
+e 24 25 2
+e 24 64 2
+e 24 91 2
+e 24 44 2
+e 24 116 2
+e 24 26 2
+e 24 1 2
+e 24 209 2
+e 24 138 2
+e 24 227 2
+e 24 222 2
+e 24 266 2
+e 25 26 2
+e 26 27 2
+e 26 112 2
+e 27 28 2
+e 27 146 2
+e 27 163 2
+e 28 29 2
+e 28 154 2
+e 28 156 2
+e 29 30 2
+e 30 1 2
+e 31 32 2
+e 31 251 2
+e 31 247 2
+e 32 33 2
+e 32 39 2
+e 32 58 2
+e 32 63 2
+e 32 68 2
+e 32 2 2
+e 32 92 2
+e 32 102 2
+e 32 107 2
+e 33 34 2
+e 34 2 2
+e 34 24 2
+e 34 82 2
+e 34 174 2
+e 35 36 2
+e 35 90 2
+e 36 37 2
+e 37 38 2
+e 37 155 2
+e 37 24 2
+e 38 32 2
+e 39 40 2
+e 39 61 2
+e 39 122 2
+e 39 229 2
+e 40 41 2
+e 41 42 2
+e 41 44 2
+e 42 43 2
+e 43 1 2
+e 44 45 2
+e 44 53 2
+e 44 113 2
+e 44 124 2
+e 44 131 2
+e 44 173 2
+e 44 46 2
+e 44 50 2
+e 44 1 2
+e 44 241 2
+e 44 242 2
+e 44 216 2
+e 44 269 2
+e 45 46 2
+e 46 47 2
+e 47 48 2
+e 47 171 2
+e 47 218 2
+e 47 234 2
+e 47 65 2
+e 47 265 2
+e 48 49 2
+e 48 128 2
+e 48 130 2
+e 49 50 2
+e 50 51 2
+e 50 187 2
+e 50 212 2
+e 50 1 2
+e 51 52 2
+e 52 1 2
+e 53 54 2
+e 54 14 2
+e 55 56 2
+e 55 126 2
+e 56 57 2
+e 56 24 2
+e 56 120 2
+e 56 64 2
+e 56 181 2
+e 56 259 2
+e 57 32 2
+e 57 294 2
+e 58 59 2
+e 58 1 2
+e 58 15 2
+e 58 166 2
+e 58 173 2
+e 58 171 2
+e 59 60 2
+e 59 115 2
+e 60 1 2
+e 60 120 2
+e 60 166 2
+e 61 62 2
+e 62 32 2
+e 62 56 2
+e 63 34 2
+e 64 65 2
+e 64 79 2
+e 64 246 2
+e 65 66 2
+e 65 58 2
+e 65 129 2
+e 65 165 2
+e 65 250 2
+e 65 120 2
+e 65 1 2
+e 66 67 2
+e 66 103 2
+e 66 117 2
+e 67 32 2
+e 67 95 2
+e 68 9 2
+e 68 171 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 74 23 2
+e 74 205 2
+e 74 294 2
+e 75 76 2
+e 76 77 2
+e 76 24 2
+e 76 179 2
+e 77 78 2
+e 78 32 2
+e 79 80 2
+e 80 81 2
+e 81 34 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 35 2
+e 90 24 2
+e 91 65 2
+e 91 186 2
+e 92 93 2
+e 93 94 2
+e 94 67 2
+e 95 96 2
+e 95 160 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 101 1 2
+e 101 225 2
+e 102 64 2
+e 102 175 2
+e 102 261 2
+e 103 104 2
+e 104 9 2
+e 105 106 2
+e 105 115 2
+e 105 59 2
+e 105 45 2
+e 105 135 2
+e 105 60 2
+e 105 191 2
+e 105 64 2
+e 105 261 2
+e 105 24 2
+e 106 67 2
+e 107 108 2
+e 108 109 2
+e 109 74 2
+e 109 201 2
+e 110 111 2
+e 111 112 2
+e 112 24 2
+e 112 159 2
+e 112 27 2
+e 112 74 2
+e 113 114 2
+e 113 46 2
+e 113 105 2
+e 113 271 2
+e 114 105 2
+e 115 56 2
+e 115 270 2
+e 116 1 2
+e 117 118 2
+e 117 193 2
+e 118 119 2
+e 119 105 2
+e 120 121 2
+e 120 48 2
+e 120 65 2
+e 120 267 2
+e 121 1 2
+e 122 123 2
+e 123 44 2
+e 124 125 2
+e 125 126 2
+e 125 216 2
+e 126 127 2
+e 126 56 2
+e 126 64 2
+e 127 105 2
+e 128 55 2
+e 128 215 2
+e 129 1 2
+e 129 290 2
+e 130 1 2
+e 131 132 2
+e 132 133 2
+e 132 286 2
+e 133 134 2
+e 134 125 2
+e 135 136 2
+e 135 195 2
+e 136 137 2
+e 137 30 2
+e 137 142 2
+e 137 58 2
+e 137 1 2
+e 137 245 2
+e 138 16 2
+e 138 1 2
+e 139 6 2
+e 140 141 2
+e 141 1 2
+e 142 143 2
+e 143 144 2
+e 143 206 2
+e 144 145 2
+e 145 27 2
+e 145 150 2
+e 146 147 2
+e 146 95 2
+e 146 279 2
+e 147 1 2
+e 147 20 2
+e 148 149 2
+e 149 145 2
+e 150 151 2
+e 151 152 2
+e 151 147 2
+e 152 153 2
+e 153 23 2
+e 154 37 2
+e 154 219 2
+e 155 22 2
+e 156 157 2
+e 157 158 2
+e 158 112 2
+e 158 143 2
+e 159 1 2
+e 159 285 2
+e 160 1 2
+e 161 20 2
+e 161 184 2
+e 162 37 2
+e 163 164 2
+e 164 137 2
+e 165 58 2
+e 165 187 2
+e 165 44 2
+e 165 247 2
+e 166 167 2
+e 166 68 2
+e 167 168 2
+e 168 169 2
+e 169 170 2
+e 170 76 2
+e 171 172 2
+e 171 1 2
+e 172 58 2
+e 172 183 2
+e 173 171 2
+e 173 213 2
+e 174 175 2
+e 175 176 2
+e 176 177 2
+e 176 24 2
+e 177 178 2
+e 178 76 2
+e 179 180 2
+e 180 56 2
+e 181 182 2
+e 182 58 2
+e 183 161 2
+e 184 21 2
+e 185 186 2
+e 186 50 2
+e 186 196 2
+e 187 1 2
+e 187 7 2
+e 188 189 2
+e 189 190 2
+e 189 263 2
+e 190 105 2
+e 190 1 2
+e 191 192 2
+e 192 117 2
+e 192 137 2
+e 193 9 2
+e 194 135 2
+e 195 91 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 198 202 2
+e 199 1 2
+e 200 109 2
+e 201 198 2
+e 202 203 2
+e 202 246 2
+e 203 204 2
+e 204 112 2
+e 205 158 2
+e 205 173 2
+e 206 207 2
+e 207 208 2
+e 208 205 2
+e 209 210 2
+e 210 211 2
+e 211 50 2
+e 212 11 2
+e 213 214 2
+e 214 45 2
+e 215 216 2
+e 216 217 2
+e 216 245 2
+e 216 105 2
+e 217 1 2
+e 217 235 2
+e 218 154 2
+e 218 113 2
+e 218 56 2
+e 219 220 2
+e 220 221 2
+e 221 222 2
+e 222 223 2
+e 222 1 2
+e 223 224 2
+e 224 101 2
+e 225 4 2
+e 226 6 2
+e 227 228 2
+e 228 39 2
+e 229 230 2
+e 230 231 2
+e 231 232 2
+e 232 233 2
+e 233 1 2
+e 234 235 2
+e 235 44 2
+e 235 9 2
+e 235 20 2
+e 235 253 2
+e 236 237 2
+e 237 238 2
+e 238 239 2
+e 239 240 2
+e 240 44 2
+e 241 44 2
+e 242 243 2
+e 243 244 2
+e 244 41 2
+e 245 113 2
+e 245 246 2
+e 246 1 2
+e 246 257 2
+e 246 295 2
+e 247 248 2
+e 247 252 2
+e 248 249 2
+e 248 202 2
+e 249 65 2
+e 250 190 2
+e 250 189 2
+e 251 247 2
+e 252 253 2
+e 253 254 2
+e 254 255 2
+e 254 296 2
+e 255 256 2
+e 256 192 2
+e 257 235 2
+e 258 6 2
+e 259 260 2
+e 260 102 2
+e 261 60 2
+e 261 24 2
+e 262 250 2
+e 263 264 2
+e 264 105 2
+e 265 125 2
+e 266 126 2
+e 267 268 2
+e 268 44 2
+e 269 115 2
+e 270 218 2
+e 271 272 2
+e 272 273 2
+e 273 274 2
+e 274 275 2
+e 275 276 2
+e 276 277 2
+e 277 137 2
+e 278 146 2
+e 279 161 2
+e 280 21 2
+e 280 284 2
+e 281 282 2
+e 282 283 2
+e 283 280 2
+e 284 159 2
+e 285 2 2
+e 285 64 2
+e 286 1 2
+e 286 287 2
+e 286 73 2
+e 287 288 2
+e 288 289 2
+e 289 285 2
+e 290 291 2
+e 291 292 2
+e 292 293 2
+e 293 132 2
+e 294 65 2
+e 295 1 2
+e 296 218 2
+t # 1
+v 0 parasit
+v 1 caus
+v 2 malaria
+v 3 spread
+v 4 human
+v 5 mosquito
+v 6 bite
+v 7 learn
+v 8 prevent
+v 9 measur
+v 10 essenti
+v 11 dont
+v 12 want
+v 13 fall
+v 14 serious
+v 15 ill
+v 16 peopl
+v 17 suffer
+v 18 most
+v 19 feel
+v 20 sick
+v 21 shake
+v 22 chill
+v 23 high
+v 24 fever
+v 25 diseas
+v 26 uncommon
+v 27 temper
+v 28 climat
+v 29 common
+v 30 tropic
+v 31 even
+v 32 subtrop
+v 33 countri
+v 34 like
+v 35 india
+v 36 around
+v 37 290
+v 38 get
+v 39 infect
+v 40 400000
+v 41 die
+v 42 global
+v 43 count
+v 44 remedi
+v 45 lab
+v 46 discuss
+v 47 tad
+v 48 bit
+v 49 along
+v 50 focus
+v 51 type
+v 52 understand
+v 53 right
+v 54 treatment
+v 55 plan
+v 56 cover
+v 57 five
+v 58 differ
+v 59 speci
+v 60 affect
+v 61 among
+v 62 lot
+v 63 two
+v 64 consid
+v 65 pretti
+v 66 dead
+v 67 p
+v 68 falciparum
+v 69 known
+v 70 sever
+v 71 death
+v 72 bacterium
+v 73 multipli
+v 74 quick
+v 75 clog
+v 76 blood
+v 77 vessel
+v 78 lossp
+v 79 vivax
+v 80 anoth
+v 81 one
+v 82 well
+v 83 note
+v 84 found
+v 85 outsid
+v 86 dri
+v 87 area
+v 88 lie
+v 89 dormant
+v 90 rise
+v 91 month
+v 92 year
+v 93 bitten
+v 94 know
+v 95 time
+v 96 need
+v 97 test
+v 98 attack
+v 99 join
+v 100 us
+v 101 accur
+v 102 report
+v 103 everi
+v 104 symptom
+v 105 follow
+v 106 similar
+v 107 flu
+v 108 list
+v 109 bodysw
+v 110 feverfatigueheadachemuscl
+v 111 crampschest
+v 112 painbreath
+v 113 problem
+v 114 coughnausea
+v 115 diarrhoea
+v 116 vomit
+v 117 worsen
+v 118 come
+v 119 across
+v 120 jaundic
+v 121 anaemia
+v 122 form
+v 123 cerebr
+v 124 might
+v 125 progress
+v 126 coma
+v 127 without
+v 128 wast
+v 129 seen
+v 130 opt
+v 131 help
+v 132 doctor
+v 133 current
+v 134 stand
+v 135 start
+v 136 procedur
+v 137 asap
+v 138 welcom
+v 139 away
+v 140 diagnosi
+v 141 examin
+v 142 ask
+v 143 also
+v 144 love
+v 145 travel
+v 146 histori
+v 147 good
+v 148 guess
+v 149 regard
+v 150 share
+v 151 valid
+v 152 inform
+v 153 visit
+v 154 recent
+v 155 vital
+v 156 risk
+v 157 big
+v 158 take
+v 159 sampl
+v 160 send
+v 161 see
+v 162 withth
+v 163 critic
+v 164 identifi
+v 165 symptomsw
+v 166 proceed
+v 167 present
+v 168 healthcar
+v 169 provid
+v 170 devis
+v 171 recommend
+v 172 medicin
+v 173 kill
+v 174 howev
+v 175 resist
+v 176 drug
+v 177 combin
+v 178 determin
+v 179 medic
+v 180 long
+v 181 effect
+v 182 antimalari
+v 183 atovaquonechloroquineartemisinin
+v 184 drugsdoxycyclineprimaquinequininemefloquin
+v 185 look
+v 186 best
+v 187 treatmentbas
+v 188 rid
+v 189 bacteria
+v 190 soon
+v 191 possibl
+v 192 thank
+v 193 prescrib
+v 194 side
+v 195 inde
+v 196 noth
+v 197 worri
+v 198 rare
+v 199 treat
+v 200 fail
+v 201 alway
+v 202 let
+v 203 easili
+v 204 interfer
+v 205 depend
+v 206 headachesgi
+v 207 gastrointestin
+v 208 issu
+v 209 nauseaincreas
+v 210 sensit
+v 211 sunlightpsycholog
+v 212 disord
+v 213 vision
+v 214 issuesdisturb
+v 215 dream
+v 216 insomniaanaemia
+v 217 seizur
+v 218 avoid
+v 219 use
+v 220 alon
+v 221 wait
+v 222 welltrain
+v 223 resid
+v 224 expect
+v 225 suggest
+v 226 chat
+v 227 method
+v 228 proper
+v 229 stay
+v 230 malariainfect
+v 231 mandatorymedicin
+v 232 reduc
+v 233 chanc
+v 234 infectedit
+v 235 make
+v 236 sure
+v 237 appli
+v 238 repel
+v 239 cream
+v 240 deet
+v 241 expos
+v 242 skinb
+v 243 net
+v 244 bitingif
+v 245 stagnant
+v 246 water
+v 247 bodi
+v 248 near
+v 249 hous
+v 250 put
+v 251 screen
+v 252 door
+v 253 windowstreat
+v 254 cloth
+v 255 tent
+v 256 sleep
+v 257 bag
+v 258 fabric
+v 259 materi
+v 260 insectrepel
+v 261 spray
+v 262 creamtri
+v 263 wear
+v 264 longsleev
+v 265 item
+v 266 pant
+v 267 skin
+v 268 watch
+v 269 confirm
+v 270 perfect
+v 271 clinic
+v 272 diagnost
+v 273 centr
+v 274 ever
+v 275 face
+v 276 lead
+v 277 kind
+v 278 book
+v 279 appoint
+v 280 call
+v 281 917799
+v 282 721
+v 283 212
+v 284 email
+v 285 inforemedieslabscom
+v 286 detail
+v 287 faq
+v 288 consist
+v 289 stage
+v 290 first
+v 291 10
+v 292 15
+v 293 minut
+v 294 cold
+v 295 shiver
+v 296 hot
+v 297 2
+v 298 6
+v 299 hour
+v 300 reach
+v 301 41
+v 302 degre
+v 303 c
+v 304 last
+v 305 diagnos
+v 306 earli
+v 307 cure
+v 308 within
+v 309 week
+v 310 live
+v 311 anywher
+v 312 repeat
+v 313 process
+v 314 longer
+v 315 usual
+v 316 main
+v 317 coupl
+v 318 general
+v 319 discomfort
+v 320 headach
+v 321 nausea
+e 0 1 2
+e 0 2 2
+e 0 18 2
+e 0 129 2
+e 0 51 2
+e 0 174 2
+e 0 23 2
+e 1 2 2
+e 1 70 2
+e 1 75 2
+e 1 165 2
+e 1 194 2
+e 2 3 2
+e 2 8 2
+e 2 18 2
+e 2 29 2
+e 2 24 2
+e 2 10 2
+e 2 69 2
+e 2 51 2
+e 2 0 2
+e 2 95 2
+e 2 104 2
+e 2 123 2
+e 2 124 2
+e 2 97 2
+e 2 39 2
+e 2 131 2
+e 2 54 2
+e 2 176 2
+e 2 187 2
+e 2 223 2
+e 2 224 2
+e 2 132 2
+e 2 218 2
+e 2 2 2
+e 2 288 2
+e 2 135 2
+e 3 4 2
+e 4 5 2
+e 4 61 2
+e 5 6 2
+e 5 238 2
+e 5 243 2
+e 6 7 2
+e 6 235 2
+e 7 2 2
+e 7 145 2
+e 7 227 2
+e 8 9 2
+e 8 2 2
+e 8 244 2
+e 9 10 2
+e 9 50 2
+e 9 38 2
+e 9 95 2
+e 10 11 2
+e 10 38 2
+e 10 131 2
+e 10 12 2
+e 10 158 2
+e 11 12 2
+e 12 13 2
+e 12 38 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 38 2
+e 16 41 2
+e 17 2 2
+e 17 132 2
+e 18 19 2
+e 18 84 2
+e 19 20 2
+e 19 153 2
+e 19 22 2
+e 19 320 2
+e 20 21 2
+e 21 22 2
+e 21 109 2
+e 22 23 2
+e 22 21 2
+e 22 318 2
+e 23 24 2
+e 23 175 2
+e 23 232 2
+e 24 25 2
+e 24 49 2
+e 24 274 2
+e 24 2 2
+e 24 296 2
+e 24 300 2
+e 24 304 2
+e 25 26 2
+e 25 40 2
+e 25 117 2
+e 25 278 2
+e 26 27 2
+e 27 28 2
+e 28 2 2
+e 29 30 2
+e 29 0 2
+e 29 81 2
+e 30 31 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 33 153 2
+e 34 35 2
+e 34 120 2
+e 34 115 2
+e 35 36 2
+e 36 37 2
+e 37 16 2
+e 38 39 2
+e 38 53 2
+e 38 76 2
+e 38 135 2
+e 38 147 2
+e 38 188 2
+e 38 234 2
+e 38 101 2
+e 39 25 2
+e 39 76 2
+e 39 162 2
+e 39 54 2
+e 40 16 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 43 72 2
+e 44 45 2
+e 45 46 2
+e 45 101 2
+e 45 53 2
+e 45 161 2
+e 45 132 2
+e 45 222 2
+e 45 97 2
+e 45 270 2
+e 46 47 2
+e 47 48 2
+e 48 2 2
+e 49 8 2
+e 49 19 2
+e 50 51 2
+e 50 182 2
+e 51 52 2
+e 51 2 2
+e 51 67 2
+e 51 150 2
+e 51 1 2
+e 51 17 2
+e 51 178 2
+e 52 51 2
+e 52 156 2
+e 53 54 2
+e 53 139 2
+e 53 172 2
+e 53 179 2
+e 54 55 2
+e 54 136 2
+e 54 183 2
+e 54 313 2
+e 55 56 2
+e 55 96 2
+e 55 54 2
+e 55 105 2
+e 55 137 2
+e 56 57 2
+e 56 267 2
+e 57 58 2
+e 58 59 2
+e 58 2 2
+e 59 60 2
+e 59 69 2
+e 59 98 2
+e 60 4 2
+e 61 62 2
+e 61 2 2
+e 62 63 2
+e 62 314 2
+e 63 64 2
+e 63 289 2
+e 64 65 2
+e 65 66 2
+e 65 106 2
+e 66 67 2
+e 66 81 2
+e 67 68 2
+e 67 79 2
+e 68 29 2
+e 69 1 2
+e 69 88 2
+e 70 71 2
+e 70 76 2
+e 70 122 2
+e 71 43 2
+e 72 73 2
+e 73 74 2
+e 74 1 2
+e 74 199 2
+e 75 76 2
+e 76 77 2
+e 76 78 2
+e 76 91 2
+e 76 97 2
+e 76 102 2
+e 76 159 2
+e 77 70 2
+e 78 79 2
+e 79 61 2
+e 79 80 2
+e 80 29 2
+e 81 65 2
+e 81 82 2
+e 81 108 2
+e 81 22 2
+e 82 83 2
+e 82 196 2
+e 83 2 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 59 2
+e 87 231 2
+e 88 89 2
+e 89 90 2
+e 90 39 2
+e 91 92 2
+e 92 93 2
+e 93 94 2
+e 94 51 2
+e 94 59 2
+e 94 133 2
+e 94 0 2
+e 94 172 2
+e 95 38 2
+e 95 104 2
+e 95 129 2
+e 95 138 2
+e 95 158 2
+e 95 268 2
+e 95 316 2
+e 96 38 2
+e 96 158 2
+e 97 94 2
+e 97 10 2
+e 97 102 2
+e 97 140 2
+e 97 163 2
+e 97 194 2
+e 97 269 2
+e 97 287 2
+e 98 99 2
+e 99 100 2
+e 100 44 2
+e 100 38 2
+e 100 52 2
+e 100 94 2
+e 100 164 2
+e 100 281 2
+e 100 285 2
+e 101 76 2
+e 101 2 2
+e 101 102 2
+e 102 103 2
+e 102 95 2
+e 102 44 2
+e 102 2 2
+e 103 95 2
+e 104 105 2
+e 104 65 2
+e 104 34 2
+e 104 130 2
+e 104 143 2
+e 104 19 2
+e 104 276 2
+e 104 2 2
+e 105 2 2
+e 105 155 2
+e 105 194 2
+e 105 8 2
+e 105 158 2
+e 106 107 2
+e 107 81 2
+e 108 29 2
+e 109 110 2
+e 110 111 2
+e 111 112 2
+e 112 113 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 115 209 2
+e 115 104 2
+e 116 25 2
+e 117 118 2
+e 118 119 2
+e 118 99 2
+e 119 58 2
+e 120 121 2
+e 121 70 2
+e 122 2 2
+e 123 2 2
+e 124 125 2
+e 124 171 2
+e 125 126 2
+e 126 127 2
+e 127 128 2
+e 127 200 2
+e 128 95 2
+e 129 104 2
+e 129 131 2
+e 130 2 2
+e 131 132 2
+e 131 100 2
+e 131 53 2
+e 131 8 2
+e 132 94 2
+e 132 170 2
+e 132 171 2
+e 132 124 2
+e 132 2 2
+e 132 193 2
+e 132 74 2
+e 132 131 2
+e 132 7 2
+e 133 134 2
+e 134 38 2
+e 135 54 2
+e 135 2 2
+e 135 23 2
+e 136 137 2
+e 137 101 2
+e 137 132 2
+e 138 118 2
+e 139 97 2
+e 139 280 2
+e 140 141 2
+e 141 142 2
+e 142 2 2
+e 143 144 2
+e 143 10 2
+e 144 7 2
+e 145 146 2
+e 146 131 2
+e 147 148 2
+e 148 149 2
+e 149 2 2
+e 150 151 2
+e 151 152 2
+e 152 33 2
+e 152 168 2
+e 153 154 2
+e 153 44 2
+e 154 155 2
+e 155 131 2
+e 155 135 2
+e 156 157 2
+e 157 95 2
+e 158 76 2
+e 158 180 2
+e 158 195 2
+e 158 176 2
+e 158 8 2
+e 159 160 2
+e 160 45 2
+e 161 2 2
+e 162 76 2
+e 163 161 2
+e 164 0 2
+e 165 166 2
+e 166 167 2
+e 167 152 2
+e 167 132 2
+e 167 176 2
+e 168 169 2
+e 169 7 2
+e 169 94 2
+e 170 53 2
+e 171 172 2
+e 171 176 2
+e 171 228 2
+e 172 173 2
+e 172 0 2
+e 172 105 2
+e 172 158 2
+e 172 194 2
+e 173 0 2
+e 174 94 2
+e 175 2 2
+e 176 132 2
+e 176 177 2
+e 176 167 2
+e 176 195 2
+e 176 203 2
+e 176 229 2
+e 177 172 2
+e 177 218 2
+e 178 179 2
+e 179 96 2
+e 179 10 2
+e 179 220 2
+e 179 55 2
+e 180 181 2
+e 180 266 2
+e 180 2 2
+e 181 182 2
+e 181 50 2
+e 181 82 2
+e 181 198 2
+e 181 206 2
+e 181 167 2
+e 182 176 2
+e 183 184 2
+e 184 185 2
+e 185 186 2
+e 186 2 2
+e 187 179 2
+e 188 189 2
+e 188 2 2
+e 189 190 2
+e 190 191 2
+e 191 192 2
+e 192 97 2
+e 193 53 2
+e 194 181 2
+e 194 44 2
+e 195 69 2
+e 195 182 2
+e 196 197 2
+e 197 194 2
+e 198 199 2
+e 199 127 2
+e 199 194 2
+e 199 307 2
+e 200 201 2
+e 201 202 2
+e 202 168 2
+e 203 204 2
+e 204 205 2
+e 205 172 2
+e 206 207 2
+e 207 208 2
+e 208 34 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 216 217 2
+e 217 132 2
+e 218 219 2
+e 218 5 2
+e 219 179 2
+e 219 5 2
+e 220 221 2
+e 221 2 2
+e 222 132 2
+e 223 2 2
+e 224 225 2
+e 225 226 2
+e 226 132 2
+e 227 131 2
+e 228 172 2
+e 229 230 2
+e 230 87 2
+e 231 23 2
+e 232 233 2
+e 233 38 2
+e 234 143 2
+e 235 236 2
+e 236 237 2
+e 236 219 2
+e 237 5 2
+e 238 239 2
+e 239 240 2
+e 240 241 2
+e 241 242 2
+e 242 236 2
+e 243 8 2
+e 244 245 2
+e 245 246 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 250 2
+e 250 251 2
+e 251 252 2
+e 252 253 2
+e 253 254 2
+e 254 255 2
+e 254 265 2
+e 255 256 2
+e 256 257 2
+e 257 258 2
+e 258 259 2
+e 259 260 2
+e 260 261 2
+e 261 262 2
+e 262 263 2
+e 263 264 2
+e 264 254 2
+e 265 180 2
+e 266 56 2
+e 267 8 2
+e 268 104 2
+e 269 44 2
+e 270 271 2
+e 271 272 2
+e 272 273 2
+e 273 38 2
+e 274 275 2
+e 275 104 2
+e 276 277 2
+e 277 25 2
+e 277 24 2
+e 278 279 2
+e 279 53 2
+e 280 100 2
+e 281 282 2
+e 282 283 2
+e 283 284 2
+e 284 100 2
+e 285 286 2
+e 286 97 2
+e 287 277 2
+e 288 63 2
+e 289 290 2
+e 289 295 2
+e 289 297 2
+e 290 291 2
+e 291 292 2
+e 292 293 2
+e 293 294 2
+e 294 289 2
+e 295 24 2
+e 296 289 2
+e 297 298 2
+e 297 309 2
+e 298 299 2
+e 299 24 2
+e 299 49 2
+e 300 301 2
+e 301 302 2
+e 302 303 2
+e 303 180 2
+e 304 305 2
+e 304 317 2
+e 305 306 2
+e 306 199 2
+e 307 308 2
+e 308 297 2
+e 309 310 2
+e 309 95 2
+e 310 311 2
+e 311 312 2
+e 312 39 2
+e 313 62 2
+e 314 315 2
+e 315 297 2
+e 316 104 2
+e 317 299 2
+e 318 319 2
+e 319 19 2
+e 320 321 2
+e 321 115 2
+t # 2
+v 0 dengu
+v 1 fever
+v 2 inde
+v 3 pretti
+v 4 pain
+v 5 mosquitoborn
+v 6 diseas
+v 7 caus
+v 8 one
+v 9 four
+v 10 virus
+v 11 most
+v 12 relat
+v 13 yellow
+v 14 west
+v 15 nile
+v 16 infect
+v 17 research
+v 18 materi
+v 19 establish
+v 20 400
+v 21 million
+v 22 occur
+v 23 worldwid
+v 24 year
+v 25 around
+v 26 96
+v 27 result
+v 28 ill
+v 29 symptom
+v 30 side
+v 31 insist
+v 32 consult
+v 33 doctor
+v 34 case
+v 35 primarili
+v 36 tropic
+v 37 area
+v 38 like
+v 39 indian
+v 40 subcontin
+v 41 southern
+v 42 china
+v 43 southeast
+v 44 asia
+v 45 transmit
+v 46 aed
+v 47 mosquito
+v 48 bite
+v 49 alreadi
+v 50 get
+v 51 person
+v 52 blood
+v 53 fail
+v 54 spread
+v 55 victim
+v 56 anoth
+v 57 direct
+v 58 visit
+v 59 us
+v 60 remedi
+v 61 lab
+v 62 next
+v 63 time
+v 64 want
+v 65 test
+v 66 done
+v 67 explor
+v 68 variat
+v 69 provid
+v 70 solid
+v 71 accur
+v 72 follow
+v 73 proceed
+v 74 treatment
+v 75 expert
+v 76 discuss
+v 77 involv
+v 78 begin
+v 79 4
+v 80 6
+v 81 day
+v 82 last
+v 83 ten
+v 84 common
+v 85 see
+v 86 list
+v 87 refer
+v 88 mild
+v 89 bleed
+v 90 gum
+v 91 nose
+v 92 easi
+v 93 bruisingskin
+v 94 rash
+v 95 appear
+v 96 2
+v 97 5
+v 98 onsetvomit
+v 99 nausea
+v 100 tendencyfatiguesever
+v 101 muscl
+v 102 joint
+v 103 painpain
+v 104 behind
+v 105 eyeshardcor
+v 106 headacheshigh
+v 107 sudden
+v 108 mistaken
+v 109 viral
+v 110 type
+v 111 flu
+v 112 younger
+v 113 peopl
+v 114 arent
+v 115 affect
+v 116 milder
+v 117 adult
+v 118 older
+v 119 children
+v 120 serious
+v 121 issu
+v 122 take
+v 123 place
+v 124 hemorrhag
+v 125 feverdamag
+v 126 vessel
+v 127 lymphgum
+v 128 bleedingliv
+v 129 enlargementfailur
+v 130 circulatori
+v 131 system
+v 132 avoid
+v 133 chanc
+v 134 mandatori
+v 135 book
+v 136 whenev
+v 137 face
+v 138 instant
+v 139 help
+v 140 move
+v 141 right
+v 142 plan
+v 143 asap
+v 144 learn
+v 145 talk
+v 146 either
+v 147 albopictus
+v 148 aegypti
+v 149 speci
+v 150 resid
+v 151 subtrop
+v 152 global
+v 153 grown
+v 154 big
+v 155 recent
+v 156 yearsa
+v 157 carri
+v 158 pass
+v 159 human
+v 160 himwhen
+v 161 pick
+v 162 believ
+v 163 major
+v 164 fevera
+v 165 suffer
+v 166 howev
+v 167 becom
+v 168 immun
+v 169 specifi
+v 170 even
+v 171 though
+v 172 wont
+v 173 three
+v 174 prevent
+v 175 measur
+v 176 must
+v 177 catch
+v 178 option
+v 179 prescrib
+v 180 regard
+v 181 also
+v 182 let
+v 183 know
+v 184 keep
+v 185 may
+v 186 2009
+v 187 fda
+v 188 approv
+v 189 first
+v 190 vaccin
+v 191 within
+v 192 age
+v 193 group
+v 194 9
+v 195 16
+v 196 histori
+v 197 followpeopl
+v 198 quit
+v 199 elig
+v 200 shot
+v 201 alway
+v 202 reduc
+v 203 risk
+v 204 step
+v 205 kind
+v 206 bitesfor
+v 207 suggest
+v 208 wear
+v 209 cloth
+v 210 cover
+v 211 part
+v 212 bodi
+v 213 use
+v 214 repel
+v 215 expos
+v 216 areasanoth
+v 217 method
+v 218 net
+v 219 nighttimeinvest
+v 220 buck
+v 221 door
+v 222 window
+v 223 screensremov
+v 224 stagnant
+v 225 water
+v 226 placeavoid
+v 227 camp
+v 228 wet
+v 229 groundstak
+v 230 check
+v 231 pot
+v 232 drain
+v 233 featur
+v 234 collect
+v 235 still
+v 236 mention
+v 237 go
+v 238 best
+v 239 offer
+v 240 commerci
+v 241 centr
+v 242 diagnost
+v 243 recommend
+v 244 ns1
+v 245 ag
+v 246 elisa
+v 247 serumdengu
+v 248 ig
+v 249 g
+v 250 antibodi
+v 251 rapid
+v 252 rna
+v 253 detect
+v 254 rt
+v 255 pcrdengu
+v 256 igg
+v 257 igm
+v 258 antigen
+v 259 serum
+v 260 come
+v 261 treat
+v 262 vari
+v 263 patient
+v 264 depend
+v 265 level
+v 266 form
+v 267 need
+v 268 drink
+v 269 dehydr
+v 270 plenti
+v 271 rest
+v 272 might
+v 273 relief
+v 274 hospit
+v 275 receiv
+v 276 iv
+v 277 fluid
+v 278 supplement
+v 279 transfus
+v 280 platelet
+v 281 understand
+v 282 necessari
+v 283 clinic
+v 284 diagnos
+v 285 call
+v 286 917799
+v 287 721
+v 288 212
+v 289 email
+v 290 inforemedieslabscom
+v 291 detail
+v 292 faq
+v 293 1
+v 294 long
+v 295 period
+v 296 7
+v 297 strong
+v 298 recov
+v 299 week
+v 300 persist
+v 301 differ
+v 302 stage
+v 303 start
+v 304 abrupt
+v 305 incub
+v 306 febril
+v 307 critic
+v 308 convalesc
+v 309 3
+v 310 cure
+v 311 hard
+v 312 pinpoint
+v 313 medic
+v 314 hand
+v 315 pill
+v 316 build
+v 317 stronger
+v 318 leav
+v 319 soon
+v 320 enough
+e 0 1 2
+e 0 10 2
+e 0 16 2
+e 0 65 2
+e 0 116 2
+e 0 164 2
+e 0 190 2
+e 0 242 2
+e 0 244 2
+e 0 0 2
+e 0 303 2
+e 1 2 2
+e 1 14 2
+e 1 29 2
+e 1 45 2
+e 1 74 2
+e 1 98 2
+e 1 107 2
+e 1 144 2
+e 1 145 2
+e 1 166 2
+e 1 170 2
+e 1 67 2
+e 1 174 2
+e 1 235 2
+e 1 217 2
+e 1 34 2
+e 1 65 2
+e 1 82 2
+e 1 11 2
+e 1 306 2
+e 1 311 2
+e 1 50 2
+e 2 3 2
+e 2 165 2
+e 2 134 2
+e 3 4 2
+e 3 304 2
+e 4 5 2
+e 4 273 2
+e 5 6 2
+e 6 7 2
+e 6 158 2
+e 7 8 2
+e 7 13 2
+e 7 104 2
+e 7 0 2
+e 7 9 2
+e 8 9 2
+e 8 7 2
+e 8 55 2
+e 8 163 2
+e 8 263 2
+e 9 0 2
+e 9 10 2
+e 10 10 2
+e 10 11 2
+e 10 47 2
+e 10 52 2
+e 10 45 2
+e 10 158 2
+e 10 7 2
+e 10 174 2
+e 10 190 2
+e 10 318 2
+e 11 12 2
+e 11 78 2
+e 11 82 2
+e 12 8 2
+e 12 16 2
+e 13 1 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 16 22 2
+e 16 0 2
+e 16 48 2
+e 16 82 2
+e 16 110 2
+e 16 153 2
+e 16 51 2
+e 16 30 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 21 0 2
+e 21 27 2
+e 22 23 2
+e 22 36 2
+e 23 24 2
+e 24 25 2
+e 24 196 2
+e 25 26 2
+e 25 79 2
+e 25 226 2
+e 25 299 2
+e 25 97 2
+e 26 21 2
+e 27 28 2
+e 27 29 2
+e 27 138 2
+e 27 63 2
+e 28 0 2
+e 29 30 2
+e 29 72 2
+e 29 77 2
+e 29 11 2
+e 29 85 2
+e 29 88 2
+e 29 69 2
+e 29 236 2
+e 29 163 2
+e 29 0 2
+e 29 300 2
+e 30 31 2
+e 30 185 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 33 179 2
+e 33 272 2
+e 33 96 2
+e 33 69 2
+e 34 35 2
+e 34 0 2
+e 34 117 2
+e 34 33 2
+e 35 22 2
+e 36 37 2
+e 36 151 2
+e 37 38 2
+e 37 152 2
+e 38 39 2
+e 38 89 2
+e 39 40 2
+e 40 41 2
+e 41 42 2
+e 42 43 2
+e 43 44 2
+e 44 0 2
+e 45 46 2
+e 45 146 2
+e 46 47 2
+e 46 147 2
+e 46 148 2
+e 47 48 2
+e 47 50 2
+e 47 46 2
+e 47 47 2
+e 47 149 2
+e 47 157 2
+e 47 206 2
+e 47 214 2
+e 47 218 2
+e 48 49 2
+e 48 51 2
+e 48 160 2
+e 48 16 2
+e 48 162 2
+e 49 16 2
+e 50 16 2
+e 50 0 2
+e 50 200 2
+e 50 270 2
+e 50 284 2
+e 50 52 2
+e 51 0 2
+e 51 161 2
+e 51 48 2
+e 51 2 2
+e 52 53 2
+e 52 126 2
+e 52 279 2
+e 52 65 2
+e 53 54 2
+e 54 8 2
+e 55 56 2
+e 55 0 2
+e 56 57 2
+e 56 47 2
+e 56 264 2
+e 57 58 2
+e 58 59 2
+e 58 283 2
+e 58 60 2
+e 59 60 2
+e 60 61 2
+e 61 62 2
+e 61 136 2
+e 61 165 2
+e 61 239 2
+e 61 72 2
+e 61 69 2
+e 61 285 2
+e 62 63 2
+e 62 51 2
+e 63 64 2
+e 63 124 2
+e 63 155 2
+e 63 81 2
+e 63 230 2
+e 63 65 2
+e 64 50 2
+e 65 66 2
+e 65 69 2
+e 65 181 2
+e 65 59 2
+e 65 72 2
+e 65 241 2
+e 65 243 2
+e 65 136 2
+e 65 139 2
+e 65 58 2
+e 65 314 2
+e 66 67 2
+e 67 68 2
+e 67 178 2
+e 68 0 2
+e 69 70 2
+e 69 71 2
+e 69 238 2
+e 69 315 2
+e 70 71 2
+e 71 27 2
+e 72 73 2
+e 72 176 2
+e 72 139 2
+e 72 240 2
+e 72 0 2
+e 72 58 2
+e 73 0 2
+e 74 75 2
+e 74 142 2
+e 75 76 2
+e 75 183 2
+e 76 29 2
+e 77 29 2
+e 78 25 2
+e 79 80 2
+e 80 81 2
+e 81 16 2
+e 81 84 2
+e 81 1 2
+e 81 219 2
+e 81 113 2
+e 81 173 2
+e 82 83 2
+e 82 29 2
+e 82 295 2
+e 83 81 2
+e 84 0 2
+e 85 86 2
+e 85 29 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 88 108 2
+e 89 38 2
+e 89 90 2
+e 89 92 2
+e 90 91 2
+e 91 89 2
+e 91 128 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 95 96 2
+e 96 97 2
+e 96 296 2
+e 96 173 2
+e 97 81 2
+e 97 296 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 101 102 2
+e 102 103 2
+e 103 104 2
+e 104 105 2
+e 104 0 2
+e 105 106 2
+e 106 1 2
+e 107 34 2
+e 108 109 2
+e 109 16 2
+e 110 111 2
+e 111 112 2
+e 112 113 2
+e 113 114 2
+e 113 191 2
+e 113 297 2
+e 114 115 2
+e 115 0 2
+e 116 34 2
+e 116 266 2
+e 117 118 2
+e 118 119 2
+e 119 120 2
+e 120 121 2
+e 121 122 2
+e 122 123 2
+e 122 133 2
+e 122 204 2
+e 122 65 2
+e 123 63 2
+e 124 125 2
+e 125 52 2
+e 126 127 2
+e 127 91 2
+e 128 129 2
+e 129 130 2
+e 130 131 2
+e 131 132 2
+e 131 298 2
+e 131 139 2
+e 132 122 2
+e 132 205 2
+e 133 134 2
+e 134 135 2
+e 134 85 2
+e 135 59 2
+e 136 137 2
+e 136 85 2
+e 137 29 2
+e 138 139 2
+e 139 140 2
+e 139 184 2
+e 139 0 2
+e 139 281 2
+e 139 316 2
+e 139 10 2
+e 140 141 2
+e 141 74 2
+e 142 143 2
+e 142 231 2
+e 142 260 2
+e 142 275 2
+e 143 7 2
+e 144 7 2
+e 145 9 2
+e 146 46 2
+e 147 47 2
+e 148 47 2
+e 149 150 2
+e 150 36 2
+e 151 37 2
+e 152 12 2
+e 153 154 2
+e 154 63 2
+e 155 156 2
+e 156 47 2
+e 157 10 2
+e 158 159 2
+e 158 62 2
+e 159 48 2
+e 160 56 2
+e 161 6 2
+e 162 8 2
+e 163 7 2
+e 163 178 2
+e 163 305 2
+e 164 51 2
+e 165 0 2
+e 165 29 2
+e 166 167 2
+e 166 2 2
+e 167 168 2
+e 168 169 2
+e 168 173 2
+e 168 131 2
+e 169 10 2
+e 169 313 2
+e 170 171 2
+e 171 172 2
+e 172 168 2
+e 173 10 2
+e 173 301 2
+e 174 175 2
+e 174 7 2
+e 174 217 2
+e 174 55 2
+e 174 269 2
+e 175 72 2
+e 175 201 2
+e 176 177 2
+e 176 50 2
+e 177 59 2
+e 178 33 2
+e 178 0 2
+e 179 180 2
+e 180 0 2
+e 181 182 2
+e 182 183 2
+e 183 174 2
+e 183 238 2
+e 184 16 2
+e 185 186 2
+e 186 187 2
+e 187 188 2
+e 188 189 2
+e 189 0 2
+e 190 139 2
+e 190 113 2
+e 190 0 2
+e 191 192 2
+e 192 193 2
+e 193 194 2
+e 194 195 2
+e 195 24 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 199 50 2
+e 200 190 2
+e 201 202 2
+e 202 203 2
+e 202 1 2
+e 203 122 2
+e 204 132 2
+e 204 72 2
+e 205 47 2
+e 206 207 2
+e 207 208 2
+e 208 209 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 211 0 2
+e 212 213 2
+e 212 319 2
+e 213 47 2
+e 213 4 2
+e 214 215 2
+e 215 216 2
+e 216 0 2
+e 217 213 2
+e 217 262 2
+e 218 63 2
+e 219 220 2
+e 220 221 2
+e 221 222 2
+e 222 223 2
+e 223 224 2
+e 224 225 2
+e 225 25 2
+e 225 174 2
+e 226 227 2
+e 227 228 2
+e 228 229 2
+e 229 63 2
+e 230 142 2
+e 231 232 2
+e 232 233 2
+e 233 234 2
+e 234 225 2
+e 235 165 2
+e 236 237 2
+e 237 238 2
+e 238 65 2
+e 238 0 2
+e 239 71 2
+e 240 65 2
+e 241 60 2
+e 241 50 2
+e 242 65 2
+e 243 122 2
+e 243 213 2
+e 243 274 2
+e 244 245 2
+e 244 251 2
+e 245 246 2
+e 246 247 2
+e 247 248 2
+e 247 252 2
+e 247 258 2
+e 248 249 2
+e 248 250 2
+e 249 248 2
+e 250 251 2
+e 251 247 2
+e 251 259 2
+e 252 253 2
+e 253 254 2
+e 254 255 2
+e 255 256 2
+e 256 257 2
+e 257 246 2
+e 258 244 2
+e 259 74 2
+e 260 261 2
+e 261 0 2
+e 261 116 2
+e 262 8 2
+e 263 56 2
+e 264 265 2
+e 265 261 2
+e 266 267 2
+e 267 268 2
+e 268 225 2
+e 269 176 2
+e 270 271 2
+e 271 33 2
+e 272 243 2
+e 273 202 2
+e 274 211 2
+e 275 276 2
+e 276 277 2
+e 277 278 2
+e 278 52 2
+e 279 280 2
+e 279 60 2
+e 280 279 2
+e 281 282 2
+e 282 204 2
+e 283 241 2
+e 284 75 2
+e 285 286 2
+e 285 33 2
+e 286 287 2
+e 287 288 2
+e 288 289 2
+e 289 290 2
+e 290 291 2
+e 291 292 2
+e 292 293 2
+e 293 294 2
+e 294 0 2
+e 295 96 2
+e 295 25 2
+e 296 81 2
+e 297 168 2
+e 298 25 2
+e 299 166 2
+e 300 285 2
+e 301 302 2
+e 302 0 2
+e 303 3 2
+e 304 163 2
+e 305 295 2
+e 306 307 2
+e 307 308 2
+e 308 309 2
+e 309 310 2
+e 310 0 2
+e 311 312 2
+e 312 169 2
+e 313 261 2
+e 314 33 2
+e 315 139 2
+e 316 317 2
+e 317 168 2
+e 318 212 2
+e 319 320 2
+t # 3
+v 0 sultri
+v 1 summer
+v 2 month
+v 3 monsoon
+v 4 come
+v 5 relief
+v 6 howev
+v 7 rain
+v 8 deal
+v 9 unwant
+v 10 diseas
+v 11 make
+v 12 life
+v 13 live
+v 14 hell
+v 15 malaria
+v 16 cholera
+v 17 dengu
+v 18 even
+v 19 chikungunya
+v 20 load
+v 21 condit
+v 22 prove
+v 23 fatal
+v 24 year
+v 25 differ
+v 26 mosquito
+v 27 type
+v 28 born
+v 29 caus
+v 30 outbreak
+v 31 readi
+v 32 discuss
+v 33 home
+v 34 remedi
+v 35 avail
+v 36 prevent
+v 37 raini
+v 38 season
+v 39 keep
+v 40 surround
+v 41 free
+v 42 inform
+v 43 protect
+v 44 dead
+v 45 bite
+v 46 insid
+v 47 outsid
+v 48 ill
+v 49 bay
+v 50 notifi
+v 51 ten
+v 52 common
+v 53 big
+v 54 time
+v 55 get
+v 56 test
+v 57 lab
+v 58 face
+v 59 symptom
+v 60 mention
+v 61 10
+v 62 1
+v 63 anophel
+v 64 lead
+v 65 behind
+v 66 spread
+v 67 parasit
+v 68 start
+v 69 breed
+v 70 take
+v 71 place
+v 72 due
+v 73 water
+v 74 log
+v 75 stream
+v 76 waterway
+v 77 note
+v 78 sever
+v 79 fever
+v 80 run
+v 81 high
+v 82 105
+v 83 degre
+v 84 c
+v 85 linger
+v 86 multipl
+v 87 day
+v 88 signific
+v 89 bodi
+v 90 chill
+v 91 discomfort
+v 92 believ
+v 93 easi
+v 94 way
+v 95 avoid
+v 96 storag
+v 97 store
+v 98 2
+v 99 among
+v 100 seen
+v 101 patient
+v 102 brought
+v 103 tiger
+v 104 hypersensit
+v 105 muscl
+v 106 joint
+v 107 pain
+v 108 lower
+v 109 platelet
+v 110 count
+v 111 suggest
+v 112 use
+v 113 insect
+v 114 repel
+v 115 hous
+v 116 workplac
+v 117 go
+v 118 sleep
+v 119 alway
+v 120 net
+v 121 case
+v 122 stay
+v 123 3
+v 124 main
+v 125 hatch
+v 126 stagnant
+v 127 refriger
+v 128 ac
+v 129 utensil
+v 130 plant
+v 131 pot
+v 132 carri
+v 133 aed
+v 134 albopictus
+v 135 anywher
+v 136 night
+v 137 two
+v 138 expert
+v 139 identifi
+v 140 right
+v 141 us
+v 142 4
+v 143 typhoid
+v 144 known
+v 145 waterborn
+v 146 salmonella
+v 147 typhi
+v 148 bacteria
+v 149 improp
+v 150 sanit
+v 151 eat
+v 152 spoil
+v 153 food
+v 154 drink
+v 155 pollut
+v 156 contagi
+v 157 pretti
+v 158 across
+v 159 globe
+v 160 contamin
+v 161 item
+v 162 want
+v 163 constip
+v 164 abdomin
+v 165 higher
+v 166 long
+v 167 headach
+v 168 sore
+v 169 throat
+v 170 vomit
+v 171 5
+v 172 anoth
+v 173 ever
+v 174 consum
+v 175 chanc
+v 176 struck
+v 177 especi
+v 178 poor
+v 179 hygien
+v 180 victim
+v 181 opt
+v 182 immedi
+v 183 treatment
+v 184 death
+v 185 within
+v 186 hour
+v 187 issu
+v 188 odomo
+v 189 spray
+v 190 cream
+v 191 away
+v 192 thirst
+v 193 blood
+v 194 pressur
+v 195 cramp
+v 196 rapid
+v 197 heart
+v 198 rate
+v 199 6
+v 200 viral
+v 201 though
+v 202 throughout
+v 203 preval
+v 204 see
+v 205 fatigu
+v 206 dizzi
+v 207 weak
+v 208 hard
+v 209 tri
+v 210 rainwat
+v 211 drench
+v 212 pat
+v 213 dri
+v 214 call
+v 215 7
+v 216 diarrhoea
+v 217 one
+v 218 rang
+v 219 temporari
+v 220 lifethreaten
+v 221 taken
+v 222 care
+v 223 unclean
+v 224 reason
+v 225 loos
+v 226 wateri
+v 227 stool
+v 228 bloat
+v 229 nausea
+v 230 unsanitari
+v 231 8
+v 232 influenza
+v 233 whenev
+v 234 chang
+v 235 weather
+v 236 temperatur
+v 237 fluctuat
+v 238 mandatori
+v 239 turn
+v 240 infect
+v 241 fast
+v 242 easili
+v 243 transferr
+v 244 person
+v 245 cover
+v 246 proper
+v 247 cloth
+v 248 list
+v 249 sweat
+v 250 ach
+v 251 nasal
+v 252 congest
+v 253 persist
+v 254 cough
+v 255 pleas
+v 256 consult
+v 257 examin
+v 258 9
+v 259 leptospirosi
+v 260 primari
+v 261 bacteri
+v 262 transmit
+v 263 human
+v 264 anim
+v 265 open
+v 266 cut
+v 267 bruis
+v 268 better
+v 269 step
+v 270 room
+v 271 hardcor
+v 272 might
+v 273 occur
+v 274 skin
+v 275 prone
+v 276 waterlog
+v 277 red
+v 278 eye
+v 279 rash
+v 280 follow
+v 281 stomach
+v 282 unhygien
+v 283 liquid
+v 284 suffer
+v 285 gastroenter
+v 286 boil
+v 287 homecook
+v 288 meal
+v 289 solut
+v 290 lowergrad
+v 291 sure
+v 292 asap
+v 293 help
+v 294 medic
+v 295 onestop
+v 296 kind
+v 297 done
+v 298 know
+v 299 depend
+v 300 result
+v 301 journey
+v 302 feel
+v 303 contact
+v 304 917799
+v 305 721
+v 306 212
+v 307 learn
+v 308 faq
+v 309 fall
+v 310 sick
+v 311 risk
+v 312 moistur
+v 313 air
+v 314 situat
+v 315 ideal
+v 316 virus
+v 317 thrive
+v 318 also
+v 319 major
+v 320 achi
+v 321 irrit
+v 322 runni
+v 323 nose
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 3 10 2
+e 3 48 2
+e 3 38 2
+e 3 54 2
+e 3 180 2
+e 3 311 2
+e 3 79 2
+e 4 5 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 18 2
+e 8 9 2
+e 9 3 2
+e 10 11 2
+e 10 31 2
+e 10 37 2
+e 10 36 2
+e 10 62 2
+e 10 29 2
+e 10 146 2
+e 10 158 2
+e 10 111 2
+e 10 202 2
+e 10 271 2
+e 10 299 2
+e 10 3 2
+e 11 12 2
+e 11 291 2
+e 11 315 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 15 16 2
+e 15 63 2
+e 15 67 2
+e 15 70 2
+e 15 77 2
+e 15 26 2
+e 15 143 2
+e 16 17 2
+e 16 172 2
+e 16 173 2
+e 16 177 2
+e 16 29 2
+e 17 18 2
+e 17 99 2
+e 17 79 2
+e 17 59 2
+e 17 30 2
+e 17 15 2
+e 18 19 2
+e 18 22 2
+e 18 178 2
+e 18 201 2
+e 18 55 2
+e 18 220 2
+e 19 20 2
+e 19 19 2
+e 19 79 2
+e 19 52 2
+e 20 21 2
+e 21 18 2
+e 22 23 2
+e 23 24 2
+e 24 25 2
+e 24 81 2
+e 25 26 2
+e 26 27 2
+e 26 42 2
+e 26 45 2
+e 26 69 2
+e 26 49 2
+e 26 17 2
+e 26 115 2
+e 26 120 2
+e 26 125 2
+e 26 132 2
+e 26 114 2
+e 26 191 2
+e 27 28 2
+e 28 29 2
+e 29 30 2
+e 29 65 2
+e 29 78 2
+e 29 143 2
+e 29 160 2
+e 29 10 2
+e 29 184 2
+e 29 3 2
+e 29 180 2
+e 30 10 2
+e 30 70 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 33 39 2
+e 33 123 2
+e 34 35 2
+e 34 57 2
+e 35 36 2
+e 35 127 2
+e 36 10 2
+e 36 53 2
+e 36 15 2
+e 36 26 2
+e 36 70 2
+e 36 187 2
+e 36 210 2
+e 37 38 2
+e 38 39 2
+e 38 15 2
+e 38 100 2
+e 38 157 2
+e 38 16 2
+e 38 18 2
+e 38 59 2
+e 38 216 2
+e 38 154 2
+e 38 17 2
+e 38 119 2
+e 39 40 2
+e 39 3 2
+e 39 15 2
+e 39 26 2
+e 39 48 2
+e 39 191 2
+e 39 43 2
+e 39 41 2
+e 40 41 2
+e 41 26 2
+e 41 232 2
+e 41 303 2
+e 42 43 2
+e 43 44 2
+e 43 239 2
+e 44 26 2
+e 44 10 2
+e 45 46 2
+e 45 135 2
+e 45 95 2
+e 46 47 2
+e 46 33 2
+e 47 33 2
+e 48 49 2
+e 48 133 2
+e 48 3 2
+e 48 191 2
+e 49 50 2
+e 49 95 2
+e 49 59 2
+e 50 51 2
+e 51 52 2
+e 52 3 2
+e 52 29 2
+e 52 10 2
+e 52 48 2
+e 52 59 2
+e 52 281 2
+e 53 54 2
+e 54 55 2
+e 54 167 2
+e 54 174 2
+e 54 261 2
+e 54 181 2
+e 54 59 2
+e 55 56 2
+e 55 211 2
+e 55 10 2
+e 55 257 2
+e 55 296 2
+e 56 34 2
+e 56 140 2
+e 56 215 2
+e 56 297 2
+e 56 300 2
+e 56 214 2
+e 56 308 2
+e 57 58 2
+e 57 138 2
+e 57 142 2
+e 57 56 2
+e 57 246 2
+e 57 295 2
+e 58 59 2
+e 59 60 2
+e 59 89 2
+e 59 81 2
+e 59 57 2
+e 59 192 2
+e 59 204 2
+e 59 214 2
+e 59 225 2
+e 59 79 2
+e 59 281 2
+e 59 207 2
+e 59 200 2
+e 59 254 2
+e 60 61 2
+e 60 163 2
+e 60 302 2
+e 61 52 2
+e 61 281 2
+e 62 15 2
+e 63 64 2
+e 64 29 2
+e 65 66 2
+e 65 216 2
+e 66 15 2
+e 66 26 2
+e 66 149 2
+e 67 68 2
+e 68 69 2
+e 68 294 2
+e 68 183 2
+e 69 3 2
+e 69 75 2
+e 69 98 2
+e 70 71 2
+e 70 160 2
+e 71 72 2
+e 71 36 2
+e 71 122 2
+e 71 238 2
+e 72 73 2
+e 73 74 2
+e 73 96 2
+e 73 71 2
+e 73 35 2
+e 73 55 2
+e 73 143 2
+e 73 36 2
+e 73 175 2
+e 73 224 2
+e 73 54 2
+e 74 26 2
+e 75 76 2
+e 76 15 2
+e 77 3 2
+e 78 79 2
+e 79 80 2
+e 79 92 2
+e 79 102 2
+e 79 104 2
+e 79 124 2
+e 79 137 2
+e 79 156 2
+e 79 166 2
+e 79 18 2
+e 79 206 2
+e 79 209 2
+e 79 228 2
+e 79 249 2
+e 79 105 2
+e 79 229 2
+e 79 89 2
+e 79 200 2
+e 79 318 2
+e 79 319 2
+e 80 81 2
+e 81 82 2
+e 81 79 2
+e 81 176 2
+e 81 203 2
+e 81 284 2
+e 81 3 2
+e 81 312 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 87 136 2
+e 88 59 2
+e 89 90 2
+e 89 250 2
+e 90 91 2
+e 90 207 2
+e 91 81 2
+e 91 79 2
+e 92 93 2
+e 93 94 2
+e 94 39 2
+e 95 73 2
+e 95 97 2
+e 95 126 2
+e 95 200 2
+e 95 55 2
+e 95 174 2
+e 96 95 2
+e 97 73 2
+e 98 17 2
+e 99 10 2
+e 100 101 2
+e 101 17 2
+e 102 103 2
+e 103 26 2
+e 104 105 2
+e 105 106 2
+e 105 195 2
+e 105 107 2
+e 105 251 2
+e 105 250 2
+e 106 107 2
+e 106 91 2
+e 106 105 2
+e 107 108 2
+e 107 165 2
+e 107 170 2
+e 107 208 2
+e 107 280 2
+e 108 109 2
+e 108 193 2
+e 109 110 2
+e 110 111 2
+e 111 112 2
+e 111 180 2
+e 112 113 2
+e 112 26 2
+e 112 188 2
+e 113 114 2
+e 114 39 2
+e 114 189 2
+e 114 190 2
+e 115 116 2
+e 115 95 2
+e 116 117 2
+e 117 118 2
+e 118 119 2
+e 119 112 2
+e 119 268 2
+e 119 309 2
+e 119 165 2
+e 120 121 2
+e 121 17 2
+e 122 46 2
+e 123 19 2
+e 124 66 2
+e 125 126 2
+e 126 73 2
+e 127 128 2
+e 128 129 2
+e 129 130 2
+e 130 131 2
+e 131 26 2
+e 132 3 2
+e 133 134 2
+e 134 45 2
+e 135 87 2
+e 136 106 2
+e 137 59 2
+e 138 139 2
+e 139 36 2
+e 140 141 2
+e 140 191 2
+e 141 34 2
+e 141 57 2
+e 141 293 2
+e 141 304 2
+e 142 143 2
+e 143 144 2
+e 143 66 2
+e 143 79 2
+e 143 19 2
+e 144 145 2
+e 144 3 2
+e 145 10 2
+e 146 147 2
+e 147 148 2
+e 148 29 2
+e 148 317 2
+e 149 150 2
+e 150 151 2
+e 150 29 2
+e 151 152 2
+e 152 153 2
+e 153 154 2
+e 153 73 2
+e 153 161 2
+e 154 155 2
+e 154 286 2
+e 155 73 2
+e 156 3 2
+e 157 3 2
+e 157 52 2
+e 157 241 2
+e 157 81 2
+e 158 159 2
+e 159 52 2
+e 160 153 2
+e 161 162 2
+e 161 283 2
+e 162 39 2
+e 163 164 2
+e 164 107 2
+e 164 195 2
+e 165 79 2
+e 165 224 2
+e 166 54 2
+e 167 168 2
+e 167 277 2
+e 168 169 2
+e 169 106 2
+e 169 213 2
+e 170 171 2
+e 170 11 2
+e 171 16 2
+e 172 52 2
+e 172 217 2
+e 172 245 2
+e 173 174 2
+e 174 160 2
+e 174 223 2
+e 174 230 2
+e 174 282 2
+e 175 81 2
+e 176 16 2
+e 177 3 2
+e 178 179 2
+e 179 150 2
+e 180 181 2
+e 180 44 2
+e 180 302 2
+e 181 182 2
+e 181 287 2
+e 182 183 2
+e 182 58 2
+e 183 16 2
+e 183 301 2
+e 184 185 2
+e 185 186 2
+e 186 36 2
+e 187 112 2
+e 188 26 2
+e 189 114 2
+e 190 39 2
+e 191 59 2
+e 191 210 2
+e 191 231 2
+e 191 258 2
+e 191 281 2
+e 191 34 2
+e 192 108 2
+e 193 194 2
+e 194 105 2
+e 195 196 2
+e 195 229 2
+e 196 197 2
+e 197 198 2
+e 198 199 2
+e 199 200 2
+e 200 79 2
+e 200 240 2
+e 201 157 2
+e 202 24 2
+e 203 3 2
+e 204 205 2
+e 205 79 2
+e 205 320 2
+e 206 89 2
+e 207 106 2
+e 207 79 2
+e 208 95 2
+e 209 39 2
+e 210 95 2
+e 210 211 2
+e 211 7 2
+e 211 212 2
+e 211 94 2
+e 212 213 2
+e 213 182 2
+e 213 253 2
+e 214 141 2
+e 215 216 2
+e 216 172 2
+e 216 218 2
+e 216 52 2
+e 216 61 2
+e 217 52 2
+e 217 221 2
+e 217 244 2
+e 217 260 2
+e 217 3 2
+e 218 219 2
+e 219 21 2
+e 220 217 2
+e 221 222 2
+e 222 54 2
+e 223 153 2
+e 224 65 2
+e 224 81 2
+e 225 226 2
+e 226 227 2
+e 227 79 2
+e 228 164 2
+e 229 95 2
+e 229 170 2
+e 229 322 2
+e 230 153 2
+e 231 232 2
+e 232 233 2
+e 232 70 2
+e 232 242 2
+e 232 248 2
+e 233 234 2
+e 233 174 2
+e 234 235 2
+e 235 236 2
+e 236 237 2
+e 237 232 2
+e 238 39 2
+e 239 200 2
+e 240 157 2
+e 240 262 2
+e 240 272 2
+e 240 233 2
+e 240 285 2
+e 240 3 2
+e 240 88 2
+e 240 290 2
+e 240 217 2
+e 240 29 2
+e 241 232 2
+e 242 243 2
+e 243 217 2
+e 244 172 2
+e 245 246 2
+e 245 269 2
+e 246 247 2
+e 246 257 2
+e 247 36 2
+e 248 88 2
+e 249 250 2
+e 250 105 2
+e 250 167 2
+e 250 119 2
+e 251 252 2
+e 252 168 2
+e 253 254 2
+e 254 255 2
+e 254 229 2
+e 255 256 2
+e 256 141 2
+e 257 140 2
+e 257 292 2
+e 258 259 2
+e 259 217 2
+e 260 261 2
+e 261 240 2
+e 262 263 2
+e 263 264 2
+e 264 265 2
+e 265 266 2
+e 266 267 2
+e 267 119 2
+e 268 245 2
+e 269 270 2
+e 270 115 2
+e 271 3 2
+e 272 273 2
+e 273 274 2
+e 274 275 2
+e 275 276 2
+e 276 52 2
+e 277 278 2
+e 278 279 2
+e 279 164 2
+e 280 216 2
+e 281 240 2
+e 282 153 2
+e 283 175 2
+e 284 281 2
+e 285 217 2
+e 286 73 2
+e 287 288 2
+e 288 289 2
+e 289 39 2
+e 289 55 2
+e 290 79 2
+e 291 55 2
+e 292 141 2
+e 292 58 2
+e 293 68 2
+e 294 140 2
+e 295 289 2
+e 296 56 2
+e 297 298 2
+e 298 240 2
+e 299 56 2
+e 300 68 2
+e 301 292 2
+e 302 41 2
+e 302 205 2
+e 303 34 2
+e 304 305 2
+e 305 306 2
+e 306 307 2
+e 307 56 2
+e 308 10 2
+e 309 310 2
+e 310 3 2
+e 311 240 2
+e 312 313 2
+e 313 314 2
+e 314 11 2
+e 315 316 2
+e 316 148 2
+e 317 3 2
+e 318 144 2
+e 319 59 2
+e 320 321 2
+e 321 54 2
+e 322 323 2
+t # 4
+v 0 lot
+v 1 chang
+v 2 last
+v 3 coupl
+v 4 year
+v 5 come
+v 6 dna
+v 7 test
+v 8 might
+v 9 even
+v 10 know
+v 11 genet
+v 12 well
+v 13 one
+v 14 way
+v 15 100
+v 16 diseas
+v 17 pregnanc
+v 18 get
+v 19 predict
+v 20 cancer
+v 21 start
+v 22 develop
+v 23 bodi
+v 24 right
+v 25 research
+v 26 use
+v 27 power
+v 28 target
+v 29 medic
+v 30 respons
+v 31 better
+v 32 various
+v 33 condit
+v 34 mani
+v 35 type
+v 36 avail
+v 37 sometim
+v 38 wonder
+v 39 go
+v 40 suitabl
+v 41 import
+v 42 fact
+v 43 consid
+v 44 navig
+v 45 world
+v 46 1
+v 47 learn
+v 48 famili
+v 49 histori
+v 50 thorough
+v 51 grasp
+v 52 alway
+v 53 offer
+v 54 clue
+v 55 regard
+v 56 kind
+v 57 benefit
+v 58 proper
+v 59 analysi
+v 60 help
+v 61 encourag
+v 62 health
+v 63 among
+v 64 men
+v 65 women
+v 66 determin
+v 67 issu
+v 68 like
+v 69 form
+v 70 run
+v 71 case
+v 72 generic
+v 73 counsel
+v 74 understand
+v 75 risk
+v 76 face
+v 77 themwhen
+v 78 gather
+v 79 sure
+v 80 see
+v 81 heart
+v 82 pattern
+v 83 ill
+v 84 generat
+v 85 recogn
+v 86 inherit
+v 87 whole
+v 88 realiz
+v 89 look
+v 90 side
+v 91 2
+v 92 pretti
+v 93 afford
+v 94 also
+v 95 cover
+v 96 insur
+v 97 plan
+v 98 back
+v 99 cost
+v 100 money
+v 101 thank
+v 102 advanc
+v 103 take
+v 104 place
+v 105 technolog
+v 106 done
+v 107 reduc
+v 108 rate
+v 109 laboratori
+v 110 larger
+v 111 panel
+v 112 furthermor
+v 113 differ
+v 114 major
+v 115 valu
+v 116 prevent
+v 117 onset
+v 118 ultim
+v 119 coverag
+v 120 qualifi
+v 121 individu
+v 122 3
+v 123 counselor
+v 124 result
+v 125 main
+v 126 expert
+v 127 decisionmak
+v 128 around
+v 129 everi
+v 130 person
+v 131 set
+v 132 life
+v 133 goal
+v 134 experi
+v 135 current
+v 136 decis
+v 137 screen
+v 138 involv
+v 139 multipl
+v 140 factorsit
+v 141 quit
+v 142 direct
+v 143 chat
+v 144 pros
+v 145 con
+v 146 counselorth
+v 147 discuss
+v 148 whether
+v 149 option
+v 150 considersom
+v 151 question
+v 152 aris
+v 153 includ
+v 154 reason
+v 155 want
+v 156 inform
+v 157 member
+v 158 implic
+v 159 onin
+v 160 fail
+v 161 visit
+v 162 lab
+v 163 free
+v 164 telephon
+v 165 access
+v 166 boardcertifi
+v 167 profession
+v 168 feel
+v 169 easier
+v 170 make
+v 171 choic
+v 172 4
+v 173 carrier
+v 174 most
+v 175 healthi
+v 176 carri
+v 177 base
+v 178 unfortun
+v 179 pass
+v 180 futur
+v 181 spinal
+v 182 muscular
+v 183 atrophi
+v 184 cystic
+v 185 fibrosi
+v 186 answer
+v 187 resolv
+v 188 hereditari
+v 189 colon
+v 190 seem
+v 191 prone
+v 192 earli
+v 193 stage
+v 194 propens
+v 195 rare
+v 196 awar
+v 197 unless
+v 198 first
+v 199 oneif
+v 200 recess
+v 201 skip
+v 202 infect
+v 203 notfor
+v 204 deal
+v 205 vital
+v 206 parent
+v 207 gene
+v 208 point
+v 209 peopl
+v 210 would
+v 211 choos
+v 212 dont
+v 213 concern
+v 214 behind
+v 215 must
+v 216 80
+v 217 children
+v 218 born
+v 219 without
+v 220 5
+v 221 ahead
+v 222 time
+v 223 save
+v 224 especi
+v 225 perform
+v 226 blood
+v 227 sampl
+v 228 saliva
+v 229 partner
+v 230 provid
+v 231 idea
+v 232 conceiv
+v 233 yet
+v 234 signific
+v 235 ad
+v 236 within
+v 237 hurler
+v 238 syndrom
+v 239 wilson
+v 240 diseasesom
+v 241 improv
+v 242 intervent
+v 243 nutrit
+v 244 birth
+v 245 valuead
+v 246 later
+v 247 hard
+v 248 state
+v 249 give
+v 250 ampl
+v 251 prepar
+v 252 safeti
+v 253 gear
+v 254 diet
+v 255 keep
+v 256 bay
+v 257 remedi
+v 258 need
+v 259 diagnost
+v 260 center
+v 261 catch
+v 262 hous
+v 263 best
+v 264 accur
+v 265 adrenoleukodystrophi
+v 266 xlink
+v 267 ald
+v 268 sequenc
+v 269 abcd1
+v 270 afb
+v 271 xpert
+v 272 genexpert
+v 273 report
+v 274 actn3
+v 275 genotyp
+v 276 sport
+v 277 us
+v 278 role
+v 279 play
+v 280 limitless
+e 0 1 2
+e 0 100 2
+e 1 2 2
+e 1 244 2
+e 1 254 2
+e 2 3 2
+e 3 4 2
+e 4 5 2
+e 4 98 2
+e 5 6 2
+e 5 10 2
+e 6 7 2
+e 6 105 2
+e 6 124 2
+e 7 8 2
+e 7 12 2
+e 7 15 2
+e 7 28 2
+e 7 36 2
+e 7 40 2
+e 7 46 2
+e 7 57 2
+e 7 60 2
+e 7 53 2
+e 7 88 2
+e 7 99 2
+e 7 106 2
+e 7 110 2
+e 7 74 2
+e 7 11 2
+e 7 24 2
+e 7 5 2
+e 7 198 2
+e 7 221 2
+e 7 259 2
+e 8 9 2
+e 8 37 2
+e 8 76 2
+e 8 152 2
+e 8 173 2
+e 8 201 2
+e 9 10 2
+e 9 21 2
+e 9 70 2
+e 9 196 2
+e 9 239 2
+e 10 11 2
+e 10 41 2
+e 10 128 2
+e 11 7 2
+e 11 6 2
+e 11 59 2
+e 11 16 2
+e 11 123 2
+e 11 137 2
+e 11 146 2
+e 12 13 2
+e 12 11 2
+e 12 172 2
+e 13 14 2
+e 13 35 2
+e 14 7 2
+e 14 97 2
+e 15 16 2
+e 15 195 2
+e 16 17 2
+e 16 20 2
+e 16 82 2
+e 16 112 2
+e 16 97 2
+e 16 174 2
+e 16 177 2
+e 16 138 2
+e 16 180 2
+e 16 9 2
+e 16 8 2
+e 16 204 2
+e 16 206 2
+e 16 48 2
+e 16 235 2
+e 16 173 2
+e 16 256 2
+e 17 18 2
+e 17 137 2
+e 18 19 2
+e 18 47 2
+e 18 13 2
+e 18 7 2
+e 18 241 2
+e 18 6 2
+e 18 263 2
+e 18 274 2
+e 19 20 2
+e 20 9 2
+e 20 82 2
+e 20 35 2
+e 20 173 2
+e 20 192 2
+e 20 70 2
+e 21 22 2
+e 21 44 2
+e 21 29 2
+e 22 23 2
+e 22 20 2
+e 23 24 2
+e 24 25 2
+e 24 149 2
+e 24 199 2
+e 24 221 2
+e 24 265 2
+e 25 26 2
+e 26 27 2
+e 26 124 2
+e 26 231 2
+e 27 6 2
+e 28 29 2
+e 28 173 2
+e 29 30 2
+e 29 96 2
+e 29 192 2
+e 30 31 2
+e 31 32 2
+e 31 74 2
+e 32 33 2
+e 32 195 2
+e 33 34 2
+e 34 35 2
+e 35 11 2
+e 35 68 2
+e 36 8 2
+e 36 70 2
+e 37 38 2
+e 38 39 2
+e 39 7 2
+e 39 11 2
+e 39 24 2
+e 39 173 2
+e 40 41 2
+e 41 42 2
+e 41 89 2
+e 41 71 2
+e 42 43 2
+e 43 21 2
+e 44 45 2
+e 44 124 2
+e 45 11 2
+e 46 18 2
+e 47 48 2
+e 47 11 2
+e 47 278 2
+e 48 49 2
+e 48 62 2
+e 48 71 2
+e 48 47 2
+e 48 91 2
+e 48 157 2
+e 48 215 2
+e 48 220 2
+e 48 17 2
+e 49 50 2
+e 49 52 2
+e 49 63 2
+e 49 90 2
+e 49 214 2
+e 49 16 2
+e 50 51 2
+e 51 48 2
+e 52 53 2
+e 52 28 2
+e 53 54 2
+e 53 31 2
+e 53 6 2
+e 53 118 2
+e 53 163 2
+e 53 264 2
+e 54 55 2
+e 54 79 2
+e 55 56 2
+e 55 158 2
+e 56 7 2
+e 56 16 2
+e 56 200 2
+e 57 58 2
+e 58 11 2
+e 58 73 2
+e 58 259 2
+e 59 7 2
+e 60 61 2
+e 60 66 2
+e 60 87 2
+e 60 116 2
+e 60 44 2
+e 60 142 2
+e 60 170 2
+e 60 97 2
+e 60 223 2
+e 61 48 2
+e 62 49 2
+e 62 67 2
+e 62 171 2
+e 63 64 2
+e 64 65 2
+e 65 60 2
+e 66 62 2
+e 66 148 2
+e 67 68 2
+e 68 69 2
+e 68 188 2
+e 68 237 2
+e 69 20 2
+e 70 48 2
+e 70 84 2
+e 71 72 2
+e 71 160 2
+e 71 20 2
+e 72 73 2
+e 73 7 2
+e 73 168 2
+e 74 75 2
+e 74 114 2
+e 74 129 2
+e 74 6 2
+e 74 35 2
+e 75 8 2
+e 75 11 2
+e 76 77 2
+e 76 76 2
+e 76 162 2
+e 77 78 2
+e 78 54 2
+e 79 80 2
+e 79 202 2
+e 79 261 2
+e 80 81 2
+e 81 16 2
+e 82 83 2
+e 82 60 2
+e 83 36 2
+e 84 85 2
+e 84 181 2
+e 84 79 2
+e 85 86 2
+e 86 16 2
+e 87 48 2
+e 88 41 2
+e 89 49 2
+e 90 48 2
+e 91 92 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 94 229 2
+e 94 18 2
+e 95 29 2
+e 96 97 2
+e 97 4 2
+e 97 74 2
+e 97 53 2
+e 97 103 2
+e 97 124 2
+e 97 24 2
+e 97 221 2
+e 97 255 2
+e 98 18 2
+e 99 0 2
+e 100 101 2
+e 101 102 2
+e 102 103 2
+e 103 104 2
+e 103 48 2
+e 104 6 2
+e 105 18 2
+e 106 107 2
+e 106 257 2
+e 106 170 2
+e 106 264 2
+e 107 108 2
+e 108 109 2
+e 109 53 2
+e 110 111 2
+e 111 11 2
+e 111 18 2
+e 112 113 2
+e 113 96 2
+e 113 222 2
+e 114 115 2
+e 115 11 2
+e 115 134 2
+e 116 117 2
+e 117 16 2
+e 118 119 2
+e 119 120 2
+e 120 121 2
+e 121 122 2
+e 121 176 2
+e 122 11 2
+e 123 60 2
+e 123 125 2
+e 123 76 2
+e 124 12 2
+e 124 159 2
+e 124 60 2
+e 124 97 2
+e 124 246 2
+e 124 222 2
+e 125 126 2
+e 125 127 2
+e 125 133 2
+e 126 125 2
+e 127 128 2
+e 128 11 2
+e 128 216 2
+e 129 130 2
+e 129 222 2
+e 130 131 2
+e 131 132 2
+e 132 133 2
+e 132 179 2
+e 132 11 2
+e 132 224 2
+e 132 247 2
+e 133 115 2
+e 133 147 2
+e 134 135 2
+e 135 136 2
+e 136 39 2
+e 137 138 2
+e 137 7 2
+e 137 212 2
+e 137 173 2
+e 137 225 2
+e 137 68 2
+e 137 111 2
+e 138 139 2
+e 138 173 2
+e 139 140 2
+e 140 141 2
+e 141 60 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 7 2
+e 146 125 2
+e 147 66 2
+e 148 137 2
+e 149 150 2
+e 149 280 2
+e 150 151 2
+e 151 8 2
+e 152 153 2
+e 153 154 2
+e 154 155 2
+e 155 156 2
+e 156 14 2
+e 156 62 2
+e 157 55 2
+e 158 97 2
+e 159 71 2
+e 160 161 2
+e 161 11 2
+e 162 53 2
+e 162 258 2
+e 162 18 2
+e 163 164 2
+e 164 165 2
+e 165 166 2
+e 166 167 2
+e 167 58 2
+e 167 262 2
+e 168 169 2
+e 169 74 2
+e 170 156 2
+e 170 1 2
+e 170 79 2
+e 171 12 2
+e 172 173 2
+e 173 11 2
+e 173 175 2
+e 173 190 2
+e 173 32 2
+e 173 137 2
+e 174 175 2
+e 175 52 2
+e 175 121 2
+e 175 178 2
+e 176 11 2
+e 176 195 2
+e 177 56 2
+e 178 179 2
+e 179 16 2
+e 179 194 2
+e 180 84 2
+e 181 182 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 186 2
+e 185 9 2
+e 186 187 2
+e 187 11 2
+e 188 189 2
+e 189 20 2
+e 190 191 2
+e 191 22 2
+e 192 193 2
+e 192 242 2
+e 192 170 2
+e 193 132 2
+e 194 8 2
+e 195 16 2
+e 195 207 2
+e 195 233 2
+e 196 197 2
+e 197 18 2
+e 198 39 2
+e 199 200 2
+e 200 16 2
+e 201 84 2
+e 202 203 2
+e 203 56 2
+e 204 205 2
+e 205 206 2
+e 206 176 2
+e 206 219 2
+e 207 208 2
+e 207 270 2
+e 207 226 2
+e 207 149 2
+e 208 209 2
+e 209 210 2
+e 210 211 2
+e 211 39 2
+e 212 213 2
+e 213 49 2
+e 214 48 2
+e 215 10 2
+e 216 217 2
+e 217 218 2
+e 218 11 2
+e 219 49 2
+e 220 26 2
+e 221 113 2
+e 221 60 2
+e 221 222 2
+e 222 132 2
+e 222 249 2
+e 222 251 2
+e 222 24 2
+e 222 94 2
+e 223 132 2
+e 224 20 2
+e 225 226 2
+e 226 227 2
+e 226 277 2
+e 227 228 2
+e 228 94 2
+e 229 230 2
+e 230 26 2
+e 230 245 2
+e 231 232 2
+e 232 15 2
+e 233 234 2
+e 234 11 2
+e 235 236 2
+e 236 173 2
+e 237 238 2
+e 238 181 2
+e 239 240 2
+e 240 16 2
+e 241 192 2
+e 242 243 2
+e 243 1 2
+e 244 230 2
+e 245 124 2
+e 246 132 2
+e 247 248 2
+e 248 74 2
+e 249 250 2
+e 250 222 2
+e 251 252 2
+e 252 253 2
+e 253 21 2
+e 254 97 2
+e 255 16 2
+e 256 18 2
+e 257 162 2
+e 258 58 2
+e 259 260 2
+e 260 18 2
+e 260 53 2
+e 261 167 2
+e 262 257 2
+e 263 11 2
+e 264 124 2
+e 264 273 2
+e 265 266 2
+e 266 267 2
+e 267 268 2
+e 268 269 2
+e 269 207 2
+e 270 271 2
+e 271 272 2
+e 272 7 2
+e 273 129 2
+e 274 275 2
+e 275 276 2
+e 276 207 2
+e 277 47 2
+e 278 279 2
+e 279 276 2
+t # 5
+v 0 unfortun
+v 1 victim
+v 2 diabet
+v 3 care
+v 4 diet
+v 5 plan
+v 6 follow
+v 7 avoid
+v 8 alway
+v 9 need
+v 10 take
+v 11 control
+v 12 blood
+v 13 sugar
+v 14 level
+v 15 certain
+v 16 chosen
+v 17 food
+v 18 caus
+v 19 jump
+v 20 high
+v 21 item
+v 22 ad
+v 23 prevent
+v 24 howev
+v 25 peopl
+v 26 go
+v 27 seri
+v 28 trial
+v 29 error
+v 30 even
+v 31 find
+v 32 one
+v 33 seem
+v 34 work
+v 35 best
+v 36 thank
+v 37 scientif
+v 38 get
+v 39 determin
+v 40 right
+v 41 eat
+v 42 well
+v 43 list
+v 44 10
+v 45 must
+v 46 add
+v 47 keep
+v 48 bay
+v 49 healthi
+v 50 1
+v 51 strawberri
+v 52 sometim
+v 53 might
+v 54 crave
+v 55 someth
+v 56 sweet
+v 57 tast
+v 58 bud
+v 59 instead
+v 60 candi
+v 61 tri
+v 62 tasti
+v 63 antioxid
+v 64 featur
+v 65 fruit
+v 66 reduc
+v 67 insulin
+v 68 check
+v 69 cholesterol
+v 70 meal
+v 71 big
+v 72 fan
+v 73 daili
+v 74 option
+v 75 consid
+v 76 blueberri
+v 77 blackberri
+v 78 raspberri
+v 79 berri
+v 80 lower
+v 81 content
+v 82 within
+v 83 great
+v 84 2
+v 85 probiot
+v 86 packag
+v 87 dairi
+v 88 case
+v 89 diari
+v 90 make
+v 91 sure
+v 92 share
+v 93 exampl
+v 94 greek
+v 95 yogurt
+v 96 count
+v 97 also
+v 98 found
+v 99 help
+v 100 improv
+v 101 use
+v 102 heart
+v 103 diseas
+v 104 unflavor
+v 105 flavor
+v 106 higher
+v 107 3
+v 108 turmer
+v 109 cinnamon
+v 110 spice
+v 111 result
+v 112 simpl
+v 113 step
+v 114 easili
+v 115 incorpor
+v 116 drink
+v 117 want
+v 118 increas
+v 119 littl
+v 120 zing
+v 121 sensit
+v 122 hand
+v 123 inflamm
+v 124 4
+v 125 appl
+v 126 cider
+v 127 vinegar
+v 128 popular
+v 129 addit
+v 130 health
+v 131 fanat
+v 132 ferment
+v 133 acet
+v 134 acid
+v 135 current
+v 136 fast
+v 137 way
+v 138 respons
+v 139 around
+v 140 20
+v 141 pair
+v 142 rich
+v 143 carbohydr
+v 144 includ
+v 145 categori
+v 146 5
+v 147 natur
+v 148 fat
+v 149 extra
+v 150 virgin
+v 151 oliv
+v 152 oil
+v 153 note
+v 154 myriad
+v 155 benefit
+v 156 effect
+v 157 risk
+v 158 number
+v 159 protect
+v 160 cell
+v 161 decreas
+v 162 pressur
+v 163 mission
+v 164 pure
+v 165 order
+v 166 6
+v 167 seed
+v 168 design
+v 169 among
+v 170 lot
+v 171 two
+v 172 flax
+v 173 chia
+v 174 pack
+v 175 fiber
+v 176 known
+v 177 digest
+v 178 sector
+v 179 eas
+v 180 flaxse
+v 181 chanc
+v 182 fewer
+v 183 becom
+v 184 attack
+v 185 stroke
+v 186 hard
+v 187 absorb
+v 188 ground
+v 189 time
+v 190 grind
+v 191 powder
+v 192 version
+v 193 7
+v 194 egg
+v 195 nut
+v 196 fatti
+v 197 low
+v 198 carb
+v 199 rais
+v 200 hazelnut
+v 201 cashew
+v 202 brazil
+v 203 macadamia
+v 204 walnut
+v 205 sourc
+v 206 offer
+v 207 8
+v 208 fish
+v 209 whether
+v 210 come
+v 211 vari
+v 212 like
+v 213 anchovi
+v 214 salmon
+v 215 serv
+v 216 omega3
+v 217 epa
+v 218 dha
+v 219 complic
+v 220 9
+v 221 leafi
+v 222 green
+v 223 nonstarchi
+v 224 valu
+v 225 nutrient
+v 226 compar
+v 227 veggi
+v 228 matter
+v 229 much
+v 230 let
+v 231 hike
+v 232 kale
+v 233 spinach
+v 234 vitamin
+v 235 c3
+v 236 veget
+v 237 patient
+v 238 full
+v 239 long
+v 240 bodi
+v 241 receiv
+v 242 essenti
+v 243 miner
+v 244 deserv
+v 245 regul
+v 246 proper
+v 247 test
+v 248 remedi
+v 249 lab
+v 250 next
+v 251 know
+v 252 away
+v 253 depend
+v 254 chalk
+v 255 accord
+v 256 checkup
+v 257 hba1c
+v 258 glu
+v 259 avail
+v 260 costeffect
+v 261 rate
+v 262 450
+v 263 rupe
+v 264 panel
+v 265 profil
+v 266 type
+v 267 report
+v 268 day
+v 269 main
+v 270 goal
+v 271 start
+v 272 respect
+v 273 treatment
+v 274 asap
+v 275 post
+v 276 navig
+e 0 1 2
+e 1 2 2
+e 1 180 2
+e 2 3 2
+e 2 8 2
+e 2 24 2
+e 2 42 2
+e 2 48 2
+e 2 50 2
+e 2 84 2
+e 2 90 2
+e 2 108 2
+e 2 146 2
+e 2 166 2
+e 2 68 2
+e 2 195 2
+e 2 209 2
+e 2 219 2
+e 2 237 2
+e 2 247 2
+e 2 38 2
+e 2 256 2
+e 3 4 2
+e 4 5 2
+e 4 23 2
+e 5 6 2
+e 5 47 2
+e 5 46 2
+e 5 74 2
+e 5 38 2
+e 5 232 2
+e 5 2 2
+e 5 255 2
+e 6 7 2
+e 7 2 2
+e 8 9 2
+e 8 32 2
+e 9 10 2
+e 9 22 2
+e 10 11 2
+e 10 189 2
+e 11 12 2
+e 11 97 2
+e 11 2 2
+e 11 80 2
+e 12 13 2
+e 12 162 2
+e 13 14 2
+e 13 81 2
+e 13 96 2
+e 13 11 2
+e 13 138 2
+e 13 68 2
+e 14 15 2
+e 14 19 2
+e 14 47 2
+e 14 100 2
+e 14 42 2
+e 14 32 2
+e 14 179 2
+e 14 161 2
+e 14 35 2
+e 14 231 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 17 21 2
+e 17 41 2
+e 17 117 2
+e 17 131 2
+e 17 74 2
+e 18 12 2
+e 19 20 2
+e 20 17 2
+e 20 85 2
+e 21 22 2
+e 21 45 2
+e 21 88 2
+e 21 101 2
+e 22 4 2
+e 22 17 2
+e 23 2 2
+e 24 25 2
+e 25 26 2
+e 26 27 2
+e 26 60 2
+e 26 104 2
+e 26 188 2
+e 27 28 2
+e 28 29 2
+e 29 30 2
+e 30 31 2
+e 31 32 2
+e 31 38 2
+e 32 33 2
+e 32 73 2
+e 32 83 2
+e 32 106 2
+e 32 128 2
+e 32 137 2
+e 32 156 2
+e 32 17 2
+e 32 49 2
+e 33 34 2
+e 34 35 2
+e 35 36 2
+e 35 111 2
+e 35 74 2
+e 35 195 2
+e 35 221 2
+e 36 37 2
+e 36 63 2
+e 37 31 2
+e 38 39 2
+e 38 35 2
+e 38 247 2
+e 39 40 2
+e 40 17 2
+e 40 252 2
+e 41 7 2
+e 41 23 2
+e 41 193 2
+e 41 221 2
+e 42 43 2
+e 42 59 2
+e 42 46 2
+e 42 108 2
+e 42 47 2
+e 42 174 2
+e 42 223 2
+e 42 246 2
+e 43 44 2
+e 43 49 2
+e 44 17 2
+e 44 223 2
+e 45 46 2
+e 46 4 2
+e 46 32 2
+e 46 89 2
+e 46 105 2
+e 46 110 2
+e 46 119 2
+e 47 2 2
+e 47 68 2
+e 47 12 2
+e 47 102 2
+e 47 238 2
+e 48 43 2
+e 48 124 2
+e 49 17 2
+e 49 85 2
+e 49 148 2
+e 50 51 2
+e 51 52 2
+e 51 36 2
+e 51 5 2
+e 52 53 2
+e 53 54 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 58 42 2
+e 59 26 2
+e 60 61 2
+e 61 62 2
+e 61 46 2
+e 61 26 2
+e 62 51 2
+e 63 64 2
+e 63 99 2
+e 63 155 2
+e 64 65 2
+e 65 66 2
+e 65 4 2
+e 66 67 2
+e 66 102 2
+e 66 12 2
+e 66 157 2
+e 66 123 2
+e 67 14 2
+e 67 121 2
+e 68 69 2
+e 68 101 2
+e 68 169 2
+e 68 100 2
+e 69 70 2
+e 70 71 2
+e 70 142 2
+e 71 72 2
+e 72 51 2
+e 73 65 2
+e 74 75 2
+e 74 172 2
+e 74 210 2
+e 75 76 2
+e 75 100 2
+e 75 200 2
+e 75 222 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 79 80 2
+e 80 13 2
+e 80 12 2
+e 80 123 2
+e 80 136 2
+e 80 82 2
+e 80 177 2
+e 81 82 2
+e 81 107 2
+e 81 197 2
+e 81 234 2
+e 82 83 2
+e 82 145 2
+e 82 177 2
+e 82 4 2
+e 83 7 2
+e 83 93 2
+e 83 215 2
+e 83 46 2
+e 84 85 2
+e 85 86 2
+e 85 32 2
+e 85 94 2
+e 86 87 2
+e 87 21 2
+e 88 61 2
+e 89 4 2
+e 90 91 2
+e 91 92 2
+e 91 254 2
+e 92 49 2
+e 93 94 2
+e 94 95 2
+e 95 80 2
+e 95 97 2
+e 95 105 2
+e 96 20 2
+e 97 98 2
+e 97 101 2
+e 97 144 2
+e 98 99 2
+e 99 100 2
+e 99 118 2
+e 99 80 2
+e 99 66 2
+e 99 159 2
+e 99 245 2
+e 99 237 2
+e 100 12 2
+e 100 67 2
+e 100 135 2
+e 101 66 2
+e 101 11 2
+e 101 147 2
+e 101 159 2
+e 101 164 2
+e 101 165 2
+e 101 82 2
+e 102 103 2
+e 102 184 2
+e 102 2 2
+e 103 61 2
+e 103 48 2
+e 103 158 2
+e 103 182 2
+e 104 94 2
+e 105 32 2
+e 105 110 2
+e 105 46 2
+e 106 13 2
+e 106 175 2
+e 106 12 2
+e 106 81 2
+e 107 108 2
+e 108 109 2
+e 108 122 2
+e 109 42 2
+e 109 9 2
+e 109 116 2
+e 110 97 2
+e 110 114 2
+e 111 112 2
+e 111 90 2
+e 112 113 2
+e 113 46 2
+e 114 115 2
+e 115 109 2
+e 116 17 2
+e 117 99 2
+e 117 251 2
+e 118 105 2
+e 119 120 2
+e 120 99 2
+e 121 42 2
+e 121 80 2
+e 121 161 2
+e 122 47 2
+e 122 194 2
+e 123 14 2
+e 123 97 2
+e 123 206 2
+e 124 125 2
+e 125 126 2
+e 126 127 2
+e 127 32 2
+e 127 132 2
+e 128 129 2
+e 129 130 2
+e 130 17 2
+e 130 155 2
+e 131 125 2
+e 132 133 2
+e 133 134 2
+e 134 99 2
+e 134 217 2
+e 135 67 2
+e 135 12 2
+e 136 12 2
+e 136 258 2
+e 137 66 2
+e 138 139 2
+e 139 140 2
+e 140 141 2
+e 141 70 2
+e 142 143 2
+e 143 97 2
+e 143 178 2
+e 144 82 2
+e 145 17 2
+e 146 101 2
+e 147 148 2
+e 147 224 2
+e 148 149 2
+e 148 205 2
+e 149 150 2
+e 150 151 2
+e 151 152 2
+e 152 153 2
+e 152 101 2
+e 152 9 2
+e 153 154 2
+e 154 130 2
+e 155 32 2
+e 155 207 2
+e 155 208 2
+e 156 152 2
+e 157 102 2
+e 158 63 2
+e 159 160 2
+e 159 102 2
+e 160 161 2
+e 161 12 2
+e 161 181 2
+e 161 123 2
+e 162 163 2
+e 163 47 2
+e 164 149 2
+e 165 7 2
+e 166 167 2
+e 167 167 2
+e 167 168 2
+e 167 173 2
+e 167 42 2
+e 167 10 2
+e 168 47 2
+e 169 170 2
+e 170 171 2
+e 171 35 2
+e 172 167 2
+e 173 167 2
+e 174 175 2
+e 174 225 2
+e 175 176 2
+e 175 81 2
+e 176 80 2
+e 176 106 2
+e 176 223 2
+e 177 143 2
+e 177 198 2
+e 178 80 2
+e 179 180 2
+e 180 75 2
+e 180 186 2
+e 181 102 2
+e 181 183 2
+e 182 181 2
+e 183 102 2
+e 184 185 2
+e 185 1 2
+e 186 187 2
+e 187 26 2
+e 188 167 2
+e 189 190 2
+e 189 240 2
+e 189 117 2
+e 190 191 2
+e 191 192 2
+e 192 41 2
+e 193 194 2
+e 194 195 2
+e 194 49 2
+e 195 196 2
+e 195 194 2
+e 195 176 2
+e 195 75 2
+e 195 203 2
+e 195 204 2
+e 196 17 2
+e 196 208 2
+e 196 134 2
+e 197 177 2
+e 198 199 2
+e 198 226 2
+e 199 12 2
+e 200 201 2
+e 201 202 2
+e 202 195 2
+e 203 195 2
+e 204 122 2
+e 205 47 2
+e 206 63 2
+e 206 83 2
+e 207 196 2
+e 208 196 2
+e 208 8 2
+e 208 212 2
+e 209 106 2
+e 210 211 2
+e 211 155 2
+e 212 213 2
+e 213 214 2
+e 214 206 2
+e 215 216 2
+e 216 196 2
+e 217 218 2
+e 218 99 2
+e 219 220 2
+e 220 221 2
+e 221 222 2
+e 222 35 2
+e 222 176 2
+e 222 174 2
+e 222 230 2
+e 222 22 2
+e 223 147 2
+e 223 236 2
+e 224 75 2
+e 225 80 2
+e 226 227 2
+e 227 228 2
+e 228 229 2
+e 229 41 2
+e 230 12 2
+e 231 35 2
+e 232 233 2
+e 233 106 2
+e 234 235 2
+e 234 243 2
+e 235 44 2
+e 236 42 2
+e 236 83 2
+e 236 47 2
+e 237 236 2
+e 237 271 2
+e 238 239 2
+e 239 189 2
+e 240 241 2
+e 241 242 2
+e 241 267 2
+e 242 234 2
+e 243 244 2
+e 244 99 2
+e 245 12 2
+e 246 2 2
+e 247 248 2
+e 247 266 2
+e 248 249 2
+e 249 250 2
+e 249 40 2
+e 249 99 2
+e 250 189 2
+e 251 2 2
+e 252 253 2
+e 253 111 2
+e 254 4 2
+e 255 2 2
+e 256 257 2
+e 256 242 2
+e 257 136 2
+e 258 259 2
+e 259 260 2
+e 260 261 2
+e 261 262 2
+e 262 263 2
+e 263 264 2
+e 264 265 2
+e 265 247 2
+e 266 241 2
+e 267 268 2
+e 268 269 2
+e 269 270 2
+e 270 248 2
+e 271 272 2
+e 272 273 2
+e 273 274 2
+e 274 275 2
+e 275 276 2
+e 276 2 2
+t # 6
+v 0 also
+v 1 known
+v 2 underact
+v 3 thyroid
+v 4 hypothyroid
+v 5 major
+v 6 condit
+v 7 gland
+v 8 produc
+v 9 enough
+v 10 crucial
+v 11 hormon
+v 12 differ
+v 13 sign
+v 14 symptom
+v 15 notifi
+v 16 order
+v 17 get
+v 18 qualiti
+v 19 medic
+v 20 respons
+v 21 faster
+v 22 might
+v 23 alway
+v 24 offer
+v 25 notic
+v 26 earli
+v 27 stage
+v 28 time
+v 29 untreat
+v 30 caus
+v 31 serious
+v 32 health
+v 33 issu
+v 34 like
+v 35 infertil
+v 36 joint
+v 37 pain
+v 38 obes
+v 39 heart
+v 40 proper
+v 41 test
+v 42 essenti
+v 43 perform
+v 44 cover
+v 45 basic
+v 46 help
+v 47 diagnos
+v 48 result
+v 49 accord
+v 50 treatment
+v 51 synthet
+v 52 pretti
+v 53 simpl
+v 54 effect
+v 55 safe
+v 56 one
+v 57 infect
+v 58 quick
+v 59 doctor
+v 60 came
+v 61 across
+v 62 right
+v 63 dose
+v 64 use
+v 65 8
+v 66 surpris
+v 67 search
+v 68 vast
+v 69 world
+v 70 internet
+v 71 let
+v 72 learn
+v 73 provid
+v 74 vital
+v 75 attent
+v 76 1
+v 77 depress
+v 78 mental
+v 79 instabl
+v 80 want
+v 81 avoid
+v 82 getgo
+v 83 true
+v 84 brain
+v 85 slow
+v 86 bit
+v 87 make
+v 88 difficult
+v 89 patient
+v 90 focus
+v 91 clinic
+v 92 peopl
+v 93 underestim
+v 94 level
+v 95 day
+v 96 whenev
+v 97 compromis
+v 98 mood
+v 99 start
+v 100 feel
+v 101 stiff
+v 102 weak
+v 103 watch
+v 104 2
+v 105 unwant
+v 106 weight
+v 107 gain
+v 108 unexpect
+v 109 anoth
+v 110 probabl
+v 111 bodi
+v 112 lowthyroid
+v 113 individu
+v 114 signal
+v 115 muscl
+v 116 liver
+v 117 even
+v 118 fat
+v 119 tissu
+v 120 hold
+v 121 onto
+v 122 calori
+v 123 low
+v 124 metabol
+v 125 switch
+v 126 mode
+v 127 place
+v 128 burn
+v 129 activ
+v 130 growth
+v 131 basal
+v 132 rate
+v 133 decreas
+v 134 therefor
+v 135 store
+v 136 diet
+v 137 much
+v 138 seem
+v 139 obvious
+v 140 due
+v 141 3
+v 142 memori
+v 143 though
+v 144 jog
+v 145 research
+v 146 scientif
+v 147 note
+v 148 prove
+v 149 wont
+v 150 lead
+v 151 perman
+v 152 cognit
+v 153 dysfunct
+v 154 face
+v 155 problem
+v 156 limit
+v 157 span
+v 158 ward
+v 159 eas
+v 160 4
+v 161 cold
+v 162 look
+v 163 top
+v 164 list
+v 165 heat
+v 166 main
+v 167 byproduct
+v 168 isnt
+v 169 bmr
+v 170 go
+v 171 reduc
+v 172 amount
+v 173 generat
+v 174 along
+v 175 turn
+v 176 thermostat
+v 177 brown
+v 178 mandatori
+v 179 maintain
+v 180 climat
+v 181 prevent
+v 182 job
+v 183 5
+v 184 acn
+v 185 lower
+v 186 flip
+v 187 toward
+v 188 catabol
+v 189 that
+v 190 break
+v 191 energi
+v 192 period
+v 193 strength
+v 194 process
+v 195 ach
+v 196 follow
+v 197 everyon
+v 198 least
+v 199 twice
+v 200 6
+v 201 loss
+v 202 hair
+v 203 cell
+v 204 follicl
+v 205 promis
+v 206 regul
+v 207 none
+v 208 stem
+v 209 shorter
+v 210 lifespan
+v 211 higher
+v 212 turnov
+v 213 round
+v 214 sensit
+v 215 stop
+v 216 regener
+v 217 give
+v 218 rise
+v 219 improv
+v 220 treat
+v 221 core
+v 222 suffer
+v 223 consid
+v 224 recent
+v 225 studi
+v 226 shown
+v 227 around
+v 228 25
+v 229 30
+v 230 proven
+v 231 7
+v 232 dri
+v 233 itchi
+v 234 skin
+v 235 type
+v 236 character
+v 237 rapid
+v 238 lose
+v 239 normal
+v 240 renew
+v 241 cycl
+v 242 broken
+v 243 take
+v 244 regrow
+v 245 outer
+v 246 layer
+v 247 accumul
+v 248 damag
+v 249 long
+v 250 dead
+v 251 longer
+v 252 shed
+v 253 74
+v 254 flaki
+v 255 interest
+v 256 50
+v 257 state
+v 258 reason
+v 259 gotten
+v 260 wors
+v 261 within
+v 262 year
+v 263 affect
+v 264 unfortun
+v 265 victim
+v 266 check
+v 267 away
+v 268 constip
+v 269 sure
+v 270 know
+v 271 put
+v 272 brake
+v 273 colon
+v 274 17
+v 275 20
+v 276 common
+v 277 complaint
+v 278 among
+v 279 uncommon
+v 280 sever
+v 281 diagnost
+v 282 remedi
+v 283 lab
+v 284 mention
+v 285 clear
+v 286 deciph
+v 287 case
+v 288 need
+v 289 call
+v 290 team
+v 291 rescu
+v 292 immedi
+v 293 conduct
+v 294 blood
+v 295 measur
+v 296 tsh
+v 297 separ
+v 298 packag
+v 299 choos
+v 300 preset
+v 301 budget
+v 302 plan
+v 303 stimul
+v 304 tri
+v 305 well
+v 306 post
+v 307 navig
+v 308 vitamin
+v 309 defici
+v 310 find
+e 0 1 2
+e 0 73 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 3 7 2
+e 3 41 2
+e 3 11 2
+e 3 57 2
+e 3 94 2
+e 3 30 2
+e 3 155 2
+e 3 89 2
+e 3 47 2
+e 3 303 2
+e 4 5 2
+e 4 15 2
+e 4 22 2
+e 4 30 2
+e 4 46 2
+e 4 67 2
+e 4 54 2
+e 4 74 2
+e 4 17 2
+e 4 77 2
+e 4 95 2
+e 4 100 2
+e 4 23 2
+e 4 169 2
+e 4 181 2
+e 4 196 2
+e 4 92 2
+e 4 231 2
+e 4 257 2
+e 4 227 2
+e 4 287 2
+e 5 6 2
+e 5 13 2
+e 5 3 2
+e 5 4 2
+e 6 3 2
+e 6 141 2
+e 6 56 2
+e 6 259 2
+e 7 8 2
+e 8 9 2
+e 9 10 2
+e 9 122 2
+e 10 11 2
+e 11 12 2
+e 11 52 2
+e 11 175 2
+e 11 186 2
+e 11 204 2
+e 11 239 2
+e 11 294 2
+e 11 41 2
+e 12 13 2
+e 13 14 2
+e 13 4 2
+e 13 140 2
+e 13 284 2
+e 14 4 2
+e 14 26 2
+e 14 58 2
+e 14 103 2
+e 14 223 2
+e 14 227 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 17 19 2
+e 17 173 2
+e 17 242 2
+e 17 263 2
+e 17 40 2
+e 17 3 2
+e 18 19 2
+e 18 48 2
+e 19 20 2
+e 19 75 2
+e 19 59 2
+e 19 292 2
+e 20 21 2
+e 21 4 2
+e 21 76 2
+e 22 23 2
+e 22 154 2
+e 23 24 2
+e 23 100 2
+e 24 25 2
+e 24 78 2
+e 25 14 2
+e 26 27 2
+e 27 28 2
+e 28 29 2
+e 28 157 2
+e 28 234 2
+e 28 250 2
+e 28 243 2
+e 28 252 2
+e 28 117 2
+e 29 4 2
+e 30 31 2
+e 30 84 2
+e 30 4 2
+e 30 195 2
+e 30 204 2
+e 31 32 2
+e 31 33 2
+e 32 33 2
+e 33 34 2
+e 33 40 2
+e 33 17 2
+e 33 142 2
+e 33 288 2
+e 34 35 2
+e 34 118 2
+e 34 115 2
+e 34 100 2
+e 34 203 2
+e 34 214 2
+e 34 202 2
+e 35 36 2
+e 36 37 2
+e 36 115 2
+e 36 109 2
+e 37 38 2
+e 38 39 2
+e 39 33 2
+e 40 3 2
+e 40 19 2
+e 40 281 2
+e 41 42 2
+e 41 295 2
+e 41 217 2
+e 41 310 2
+e 42 43 2
+e 43 44 2
+e 44 45 2
+e 44 3 2
+e 45 13 2
+e 45 3 2
+e 46 47 2
+e 46 285 2
+e 46 289 2
+e 47 33 2
+e 47 99 2
+e 48 49 2
+e 48 91 2
+e 48 232 2
+e 49 50 2
+e 50 51 2
+e 51 3 2
+e 52 53 2
+e 52 139 2
+e 52 214 2
+e 53 54 2
+e 54 55 2
+e 54 0 2
+e 54 111 2
+e 55 56 2
+e 56 44 2
+e 56 5 2
+e 56 110 2
+e 56 264 2
+e 57 14 2
+e 58 59 2
+e 59 60 2
+e 59 158 2
+e 60 61 2
+e 61 62 2
+e 62 63 2
+e 62 267 2
+e 63 64 2
+e 64 65 2
+e 65 66 2
+e 65 268 2
+e 66 14 2
+e 66 13 2
+e 67 68 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 72 4 2
+e 72 65 2
+e 73 66 2
+e 74 72 2
+e 75 21 2
+e 76 77 2
+e 77 56 2
+e 77 24 2
+e 77 92 2
+e 77 94 2
+e 78 79 2
+e 79 80 2
+e 80 81 2
+e 81 82 2
+e 82 83 2
+e 83 4 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 88 2
+e 88 89 2
+e 89 90 2
+e 89 222 2
+e 89 239 2
+e 89 279 2
+e 90 48 2
+e 91 77 2
+e 92 93 2
+e 92 34 2
+e 92 222 2
+e 92 4 2
+e 93 77 2
+e 94 30 2
+e 94 123 2
+e 94 119 2
+e 94 257 2
+e 94 62 2
+e 94 269 2
+e 95 96 2
+e 96 97 2
+e 96 3 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 99 133 2
+e 99 135 2
+e 99 190 2
+e 99 40 2
+e 100 101 2
+e 100 161 2
+e 100 102 2
+e 100 199 2
+e 101 102 2
+e 102 45 2
+e 102 194 2
+e 102 198 2
+e 103 104 2
+e 104 105 2
+e 105 106 2
+e 105 202 2
+e 106 107 2
+e 106 138 2
+e 107 108 2
+e 107 109 2
+e 107 106 2
+e 108 106 2
+e 109 56 2
+e 110 4 2
+e 111 112 2
+e 111 99 2
+e 111 168 2
+e 111 154 2
+e 112 113 2
+e 113 114 2
+e 114 115 2
+e 114 3 2
+e 115 116 2
+e 115 185 2
+e 115 191 2
+e 115 193 2
+e 115 119 2
+e 115 36 2
+e 116 117 2
+e 117 118 2
+e 117 143 2
+e 118 119 2
+e 118 107 2
+e 118 173 2
+e 118 182 2
+e 119 120 2
+e 119 34 2
+e 119 30 2
+e 119 185 2
+e 120 121 2
+e 121 122 2
+e 122 96 2
+e 122 129 2
+e 122 136 2
+e 122 111 2
+e 122 4 2
+e 123 124 2
+e 123 3 2
+e 124 125 2
+e 124 132 2
+e 125 126 2
+e 125 187 2
+e 126 127 2
+e 127 128 2
+e 128 122 2
+e 128 9 2
+e 129 130 2
+e 130 131 2
+e 130 114 2
+e 131 124 2
+e 132 99 2
+e 133 134 2
+e 133 171 2
+e 133 150 2
+e 134 111 2
+e 135 122 2
+e 136 137 2
+e 137 34 2
+e 138 52 2
+e 138 163 2
+e 139 13 2
+e 140 6 2
+e 141 33 2
+e 142 117 2
+e 142 144 2
+e 142 155 2
+e 143 4 2
+e 143 22 2
+e 143 197 2
+e 143 276 2
+e 144 145 2
+e 145 146 2
+e 146 147 2
+e 147 148 2
+e 147 208 2
+e 148 149 2
+e 149 150 2
+e 150 151 2
+e 150 102 2
+e 151 152 2
+e 152 153 2
+e 153 117 2
+e 154 142 2
+e 154 255 2
+e 154 31 2
+e 155 156 2
+e 155 159 2
+e 155 221 2
+e 156 28 2
+e 157 40 2
+e 158 142 2
+e 159 160 2
+e 160 100 2
+e 161 162 2
+e 161 138 2
+e 161 4 2
+e 161 180 2
+e 162 13 2
+e 163 164 2
+e 164 165 2
+e 165 166 2
+e 165 17 2
+e 165 177 2
+e 165 178 2
+e 165 161 2
+e 166 167 2
+e 167 128 2
+e 168 128 2
+e 169 170 2
+e 170 133 2
+e 171 172 2
+e 172 165 2
+e 172 296 2
+e 173 174 2
+e 173 165 2
+e 174 3 2
+e 175 176 2
+e 176 177 2
+e 177 118 2
+e 177 165 2
+e 178 179 2
+e 179 165 2
+e 180 4 2
+e 181 118 2
+e 182 183 2
+e 183 184 2
+e 184 36 2
+e 185 3 2
+e 186 124 2
+e 187 188 2
+e 188 189 2
+e 188 192 2
+e 189 111 2
+e 190 119 2
+e 190 115 2
+e 191 188 2
+e 192 115 2
+e 193 99 2
+e 194 190 2
+e 195 195 2
+e 195 115 2
+e 196 117 2
+e 197 100 2
+e 198 4 2
+e 199 200 2
+e 200 201 2
+e 201 202 2
+e 201 219 2
+e 201 56 2
+e 201 230 2
+e 202 137 2
+e 202 204 2
+e 202 201 2
+e 203 202 2
+e 203 209 2
+e 203 236 2
+e 204 205 2
+e 204 147 2
+e 204 215 2
+e 204 52 2
+e 205 206 2
+e 206 207 2
+e 207 3 2
+e 208 203 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 212 137 2
+e 213 34 2
+e 214 185 2
+e 214 238 2
+e 215 216 2
+e 216 217 2
+e 217 218 2
+e 217 304 2
+e 218 202 2
+e 219 220 2
+e 220 3 2
+e 221 222 2
+e 222 105 2
+e 222 202 2
+e 222 4 2
+e 222 254 2
+e 222 232 2
+e 223 224 2
+e 224 225 2
+e 225 226 2
+e 225 230 2
+e 226 227 2
+e 226 256 2
+e 227 228 2
+e 227 253 2
+e 227 256 2
+e 227 274 2
+e 227 275 2
+e 227 17 2
+e 228 229 2
+e 229 89 2
+e 230 222 2
+e 230 227 2
+e 231 232 2
+e 232 233 2
+e 232 234 2
+e 233 234 2
+e 234 235 2
+e 234 203 2
+e 234 240 2
+e 234 244 2
+e 234 246 2
+e 234 28 2
+e 234 225 2
+e 234 6 2
+e 234 258 2
+e 234 266 2
+e 235 234 2
+e 236 237 2
+e 237 212 2
+e 238 130 2
+e 239 234 2
+e 239 3 2
+e 240 241 2
+e 241 17 2
+e 242 243 2
+e 243 28 2
+e 243 251 2
+e 244 245 2
+e 245 234 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 28 2
+e 250 234 2
+e 251 28 2
+e 252 48 2
+e 253 123 2
+e 254 234 2
+e 255 225 2
+e 256 89 2
+e 256 92 2
+e 257 222 2
+e 257 234 2
+e 257 268 2
+e 258 224 2
+e 259 260 2
+e 260 261 2
+e 260 28 2
+e 261 262 2
+e 261 300 2
+e 262 17 2
+e 263 56 2
+e 263 227 2
+e 264 265 2
+e 265 232 2
+e 266 3 2
+e 267 65 2
+e 268 185 2
+e 268 263 2
+e 268 259 2
+e 268 280 2
+e 269 270 2
+e 270 271 2
+e 271 272 2
+e 272 273 2
+e 273 268 2
+e 274 92 2
+e 275 92 2
+e 276 277 2
+e 277 278 2
+e 278 89 2
+e 279 268 2
+e 280 14 2
+e 281 282 2
+e 282 283 2
+e 283 13 2
+e 283 291 2
+e 284 46 2
+e 285 286 2
+e 286 222 2
+e 287 154 2
+e 288 46 2
+e 289 290 2
+e 290 282 2
+e 291 17 2
+e 292 293 2
+e 293 294 2
+e 294 41 2
+e 294 297 2
+e 295 172 2
+e 296 3 2
+e 297 298 2
+e 298 299 2
+e 299 261 2
+e 300 301 2
+e 301 302 2
+e 302 3 2
+e 303 11 2
+e 304 305 2
+e 305 306 2
+e 306 307 2
+e 307 308 2
+e 308 309 2
+e 309 41 2
+e 310 309 2
+t # 7
+v 0 one
+v 1 common
+v 2 defici
+v 3 peopl
+v 4 suffer
+v 5 vitamin
+v 6 doctor
+v 7 recommend
+v 8 test
+v 9 find
+v 10 current
+v 11 stand
+v 12 form
+v 13 caus
+v 14 issu
+v 15 muscl
+v 16 bone
+v 17 affect
+v 18 age
+v 19 65
+v 20 most
+v 21 darker
+v 22 skin
+v 23 tone
+v 24 proper
+v 25 advic
+v 26 help
+v 27 easili
+v 28 treatabl
+v 29 name
+v 30 suggest
+v 31 actual
+v 32 mean
+v 33 bodi
+v 34 right
+v 35 level
+v 36 deserv
+v 37 might
+v 38 want
+v 39 know
+v 40 well
+v 41 run
+v 42 toward
+v 43 lesser
+v 44 count
+v 45 start
+v 46 feel
+v 47 weak
+v 48 along
+v 49 prime
+v 50 use
+v 51 normal
+v 52 develop
+v 53 mainten
+v 54 even
+v 55 play
+v 56 major
+v 57 role
+v 58 immun
+v 59 system
+v 60 musculoskelet
+v 61 nervous
+v 62 differ
+v 63 way
+v 64 get
+v 65 amount
+v 66 blood
+v 67 need
+v 68 first
+v 69 foremost
+v 70 option
+v 71 uv
+v 72 ray
+v 73 older
+v 74 sunlight
+v 75 furthermor
+v 76 geograph
+v 77 locat
+v 78 also
+v 79 determin
+v 80 getth
+v 81 next
+v 82 stop
+v 83 food
+v 84 eat
+v 85 receiv
+v 86 muchneed
+v 87 nutrit
+v 88 supplement
+v 89 done
+v 90 import
+v 91 come
+v 92 serious
+v 93 appropri
+v 94 stay
+v 95 fit
+v 96 healthi
+v 97 maintain
+v 98 balanc
+v 99 calcium
+v 100 within
+v 101 bloodstream
+v 102 specif
+v 103 phosphorus
+v 104 build
+v 105 strong
+v 106 support
+v 107 tissuesunderstand
+v 108 plan
+v 109 let
+v 110 chronic
+v 111 deficiencywith
+v 112 decreas
+v 113 absorpt
+v 114 intestin
+v 115 lead
+v 116 hypocalcemiavitamin
+v 117 hyperparathyroid
+v 118 overact
+v 119 parathyroid
+v 120 gland
+v 121 tri
+v 122 keep
+v 123 normalboth
+v 124 sever
+v 125 treat
+v 126 time
+v 127 symptom
+v 128 like
+v 129 fatigu
+v 130 depress
+v 131 crampsfor
+v 132 take
+v 133 eventu
+v 134 acceler
+v 135 deminer
+v 136 situat
+v 137 result
+v 138 osteomalacia
+v 139 adult
+v 140 children
+v 141 ricket
+v 142 osteoporosi
+v 143 increas
+v 144 chanc
+v 145 fractur
+v 146 child
+v 147 still
+v 148 grow
+v 149 stage
+v 150 bent
+v 151 bow
+v 152 prevent
+v 153 hamper
+v 154 life
+v 155 manag
+v 156 main
+v 157 clue
+v 158 consid
+v 159 high
+v 160 anyon
+v 161 victim
+v 162 alway
+v 163 patient
+v 164 move
+v 165 infant
+v 166 highend
+v 167 among
+v 168 higher
+v 169 melanin
+v 170 content
+v 171 tend
+v 172 wear
+v 173 cloth
+v 174 coverag
+v 175 becom
+v 176 global
+v 177 phenomenon
+v 178 around
+v 179 1
+v 180 billion
+v 181 worldwid
+v 182 50
+v 183 world
+v 184 popul
+v 185 insuffici
+v 186 consum
+v 187 usa
+v 188 35
+v 189 nowaday
+v 190 treatment
+v 191 necess
+v 192 day
+v 193 sign
+v 194 true
+v 195 answer
+v 196 show
+v 197 dont
+v 198 learn
+v 199 due
+v 200 kid
+v 201 incorrect
+v 202 growth
+v 203 pattern
+v 204 pain
+v 205 joint
+v 206 deformitieschildren
+v 207 mild
+v 208 sore
+v 209 tissuesadult
+v 210 lower
+v 211 cramp
+v 212 mood
+v 213 chang
+v 214 howev
+v 215 may
+v 216 face
+v 217 mention
+v 218 end
+v 219 that
+v 220 vital
+v 221 general
+v 222 speak
+v 223 type
+v 224 avail
+v 225 wide
+v 226 screen
+v 227 go
+v 228 asap
+v 229 health
+v 230 problem
+v 231 known
+v 232 disord
+v 233 absorb
+v 234 see
+v 235 lack
+v 236 remedi
+v 237 lab
+v 238 team
+v 239 provid
+v 240 25hydroxi
+v 241 target
+v 242 accur
+v 243 measur
+v 244 alreadi
+v 245 control
+v 246 phosphat
+v 247 draw
+v 248 vein
+v 249 usual
+v 250 insid
+v 251 elbow
+v 252 back
+v 253 hand
+v 254 stipul
+v 255 frame
+v 256 report
+v 257 deliv
+v 258 digit
+v 259 hard
+v 260 copi
+v 261 better
+v 262 post
+v 263 navig
+v 264 thyroid
+v 265 stimul
+v 266 hormon
+v 267 8
+v 268 hypothyroid
+e 0 1 2
+e 0 49 2
+e 0 109 2
+e 0 3 2
+e 0 161 2
+e 1 2 2
+e 1 167 2
+e 1 176 2
+e 1 127 2
+e 2 3 2
+e 2 6 2
+e 2 8 2
+e 2 13 2
+e 2 27 2
+e 2 29 2
+e 2 31 2
+e 2 35 2
+e 2 78 2
+e 2 125 2
+e 2 160 2
+e 2 159 2
+e 2 175 2
+e 2 189 2
+e 2 54 2
+e 2 127 2
+e 2 212 2
+e 2 219 2
+e 3 4 2
+e 3 18 2
+e 3 73 2
+e 3 168 2
+e 3 171 2
+e 3 181 2
+e 3 215 2
+e 4 5 2
+e 4 110 2
+e 4 141 2
+e 4 166 2
+e 4 14 2
+e 4 207 2
+e 5 2 2
+e 5 36 2
+e 5 8 2
+e 5 33 2
+e 5 44 2
+e 5 0 2
+e 5 35 2
+e 5 74 2
+e 5 87 2
+e 5 94 2
+e 5 111 2
+e 5 186 2
+e 5 66 2
+e 5 224 2
+e 5 26 2
+e 6 7 2
+e 6 26 2
+e 6 89 2
+e 6 162 2
+e 7 5 2
+e 7 6 2
+e 7 163 2
+e 8 9 2
+e 8 40 2
+e 8 26 2
+e 8 33 2
+e 8 108 2
+e 8 139 2
+e 8 196 2
+e 8 193 2
+e 8 220 2
+e 8 221 2
+e 8 224 2
+e 8 89 2
+e 8 236 2
+e 8 241 2
+e 8 247 2
+e 8 267 2
+e 9 10 2
+e 10 11 2
+e 11 12 2
+e 12 2 2
+e 13 14 2
+e 13 117 2
+e 13 92 2
+e 13 150 2
+e 14 15 2
+e 14 64 2
+e 14 153 2
+e 14 178 2
+e 14 217 2
+e 14 233 2
+e 15 16 2
+e 15 5 2
+e 15 47 2
+e 15 204 2
+e 15 209 2
+e 15 211 2
+e 16 17 2
+e 16 45 2
+e 16 52 2
+e 16 78 2
+e 16 133 2
+e 16 135 2
+e 16 145 2
+e 16 147 2
+e 16 38 2
+e 16 205 2
+e 16 204 2
+e 16 232 2
+e 17 3 2
+e 17 5 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 21 22 2
+e 22 23 2
+e 22 37 2
+e 22 169 2
+e 22 78 2
+e 22 174 2
+e 23 24 2
+e 24 25 2
+e 24 53 2
+e 24 5 2
+e 24 98 2
+e 24 190 2
+e 25 6 2
+e 26 2 2
+e 26 39 2
+e 26 243 2
+e 26 245 2
+e 27 28 2
+e 28 5 2
+e 29 30 2
+e 30 5 2
+e 31 32 2
+e 32 33 2
+e 33 34 2
+e 33 41 2
+e 33 50 2
+e 33 64 2
+e 33 80 2
+e 33 67 2
+e 33 92 2
+e 33 132 2
+e 33 187 2
+e 33 8 2
+e 33 244 2
+e 34 35 2
+e 34 65 2
+e 34 12 2
+e 34 5 2
+e 35 5 2
+e 35 43 2
+e 35 66 2
+e 35 112 2
+e 35 123 2
+e 35 100 2
+e 35 34 2
+e 35 37 2
+e 35 13 2
+e 35 33 2
+e 36 37 2
+e 37 38 2
+e 37 64 2
+e 37 4 2
+e 37 0 2
+e 37 46 2
+e 38 39 2
+e 38 152 2
+e 39 5 2
+e 39 35 2
+e 39 4 2
+e 39 37 2
+e 40 8 2
+e 40 210 2
+e 41 42 2
+e 42 2 2
+e 43 5 2
+e 44 16 2
+e 45 46 2
+e 46 47 2
+e 46 129 2
+e 47 48 2
+e 47 131 2
+e 47 201 2
+e 47 208 2
+e 47 127 2
+e 48 15 2
+e 49 5 2
+e 50 51 2
+e 50 103 2
+e 50 226 2
+e 51 16 2
+e 52 24 2
+e 53 54 2
+e 54 55 2
+e 54 165 2
+e 54 197 2
+e 55 56 2
+e 56 57 2
+e 57 58 2
+e 57 97 2
+e 58 59 2
+e 59 60 2
+e 59 61 2
+e 59 62 2
+e 60 59 2
+e 61 59 2
+e 62 63 2
+e 62 223 2
+e 63 33 2
+e 63 26 2
+e 64 34 2
+e 64 0 2
+e 64 124 2
+e 64 159 2
+e 64 24 2
+e 64 190 2
+e 64 256 2
+e 65 5 2
+e 65 74 2
+e 65 33 2
+e 66 67 2
+e 66 99 2
+e 66 33 2
+e 66 156 2
+e 66 15 2
+e 66 64 2
+e 66 248 2
+e 67 68 2
+e 67 90 2
+e 67 93 2
+e 67 24 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 72 3 2
+e 73 21 2
+e 74 75 2
+e 74 33 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 78 97 2
+e 78 106 2
+e 78 13 2
+e 78 1 2
+e 79 65 2
+e 80 81 2
+e 81 82 2
+e 82 83 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 5 2
+e 87 88 2
+e 88 7 2
+e 88 2 2
+e 89 24 2
+e 89 234 2
+e 90 91 2
+e 91 5 2
+e 92 67 2
+e 92 127 2
+e 92 229 2
+e 93 65 2
+e 94 95 2
+e 95 96 2
+e 96 55 2
+e 96 107 2
+e 97 24 2
+e 97 102 2
+e 98 99 2
+e 99 100 2
+e 99 104 2
+e 99 113 2
+e 99 35 2
+e 99 16 2
+e 99 5 2
+e 100 101 2
+e 100 114 2
+e 100 66 2
+e 100 254 2
+e 101 16 2
+e 102 67 2
+e 103 99 2
+e 104 105 2
+e 105 16 2
+e 106 96 2
+e 107 5 2
+e 108 64 2
+e 108 262 2
+e 109 39 2
+e 109 198 2
+e 110 5 2
+e 110 2 2
+e 111 110 2
+e 112 103 2
+e 113 100 2
+e 114 115 2
+e 115 116 2
+e 115 134 2
+e 116 2 2
+e 117 118 2
+e 118 119 2
+e 119 120 2
+e 120 121 2
+e 121 122 2
+e 122 66 2
+e 123 14 2
+e 124 5 2
+e 125 126 2
+e 126 13 2
+e 126 136 2
+e 126 255 2
+e 127 128 2
+e 127 194 2
+e 127 140 2
+e 127 167 2
+e 127 5 2
+e 127 268 2
+e 128 129 2
+e 128 130 2
+e 129 130 2
+e 129 16 2
+e 130 15 2
+e 130 214 2
+e 131 98 2
+e 132 99 2
+e 132 8 2
+e 133 115 2
+e 134 16 2
+e 135 125 2
+e 135 13 2
+e 136 137 2
+e 137 138 2
+e 138 139 2
+e 139 140 2
+e 139 161 2
+e 140 4 2
+e 140 54 2
+e 141 142 2
+e 141 143 2
+e 141 199 2
+e 142 141 2
+e 143 144 2
+e 144 16 2
+e 145 146 2
+e 146 16 2
+e 147 148 2
+e 147 218 2
+e 148 149 2
+e 149 135 2
+e 150 151 2
+e 151 16 2
+e 152 14 2
+e 153 154 2
+e 154 155 2
+e 155 24 2
+e 156 157 2
+e 157 158 2
+e 158 64 2
+e 159 17 2
+e 159 1 2
+e 160 161 2
+e 161 5 2
+e 161 109 2
+e 161 2 2
+e 162 7 2
+e 162 1 2
+e 162 242 2
+e 163 164 2
+e 164 5 2
+e 165 37 2
+e 166 2 2
+e 166 22 2
+e 167 3 2
+e 167 200 2
+e 168 22 2
+e 169 170 2
+e 170 21 2
+e 171 172 2
+e 172 173 2
+e 173 166 2
+e 174 34 2
+e 175 1 2
+e 175 191 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 178 182 2
+e 178 188 2
+e 179 180 2
+e 180 3 2
+e 181 4 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 5 2
+e 186 33 2
+e 187 178 2
+e 188 139 2
+e 189 64 2
+e 190 175 2
+e 190 227 2
+e 190 108 2
+e 191 192 2
+e 192 193 2
+e 193 127 2
+e 193 26 2
+e 194 195 2
+e 195 5 2
+e 196 0 2
+e 197 132 2
+e 198 127 2
+e 199 5 2
+e 200 15 2
+e 201 202 2
+e 202 203 2
+e 203 204 2
+e 204 16 2
+e 204 15 2
+e 204 40 2
+e 205 206 2
+e 206 4 2
+e 207 2 2
+e 208 15 2
+e 209 46 2
+e 210 5 2
+e 210 35 2
+e 211 47 2
+e 212 213 2
+e 213 128 2
+e 214 162 2
+e 215 216 2
+e 216 14 2
+e 217 147 2
+e 217 5 2
+e 218 161 2
+e 219 5 2
+e 220 5 2
+e 221 222 2
+e 222 62 2
+e 223 5 2
+e 224 225 2
+e 224 33 2
+e 225 50 2
+e 226 210 2
+e 227 228 2
+e 228 88 2
+e 229 230 2
+e 230 231 2
+e 231 16 2
+e 232 14 2
+e 233 99 2
+e 234 235 2
+e 235 93 2
+e 236 237 2
+e 237 238 2
+e 237 239 2
+e 237 162 2
+e 238 236 2
+e 239 240 2
+e 240 5 2
+e 241 242 2
+e 242 63 2
+e 242 256 2
+e 243 65 2
+e 244 217 2
+e 245 246 2
+e 246 99 2
+e 247 66 2
+e 248 249 2
+e 249 250 2
+e 250 251 2
+e 251 252 2
+e 252 253 2
+e 253 100 2
+e 254 126 2
+e 255 64 2
+e 256 257 2
+e 256 261 2
+e 257 258 2
+e 258 259 2
+e 259 260 2
+e 260 236 2
+e 261 190 2
+e 262 263 2
+e 263 264 2
+e 264 265 2
+e 265 266 2
+e 266 8 2
+e 267 193 2
+t # 8
+v 0 found
+v 1 sever
+v 2 countri
+v 3 experienc
+v 4 reappear
+v 5 covid19
+v 6 driven
+v 7 main
+v 8 delta
+v 9 variant
+v 10 sarscov2
+v 11 thus
+v 12 view
+v 13 administr
+v 14 third
+v 15 booster
+v 16 dose
+v 17 address
+v 18 potenti
+v 19 fade
+v 20 immun
+v 21 time
+v 22 reduc
+v 23 efficaci
+v 24 covid
+v 25 ad
+v 26 vaccin
+v 27 given
+v 28 individu
+v 29 protect
+v 30 origin
+v 31 shot
+v 32 start
+v 33 declin
+v 34 inde
+v 35 help
+v 36 peopl
+v 37 sustain
+v 38 strong
+v 39 stark
+v 40 coronavirus
+v 41 diseas
+v 42 question
+v 43 loom
+v 44 larg
+v 45 mind
+v 46 safeti
+v 47 19
+v 48 effect
+v 49 give
+v 50 age
+v 51 group
+v 52 5
+v 53 year
+v 54 prevent
+v 55 even
+v 56 person
+v 57 get
+v 58 infect
+v 59 number
+v 60 hospit
+v 61 case
+v 62 also
+v 63 gone
+v 64 side
+v 65 experi
+v 66 similar
+v 67 symptom
+v 68 one
+v 69 flu
+v 70 common
+v 71 includ
+v 72 swollen
+v 73 armsor
+v 74 throatmild
+v 75 feverheadachebodi
+v 76 achefatigu
+v 77 day
+v 78 twoswollen
+v 79 lymph
+v 80 chill
+v 81 occur
+v 82 mean
+v 83 sick
+v 84 indic
+v 85 system
+v 86 respond
+v 87 build
+v 88 guard
+v 89 brand
+v 90 necessari
+v 91 big
+v 92 confus
+v 93 take
+v 94 whether
+v 95 need
+v 96 recent
+v 97 chief
+v 98 author
+v 99 approv
+v 100 mix
+v 101 match
+v 102 suppos
+v 103 taken
+v 104 come
+v 105 anoth
+v 106 caus
+v 107 harm
+v 108 increas
+v 109 great
+v 110 extent
+v 111 concern
+v 112 stay
+v 113 assur
+v 114 health
+v 115 issu
+v 116 safe
+v 117 best
+v 118 boost
+v 119 level
+v 120 verg
+v 121 wane
+v 122 complet
+v 123 seri
+v 124 virus
+v 125 decreas
+v 126 administ
+v 127 comorbid
+v 128 high
+v 129 recommend
+v 130 alreadi
+v 131 weak
+v 132 accord
+v 133 research
+v 134 receiv
+v 135 risk
+v 136 ill
+v 137 moder
+v 138 debilit
+v 139 singl
+v 140 initi
+v 141 two
+v 142 respons
+v 143 act
+v 144 famili
+v 145 well
+v 146 surround
+v 147 pregnant
+v 148 women
+v 149 far
+v 150 suscept
+v 151 omicron
+v 152 detect
+v 153 global
+v 154 fight
+v 155 immens
+v 156 emerg
+v 157 remind
+v 158 must
+v 159 care
+v 160 enough
+v 161 practic
+v 162 protocol
+v 163 neglect
+v 164 way
+v 165 pandem
+v 166 wear
+v 167 mask
+v 168 dearth
+v 169 avail
+v 170 across
+v 171 globe
+v 172 earliest
+v 173 cross
+v 174 period
+v 175 8month
+v 176 second
+v 177 want
+v 178 achiev
+v 179 go
+v 180 unvaccin
+v 181 popul
+v 182 catch
+v 183 new
+v 184 due
+v 185 mutat
+v 186 peac
+v 187 ask
+v 188 among
+v 189 absolut
+v 190 studi
+v 191 reput
+v 192 manufactur
+v 193 publish
+v 194 near
+v 195 10000
+v 196 particip
+v 197 took
+v 198 part
+v 199 trial
+v 200 half
+v 201 placebo
+v 202 find
+v 203 advers
+v 204 result
+v 205 consist
+v 206 previous
+v 207 said
+v 208 pericard
+v 209 myocard
+v 210 inflamm
+v 211 outer
+v 212 line
+v 213 heart
+v 214 noth
+v 215 observ
+v 216 fact
+v 217 serious
+v 218 immunocompromis
+v 219 shown
+v 220 blend
+v 221 prior
+v 222 look
+v 223 extrem
+v 224 power
+v 225 reinfect
+v 226 schedul
+v 227 mention
+v 228 right
+v 229 8
+v 230 month
+v 231 nearest
+v 232 centr
+v 233 panic
+v 234 first
+v 235 chang
+v 236 rate
+v 237 95
+v 238 requir
+v 239 sundri
+v 240 maximum
+v 241 got
+v 242 99
+v 243 less
+v 244 chanc
+v 245 let
+v 246 1st
+v 247 10
+v 248 infectedaft
+v 249 2nd
+v 250 4
+v 251 caught
+v 252 infectionaft
+v 253 3rd
+v 254 15
+v 255 develop
+v 256 know
+v 257 feel
+v 258 free
+v 259 click
+v 260 websit
+v 261 post
+v 262 navig
+v 263 checkup
+v 264 mandatori
+e 0 1 2
+e 0 149 2
+e 0 155 2
+e 0 189 2
+e 0 206 2
+e 0 51 2
+e 0 29 2
+e 0 26 2
+e 1 2 2
+e 1 54 2
+e 1 136 2
+e 1 138 2
+e 2 3 2
+e 2 12 2
+e 3 4 2
+e 3 57 2
+e 4 5 2
+e 5 6 2
+e 5 17 2
+e 5 26 2
+e 5 89 2
+e 5 129 2
+e 5 36 2
+e 5 139 2
+e 5 15 2
+e 5 9 2
+e 5 162 2
+e 5 90 2
+e 5 193 2
+e 5 56 2
+e 5 122 2
+e 5 58 2
+e 5 170 2
+e 5 257 2
+e 6 7 2
+e 7 8 2
+e 8 9 2
+e 9 10 2
+e 9 24 2
+e 9 151 2
+e 9 152 2
+e 9 14 2
+e 9 156 2
+e 10 11 2
+e 10 226 2
+e 11 2 2
+e 11 15 2
+e 11 36 2
+e 11 180 2
+e 11 207 2
+e 11 226 2
+e 12 13 2
+e 13 14 2
+e 14 15 2
+e 14 26 2
+e 14 16 2
+e 15 16 2
+e 15 31 2
+e 15 22 2
+e 15 199 2
+e 15 200 2
+e 15 51 2
+e 15 130 2
+e 15 25 2
+e 15 26 2
+e 16 5 2
+e 16 25 2
+e 16 26 2
+e 16 34 2
+e 16 48 2
+e 16 31 2
+e 16 57 2
+e 16 90 2
+e 16 94 2
+e 16 89 2
+e 16 96 2
+e 16 68 2
+e 16 93 2
+e 16 106 2
+e 16 112 2
+e 16 49 2
+e 16 126 2
+e 16 127 2
+e 16 30 2
+e 16 15 2
+e 16 129 2
+e 16 125 2
+e 16 118 2
+e 16 64 2
+e 16 164 2
+e 16 168 2
+e 16 14 2
+e 16 11 2
+e 16 0 2
+e 16 228 2
+e 16 104 2
+e 16 158 2
+e 16 16 2
+e 16 234 2
+e 16 27 2
+e 16 238 2
+e 16 28 2
+e 16 216 2
+e 16 247 2
+e 16 250 2
+e 16 254 2
+e 17 18 2
+e 18 19 2
+e 19 20 2
+e 20 21 2
+e 20 85 2
+e 20 108 2
+e 20 119 2
+e 20 36 2
+e 20 28 2
+e 21 22 2
+e 21 14 2
+e 21 11 2
+e 21 174 2
+e 22 23 2
+e 22 150 2
+e 23 8 2
+e 23 236 2
+e 24 15 2
+e 24 47 2
+e 24 16 2
+e 24 263 2
+e 25 16 2
+e 25 29 2
+e 26 27 2
+e 26 16 2
+e 26 14 2
+e 26 65 2
+e 26 67 2
+e 26 87 2
+e 26 123 2
+e 26 130 2
+e 26 169 2
+e 26 172 2
+e 26 129 2
+e 26 192 2
+e 26 62 2
+e 26 222 2
+e 26 231 2
+e 27 28 2
+e 27 30 2
+e 27 15 2
+e 27 201 2
+e 27 36 2
+e 27 5 2
+e 28 29 2
+e 28 122 2
+e 28 177 2
+e 28 5 2
+e 28 93 2
+e 28 0 2
+e 28 241 2
+e 28 251 2
+e 29 27 2
+e 29 39 2
+e 29 36 2
+e 29 124 2
+e 29 144 2
+e 29 20 2
+e 29 181 2
+e 29 28 2
+e 29 135 2
+e 30 31 2
+e 30 16 2
+e 31 32 2
+e 31 64 2
+e 31 28 2
+e 31 5 2
+e 31 129 2
+e 31 0 2
+e 31 15 2
+e 31 116 2
+e 32 33 2
+e 32 125 2
+e 33 21 2
+e 34 35 2
+e 35 36 2
+e 36 37 2
+e 36 46 2
+e 36 50 2
+e 36 93 2
+e 36 127 2
+e 36 36 2
+e 36 26 2
+e 36 137 2
+e 36 52 2
+e 36 29 2
+e 36 146 2
+e 36 153 2
+e 36 158 2
+e 36 154 2
+e 36 134 2
+e 36 170 2
+e 36 111 2
+e 36 241 2
+e 36 255 2
+e 37 38 2
+e 38 29 2
+e 39 40 2
+e 40 41 2
+e 40 59 2
+e 41 42 2
+e 42 43 2
+e 42 188 2
+e 43 44 2
+e 44 45 2
+e 44 219 2
+e 45 36 2
+e 45 187 2
+e 46 24 2
+e 46 111 2
+e 46 15 2
+e 47 14 2
+e 47 242 2
+e 48 49 2
+e 48 24 2
+e 48 0 2
+e 48 156 2
+e 48 96 2
+e 48 82 2
+e 48 15 2
+e 48 218 2
+e 48 118 2
+e 49 29 2
+e 49 118 2
+e 49 186 2
+e 49 108 2
+e 50 51 2
+e 50 52 2
+e 51 52 2
+e 51 134 2
+e 51 48 2
+e 52 53 2
+e 53 1 2
+e 53 129 2
+e 53 103 2
+e 53 11 2
+e 54 55 2
+e 55 56 2
+e 56 57 2
+e 56 5 2
+e 56 95 2
+e 57 58 2
+e 57 26 2
+e 57 69 2
+e 57 14 2
+e 57 240 2
+e 57 24 2
+e 58 40 2
+e 58 135 2
+e 58 183 2
+e 58 134 2
+e 58 24 2
+e 58 177 2
+e 59 60 2
+e 60 61 2
+e 61 62 2
+e 62 63 2
+e 62 81 2
+e 62 93 2
+e 62 56 2
+e 62 107 2
+e 63 14 2
+e 64 48 2
+e 65 66 2
+e 66 67 2
+e 67 68 2
+e 67 70 2
+e 67 82 2
+e 68 3 2
+e 68 89 2
+e 69 26 2
+e 70 70 2
+e 70 71 2
+e 71 72 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 79 80 2
+e 80 62 2
+e 81 67 2
+e 82 83 2
+e 82 204 2
+e 83 84 2
+e 84 20 2
+e 85 86 2
+e 85 132 2
+e 85 128 2
+e 85 142 2
+e 86 26 2
+e 87 88 2
+e 88 5 2
+e 89 15 2
+e 89 30 2
+e 89 102 2
+e 89 104 2
+e 89 16 2
+e 90 91 2
+e 90 28 2
+e 91 92 2
+e 92 45 2
+e 93 14 2
+e 93 15 2
+e 93 105 2
+e 93 117 2
+e 93 30 2
+e 93 26 2
+e 93 140 2
+e 93 175 2
+e 93 176 2
+e 93 222 2
+e 93 246 2
+e 93 253 2
+e 94 95 2
+e 95 93 2
+e 96 97 2
+e 96 190 2
+e 97 98 2
+e 98 99 2
+e 99 100 2
+e 100 101 2
+e 101 89 2
+e 102 103 2
+e 103 30 2
+e 103 140 2
+e 104 15 2
+e 104 93 2
+e 105 89 2
+e 105 9 2
+e 106 107 2
+e 107 20 2
+e 107 220 2
+e 108 109 2
+e 108 29 2
+e 109 110 2
+e 110 46 2
+e 111 104 2
+e 111 133 2
+e 111 208 2
+e 112 113 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 116 93 2
+e 116 14 2
+e 116 48 2
+e 116 36 2
+e 116 23 2
+e 117 93 2
+e 118 20 2
+e 119 120 2
+e 120 121 2
+e 121 93 2
+e 122 26 2
+e 122 116 2
+e 123 29 2
+e 124 32 2
+e 124 10 2
+e 125 21 2
+e 125 58 2
+e 126 49 2
+e 127 128 2
+e 127 36 2
+e 128 129 2
+e 128 135 2
+e 129 93 2
+e 129 14 2
+e 129 36 2
+e 129 57 2
+e 129 179 2
+e 130 131 2
+e 130 227 2
+e 131 20 2
+e 132 133 2
+e 133 134 2
+e 133 202 2
+e 134 15 2
+e 134 141 2
+e 134 201 2
+e 134 26 2
+e 134 140 2
+e 134 249 2
+e 135 1 2
+e 135 182 2
+e 135 57 2
+e 136 5 2
+e 137 1 2
+e 138 20 2
+e 139 15 2
+e 140 141 2
+e 140 16 2
+e 141 16 2
+e 142 143 2
+e 143 36 2
+e 144 145 2
+e 145 36 2
+e 146 147 2
+e 147 148 2
+e 148 62 2
+e 149 15 2
+e 149 46 2
+e 150 5 2
+e 151 105 2
+e 151 157 2
+e 152 153 2
+e 153 154 2
+e 153 36 2
+e 154 9 2
+e 154 165 2
+e 155 48 2
+e 156 151 2
+e 156 184 2
+e 157 36 2
+e 158 159 2
+e 158 161 2
+e 158 233 2
+e 159 160 2
+e 160 158 2
+e 161 5 2
+e 162 163 2
+e 163 93 2
+e 164 36 2
+e 165 166 2
+e 166 167 2
+e 167 93 2
+e 168 26 2
+e 169 170 2
+e 170 171 2
+e 171 11 2
+e 171 116 2
+e 171 235 2
+e 171 122 2
+e 172 173 2
+e 173 21 2
+e 174 93 2
+e 175 93 2
+e 176 16 2
+e 176 24 2
+e 177 178 2
+e 177 256 2
+e 178 29 2
+e 179 15 2
+e 180 181 2
+e 181 128 2
+e 181 44 2
+e 181 62 2
+e 182 58 2
+e 183 9 2
+e 184 185 2
+e 185 49 2
+e 186 45 2
+e 187 42 2
+e 188 36 2
+e 189 116 2
+e 190 191 2
+e 190 11 2
+e 191 26 2
+e 192 5 2
+e 193 194 2
+e 194 195 2
+e 195 196 2
+e 196 197 2
+e 197 198 2
+e 198 15 2
+e 199 200 2
+e 200 27 2
+e 201 149 2
+e 201 217 2
+e 202 203 2
+e 203 48 2
+e 204 205 2
+e 205 0 2
+e 206 190 2
+e 207 122 2
+e 208 209 2
+e 209 210 2
+e 210 211 2
+e 211 212 2
+e 212 213 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 216 0 2
+e 216 245 2
+e 217 48 2
+e 218 181 2
+e 219 155 2
+e 220 221 2
+e 221 5 2
+e 222 223 2
+e 222 93 2
+e 223 224 2
+e 224 225 2
+e 225 124 2
+e 225 134 2
+e 226 15 2
+e 227 28 2
+e 228 229 2
+e 229 230 2
+e 230 176 2
+e 231 232 2
+e 232 134 2
+e 233 16 2
+e 234 176 2
+e 235 16 2
+e 236 237 2
+e 237 16 2
+e 238 239 2
+e 239 57 2
+e 240 29 2
+e 241 58 2
+e 241 248 2
+e 242 243 2
+e 243 244 2
+e 244 225 2
+e 245 93 2
+e 246 16 2
+e 247 36 2
+e 248 134 2
+e 249 16 2
+e 250 28 2
+e 251 252 2
+e 252 93 2
+e 253 16 2
+e 254 36 2
+e 255 58 2
+e 256 46 2
+e 257 258 2
+e 258 259 2
+e 259 260 2
+e 260 261 2
+e 261 262 2
+e 261 24 2
+e 262 261 2
+e 263 264 2
+t # 9
+v 0 ever
+v 1 doctor
+v 2 found
+v 3 develop
+v 4 health
+v 5 issu
+v 6 easili
+v 7 treat
+v 8 caught
+v 9 earli
+v 10 that
+v 11 regular
+v 12 checkup
+v 13 peopl
+v 14 essenti
+v 15 good
+v 16 eye
+v 17 ear
+v 18 heart
+v 19 mani
+v 20 part
+v 21 bodi
+v 22 need
+v 23 check
+v 24 ensur
+v 25 noth
+v 26 problemat
+v 27 way
+v 28 great
+v 29 keep
+v 30 condit
+v 31 stay
+v 32 healthi
+v 33 throughout
+v 34 life
+v 35 may
+v 36 think
+v 37 much
+v 38 medic
+v 39 treatment
+v 40 plan
+v 41 main
+v 42 advantag
+v 43 full
+v 44 up
+v 45 1
+v 46 get
+v 47 sick
+v 48 sometim
+v 49 prevent
+v 50 help
+v 51 track
+v 52 status
+v 53 top
+v 54 chang
+v 55 allow
+v 56 monitor
+v 57 make
+v 58 theyr
+v 59 work
+v 60 improv
+v 61 overal
+v 62 possibl
+v 63 addit
+v 64 catch
+v 65 common
+v 66 ill
+v 67 cold
+v 68 flu
+v 69 detect
+v 70 diseas
+v 71 easier
+v 72 spot
+v 73 daytoday
+v 74 activ
+v 75 eg
+v 76 high
+v 77 blood
+v 78 pressur
+v 79 2
+v 80 potenti
+v 81 lifethreaten
+v 82 know
+v 83 earlier
+v 84 better
+v 85 chanc
+v 86 onset
+v 87 could
+v 88 threaten
+v 89 futur
+v 90 still
+v 91 stage
+v 92 dont
+v 93 show
+v 94 symptom
+v 95 year
+v 96 skip
+v 97 annual
+v 98 realiz
+v 99 late
+v 100 cancer
+v 101 cardiovascular
+v 102 type
+v 103 diabet
+v 104 signific
+v 105 increas
+v 106 surviv
+v 107 3
+v 108 cure
+v 109 reduc
+v 110 risk
+v 111 factor
+v 112 chronic
+v 113 like
+v 114 stroke
+v 115 lower
+v 116 cholesterol
+v 117 level
+v 118 manag
+v 119 lifestyl
+v 120 necessari
+v 121 enhanc
+v 122 hypertens
+v 123 etc
+v 124 4
+v 125 exist
+v 126 close
+v 127 complic
+v 128 identifi
+v 129 habit
+v 130 affect
+v 131 smoke
+v 132 drink
+v 133 alcohol
+v 134 screen
+v 135 well
+v 136 adjust
+v 137 made
+v 138 diet
+v 139 5
+v 140 longev
+v 141 histori
+v 142 one
+v 143 determin
+v 144 certain
+v 145 complet
+v 146 associ
+v 147 specif
+v 148 enough
+v 149 effect
+v 150 serious
+v 151 later
+v 152 everi
+v 153 visit
+v 154 given
+v 155 inform
+v 156 maintain
+v 157 would
+v 158 benefici
+v 159 function
+v 160 enabl
+v 161 take
+v 162 care
+v 163 live
+v 164 longer
+v 165 6
+v 166 cost
+v 167 servic
+v 168 provid
+v 169 time
+v 170 expens
+v 171 day
+v 172 sens
+v 173 everyth
+v 174 progress
+v 175 address
+v 176 immedi
+v 177 instead
+v 178 wait
+v 179 worsen
+v 180 caus
+v 181 ailment
+v 182 escal
+v 183 problem
+v 184 injuri
+v 185 requir
+v 186 surgeri
+v 187 chemotherapi
+v 188 session
+v 189 save
+v 190 patient
+v 191 money
+v 192 road
+v 193 7
+v 194 abreast
+v 195 new
+v 196 technolog
+v 197 avail
+v 198 term
+v 199 option
+v 200 therapi
+v 201 decis
+v 202 prefer
+v 203 lead
+v 204 outcom
+v 205 individu
+v 206 attend
+v 207 confer
+v 208 seminar
+v 209 workshop
+v 210 best
+v 211 dr
+v 212 remedi
+v 213 lab
+v 214 latest
+v 215 equip
+v 216 faster
+v 217 pace
+v 218 accur
+v 219 result
+v 220 also
+v 221 follow
+v 222 consult
+v 223 resolv
+v 224 appoint
+v 225 delay
+v 226 doesnt
+v 227 read
+v 228 articl
+v 229 regard
+v 230 packag
+v 231 websit
+v 232 post
+v 233 navig
+v 234 thing
+e 0 1 2
+e 1 2 2
+e 1 56 2
+e 1 120 2
+e 1 154 2
+e 1 29 2
+e 2 3 2
+e 3 4 2
+e 3 26 2
+e 3 144 2
+e 3 150 2
+e 3 196 2
+e 4 5 2
+e 4 16 2
+e 4 12 2
+e 4 11 2
+e 4 23 2
+e 4 52 2
+e 4 69 2
+e 4 56 2
+e 4 131 2
+e 4 140 2
+e 4 135 2
+e 4 181 2
+e 4 183 2
+e 4 162 2
+e 4 156 2
+e 5 6 2
+e 6 7 2
+e 7 8 2
+e 7 66 2
+e 7 38 2
+e 8 9 2
+e 9 10 2
+e 9 69 2
+e 9 91 2
+e 9 148 2
+e 9 62 2
+e 10 11 2
+e 11 12 2
+e 11 24 2
+e 11 4 2
+e 11 43 2
+e 11 54 2
+e 11 206 2
+e 12 13 2
+e 12 28 2
+e 12 14 2
+e 12 42 2
+e 12 69 2
+e 12 49 2
+e 12 35 2
+e 12 50 2
+e 12 167 2
+e 12 230 2
+e 13 14 2
+e 13 96 2
+e 14 15 2
+e 14 38 2
+e 14 82 2
+e 14 111 2
+e 15 4 2
+e 15 30 2
+e 16 17 2
+e 16 135 2
+e 17 18 2
+e 18 19 2
+e 18 70 2
+e 19 20 2
+e 19 66 2
+e 20 21 2
+e 21 22 2
+e 21 15 2
+e 21 55 2
+e 21 159 2
+e 22 23 2
+e 22 24 2
+e 22 156 2
+e 22 202 2
+e 23 11 2
+e 23 44 2
+e 24 25 2
+e 24 31 2
+e 24 58 2
+e 25 3 2
+e 26 27 2
+e 27 11 2
+e 27 29 2
+e 27 46 2
+e 28 27 2
+e 29 21 2
+e 29 51 2
+e 29 16 2
+e 29 194 2
+e 29 155 2
+e 30 24 2
+e 30 14 2
+e 30 122 2
+e 30 126 2
+e 30 118 2
+e 30 76 2
+e 30 210 2
+e 31 32 2
+e 31 53 2
+e 32 33 2
+e 32 119 2
+e 33 34 2
+e 34 35 2
+e 34 89 2
+e 34 152 2
+e 35 36 2
+e 35 98 2
+e 36 37 2
+e 37 4 2
+e 37 133 2
+e 37 62 2
+e 38 39 2
+e 38 57 2
+e 38 118 2
+e 38 30 2
+e 38 138 2
+e 38 141 2
+e 38 167 2
+e 38 170 2
+e 38 3 2
+e 39 40 2
+e 39 108 2
+e 39 113 2
+e 39 199 2
+e 40 41 2
+e 40 139 2
+e 41 42 2
+e 42 11 2
+e 43 4 2
+e 44 45 2
+e 44 55 2
+e 44 226 2
+e 45 46 2
+e 46 47 2
+e 46 84 2
+e 46 170 2
+e 46 224 2
+e 47 48 2
+e 47 99 2
+e 48 49 2
+e 49 50 2
+e 49 86 2
+e 49 166 2
+e 49 182 2
+e 50 29 2
+e 50 31 2
+e 50 128 2
+e 50 57 2
+e 51 4 2
+e 52 50 2
+e 52 62 2
+e 53 54 2
+e 54 21 2
+e 54 22 2
+e 54 120 2
+e 54 119 2
+e 54 175 2
+e 55 1 2
+e 56 38 2
+e 56 125 2
+e 56 50 2
+e 56 174 2
+e 56 4 2
+e 57 54 2
+e 57 172 2
+e 57 155 2
+e 58 59 2
+e 58 47 2
+e 59 60 2
+e 60 61 2
+e 60 4 2
+e 61 4 2
+e 62 63 2
+e 62 109 2
+e 62 11 2
+e 62 27 2
+e 62 56 2
+e 63 64 2
+e 64 65 2
+e 65 66 2
+e 66 67 2
+e 66 90 2
+e 66 92 2
+e 66 151 2
+e 66 184 2
+e 67 68 2
+e 68 11 2
+e 69 70 2
+e 69 80 2
+e 69 84 2
+e 69 100 2
+e 69 7 2
+e 69 4 2
+e 70 71 2
+e 70 30 2
+e 70 69 2
+e 70 87 2
+e 70 102 2
+e 70 107 2
+e 70 113 2
+e 70 114 2
+e 70 145 2
+e 70 110 2
+e 71 72 2
+e 71 7 2
+e 72 73 2
+e 73 74 2
+e 74 75 2
+e 75 76 2
+e 76 77 2
+e 77 78 2
+e 78 79 2
+e 78 116 2
+e 78 103 2
+e 79 9 2
+e 79 103 2
+e 80 81 2
+e 80 88 2
+e 81 70 2
+e 82 83 2
+e 82 197 2
+e 82 97 2
+e 83 70 2
+e 83 69 2
+e 84 85 2
+e 84 11 2
+e 84 162 2
+e 84 204 2
+e 85 46 2
+e 85 106 2
+e 85 105 2
+e 86 70 2
+e 87 80 2
+e 88 34 2
+e 89 71 2
+e 90 9 2
+e 90 225 2
+e 91 19 2
+e 92 93 2
+e 93 94 2
+e 94 95 2
+e 95 13 2
+e 96 97 2
+e 97 12 2
+e 97 4 2
+e 98 58 2
+e 99 9 2
+e 100 101 2
+e 101 70 2
+e 102 79 2
+e 103 104 2
+e 103 123 2
+e 103 134 2
+e 103 18 2
+e 104 105 2
+e 105 85 2
+e 105 109 2
+e 106 70 2
+e 107 39 2
+e 108 85 2
+e 109 110 2
+e 109 37 2
+e 110 111 2
+e 110 127 2
+e 110 3 2
+e 110 146 2
+e 110 128 2
+e 111 112 2
+e 111 143 2
+e 112 70 2
+e 113 18 2
+e 113 186 2
+e 114 115 2
+e 115 77 2
+e 116 117 2
+e 117 38 2
+e 118 119 2
+e 118 1 2
+e 118 3 2
+e 119 54 2
+e 119 129 2
+e 119 157 2
+e 119 90 2
+e 120 121 2
+e 120 136 2
+e 121 61 2
+e 122 103 2
+e 123 124 2
+e 124 56 2
+e 125 30 2
+e 126 109 2
+e 127 11 2
+e 127 83 2
+e 128 119 2
+e 128 110 2
+e 128 9 2
+e 129 130 2
+e 130 61 2
+e 131 132 2
+e 132 37 2
+e 133 76 2
+e 134 50 2
+e 135 30 2
+e 135 54 2
+e 136 137 2
+e 137 38 2
+e 138 40 2
+e 139 60 2
+e 140 38 2
+e 141 142 2
+e 142 14 2
+e 143 110 2
+e 144 70 2
+e 145 4 2
+e 146 147 2
+e 147 30 2
+e 148 149 2
+e 149 118 2
+e 150 66 2
+e 151 34 2
+e 152 153 2
+e 153 1 2
+e 153 231 2
+e 154 155 2
+e 155 22 2
+e 155 201 2
+e 155 195 2
+e 155 223 2
+e 155 229 2
+e 156 15 2
+e 156 32 2
+e 157 158 2
+e 158 21 2
+e 159 160 2
+e 160 161 2
+e 161 84 2
+e 162 163 2
+e 162 22 2
+e 163 164 2
+e 164 165 2
+e 165 49 2
+e 166 38 2
+e 167 168 2
+e 167 216 2
+e 168 169 2
+e 168 190 2
+e 168 12 2
+e 168 214 2
+e 169 38 2
+e 170 46 2
+e 170 171 2
+e 170 39 2
+e 171 57 2
+e 172 173 2
+e 172 227 2
+e 173 62 2
+e 174 11 2
+e 175 176 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 180 2
+e 180 127 2
+e 181 49 2
+e 182 4 2
+e 183 150 2
+e 184 185 2
+e 185 170 2
+e 186 187 2
+e 187 188 2
+e 188 189 2
+e 189 190 2
+e 190 191 2
+e 190 1 2
+e 190 210 2
+e 190 222 2
+e 191 192 2
+e 192 193 2
+e 193 29 2
+e 193 234 2
+e 194 195 2
+e 195 38 2
+e 196 82 2
+e 196 11 2
+e 197 198 2
+e 198 39 2
+e 199 200 2
+e 200 50 2
+e 201 4 2
+e 202 203 2
+e 203 84 2
+e 204 205 2
+e 205 190 2
+e 206 207 2
+e 207 208 2
+e 208 209 2
+e 209 168 2
+e 210 211 2
+e 210 62 2
+e 211 212 2
+e 212 213 2
+e 213 214 2
+e 214 215 2
+e 214 155 2
+e 215 168 2
+e 216 217 2
+e 217 218 2
+e 218 219 2
+e 219 220 2
+e 220 221 2
+e 221 190 2
+e 222 167 2
+e 223 30 2
+e 224 9 2
+e 225 11 2
+e 226 57 2
+e 227 228 2
+e 228 155 2
+e 229 145 2
+e 230 153 2
+e 231 232 2
+e 232 233 2
+e 233 193 2
+e 234 82 2
+t # 10
+v 0 although
+v 1 habit
+v 2 weight
+v 3 chang
+v 4 signific
+v 5 alway
+v 6 feel
+v 7 tire
+v 8 hot
+v 9 cold
+v 10 never
+v 11 comfort
+v 12 regular
+v 13 period
+v 14 pregnant
+v 15 bump
+v 16 neck
+v 17 experi
+v 18 symptom
+v 19 may
+v 20 time
+v 21 check
+v 22 thyroid
+v 23 stimul
+v 24 hormon
+v 25 tsh
+v 26 test
+v 27 blood
+v 28 measur
+v 29 level
+v 30 pituitari
+v 31 gland
+v 32 brain
+v 33 make
+v 34 call
+v 35 thyrotropinreleas
+v 36 trh
+v 37 product
+v 38 tell
+v 39 whether
+v 40 speed
+v 41 slow
+v 42 t3
+v 43 t4
+v 44 releas
+v 45 bloodstream
+v 46 travel
+v 47 throughout
+v 48 bodi
+v 49 growth
+v 50 activ
+v 51 cell
+v 52 littl
+v 53 produc
+v 54 convers
+v 55 much
+v 56 present
+v 57 less
+v 58 well
+v 59 work
+v 60 purpos
+v 61 primari
+v 62 help
+v 63 diagnos
+v 64 certain
+v 65 condit
+v 66 hyperthyroid
+v 67 hormonehypothyroid
+v 68 hormonehashimoto
+v 69 diseas
+v 70 autoimmun
+v 71 disord
+v 72 antibodi
+v 73 attack
+v 74 glandgoiterthyroid
+v 75 cancer
+v 76 get
+v 77 benefici
+v 78 undergo
+v 79 fatigu
+v 80 even
+v 81 other
+v 82 around
+v 83 dri
+v 84 skin
+v 85 hair
+v 86 loss
+v 87 irregular
+v 88 depress
+v 89 anxieti
+v 90 constip
+v 91 hoars
+v 92 caus
+v 93 underact
+v 94 overact
+v 95 need
+v 96 treatment
+v 97 start
+v 98 locat
+v 99 base
+v 100 respons
+v 101 signal
+v 102 hypothalamus
+v 103 small
+v 104 structur
+v 105 play
+v 106 vital
+v 107 role
+v 108 regul
+v 109 temperatur
+v 110 hunger
+v 111 thirst
+v 112 emot
+v 113 fear
+v 114 anger
+v 115 also
+v 116 send
+v 117 inhibit
+v 118 two
+v 119 thyroxin
+v 120 essenti
+v 121 normal
+v 122 develop
+v 123 children
+v 124 metabol
+v 125 low
+v 126 could
+v 127 mean
+v 128 isnt
+v 129 correct
+v 130 aim
+v 131 find
+v 132 abnorm
+v 133 doctor
+v 134 want
+v 135 ensur
+v 136 dont
+v 137 high
+v 138 take
+v 139 medic
+v 140 like
+v 141 levothyroxin
+v 142 levothroid
+v 143 methimazol
+v 144 tapazol
+v 145 propylthiour
+v 146 affect
+v 147 function
+v 148 prepar
+v 149 healthcar
+v 150 provid
+v 151 result
+v 152 health
+v 153 care
+v 154 iodin
+v 155 allergi
+v 156 ever
+v 157 reaction
+v 158 contrast
+v 159 agent
+v 160 use
+v 161 xray
+v 162 ct
+v 163 scan
+v 164 stop
+v 165 includ
+v 166 birth
+v 167 control
+v 168 pillsestrogen
+v 169 supplement
+v 170 replac
+v 171 therapycorticosteroid
+v 172 exampl
+v 173 prednisonethyroid
+v 174 risk
+v 175 involv
+v 176 interpret
+v 177 valu
+v 178 rang
+v 179 05
+v 180 3
+v 181 mill
+v 182 unit
+v 183 per
+v 184 liter
+v 185 mul
+v 186 howev
+v 187 there
+v 188 singl
+v 189 answer
+v 190 constitut
+v 191 inform
+v 192 determin
+v 193 suppos
+v 194 within
+v 195 case
+v 196 subclin
+v 197 hypothyroid
+v 198 hashimoto
+v 199 inflamm
+v 200 synthet
+v 201 bring
+v 202 back
+v 203 balanc
+v 204 4
+v 205 10
+v 206 slight
+v 207 increas
+v 208 els
+v 209 know
+v 210 regard
+v 211 circul
+v 212 given
+v 213 found
+v 214 natur
+v 215 food
+v 216 milk
+v 217 egg
+v 218 seafood
+v 219 iodiz
+v 220 salt
+v 221 contain
+v 222 ad
+v 223 peopl
+v 224 enough
+v 225 miner
+v 226 daili
+v 227 harm
+v 228 decreas
+v 229 abil
+v 230 energi
+v 231 sourc
+v 232 carbohydr
+v 233 fat
+v 234 protein
+v 235 practic
+v 236 standpoint
+v 237 biggest
+v 238 draw
+v 239 conveni
+v 240 fast
+v 241 easi
+v 242 problem
+v 243 avail
+v 244 discuss
+v 245 give
+v 246 best
+v 247 idea
+v 248 what
+v 249 go
+v 250 serv
+v 251 avenu
+v 252 thing
+v 253 stand
+v 254 concern
+v 255 without
+v 256 hassl
+v 257 spend
+v 258 thousand
+v 259 dollar
+v 260 abovediscuss
+v 261 demand
+v 262 immedi
+v 263 consult
+v 264 dr
+v 265 remedi
+v 266 lab
+v 267 profil
+v 268 diagnost
+v 269 servic
+v 270 multipl
+v 271 citi
+v 272 countri
+v 273 commit
+v 274 highqual
+v 275 expand
+v 276 rapid
+v 277 reach
+v 278 part
+v 279 comprehens
+v 280 open
+v 281 stateoftheart
+v 282 central
+v 283 clinic
+v 284 refer
+v 285 hyderabad
+v 286 telangana
+v 287 guarante
+v 288 qualiti
+v 289 reliabl
+v 290 custom
+v 291 visit
+v 292 websit
+v 293 post
+v 294 navig
+v 295 complet
+v 296 improv
+v 297 vitamin
+v 298 defici
+e 0 1 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+e 3 79 2
+e 4 5 2
+e 5 6 2
+e 5 8 2
+e 5 92 2
+e 6 7 2
+e 6 8 2
+e 6 9 2
+e 7 5 2
+e 8 9 2
+e 8 20 2
+e 9 10 2
+e 9 83 2
+e 10 11 2
+e 11 12 2
+e 12 13 2
+e 12 135 2
+e 13 14 2
+e 13 88 2
+e 14 15 2
+e 15 16 2
+e 16 17 2
+e 17 18 2
+e 18 19 2
+e 18 22 2
+e 18 5 2
+e 18 261 2
+e 19 20 2
+e 19 77 2
+e 19 95 2
+e 19 146 2
+e 19 196 2
+e 19 121 2
+e 20 21 2
+e 20 80 2
+e 20 120 2
+e 21 22 2
+e 21 25 2
+e 22 23 2
+e 22 31 2
+e 22 51 2
+e 22 24 2
+e 22 67 2
+e 22 68 2
+e 22 74 2
+e 22 71 2
+e 22 128 2
+e 22 93 2
+e 22 147 2
+e 22 199 2
+e 22 152 2
+e 22 53 2
+e 22 29 2
+e 22 267 2
+e 23 24 2
+e 23 37 2
+e 23 49 2
+e 23 117 2
+e 24 25 2
+e 24 34 2
+e 24 36 2
+e 24 38 2
+e 24 48 2
+e 24 56 2
+e 24 27 2
+e 24 30 2
+e 24 42 2
+e 24 120 2
+e 24 133 2
+e 24 170 2
+e 24 194 2
+e 24 19 2
+e 24 211 2
+e 24 154 2
+e 25 26 2
+e 25 25 2
+e 25 27 2
+e 25 30 2
+e 25 44 2
+e 25 54 2
+e 25 100 2
+e 25 22 2
+e 25 29 2
+e 25 178 2
+e 25 227 2
+e 26 25 2
+e 26 27 2
+e 26 28 2
+e 26 61 2
+e 26 62 2
+e 26 19 2
+e 26 18 2
+e 26 59 2
+e 26 130 2
+e 26 38 2
+e 26 151 2
+e 26 165 2
+e 26 174 2
+e 26 210 2
+e 26 239 2
+e 26 243 2
+e 26 245 2
+e 26 250 2
+e 26 264 2
+e 26 131 2
+e 27 26 2
+e 27 30 2
+e 27 25 2
+e 27 126 2
+e 28 29 2
+e 28 25 2
+e 28 58 2
+e 28 55 2
+e 29 25 2
+e 29 24 2
+e 29 43 2
+e 29 12 2
+e 29 133 2
+e 29 179 2
+e 29 202 2
+e 29 204 2
+e 29 255 2
+e 30 31 2
+e 31 32 2
+e 31 24 2
+e 31 39 2
+e 31 52 2
+e 31 53 2
+e 31 59 2
+e 31 26 2
+e 31 98 2
+e 31 102 2
+e 31 23 2
+e 31 147 2
+e 31 115 2
+e 32 33 2
+e 32 30 2
+e 32 105 2
+e 33 24 2
+e 33 230 2
+e 34 35 2
+e 35 24 2
+e 36 23 2
+e 37 25 2
+e 37 42 2
+e 38 22 2
+e 38 149 2
+e 38 152 2
+e 39 40 2
+e 39 22 2
+e 40 41 2
+e 41 37 2
+e 42 43 2
+e 42 27 2
+e 43 25 2
+e 43 119 2
+e 43 42 2
+e 44 45 2
+e 44 30 2
+e 45 46 2
+e 45 60 2
+e 45 208 2
+e 45 212 2
+e 46 47 2
+e 47 48 2
+e 47 272 2
+e 48 23 2
+e 48 30 2
+e 48 109 2
+e 48 229 2
+e 48 25 2
+e 49 50 2
+e 49 122 2
+e 50 22 2
+e 51 22 2
+e 52 22 2
+e 52 25 2
+e 53 25 2
+e 53 57 2
+e 53 118 2
+e 53 24 2
+e 53 55 2
+e 54 55 2
+e 55 22 2
+e 55 25 2
+e 55 24 2
+e 55 52 2
+e 56 48 2
+e 57 25 2
+e 58 30 2
+e 59 28 2
+e 59 22 2
+e 59 129 2
+e 60 25 2
+e 60 26 2
+e 61 60 2
+e 62 63 2
+e 62 296 2
+e 63 64 2
+e 64 65 2
+e 64 139 2
+e 65 66 2
+e 66 55 2
+e 67 52 2
+e 68 69 2
+e 69 70 2
+e 70 71 2
+e 71 72 2
+e 71 2 2
+e 71 92 2
+e 72 73 2
+e 72 45 2
+e 73 22 2
+e 74 75 2
+e 75 76 2
+e 76 25 2
+e 76 137 2
+e 76 224 2
+e 77 78 2
+e 78 26 2
+e 79 6 2
+e 80 81 2
+e 81 82 2
+e 82 6 2
+e 83 84 2
+e 84 85 2
+e 85 86 2
+e 86 87 2
+e 87 13 2
+e 88 89 2
+e 89 90 2
+e 90 91 2
+e 91 18 2
+e 92 93 2
+e 92 22 2
+e 93 94 2
+e 94 22 2
+e 94 172 2
+e 95 96 2
+e 95 164 2
+e 95 201 2
+e 95 154 2
+e 96 97 2
+e 96 200 2
+e 97 25 2
+e 98 99 2
+e 99 32 2
+e 100 101 2
+e 101 102 2
+e 102 22 2
+e 102 103 2
+e 103 104 2
+e 104 32 2
+e 105 106 2
+e 106 107 2
+e 107 108 2
+e 108 48 2
+e 109 110 2
+e 110 111 2
+e 111 112 2
+e 112 113 2
+e 113 114 2
+e 114 115 2
+e 115 116 2
+e 115 146 2
+e 115 38 2
+e 115 95 2
+e 116 24 2
+e 117 37 2
+e 118 24 2
+e 119 24 2
+e 120 121 2
+e 120 22 2
+e 121 122 2
+e 121 124 2
+e 121 177 2
+e 121 25 2
+e 121 178 2
+e 121 22 2
+e 122 123 2
+e 122 125 2
+e 122 260 2
+e 123 121 2
+e 124 49 2
+e 124 207 2
+e 125 29 2
+e 125 138 2
+e 125 22 2
+e 126 127 2
+e 127 22 2
+e 128 59 2
+e 129 26 2
+e 130 131 2
+e 131 132 2
+e 131 252 2
+e 131 298 2
+e 132 29 2
+e 133 134 2
+e 133 160 2
+e 133 26 2
+e 134 21 2
+e 135 136 2
+e 135 223 2
+e 136 76 2
+e 137 125 2
+e 138 64 2
+e 138 139 2
+e 138 22 2
+e 139 140 2
+e 139 138 2
+e 139 19 2
+e 139 25 2
+e 139 141 2
+e 140 141 2
+e 141 142 2
+e 141 174 2
+e 142 143 2
+e 143 144 2
+e 144 145 2
+e 145 115 2
+e 146 58 2
+e 146 26 2
+e 147 148 2
+e 147 198 2
+e 147 206 2
+e 147 26 2
+e 148 26 2
+e 149 150 2
+e 150 139 2
+e 150 154 2
+e 150 268 2
+e 150 274 2
+e 151 115 2
+e 151 176 2
+e 151 191 2
+e 152 153 2
+e 152 209 2
+e 152 297 2
+e 153 150 2
+e 153 291 2
+e 154 155 2
+e 154 158 2
+e 154 53 2
+e 154 213 2
+e 154 135 2
+e 155 156 2
+e 156 157 2
+e 157 154 2
+e 158 159 2
+e 159 160 2
+e 160 161 2
+e 160 151 2
+e 161 162 2
+e 162 163 2
+e 163 19 2
+e 164 138 2
+e 165 166 2
+e 165 24 2
+e 166 167 2
+e 167 168 2
+e 168 169 2
+e 169 165 2
+e 170 171 2
+e 171 172 2
+e 172 173 2
+e 172 193 2
+e 173 139 2
+e 174 175 2
+e 175 26 2
+e 175 27 2
+e 176 121 2
+e 177 25 2
+e 178 179 2
+e 178 195 2
+e 178 19 2
+e 179 180 2
+e 179 185 2
+e 180 181 2
+e 181 182 2
+e 182 183 2
+e 183 184 2
+e 184 185 2
+e 185 186 2
+e 185 24 2
+e 186 187 2
+e 186 22 2
+e 187 188 2
+e 188 189 2
+e 189 190 2
+e 189 262 2
+e 190 121 2
+e 191 192 2
+e 191 293 2
+e 192 39 2
+e 193 25 2
+e 194 121 2
+e 195 19 2
+e 195 96 2
+e 196 197 2
+e 197 125 2
+e 198 69 2
+e 199 195 2
+e 200 22 2
+e 201 29 2
+e 202 203 2
+e 203 25 2
+e 204 205 2
+e 205 185 2
+e 206 207 2
+e 207 72 2
+e 207 228 2
+e 208 209 2
+e 209 25 2
+e 209 55 2
+e 210 22 2
+e 211 45 2
+e 212 20 2
+e 213 214 2
+e 214 215 2
+e 215 216 2
+e 215 231 2
+e 216 217 2
+e 217 218 2
+e 218 219 2
+e 219 220 2
+e 220 221 2
+e 221 222 2
+e 222 154 2
+e 223 76 2
+e 223 242 2
+e 223 278 2
+e 224 225 2
+e 225 226 2
+e 226 22 2
+e 227 124 2
+e 228 48 2
+e 229 33 2
+e 230 215 2
+e 231 232 2
+e 232 233 2
+e 233 234 2
+e 234 235 2
+e 235 236 2
+e 236 237 2
+e 237 238 2
+e 238 25 2
+e 239 240 2
+e 240 241 2
+e 241 223 2
+e 242 186 2
+e 243 244 2
+e 244 133 2
+e 245 246 2
+e 246 247 2
+e 247 248 2
+e 248 249 2
+e 249 48 2
+e 249 256 2
+e 250 251 2
+e 251 131 2
+e 252 253 2
+e 253 254 2
+e 254 22 2
+e 255 249 2
+e 256 257 2
+e 257 258 2
+e 258 259 2
+e 259 122 2
+e 260 18 2
+e 261 189 2
+e 262 263 2
+e 263 264 2
+e 264 265 2
+e 265 266 2
+e 266 138 2
+e 266 150 2
+e 266 285 2
+e 267 26 2
+e 268 269 2
+e 269 270 2
+e 269 275 2
+e 269 280 2
+e 270 271 2
+e 271 47 2
+e 272 273 2
+e 273 150 2
+e 274 269 2
+e 275 276 2
+e 276 277 2
+e 277 223 2
+e 278 279 2
+e 279 268 2
+e 280 281 2
+e 281 282 2
+e 282 283 2
+e 283 284 2
+e 284 266 2
+e 285 286 2
+e 286 287 2
+e 287 288 2
+e 288 289 2
+e 289 290 2
+e 290 153 2
+e 291 292 2
+e 292 191 2
+e 293 294 2
+e 294 295 2
+e 295 27 2
+e 296 152 2
+e 297 298 2
+e 298 26 2
+t # 11
+v 0 look
+v 1 diagnost
+v 2 center
+v 3 diagnos
+v 4 child
+v 5 famili
+v 6 necessari
+v 7 determin
+v 8 health
+v 9 problem
+v 10 place
+v 11 account
+v 12 issu
+v 13 provid
+v 14 treatment
+v 15 need
+v 16 perform
+v 17 various
+v 18 test
+v 19 caus
+v 20 condit
+v 21 differ
+v 22 type
+v 23 lab
+v 24 within
+v 25 categori
+v 26 includ
+v 27 radiolog
+v 28 mri
+v 29 imag
+v 30 patholog
+v 31 etc
+v 32 know
+v 33 question
+v 34 ask
+v 35 check
+v 36 choos
+v 37 best
+v 38 confus
+v 39 dont
+v 40 learn
+v 41 base
+v 42 doctor
+v 43 whove
+v 44 featur
+v 45 sever
+v 46 essenti
+v 47 factor
+v 48 consid
+v 49 select
+v 50 1
+v 51 qualif
+v 52 medic
+v 53 staff
+v 54 qualifi
+v 55 handl
+v 56 experienc
+v 57 skill
+v 58 radiologist
+v 59 pathologist
+v 60 surgeon
+v 61 professionalsth
+v 62 high
+v 63 specialti
+v 64 also
+v 65 enough
+v 66 knowledg
+v 67 procedur
+v 68 follow
+v 69 treat
+v 70 individu
+v 71 import
+v 72 thing
+v 73 ensur
+v 74 licens
+v 75 practic
+v 76 medicin
+v 77 state
+v 78 allow
+v 79 patient
+v 80 legal
+v 81 prescrib
+v 82 accord
+v 83 2
+v 84 avail
+v 85 latest
+v 86 equip
+v 87 use
+v 88 advanc
+v 89 technolog
+v 90 servic
+v 91 whether
+v 92 facil
+v 93 expect
+v 94 highqual
+v 95 result
+v 96 3
+v 97 ambianc
+v 98 hygien
+v 99 everi
+v 100 must
+v 101 proper
+v 102 measur
+v 103 risk
+v 104 infect
+v 105 among
+v 106 profession
+v 107 work
+v 108 therefor
+v 109 make
+v 110 sure
+v 111 safeti
+v 112 4
+v 113 qualiti
+v 114 kind
+v 115 prefer
+v 116 offer
+v 117 meet
+v 118 excel
+v 119 care
+v 120 attent
+v 121 5
+v 122 rang
+v 123 familiar
+v 124 requir
+v 125 diseas
+v 126 wide
+v 127 blood
+v 128 urin
+v 129 xray
+v 130 help
+v 131 identifi
+v 132 children
+v 133 diabet
+v 134 cancer
+v 135 thyroid
+v 136 disord
+v 137 delay
+v 138 may
+v 139 short
+v 140 notic
+v 141 due
+v 142 emerg
+v 143 sudden
+v 144 chang
+v 145 6
+v 146 eas
+v 147 schedul
+v 148 appoint
+v 149 imper
+v 150 quick
+v 151 without
+v 152 wait
+v 153 long
+v 154 time
+v 155 keep
+v 156 call
+v 157 back
+v 158 repeat
+v 159 someon
+v 160 assist
+v 161 relat
+v 162 queri
+v 163 aris
+v 164 process
+v 165 instanc
+v 166 payment
+v 167 option
+v 168 7
+v 169 accuraci
+v 170 vital
+v 171 plan
+v 172 take
+v 173 receiv
+v 174 clinic
+v 175 hospit
+v 176 laboratori
+v 177 send
+v 178 sampl
+v 179 examin
+v 180 8
+v 181 turnaround
+v 182 deliveri
+v 183 abl
+v 184 accur
+v 185 period
+v 186 week
+v 187 month
+v 188 get
+v 189 anoth
+v 190 institut
+v 191 9
+v 192 price
+v 193 across
+v 194 understand
+v 195 much
+v 196 cost
+v 197 decid
+v 198 go
+v 199 way
+v 200 find
+v 201 inform
+v 202 direct
+v 203 onlin
+v 204 websit
+v 205 overcharg
+v 206 10
+v 207 experi
+v 208 custom
+v 209 review
+v 210 reput
+v 211 around
+v 212 good
+v 213 track
+v 214 record
+v 215 similar
+v 216 show
+v 217 success
+v 218 give
+v 219 confid
+v 220 abil
+v 221 search
+v 222 especi
+v 223 post
+v 224 former
+v 225 other
+v 226 appropri
+v 227 dr
+v 228 remedi
+v 229 one
+v 230 india
+v 231 sort
+v 232 better
+v 233 area
+v 234 reason
+v 235 effect
+v 236 satisfi
+v 237 visit
+v 238 us
+v 239 tri
+v 240 site
+e 0 1 2
+e 0 114 2
+e 1 2 2
+e 1 18 2
+e 2 3 2
+e 2 6 2
+e 2 16 2
+e 2 29 2
+e 2 30 2
+e 2 36 2
+e 2 38 2
+e 2 41 2
+e 2 50 2
+e 2 54 2
+e 2 56 2
+e 2 87 2
+e 2 100 2
+e 2 116 2
+e 2 123 2
+e 2 151 2
+e 2 170 2
+e 2 15 2
+e 2 197 2
+e 2 210 2
+e 2 211 2
+e 2 64 2
+e 2 230 2
+e 2 233 2
+e 3 4 2
+e 3 17 2
+e 4 5 2
+e 4 8 2
+e 5 1 2
+e 6 7 2
+e 6 41 2
+e 7 8 2
+e 7 19 2
+e 8 9 2
+e 8 12 2
+e 8 20 2
+e 8 35 2
+e 9 10 2
+e 10 11 2
+e 11 8 2
+e 12 13 2
+e 12 2 2
+e 13 14 2
+e 13 90 2
+e 13 118 2
+e 13 126 2
+e 13 184 2
+e 13 94 2
+e 14 15 2
+e 14 6 2
+e 15 1 2
+e 15 83 2
+e 15 109 2
+e 15 194 2
+e 15 32 2
+e 15 227 2
+e 16 17 2
+e 16 18 2
+e 17 18 2
+e 17 125 2
+e 17 1 2
+e 18 7 2
+e 18 67 2
+e 18 79 2
+e 18 1 2
+e 18 26 2
+e 18 128 2
+e 18 129 2
+e 18 138 2
+e 18 95 2
+e 18 196 2
+e 18 37 2
+e 18 198 2
+e 18 232 2
+e 19 20 2
+e 20 21 2
+e 20 13 2
+e 20 145 2
+e 20 216 2
+e 20 108 2
+e 21 22 2
+e 21 18 2
+e 22 23 2
+e 22 1 2
+e 23 24 2
+e 23 31 2
+e 23 13 2
+e 23 18 2
+e 24 25 2
+e 24 139 2
+e 25 26 2
+e 26 27 2
+e 26 127 2
+e 27 28 2
+e 28 2 2
+e 29 2 2
+e 30 23 2
+e 31 32 2
+e 31 130 2
+e 32 33 2
+e 32 1 2
+e 33 34 2
+e 33 147 2
+e 34 35 2
+e 34 40 2
+e 34 202 2
+e 35 1 2
+e 35 91 2
+e 35 169 2
+e 35 203 2
+e 35 210 2
+e 35 23 2
+e 36 37 2
+e 36 74 2
+e 36 1 2
+e 36 226 2
+e 37 1 2
+e 37 199 2
+e 38 39 2
+e 39 32 2
+e 39 152 2
+e 39 188 2
+e 40 36 2
+e 41 42 2
+e 41 95 2
+e 42 43 2
+e 42 62 2
+e 42 36 2
+e 43 44 2
+e 44 45 2
+e 45 46 2
+e 46 47 2
+e 46 0 2
+e 46 2 2
+e 47 48 2
+e 47 36 2
+e 48 49 2
+e 48 36 2
+e 48 15 2
+e 48 47 2
+e 49 37 2
+e 50 51 2
+e 51 52 2
+e 52 53 2
+e 52 61 2
+e 52 106 2
+e 52 173 2
+e 52 190 2
+e 53 1 2
+e 53 55 2
+e 54 52 2
+e 54 56 2
+e 55 8 2
+e 56 57 2
+e 56 63 2
+e 57 58 2
+e 58 59 2
+e 59 60 2
+e 60 52 2
+e 61 42 2
+e 62 54 2
+e 63 64 2
+e 64 65 2
+e 64 48 2
+e 64 239 2
+e 65 66 2
+e 66 21 2
+e 67 68 2
+e 67 124 2
+e 68 69 2
+e 68 101 2
+e 68 102 2
+e 68 111 2
+e 69 70 2
+e 69 79 2
+e 69 37 2
+e 70 71 2
+e 71 72 2
+e 72 73 2
+e 72 48 2
+e 73 42 2
+e 73 117 2
+e 74 75 2
+e 74 78 2
+e 75 76 2
+e 76 77 2
+e 76 82 2
+e 77 74 2
+e 78 69 2
+e 79 80 2
+e 79 52 2
+e 79 112 2
+e 79 73 2
+e 79 121 2
+e 79 215 2
+e 79 87 2
+e 80 81 2
+e 81 76 2
+e 82 15 2
+e 83 84 2
+e 84 85 2
+e 84 18 2
+e 84 160 2
+e 85 86 2
+e 86 1 2
+e 86 93 2
+e 87 88 2
+e 87 196 2
+e 88 89 2
+e 89 90 2
+e 90 35 2
+e 90 68 2
+e 90 46 2
+e 90 115 2
+e 90 116 2
+e 90 225 2
+e 90 229 2
+e 90 236 2
+e 91 92 2
+e 92 85 2
+e 92 108 2
+e 92 13 2
+e 92 193 2
+e 93 94 2
+e 94 95 2
+e 94 90 2
+e 95 96 2
+e 95 100 2
+e 95 36 2
+e 95 174 2
+e 95 182 2
+e 95 24 2
+e 95 157 2
+e 95 191 2
+e 96 97 2
+e 97 98 2
+e 98 99 2
+e 98 13 2
+e 99 1 2
+e 100 68 2
+e 100 35 2
+e 100 109 2
+e 101 98 2
+e 102 103 2
+e 102 16 2
+e 103 104 2
+e 104 105 2
+e 105 79 2
+e 106 107 2
+e 107 92 2
+e 108 109 2
+e 108 218 2
+e 109 110 2
+e 110 68 2
+e 110 92 2
+e 110 137 2
+e 110 48 2
+e 111 102 2
+e 112 113 2
+e 113 90 2
+e 114 113 2
+e 115 1 2
+e 116 79 2
+e 116 2 2
+e 116 94 2
+e 116 231 2
+e 117 15 2
+e 118 119 2
+e 119 120 2
+e 120 79 2
+e 121 122 2
+e 122 84 2
+e 122 18 2
+e 123 22 2
+e 124 3 2
+e 124 139 2
+e 125 20 2
+e 125 132 2
+e 126 122 2
+e 127 18 2
+e 128 18 2
+e 129 31 2
+e 130 131 2
+e 131 17 2
+e 132 133 2
+e 132 161 2
+e 133 134 2
+e 134 135 2
+e 135 136 2
+e 136 109 2
+e 137 18 2
+e 138 124 2
+e 138 163 2
+e 139 140 2
+e 139 185 2
+e 140 141 2
+e 141 142 2
+e 142 143 2
+e 143 144 2
+e 144 4 2
+e 145 146 2
+e 146 147 2
+e 147 148 2
+e 148 149 2
+e 148 150 2
+e 148 132 2
+e 149 147 2
+e 150 1 2
+e 151 152 2
+e 152 153 2
+e 152 186 2
+e 153 154 2
+e 154 155 2
+e 154 18 2
+e 154 39 2
+e 154 212 2
+e 155 156 2
+e 156 157 2
+e 157 158 2
+e 157 189 2
+e 158 159 2
+e 159 84 2
+e 160 33 2
+e 161 162 2
+e 162 138 2
+e 163 164 2
+e 164 165 2
+e 165 166 2
+e 166 167 2
+e 166 92 2
+e 167 168 2
+e 168 169 2
+e 169 18 2
+e 169 95 2
+e 170 171 2
+e 171 172 2
+e 172 52 2
+e 173 95 2
+e 174 175 2
+e 175 176 2
+e 175 177 2
+e 176 177 2
+e 177 178 2
+e 178 179 2
+e 179 180 2
+e 179 14 2
+e 180 181 2
+e 181 154 2
+e 182 183 2
+e 183 13 2
+e 184 95 2
+e 185 154 2
+e 186 187 2
+e 187 188 2
+e 188 95 2
+e 188 205 2
+e 189 52 2
+e 189 72 2
+e 190 175 2
+e 191 192 2
+e 192 166 2
+e 192 1 2
+e 193 17 2
+e 194 195 2
+e 195 18 2
+e 196 1 2
+e 196 90 2
+e 197 198 2
+e 198 18 2
+e 198 206 2
+e 199 200 2
+e 199 35 2
+e 200 201 2
+e 201 34 2
+e 202 35 2
+e 203 204 2
+e 203 209 2
+e 204 39 2
+e 205 18 2
+e 206 207 2
+e 207 208 2
+e 207 46 2
+e 208 209 2
+e 209 189 2
+e 209 222 2
+e 210 207 2
+e 210 221 2
+e 211 154 2
+e 212 213 2
+e 213 214 2
+e 214 69 2
+e 215 20 2
+e 216 217 2
+e 217 69 2
+e 218 219 2
+e 219 220 2
+e 220 69 2
+e 221 203 2
+e 222 223 2
+e 223 224 2
+e 224 79 2
+e 225 100 2
+e 226 1 2
+e 227 228 2
+e 228 23 2
+e 229 37 2
+e 230 116 2
+e 231 8 2
+e 232 192 2
+e 233 234 2
+e 234 235 2
+e 235 90 2
+e 236 237 2
+e 237 238 2
+e 237 240 2
+e 238 64 2
+e 239 237 2
+t # -1
