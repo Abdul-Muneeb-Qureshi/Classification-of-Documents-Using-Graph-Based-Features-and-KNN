@@ -24,7 +24,7 @@ This folder contains scripts related to graph processing and analysis.
 - **featuresExtraction_classification.py**: Implements the K Nearest Neighbors (KNN) algorithm for classification based on the presence of common subgraphs. This script builds a feature matrix and classifies documents accordingly.
 
 - **frequentSubgraphConstruction.py**: Utilizes the gSpan algorithm for frequent subgraph mining. This script takes a file containing graphs in a specific format as input and extracts frequent subgraphs. The script uses the `gSpan` module for mining frequent subgraphs. Ensure that the input file follows the required format for successful execution. Below is an example of the required graph format:
- ```txt
+          - ```txt
   t # 0
   v 0 fever
   v 1 symptom
@@ -46,17 +46,18 @@ This folder contains scripts related to graph processing and analysis.
   e 1 2 2
   e 3 4 2
 
-    python
-    from gspan_mining.config import parser
-    from gspan_mining.main import main
-    
-    def mine_frequent_subgraphs(filename):
-        # Define command line arguments for gSpan
-        args_str = '-s 5 -d True -l 3 -u 10 -p True -w True ' + filename
-        FLAGS, _ = parser.parse_known_args(args=args_str.split())
-    
-        # Run gSpan to mine frequent subgraphs
-        gs = main(FLAGS)
+  from gspan_mining.config import parser
+  from gspan_mining.main import main
+
+ def mine_frequent_subgraphs(filename):
+     # Define command line arguments for gSpan
+     args_str = '-s 5 -d True -l 3 -u 10 -p True -w True ' + filename
+     FLAGS, _ = parser.parse_known_args(args=args_str.split())
+ 
+     # Run gSpan to mine frequent subgraphs
+     gs = main(FLAGS)
+
+  
 
 
 - **graphConstruction.py**: Provides functionality to create graphs using the NetworkX library.
